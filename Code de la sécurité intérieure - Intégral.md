@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2012-12-23
+Version Consolidée au 2013-06-22
 
 # Partie législative
 
@@ -1356,26 +1356,27 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 
 2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
-3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-8 et L. 132-9 ; 
+3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10 et L. 132-14 ; 
 
 4° Le titre IV.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L122-3 (VD)
-	  - Code de la sécurité intérieure - art. L131-1 (VD)
-	  - Code de la sécurité intérieure - art. L131-6 (VD)
-	  - Code de la sécurité intérieure - art. L132-8 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L122-3
+	  - Code de la sécurité intérieure - art. L131-1
+	  - Code de la sécurité intérieure - art. L132-1
+	  - Code de la sécurité intérieure - art. L132-14
+	  - Code de la sécurité intérieure - art. L132-8
 
 
 ###### Article L156-2
@@ -1409,7 +1410,7 @@ d'urbanisme.
 
 " Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de
 la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours
-excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ; 
+excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. ";
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de police municipale et les gardes champêtres,
 en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont
@@ -1417,11 +1418,11 @@ remplacés par les mots : " en vertu de l'article 11 de la loi n° 83-634 du 13 
 fonctionnaires, ainsi que les agents de police municipale et les gardes champêtres, en vertu des dispositions applicables
 localement " ; 
 
-6° A l'article L. 122-1 : 
+6° A l'article L. 122-1 :
 
 a) Au premier alinéa, les mots : " des dispositions du code général des collectivités territoriales relatives à la prévention
 de la délinquance " sont remplacés par les mots : " des dispositions du code des communes de la Nouvelle-Calédonie relatives
-à la prévention de la délinquance " ; 
+à la prévention de la délinquance " 
 
 b) A la fin du deuxième alinéa, est insérée une phrase ainsi rédigée : " Il en informe le président du gouvernement de la
 Nouvelle-Calédonie en tant que de besoin. " ; 
@@ -1437,8 +1438,7 @@ sollicite, en tant que de besoin, le concours des agents des services fiscaux, d
 affaires économiques, du service de l'inspection du travail et des services chargés de la police de la chasse et de la pêche
 maritime et fluviale ainsi que des agents chargés de la police de l'eau et de ceux qui assurent des responsabilités en
 matière de sécurité sanitaire de la Nouvelle-Calédonie et selon lesquelles ces agents répondent aux demandes formulées par
-les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière.
-" ; 
+les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière. " ;
 
 7° L'article L. 131-1 est ainsi rédigé : 
 
@@ -1449,6 +1449,9 @@ des communes de la Nouvelle-Calédonie. "
 
 " Art. L. 131-6. ― L'exercice des pouvoirs de police dans les communes où le régime de la police d'Etat a été établi est régi
 par les articles L. 132-5 et L. 132-6 du code des communes de la Nouvelle-Calédonie. " 
+
+8° bis A l'article L. 132-1, les mots : " articles L. 742-2 à L. 742-7 ” sont remplacés par les mots : " articles L. 742-2,
+L. 742-3, L. 742-5 et L. 742-6 ” ; 
 
 9° L'article L. 132-4 est ainsi rédigé : 
 
@@ -1462,7 +1465,7 @@ mise en œuvre.
 L. 122-11 du code des communes de la Nouvelle-Calédonie préside un conseil local de sécurité et de prévention de la
 délinquance. " ; 
 
-10° A l'article L. 132-9 : 
+10° A l'article L. 132-9 :
 
 a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante " sont supprimés ; 
@@ -1474,21 +1477,19 @@ remplacés par les mots : " des dispositions applicables localement ".
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1
 	  - Loi n°83-634 du 13 juillet 1983 - art. 11
-	  - Code général des collectivités territoriales
-
-	**Cité par**:
-
-	  - Loi n°99-210 du 19 mars 1999 - art. 1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°99-210 du 19 mars 1999 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 1
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -4983,24 +4984,26 @@ dans le Département de Mayotte ;
 
 2° Les références au département sont remplacées par la référence au Département de Mayotte ; 
 
-3° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ; 
+3°  Au 2° de l'article L. 223-2, les  mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés  ; 
 
-4° A l'article L. 254-1, les mots : " et L. 1121-1, L. 1121-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés
-par les mots : " et L. 442-6 du code du travail applicable à Mayotte ".
+4°  A l'article L. 254-1, les mots : " et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés
+par   les mots : " et L. 442-6 du code du travail applicable à Mayotte ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L1000-1
+	  - Code de la sécurité intérieure - art. L223-2
+	  - Code de la sécurité intérieure - art. L254-1
 
 
 #### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin
@@ -5189,36 +5192,35 @@ l'outre-mer ;
 
 7° A l'article L. 242-9 : 
 
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des télécommunications ou
-des exploitants de réseaux ou fournisseurs de services de télécommunications autorisés " sont remplacés par les mots : " des
-organismes chargés de l'exploitation d'un service public de télécommunications " ; 
+a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
+" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
 
 b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
-respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
+respectives "  sont remplacés par  les mots : " par des agents qualifiés de ces organismes "  ; 
 
-8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
-code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
+8°  A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
+code du travail " sont remplacés par  les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
 applicables localement ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal - art. 226-1
-	  - Code du travail
-	  - Code de la sécurité intérieure - art. L223-2 (VD)
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-	  - Code de la sécurité intérieure - art. L242-9 (VD)
-	  - Code de la sécurité intérieure - art. L254-1 (VD)
-	  - Code de la sécurité intérieure - art. L285-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 226-1
+	  - Code de la sécurité intérieure - art. L223-2
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L242-9
+	  - Code de la sécurité intérieure - art. L254-1
+	  - Code de la sécurité intérieure - art. L285-1
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -5297,9 +5299,9 @@ l'outre-mer ;
 
 8° A l'article L. 242-9 : 
 
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des télécommunications ou
-des exploitants de réseaux ou fournisseurs de services de télécommunications autorisés " sont remplacés par les mots : " des
-organismes chargés de l'exploitation d'un service public de télécommunications " ; 
+a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
+" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
 
 b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
 respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
@@ -5310,20 +5312,25 @@ applicables localement ".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2215-1
-	  - Code pénal - art. 226-1
-	  - Code du travail
-	  - Code de la sécurité intérieure - art. L286-1 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-13 (V)
+	  - Code général des collectivités territoriales - art. L2215-1
+	  - Code pénal - art. 226-1
+	  - Code du travail
+	  - Code de la sécurité intérieure - art. L211-4 (V)
+	  - Code de la sécurité intérieure - art. L223-2 (V)
+	  - Code de la sécurité intérieure - art. L242-1 (V)
+	  - Code de la sécurité intérieure - art. L242-9 (V)
+	  - Code de la sécurité intérieure - art. L286-1
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -5409,9 +5416,9 @@ l'outre-mer ;
 
 9° A l'article L. 242-9 : 
 
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des télécommunications ou
-des exploitants de réseaux ou fournisseurs de services de télécommunications autorisés " sont remplacés par les mots : " des
-organismes chargés de l'exploitation d'un service public de télécommunications " ; 
+a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
+" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
 
 b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
 respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
@@ -5422,19 +5429,23 @@ applicables localement ".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code pénal - art. 226-1
-	  - Code du travail
-	  - Code de la sécurité intérieure - art. L287-1 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 226-1
+	  - Code de la sécurité intérieure - art. L211-2 (V)
+	  - Code de la sécurité intérieure - art. L211-4 (V)
+	  - Code de la sécurité intérieure - art. L223-2 (V)
+	  - Code de la sécurité intérieure - art. L242-1 (V)
+	  - Code de la sécurité intérieure - art. L242-9 (V)
+	  - Code de la sécurité intérieure - art. L287-1
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises
@@ -10752,7 +10763,8 @@ Pour l'application de l'article L. 512-2 à Mayotte, les mots : " à fiscalité 
 
 Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :
 
-1° Les références au représentant de l'Etat sont remplacées par la référence au représentant de l'Etat dans la collectivité ;
+1° Les références au représentant de l'Etat dans le département sont remplacées par la référence au représentant de l'Etat
+dans la collectivité ;
 
 2° Les références au département et à la région sont remplacées par la référence à la collectivité ;
 
@@ -10767,9 +10779,9 @@ président du conseil territorial ;
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
 
 
 #### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon
@@ -10802,15 +10814,15 @@ président du conseil territorial.
 
 ###### Article L545-1
 
-Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1 à L. 513-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont applicables en
-Polynésie française, sous réserve des adaptations suivantes : 
+Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1      à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
+applicables en Polynésie française, sous réserve des adaptations suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ; 
 
-2° Au deuxième alinéa de l'article L. 511-1 et au troisième alinéa de l'article L. 521-1, les mots : " contraventions aux
-dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat " sont remplacés par les mots : "
-contraventions aux dispositions applicables localement en matière de circulation et de sécurité routières " ; 
+2°  Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : "  contraventions aux
+dispositions du code de la route " sont remplacés par les mots : " contraventions aux dispositions applicables localement en
+matière de circulation et de sécurité routières " ; 
 
 3° A l'article L. 511-1, le troisième alinéa est supprimé ; 
 
@@ -10818,9 +10830,9 @@ contraventions aux dispositions applicables localement en matière de circulatio
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
 par arrêté du haut-commissaire de la République en Polynésie française. " ; 
 
-5° A l'article L. 512-1, le cinquième alinéa est supprimé ; 
+5° Abrogé ; 
 
-6° Au troisième alinéa de l'article L. 521-1, après les mots : " aux épreuves de dépistage ", la fin de la seconde phrase est
+6° Au quatrième alinéa de l'article L. 521-1, après les mots : " aux épreuves de dépistage ", la fin de la seconde phrase est
 ainsi rédigée : " de l'imprégnation alcoolique, dans les conditions fixées par la réglementation applicable en Polynésie
 française " ; 
 
@@ -10828,22 +10840,22 @@ française " ;
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la route.
-	  - Code de la sécurité intérieure - art. L511-1 (VD)
-	  - Code de la sécurité intérieure - art. L512-1 (VD)
-	  - Code de la sécurité intérieure - art. L515-1 (VD)
-	  - Code de la sécurité intérieure - art. L521-1 (VD)
-	  - Code de la sécurité intérieure - art. L522-1 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+
+	**Cite**:
+
+	  - Code de la route.
+	  - Code de la sécurité intérieure - art. L511-1
+	  - Code de la sécurité intérieure - art. L512-1
+	  - Code de la sécurité intérieure - art. L515-1
+	  - Code de la sécurité intérieure - art. L521-1
+	  - Code de la sécurité intérieure - art. L522-1
 
 
 ###### Article L545-2
@@ -10875,33 +10887,74 @@ la République en Polynésie française et par le procureur de la République.
 
 ###### Article L546-1
 
-Les agents de la police municipale nommés par le maire doivent être agréés par le procureur de la République.
+Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, L. 512-3, L. 512-4, L. 512-6 à L. 513-1, L.
+514-1 et L. 515-1 sont applicables en Nouvelle-Calédonie, sous réserve des dispositions suivantes : 
+
+1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
+République en Nouvelle-Calédonie ; 
+
+2° L'article L. 511-1 est ainsi modifié : 
+
+a) Au deuxième alinéa, les mots : " contraventions aux dispositions du code de la route ” sont remplacés par les mots : "
+contraventions aux dispositions du code de la route de la Nouvelle-Calédonie ” ; 
+
+b) Le troisième alinéa est supprimé ; 
+
+3° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
+professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
+par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. ” ; 
+
+4° A l'article L. 511-5, le deuxième alinéa est supprimé ; 
+
+5° A l'article L. 512-1, les mots : " de moins de 20 000 habitants formant un ensemble de moins de 50 000 habitants d'un seul
+tenant ” sont supprimés ; 
+
+6° A l'article L. 512-4, les mots : " y compris d'agent mis à disposition de la commune par un établissement public de
+coopération intercommunale dans les conditions prévues au premier alinéa de l'article L. 512-2, ” et les mots : ", le
+président de l'établissement public de coopération intercommunale le cas échéant, ” sont supprimés ; 
+
+7° A l'article L. 512-6, le deuxième alinéa est supprimé.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2013-519 du 20 juin 2013 - art. 4
-
-	**Anciens textes**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L411-4 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-1-1 (M)
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L411-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+	**Modifié par**:
+
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-1
+	  - Code de la sécurité intérieure - art. L512-1
+	  - Code de la sécurité intérieure - art. L512-6
+	  - Code de la sécurité intérieure - art. L514-1 (V)
+	  - Code de la sécurité intérieure - art. L515-1 (V)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L411-2 (V)
+
+
+###### Article L546-1-1
+
+Les agents de la police municipale nommés par le maire doivent être agréés par le procureur de la République.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L546-1 (T)
 
 
 ###### Article L546-2
@@ -15409,6 +15462,9 @@ République en Polynésie française ;
 3° En Polynésie française, la commission régionale d'agrément et de contrôle est dénommée " commission locale d'agrément et
 de contrôle " ; 
 
+3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " l'Office des postes et des
+télécommunications de Polynésie française ” ; 
+
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
@@ -15421,8 +15477,16 @@ remplacés par les mots : " de l'ordonnance n° 2000-372 du 26 avril 2000 relati
 relatives aux contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
 étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
 
-6° A l'article L. 612-20, après les mots : " territoire national ", la fin du 4° est supprimée et l'avant-dernier alinéa est
-supprimé ; 
+6° A l'article L. 612-20 : 
+
+a) Le 4° est ainsi rédigé : 
+
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le
+territoire de la  Polynésie française et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions
+applicables localement ; ” ; 
+
+b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
+par les mots : " applicables localement ” ; 
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
@@ -15438,7 +15502,7 @@ d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces
 personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
 
 " Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "  ; 
 
 10° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -15466,30 +15530,30 @@ locale.
 
 	**Cite**:
 
-	  - Ordonnance n°2000-372 du 26 avril 2000 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000
 	  - Code de procédure civile - art. 493
 	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L1234-9 (V)
-	  - Code du travail - art. L3171-3 (V)
-	  - Code du travail - art. L8113-4 (V)
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-16 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
-	  - Code de la sécurité intérieure - art. L613-10 (V)
-	  - Code de la sécurité intérieure - art. L613-7 (V)
-	  - Code de la sécurité intérieure - art. L614-1 (V)
-	  - Code de la sécurité intérieure - art. L616-1 (V)
-	  - Code de la sécurité intérieure - art. L617-16 (V)
-	  - Code de la sécurité intérieure - art. L634-2 (V)
+	  - Code du travail - art. L1234-9
+	  - Code du travail - art. L3171-3
+	  - Code du travail - art. L8113-4
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-7
+	  - Code de la sécurité intérieure - art. L613-10
+	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L614-1
+	  - Code de la sécurité intérieure - art. L616-1
+	  - Code de la sécurité intérieure - art. L617-16
+	  - Code de la sécurité intérieure - art. L634-2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -15522,15 +15586,23 @@ remplacés par les mots : " de l'ordonnance n° 2002-388 du 20 mars 2002 relativ
 relatives aux contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
 étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
 
-7° A l'article L. 612-20, après les mots : " territoire national ", la fin du 4° est supprimée et l'avant-dernier alinéa est
-supprimé ; 
+7° A l'article L. 612-20 : 
+
+a) Le 4° est ainsi rédigé : 
+
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le
+territoire de la  Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions
+applicables localement ; ” ; 
+
+b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
+par les mots : " applicables localement ” ;
 
 8° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
 applicables localement " ; 
 
 9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement "  ; 
 
 10° L'article L. 614-1 est ainsi rédigé : 
 
@@ -15567,31 +15639,31 @@ locale.
 
 	**Cite**:
 
-	  - Ordonnance n°2002-388 du 20 mars 2002 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002
 	  - Code de procédure civile - art. 493
 	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L1234-9 (V)
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-16 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
-	  - Code de la sécurité intérieure - art. L613-10 (V)
-	  - Code de la sécurité intérieure - art. L614-1 (V)
-	  - Code de la sécurité intérieure - art. L616-1 (V)
-	  - Code de la sécurité intérieure - art. L617-16 (V)
-	  - Code de la sécurité intérieure - art. L634-2 (V)
-	  - Code de la sécurité intérieure - art. L634-3 (V)
+	  - Code du travail - art. L1234-9
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-7
+	  - Code de la sécurité intérieure - art. L613-10
+	  - Code de la sécurité intérieure - art. L614-1
+	  - Code de la sécurité intérieure - art. L616-1
+	  - Code de la sécurité intérieure - art. L617-16
+	  - Code de la sécurité intérieure - art. L634-2
+	  - Code de la sécurité intérieure - art. L634-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -15609,6 +15681,9 @@ Futuna sous réserve des adaptations suivantes :
 3° Dans les îles Wallis et Futuna, la commission régionale d'agrément et de contrôle est dénommée " commission locale
 d'agrément et de contrôle " ; 
 
+3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " le service des postes et des
+télécommunications de Wallis-et-Futuna ” ;
+
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
@@ -15621,8 +15696,16 @@ remplacés par les mots : " de l'ordonnance n° 2000-371 du 26 avril 2000 relati
 relatives au contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
 étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
 
-6° A l'article L. 612-20, après les mots : " territoire national ", la fin du 4° est supprimée et l'avant-dernier alinéa est
-supprimé ; 
+6° A l'article L. 612-20 : 
+
+a) Le 4° est ainsi rédigé : 
+
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité dans les
+îles Wallis et  Futuna et s'il ne dispose pas d'une autorisation de travail prévue par  les dispositions applicables
+localement ; ” ; 
+
+b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
+par les mots : " applicables localement ”. 
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
@@ -15638,7 +15721,7 @@ d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces
 personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
 
 Un arrêté de l'administrateur supérieur des îles Wallis et Futuna précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "  ; 
 
 10° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -15658,34 +15741,34 @@ monnaie locale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural - art. L214-2 (V)
-	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L1234-9 (V)
-	  - Code du travail - art. L3171-3 (V)
-	  - Code du travail - art. L8113-4 (V)
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-16 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
-	  - Code de la sécurité intérieure - art. L613-10 (V)
-	  - Code de la sécurité intérieure - art. L613-7 (V)
-	  - Code de la sécurité intérieure - art. L614-1 (V)
-	  - Code de la sécurité intérieure - art. L616-1 (V)
-	  - Code de la sécurité intérieure - art. L617-16 (V)
-	  - Code de la sécurité intérieure - art. L634-2 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
+
+	**Cite**:
+
+	  - Code rural - art. L214-2
+	  - Code du travail - art. L1221-13
+	  - Code du travail - art. L1234-9
+	  - Code du travail - art. L3171-3
+	  - Code du travail - art. L8113-4
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-7
+	  - Code de la sécurité intérieure - art. L613-10
+	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L614-1
+	  - Code de la sécurité intérieure - art. L616-1
+	  - Code de la sécurité intérieure - art. L617-16
+	  - Code de la sécurité intérieure - art. L634-2
 
 
 ## LIVRE VII : SÉCURITÉ CIVILE
@@ -18241,8 +18324,8 @@ chapitre Ier du titre VII du livre Ier de la sixième partie du même code ;
 6° A l'article L. 723-8, les mots : " code du travail " sont remplacés par les mots : " code du travail applicable à Mayotte
 " ; 
 
-7° A l'article L. 723-13, jusqu'au 31 décembre 2013, les références aux articles L. 1224-37 et L. 1424-37-1 du code général
-des collectivités territoriales sont remplacées par la référence à l'article L. 6161-39 du même code ; 
+7° A l'article L. 723-13, jusqu'au 31 décembre 2013, les références aux articles    L. 1424-37 et L. 1424-37-1 du code
+général des collectivités territoriales sont remplacées par la référence à l'article L. 6161-39 du même code ; 
 
 8° A l'article L. 724-2, jusqu'au 31 décembre 2013 : 
 
@@ -18267,31 +18350,31 @@ du travail est remplacée par les références aux articles L. 122-55 à L. 122-
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1424-37-1 (V)
-	  - Code général des collectivités territoriales - art. L1424-4
-	  - Code général des collectivités territoriales - art. L1424-7
-	  - Code général des collectivités territoriales - art. L6161-39 (VT)
-	  - Code général des collectivités territoriales - art. L6161-40 (VT)
-	  - Code du travail
-	  - Code du travail applicable à Mayotte. - art. L122-55 (V)
-	  - Code de la sécurité intérieure - art. L722-1 (V)
-	  - Code de la sécurité intérieure - art. L723-13 (V)
-	  - Code de la sécurité intérieure - art. L723-8 (V)
-	  - Code de la sécurité intérieure - art. L724-12 (V)
-	  - Code de la sécurité intérieure - art. L724-14 (V)
-	  - Code de la sécurité intérieure - art. L724-2 (V)
-	  - Code de la sécurité intérieure - art. L731-2 (V)
-	  - Code de la sécurité intérieure - art. L742-14 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1424-37-1
+	  - Code général des collectivités territoriales - art. L1424-4
+	  - Code général des collectivités territoriales - art. L1424-7
+	  - Code général des collectivités territoriales - art. L6161-39
+	  - Code général des collectivités territoriales - art. L6161-40
+	  - Code du travail
+	  - Code du travail applicable à Mayotte. - art. L122-55
+	  - Code de la sécurité intérieure - art. L722-1
+	  - Code de la sécurité intérieure - art. L723-13
+	  - Code de la sécurité intérieure - art. L723-8
+	  - Code de la sécurité intérieure - art. L724-12
+	  - Code de la sécurité intérieure - art. L724-14
+	  - Code de la sécurité intérieure - art. L724-2
+	  - Code de la sécurité intérieure - art. L731-2
+	  - Code de la sécurité intérieure - art. L742-14
 
 
 ###### Article L762-3
@@ -18444,34 +18527,34 @@ Sont applicables en Polynésie française les dispositions suivantes :
 Pour l'application du présent livre en Polynésie française : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
-République en Polynésie française ; 
+République en Polynésie française ;
 
-2° La référence au département est remplacée par la référence à la Polynésie française ; 
+2° La référence au département est remplacée par la référence à la Polynésie française ;
 
 3° La référence au représentant de l'Etat dans le département du siège de la zone de défense et de sécurité est remplacée par
-la référence au haut-fonctionnaire de zone de défense et de sécurité ; 
+la référence au haut-fonctionnaire de zone de défense et de sécurité ;
 
 4° La référence au représentant de l'Etat en mer est remplacée par la référence au délégué du Gouvernement pour l'action de
-l'Etat en mer ; 
+l'Etat en mer ;
 
-5° La référence au plan Orsec départemental et au plan Orsec de zone est remplacée par la référence au plan Orsec ; 
+5° La référence au plan Orsec départemental et au plan Orsec de zone est remplacée par la référence au plan Orsec ;
 
 6° A l'article L. 721-2 : 
 
-a) Au premier alinéa, les mots : " et les militaires des unités " sont supprimés ; 
+a) Au premier alinéa, les mots : " et les militaires des unités " sont supprimés ;
 
 b) Au deuxième alinéa, après les mots : " gendarmerie nationale, " sont insérés les mots : " les personnels du service
 militaire adapté, ", les mots : " continuité de la vie nationale " sont remplacés par les mots : " continuité de la vie
-territoriale " et les mots : ", ainsi que les réservistes de la sécurité civile " sont supprimés ; 
+territoriale " et les mots : ", ainsi que les réservistes de la sécurité civile " sont supprimés ;
 
 7° A l'article L. 722-1, la référence au chapitre IV du titre II du livre IV de la première partie du code général des
 collectivités territoriales est remplacée par la référence au chapitre II du titre V du livre VIII de la première partie du
-même code ; 
+même code ;
 
-8° L'article L. 723-3 est ainsi rédigé : 
+8° L'article L. 723-3 est ainsi rédigé :
 
-" Art. L. 723-3.-Les sapeurs-pompiers volontaires relèvent d'un corps communal ou intercommunal de sapeurs-pompiers. Ils ont
-vocation à participer à l'ensemble des missions dévolues aux services d'incendie et de secours. Ils ont l'obligation de
+" Art. L. 723-3. - Les sapeurs-pompiers volontaires relèvent d'un corps communal ou intercommunal de sapeurs-pompiers. Ils
+ont vocation à participer à l'ensemble des missions dévolues aux services d'incendie et de secours. Ils ont l'obligation de
 suivre les formations nécessaires à l'exercice de leurs missions. Les coûts de ces formations font partie des dépenses
 obligatoires des communes ou de leurs groupements au titre des services d'incendie et de secours. Chacun peut devenir sapeur-
 pompier volontaire, sous réserve de satisfaire aux conditions d'aptitude fixées par arrêté du haut-commissaire de la
@@ -18479,7 +18562,7 @@ République en Polynésie française, afin de participer aux missions et actions
 
 " Les règles applicables aux sapeurs-pompiers volontaires sont définies par arrêté du haut-commissaire de la République en
 Polynésie française, sous réserve des compétences dévolues à la Polynésie française notamment en matière de protection
-sociale. " ; 
+sociale. " ;
 
 9° A l'article L. 725-4, les mots : " comité départemental de l'aide médicale urgente " sont remplacés par les mots : "
 comité de l'aide médicale urgente " et les mots : " et le service départemental d'incendie et de secours " et " et de
@@ -18492,21 +18575,28 @@ par la référence à l'article L. 1852-5 du même code ;
 
 12° A l'article L. 731-3 : 
 
-a) Au deuxième alinéa, après les mots : " le maire de la commune " sont insérés les mots : " après avis du haut-commissaire
-de la République en Polynésie française " ; 
+a) Les deuxième et quatrième alinéas sont supprimés ; 
 
-b) Au dernier alinéa, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté pris par le haut-
-commissaire de la République en Polynésie française " ; 
+b) Au troisième alinéa, après les mots : " le maire de la commune ”, la fin de la phrase est ainsi rédigée : " après avis du
+haut-commissaire de la République en Polynésie française. ” ; 
+
+c) Aux cinquième et dernier alinéas, les mots : " ou intercommunal ” sont supprimés ; 
+
+d) Au dernier alinéa, les mots : " décret en Conseil d'Etat ” sont remplacés par les mots : " arrêté pris par le haut-
+commissaire de la République en Polynésie française ” ; 
 
 13° Au second alinéa de l'article L. 732-1, les mots : " par un décret en Conseil d'Etat " sont remplacés par les mots : "
 par un arrêté du haut-commissaire de la République en Polynésie française pris après avis du gouvernement de la Polynésie
-française " et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ; 
+française " et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ;
 
 14° A l'article L. 732-2, les mots : ", ainsi qu'au représentant de l'Etat dans le département du siège de la zone de défense
 et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ; 
 
-15° A l'article L. 732-5, les mots : " Un décret " sont remplacés par les mots : " Un arrêté du haut-commissaire de la
-République en Polynésie française " ; 
+15° L'article L. 732-5 est ainsi rédigé : 
+
+" Art. L. 732-5. - Un arrêté du haut-commissaire de la République en Polynésie française fixe les règles et les normes
+techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes
+d'information des services publics qui concourent aux missions de sécurité civile. ”
 
 16° L'article L. 732-6 est ainsi rédigé : 
 
@@ -18518,24 +18608,21 @@ compris alimentaires et en énergie.
 " Les modalités et les délais d'application du présent article sont fixés par arrêté du haut-commissaire de la République en
 Polynésie française pour chaque catégorie d'établissements concernés. " 
 
-17° A l'article L. 732-7 : 
+17° L'article L. 732-7 est ainsi rédigé : 
 
-a) Il est ajouté un premier alinéa ainsi rédigé : 
+" Art. L. 732-7. - En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la
+population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des
+conditions fixées par un arrêté du haut-commissaire de la République en Polynésie française, les messages d'alerte et
+consignes de sécurité liés à la situation. 
 
-" En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de
-radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du
-haut-commissaire de la République en Polynésie française, les messages d'alerte et consignes de sécurité liés à la situation.
-" ; 
-
-b) Au second alinéa, les mots : " par décret " sont remplacés par les mots : " par un arrêté du haut-commissaire de la
-République en Polynésie française " ; 
+" Les obligations auxquelles sont assujettis les détenteurs de moyens de publication et de diffusion sont fixées dans un code
+d'alerte défini par arrêté du haut-commissaire. " 
 
 18° A l'article L. 741-1, les mots : " dans chaque département, dans chaque zone de défense et de sécurité " sont remplacés
 par les mots : " dans la zone de défense et de sécurité de la Polynésie française " ; 
 
 19° Au premier alinéa de l'article L. 741-2, les mots : " des moyens publics et privés " sont remplacés par les mots : " des
-moyens publics de l'Etat, de la Polynésie française, des communes et de leurs établissements publics et des moyens privés
-" ; 
+moyens publics de l'Etat, de la Polynésie française, des communes et de leurs établissements publics et des moyens privés " ;
 
 20° A l'article L. 741-4, le dernier alinéa est ainsi rédigé : 
 
@@ -18543,11 +18630,11 @@ moyens publics de l'Etat, de la Polynésie française, des communes et de leurs 
 en mer en Polynésie française. " ; 
 
 21° A l'article L. 741-5, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté du haut-commissaire
-de la République en Polynésie française " ; 
+de la République en Polynésie française " ;
 
 22° Au second alinéa de l'article L. 741-6, les mots : " Un décret en Conseil d'Etat " sont remplacés par les mots : " Un
 arrêté du haut-commissaire de la République en Polynésie française pris après avis du gouvernement de la Polynésie française
-" et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ; 
+" et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ;
 
 23° A l'article L. 742-2, après les mots : " relevant de l'Etat, " sont insérés les mots : " de la Polynésie française dans
 les conditions prévues à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
@@ -18555,11 +18642,11 @@ Polynésie française, " et après les mots : " opérations de secours " sont in
 opérationnelle de l'ensemble des moyens de secours et de lutte contre l'incendie " ; 
 
 24° A l'article L. 742-5, les mots : " et en informe le représentant de l'Etat dans le département du siège de la zone de
-défense et de sécurité intéressée " sont supprimés ; 
+défense et de sécurité intéressée " sont supprimés ;
 
 25° L'article L. 742-11 est ainsi rédigé : 
 
-" Art. 742-11. ― Dans le cadre de ses compétences, la commune pourvoit aux dépenses directement imputables aux opérations de
+" Art. 742-11. - Dans le cadre de ses compétences, la commune pourvoit aux dépenses directement imputables aux opérations de
 secours et aux dépenses relatives aux besoins immédiats des populations, y compris en cas de réquisition faite pour son
 propre compte. 
 
@@ -18582,31 +18669,31 @@ cadre du plan Orsec maritime. L'Etat couvre les dépenses relatives à l'interve
 	  - Ordonnance n°2006-173 du 15 février 2006
 	  - Code général des collectivités territoriales - art. L1424-7
 	  - Code de la santé publique - art. L6312-2
-	  - Code de la sécurité intérieure - art. L721-2 (V)
-	  - Code de la sécurité intérieure - art. L722-1 (V)
-	  - Code de la sécurité intérieure - art. L723-3 (V)
-	  - Code de la sécurité intérieure - art. L725-4 (V)
-	  - Code de la sécurité intérieure - art. L725-5 (V)
-	  - Code de la sécurité intérieure - art. L731-2 (V)
-	  - Code de la sécurité intérieure - art. L732-1 (V)
-	  - Code de la sécurité intérieure - art. L732-2 (V)
-	  - Code de la sécurité intérieure - art. L732-5 (V)
-	  - Code de la sécurité intérieure - art. L732-6 (V)
-	  - Code de la sécurité intérieure - art. L732-7 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L741-2 (V)
-	  - Code de la sécurité intérieure - art. L741-4 (V)
-	  - Code de la sécurité intérieure - art. L741-5 (V)
-	  - Code de la sécurité intérieure - art. L742-11 (V)
-	  - Code de la sécurité intérieure - art. L742-2 (V)
+	  - Code de la sécurité intérieure - art. L721-2
+	  - Code de la sécurité intérieure - art. L722-1
+	  - Code de la sécurité intérieure - art. L723-3
+	  - Code de la sécurité intérieure - art. L725-4
+	  - Code de la sécurité intérieure - art. L725-5
+	  - Code de la sécurité intérieure - art. L731-2
+	  - Code de la sécurité intérieure - art. L732-1
+	  - Code de la sécurité intérieure - art. L732-2
+	  - Code de la sécurité intérieure - art. L732-5
+	  - Code de la sécurité intérieure - art. L732-6
+	  - Code de la sécurité intérieure - art. L732-7
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L741-2
+	  - Code de la sécurité intérieure - art. L741-4
+	  - Code de la sécurité intérieure - art. L741-5
+	  - Code de la sécurité intérieure - art. L742-11
+	  - Code de la sécurité intérieure - art. L742-2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 6
 
 
 ###### Article L765-3
@@ -18706,11 +18793,11 @@ d'incendie et de secours " et " et de l'article L. 6312-2 du code de la santé p
 
 9° A l'article L. 725-5, les mots : ", le service départemental d'incendie et de secours " sont supprimés ; 
 
-10° L'article L. 731-2 est ainsi rédigé : 
+10° L'article L. 731-2 est ainsi rédigé :
 
-" Art. L. 731-2.-Un schéma d'analyse et de couverture des risques de la Nouvelle-Calédonie dresse l'inventaire des risques de
-toute nature pour la sécurité des personnes et des biens auxquels doivent faire face les services d'incendie et de secours,
-et détermine les objectifs de couverture de ces risques par ceux-ci. 
+" Art. L. 731-2. - Un schéma d'analyse et de couverture des risques de la Nouvelle-Calédonie dresse l'inventaire des risques
+de toute nature pour la sécurité des personnes et des biens auxquels doivent faire face les services d'incendie et de
+secours, et détermine les objectifs de couverture de ces risques par ceux-ci. 
 
 " Le schéma directeur d'analyse et de couverture des risques est élaboré, sous l'autorité du haut-commissaire de la
 République en Nouvelle-Calédonie, par l'établissement public d'incendie et de secours. 
@@ -18723,11 +18810,15 @@ l'établissement public d'incendie et de secours de la Nouvelle-Calédonie ou du
 
 11° A l'article L. 731-3 : 
 
-a) Au deuxième alinéa, après les mots : " le maire de la commune " sont insérés les mots : " après avis du haut-commissaire
-de la République en Nouvelle-Calédonie " ; 
+a) Les deuxième et quatrième alinéas sont supprimés ; 
 
-b) Au dernier alinéa, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté pris par le haut-
-commissaire de la République en Nouvelle-Calédonie " ; 
+b) Au troisième alinéa, après les mots : " le maire de la commune ", la fin de la phrase est ainsi rédigée : " après avis du
+haut-commissaire de la République en Nouvelle-Calédonie. "; 
+
+c) Aux cinquième et dernier alinéas, les mots : " ou intercommunal " sont supprimés ; 
+
+d) Au dernier alinéa, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté pris par le haut-
+commissaire de la République en Nouvelle-Calédonie ".
 
 12° Au second alinéa de l'article L. 732-1, les mots : " par un décret en Conseil d'Etat " sont remplacés par les mots : "
 par un arrêté du haut-commissaire de la République en Nouvelle-Calédonie pris après avis du gouvernement de la Nouvelle-
@@ -18736,12 +18827,15 @@ Calédonie " et les mots : " Ce décret " sont remplacés par les mots : " Cet a
 13° A l'article L. 732-2, les mots : ", ainsi qu'au représentant de l'Etat dans le département du siège de la zone de défense
 et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ; 
 
-14° A l'article L. 732-5, les mots : " Un décret " sont remplacés par les mots : " Un arrêté du haut-commissaire de la
-République en Nouvelle-Calédonie " ; 
+14° L'article L. 732-5 est ainsi rédigé : 
+
+" Art. L. 732-5. - Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie fixe les règles et les normes
+techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes
+d'information des services publics qui concourent aux missions de sécurité civile. " 
 
 15° L'article L. 732-6 est ainsi rédigé : 
 
-" Art. L. 732-6.-Les établissements de santé et médico-sociaux définis par les autorités compétentes en Nouvelle-Calédonie,
+" Art. L. 732-6. - Les établissements de santé et médico-sociaux définis par les autorités compétentes en Nouvelle-Calédonie,
 pratiquant un hébergement collectif à titre permanent, sont tenus de prendre les mesures appropriées pour garantir la
 sécurité des personnes hébergées. Les dispositions prises doivent notamment permettre une autosuffisance des moyens, y
 compris alimentaires et en énergie. 
@@ -18749,33 +18843,32 @@ compris alimentaires et en énergie.
 " Les modalités et les délais d'application du présent article sont fixés par arrêté du haut-commissaire de la République en
 Nouvelle-Calédonie pour chaque catégorie d'établissements concernés. " ; 
 
-16° A l'article L. 732-7 : 
+16° L'article L. 732-7 est ainsi rédigé : 
 
-a) Il est ajouté un premier alinéa ainsi rédigé : 
+" Art. L. 732-7. - En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la
+population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des
+conditions fixées par un arrêté du haut-commissaire de la République en Nouvelle-Calédonie, les messages d'alerte et
+consignes de sécurité liés à la situation. 
 
-" En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de
-radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du
-haut-commissaire de la République en Nouvelle-Calédonie, les messages d'alerte et consignes de sécurité liés à la situation.
-" ; 
-
-b) Au second alinéa, les mots : " par décret " sont remplacés par les mots : " par un arrêté du haut-commissaire de la
-République en Nouvelle-Calédonie " ; 
+" Les obligations auxquelles sont assujettis les détenteurs de moyens de publication et de diffusion sont fixées dans un code
+d'alerte défini par arrêté du haut-commissaire. "
 
 17° A l'article L. 741-1, les mots : " dans chaque département, dans chaque zone de défense et de sécurité " sont remplacés
 par les mots : " dans la zone de défense et de sécurité de la Nouvelle-Calédonie " ; 
 
 18° Au premier alinéa de l'article L. 741-2, les mots : " des moyens publics et privés " sont remplacés par les mots : " des
-moyens publics de l'Etat, de la Nouvelle-Calédonie, des communes et de leurs établissements publics et des moyens privés " ; 
+moyens publics de l'Etat, de la Nouvelle-Calédonie, des provinces, des communes et de leurs établissements publics et des
+moyens privés " ; 
 
 19° L'article L. 741-3 est ainsi rédigé : 
 
-" Art. L. 741-3. ― Le plan Orsec de la zone de défense et de sécurité de la Nouvelle-Calédonie recense l'ensemble des moyens
+" Art. L. 741-3. - Le plan Orsec de la zone de défense et de sécurité de la Nouvelle-Calédonie recense l'ensemble des moyens
 publics et privés susceptibles d'être mis en œuvre en cas de catastrophe affectant la Nouvelle-Calédonie et les îles Wallis
 et Futuna ou rendant nécessaire la mise en œuvre de moyens dépassant le cadre de l'une ou l'autre de ces collectivités. Il
 fixe les conditions de la coordination des opérations de secours, de l'attribution des moyens et de leur emploi par
 l'autorité compétente pour diriger les secours. " ; 
 
-20° A l'article L. 741-4, le dernier alinéa est ainsi rédigé : 
+20° A l'article L. 741-4 , le dernier alinéa est ainsi rédigé : 
 
 " Le plan Orsec maritime est arrêté par le haut-commissaire de la République, délégué du Gouvernement pour l'action de l'Etat
 en mer en Nouvelle-Calédonie. " ; 
@@ -18787,7 +18880,7 @@ de la République en Nouvelle-Calédonie " ;
 arrêté du haut-commissaire de la République en Nouvelle-Calédonie pris après avis des assemblées de province " et les mots :
 " Ce décret " sont remplacés par les mots : " Cet arrêté " ; 
 
-23° A l'article L. 742-1, les références aux articles L. 2211-1, L. 2212-2 et L. 2212-5 du code général des collectivités
+23° A l'article L. 742-1, les références aux articles L. 2211-1, L. 2212-2 et L. 2215-1 du code général des collectivités
 territoriales sont remplacées par les références aux articles L. 131-2 et L. 131-13 du code des communes de Nouvelle-
 Calédonie ; 
 
@@ -18797,14 +18890,14 @@ moyens de secours et de lutte contre l'incendie " ;
 
 25° L'article L. 742-3 est ainsi rédigé : 
 
-" Art. L. 742-3.-En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les
+" Art. L. 742-3 . - En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les
 capacités de la Nouvelle-Calédonie, le haut-commissaire, en charge de la zone de défense et de sécurité " Nouvelle-Calédonie
 ", mobilise les moyens nécessaires aux secours relevant de l'Etat, de la Nouvelle-Calédonie, des collectivités territoriales
 et des établissements publics. 
 
 " En tant que de besoin, il mobilise ou réquisitionne les moyens privés nécessaires aux secours. Il assure la direction des
 opérations de secours. Il déclenche, s'il y a lieu, le plan Orsec de la zone de défense et de sécurité " Nouvelle-Calédonie
-”. 
+". 
 
 " Il peut déléguer tout ou partie de ces attributions au représentant de l'Etat dans les îles Wallis et Futuna. " ; 
 
@@ -18817,7 +18910,7 @@ les eaux territoriales " ;
 
 28° L'article L. 742-11 est ainsi rédigé : 
 
-" Art. L. 742-11.-Les dépenses directement imputables aux opérations de secours au sens des dispositions de l'article 26 de
+" Art. L. 742-11. - Les dépenses directement imputables aux opérations de secours au sens des dispositions de l'article 26 de
 l'ordonnance n° 2006-172 du 15 février 2006 sont prises en charge par l'établissement public d'incendie et de secours de la
 Nouvelle-Calédonie. 
 
@@ -18842,27 +18935,27 @@ territoriales " sont supprimés.
 	  - Code général des collectivités territoriales - art. L2211-1
 	  - Code général des collectivités territoriales - art. L2215-1
 	  - Code de la santé publique - art. L6312-2
-	  - Code de la sécurité intérieure - art. L721-2 (V)
-	  - Code de la sécurité intérieure - art. L722-1 (V)
-	  - Code de la sécurité intérieure - art. L725-4 (V)
-	  - Code de la sécurité intérieure - art. L731-2 (V)
-	  - Code de la sécurité intérieure - art. L731-3 (V)
-	  - Code de la sécurité intérieure - art. L732-1 (V)
-	  - Code de la sécurité intérieure - art. L732-5 (V)
-	  - Code de la sécurité intérieure - art. L732-6 (V)
-	  - Code de la sécurité intérieure - art. L732-7 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L741-3 (V)
-	  - Code de la sécurité intérieure - art. L741-4 (V)
-	  - Code de la sécurité intérieure - art. L742-3 (V)
+	  - Code de la sécurité intérieure - art. L721-2
+	  - Code de la sécurité intérieure - art. L722-1
+	  - Code de la sécurité intérieure - art. L725-4
+	  - Code de la sécurité intérieure - art. L731-2
+	  - Code de la sécurité intérieure - art. L731-3
+	  - Code de la sécurité intérieure - art. L732-1
+	  - Code de la sécurité intérieure - art. L732-5
+	  - Code de la sécurité intérieure - art. L732-6
+	  - Code de la sécurité intérieure - art. L732-7
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L741-3
+	  - Code de la sécurité intérieure - art. L741-4
+	  - Code de la sécurité intérieure - art. L742-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 6
 
 
 ###### Article L766-3
@@ -18958,24 +19051,25 @@ l'Etat en mer ;
 
 5° La référence au plan Orsec départemental et au plan Orsec de zone est remplacée par la référence au plan Orsec ; 
 
-6° Au premier alinéa de l'article L. 741-2, les mots : " des moyens publics et privés " sont remplacés par les mots : " des
-moyens publics de l'Etat, des îles Wallis et Futuna et de leurs établissements publics et des moyens privés " ; 
+6° Au premier alinéa de l'article L. 741-2, les  mots : " des moyens publics et privés " sont remplacés par les mots : " des
+moyens publics de l'Etat, de la Nouvelle-Calédonie, des îles Wallis et Futuna et de leurs établissements publics et des
+moyens privés  " ; 
 
-7° L'article L. 741-3 est ainsi rédigé : 
+7° L'article L. 741-3  est ainsi rédigé : 
 
 " Art. L. 741-3. ― Le plan Orsec de la zone de défense et de sécurité de la Nouvelle-Calédonie recense l'ensemble des moyens
 publics et privés susceptibles d'être mis en œuvre en cas de catastrophe affectant la Nouvelle-Calédonie et les îles Wallis
 et Futuna ou rendant nécessaire la mise en œuvre de moyens dépassant le cadre de l'une ou l'autre de ces collectivités. Il
 fixe les conditions de la coordination des opérations de secours, de l'attribution des moyens et de leur emploi par
-l'autorité compétente pour diriger les secours. " ; 
+l'autorité compétente pour diriger les secours. "   ; 
 
-8° L'article L. 742-1 est ainsi rédigé : 
+8° L'  article L. 742-1 est ainsi rédigé : 
 
 " Art. L. 742-1.-La direction des opérations de secours relève de l'autorité de police compétente en application des
 dispositions de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer,
-notamment son article 8. " ; 
+notamment son article 8, sauf application des articles L. 742-3, L. 742-5 et L. 742-6. " ; 
 
-9° L'article L. 742-3 est ainsi rédigé : 
+9° L'  article L. 742-3 est ainsi rédigé : 
 
 " Art. L. 742-3.-En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les
 capacités de la Nouvelle-Calédonie, le haut-commissaire, en charge de la zone de défense et de sécurité " Nouvelle-Calédonie
@@ -18997,23 +19091,20 @@ territoriales " sont supprimés.
 
 	  - Loi n°61-814 du 29 juillet 1961
 	  - Code général des collectivités territoriales - art. L2215-1
-	  - Code de la sécurité intérieure - art. L741-2 (V)
-	  - Code de la sécurité intérieure - art. L741-3 (V)
-	  - Code de la sécurité intérieure - art. L742-1 (V)
-	  - Code de la sécurité intérieure - art. L742-12 (V)
-	  - Code de la sécurité intérieure - art. L742-3 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 5 novembre 2013 - art. 8 (V)
+	  - Code de la sécurité intérieure - art. L741-2
+	  - Code de la sécurité intérieure - art. L742-12
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 2013 - art. 8 (V)
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises
