@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2013-09-06
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -139,7 +139,7 @@ les médecins civils de la brigade de sapeurs-pompiers de Paris et du bataillon 
 agents de police municipale et les gardes champêtres, en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant
 droits et obligations des fonctionnaires, et les militaires de la gendarmerie nationale, de la brigade de sapeurs-pompiers de
 Paris, du bataillon des marins-pompiers de Marseille et des unités d'instruction et d'intervention de la sécurité civile, en
-vertu de l'article L. 4123-9 du code de la défense, couvre les préjudices qu'ils subissent à l'occasion ou du fait de leurs
+vertu de l'article L. 4123-10 du code de la défense, couvre les préjudices qu'ils subissent à l'occasion ou du fait de leurs
 fonctions. 
 
 La protection prévue à l'alinéa précédent bénéficie également aux agents des services de l'Etat chargés de l'application de
@@ -161,12 +161,15 @@ postérieurement au décès mais du fait des fonctions qu'exerçait l'agent déc
 	**Cite**:
 
 	  - Loi n°83-634 du 13 juillet 1983 - art. 11
-	  - Code de la défense. - art. L4123-9
-	  - Code de la sécurité intérieure - art. L531-1 (VD)
+	  - Code de la sécurité intérieure - art. L531-1
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 112 I, sauf ecqc les membres du corps préfectoral et du cadre national des préfectures, les agents des services de l'administration pénitentiaire et les agents des douanes (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 35
 
 	**Cité par**:
 
@@ -174,14 +177,6 @@ postérieurement au décès mais du fait des fonctions qu'exerçait l'agent déc
 	  - Code de la sécurité intérieure - art. L156-2 (VD)
 	  - Code de la sécurité intérieure - art. R113-1 (VD)
 	  - Code de la sécurité intérieure - art. R515-17 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre IV : Enquêtes administratives
@@ -2848,29 +2843,30 @@ Les traitements mentionnés au premier alinéa sont soumis aux dispositions de l
 ###### Article L232-2
 
 Les traitements mentionnés à l'article L. 232-1 peuvent également être mis en œuvre dans les mêmes conditions aux fins de
-prévenir et de réprimer des actes de terrorisme. L'accès à ceux-ci est alors limité aux agents individuellement désignés et
-dûment habilités : 
+prévenir et de réprimer des actes de terrorisme ainsi que des atteintes aux intérêts fondamentaux de la Nation. L'accès à
+ceux-ci est alors limité aux agents individuellement désignés et dûment habilités : 
 
 1° Des services de police et de gendarmerie nationales spécialement chargés de ces missions ; 
 
 2° Des services de police et de gendarmerie nationales ainsi que des douanes, chargés de la sûreté des transports
 internationaux ; 
 
-3° Des services de renseignement du ministère de la défense aux seules fins de la prévention des actes de terrorisme.
+3° Des services de renseignement du ministère de la défense aux seules fins de la prévention des actes et atteintes
+mentionnés au premier alinéa.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L232-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 16
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L232-1
 
 
 ###### Article L232-3
@@ -2993,6 +2989,71 @@ l'informatique, aux fichiers et aux libertés.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L232-7
+
+I. ― Pour les besoins de la prévention et de la constatation des actes de terrorisme, des infractions mentionnées à l'article
+695-23 du code de procédure pénale et des atteintes aux intérêts fondamentaux de la Nation, du rassemblement des preuves de
+ces infractions et de ces atteintes ainsi que de la recherche de leurs auteurs, le ministre de l'intérieur, le ministre de la
+défense, le ministre chargé des transports et le ministre chargé des douanes sont autorisés à mettre en œuvre un traitement
+automatisé de données. 
+
+Sont exclues de ce traitement automatisé de données les données à caractère personnel susceptibles de révéler l'origine
+raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance
+à un syndicat, ou les données qui concernent la santé ou la vie sexuelle de l'intéressé. 
+
+II. ― Pour la mise en œuvre du traitement mentionné au I, les transporteurs aériens recueillent et transmettent les données
+d'enregistrement relatives aux passagers des vols à destination et en provenance du territoire national, à l'exception des
+vols reliant deux points de la France métropolitaine. Les données concernées sont celles mentionnées au premier alinéa de
+l'article L. 232-4 du présent code. 
+
+Les transporteurs aériens sont également tenus de communiquer les données relatives aux passagers enregistrées dans leurs
+systèmes de réservation. 
+
+III. ― Les transporteurs aériens mentionnés au II informent les personnes concernées par le traitement mentionné au I. 
+
+IV. ― Les données mentionnées au II ne peuvent être conservées que pour une durée maximale de cinq ans. 
+
+V. ― En cas de méconnaissance des obligations fixées au présent article par une entreprise de transport aérien, l'amende et
+la procédure prévues à l'article L. 232-5 sont applicables. 
+
+VI. ― Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la
+Commission nationale de l'informatique et des libertés. Ce décret détermine les services autorisés à interroger l'unité de
+gestion chargée de la collecte des données auprès des transporteurs aériens, de leur conservation et de leur analyse, en
+précisant si cette autorisation est délivrée à des fins de prévention ou à des fins de répression.
+
+**Nota:**
+
+Conformément à l'article 17 II de la loi n° 2013-1168 du 18 décembre 2013, l'article L. 232-7 du code de la sécurité
+intérieure est applicable jusqu'au 31 décembre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 17 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1095 du 26 septembre 2014 (V)
+	  - Décret n°2014-1566 du 22 décembre 2014 - art. 1 (V)
+	  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+	  - Décret n°2014-1566 du 22 décembre 2014 - art. 4 (V)
+	  - Code de la sécurité intérieure - art. R232-1-1 (V)
+	  - Code de la sécurité intérieure - art. R232-12 (V)
+	  - Code de la sécurité intérieure - art. R232-14 (V)
+	  - Code de la sécurité intérieure - art. R232-16 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (V)
+	  - Code de la sécurité intérieure - art. R286-1 (V)
+	  - Code de la sécurité intérieure - art. R287-1 (V)
+	  - Code de la sécurité intérieure - art. R288-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 695-23
+	  - Code de la sécurité intérieure - art. L232-4
+	  - Code de la sécurité intérieure - art. L232-5
 
 
 #### Chapitre III : Contrôle automatisé des données  signalétiques des véhicules
@@ -3124,33 +3185,37 @@ les personnes intéressées sont informées de cette consultation.
 
 ###### Article L234-2
 
-La consultation prévue à l'article L. 234-1 est faite par des agents de la police et de la gendarmerie nationales
-spécialement habilités à cet effet. Dans des conditions déterminées par décret en Conseil d'Etat, elle peut également être
-effectuée par des personnels investis de missions de police administrative désignés selon les mêmes procédures.
+La consultation prévue à l'article L. 234-1 est faite par des agents individuellement désignés et spécialement habilités : 
+
+1° De la police et de la gendarmerie nationales ; 
+
+2° Dans des conditions fixées par le décret en Conseil d'Etat mentionné à l'article L. 234-1, des services spécialisés de
+renseignement mentionnés au I de l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement
+des assemblées parlementaires. 
+
+Dans des conditions déterminées par décret en Conseil d'Etat, elle peut également être effectuée par des personnels investis
+de missions de police administrative désignés selon les mêmes procédures.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1, al. 4  (V)
-
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L234-1 (VD)
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
+	  - Code de la sécurité intérieure - art. L234-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 18
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R114-2 (V)
 	  - Code de la sécurité intérieure - art. R114-6 (V)
 	  - Code de la sécurité intérieure - art. R234-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L234-3
@@ -3160,14 +3225,20 @@ peut également être effectuée, y compris pour des données portant sur des pr
 missions ou d'interventions lorsque la nature de celles-ci ou les circonstances particulières dans lesquelles elles doivent
 se dérouler comportent des risques d'atteinte à l'ordre public ou à la sécurité des personnes et des biens, ainsi qu'au titre
 des mesures de protection ou de défense prises dans les secteurs de sécurité des installations prioritaires de défense
-mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des agents de la police et de la
-gendarmerie nationales spécialement habilités à cet effet.
+mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des agents individuellement
+désignés et spécialement habilités de la police et de la gendarmerie nationales ainsi que, dans la limite de leurs
+attributions et dans des conditions fixées par décret en Conseil d'Etat, des services de renseignement désignés par le
+ministre de la défense, aux fins de protection de la sécurité de leurs personnels.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1, al. 5 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 19
 
 	**Cite**:
 
@@ -3177,14 +3248,6 @@ gendarmerie nationales spécialement habilités à cet effet.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R40-29 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre V : Coopération internationale en matière d'accès  aux traitements automatisés de données personnelles
@@ -3240,7 +3303,30 @@ Le secret des correspondances émises par la voie des communications électroniq
 Il ne peut être porté atteinte à ce secret que par l'autorité publique, dans les seuls cas de nécessité d'intérêt public
 prévus par la loi et dans les limites fixées par celle-ci.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cité par**:
 
@@ -3258,14 +3344,6 @@ prévus par la loi et dans les limites fixées par celle-ci.
 	  - Code de la sécurité intérieure - art. R241-1 (V)
 	  - Code de la sécurité intérieure - art. R241-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L241-2
 
@@ -3275,15 +3353,38 @@ intéressant la sécurité nationale, la sauvegarde des éléments essentiels du
 France, ou la prévention du terrorisme, de la criminalité et de la délinquance organisées et de la reconstitution ou du
 maintien de groupements dissous en application de l'article L. 212-1.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L212-1 (VD)
+	  - Code de la sécurité intérieure - art. L212-1
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
+	  - Code de la sécurité intérieure - art. L242-1 (Ab)
 	  - Code de la sécurité intérieure - art. L242-3 (Ab)
 	  - Code de la sécurité intérieure - art. L242-5 (Ab)
 	  - Code de la sécurité intérieure - art. L242-7 (Ab)
@@ -3294,14 +3395,6 @@ maintien de groupements dissous en application de l'article L. 212-1.
 	  - Code de la sécurité intérieure - art. R246-4 (Ab)
 	  - Code de la sécurité intérieure - art. R246-7 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L241-3
 
@@ -3311,17 +3404,22 @@ celles de la sous-section 2 de la section 3 du chapitre Ier du titre III du livr
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L244-2 (T)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L244-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L811-5 (VT)
 
 
 ###### Article L241-4
@@ -3333,18 +3431,24 @@ communications électroniques dans l'exercice des prérogatives qui leur sont d�
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et des communications électroni... - art. L32 (V)
-	  - Code de procédure pénale - art. 100
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+	  - Code des postes et des communications électroniques - art. L32-3
+	  - Code de procédure pénale - art. 100
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L871-5 (V)
 
 
 #### Chapitre II : Conditions des interceptions
@@ -3358,14 +3462,37 @@ spécialement déléguées.
 
 Le Premier ministre organise la centralisation de l'exécution des interceptions autorisées.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L241-2 (Ab)
 	  - Code de la sécurité intérieure - art. L242-2 (Ab)
 	  - Code de la sécurité intérieure - art. L243-8 (Ab)
-	  - Code de la sécurité intérieure - art. L244-1 (VD)
+	  - Code de la sécurité intérieure - art. L244-1 (T)
 	  - Code de la sécurité intérieure - art. L285-1 (V)
 	  - Code de la sécurité intérieure - art. L285-2 (V)
 	  - Code de la sécurité intérieure - art. L286-1 (M)
@@ -3374,14 +3501,6 @@ Le Premier ministre organise la centralisation de l'exécution des interceptions
 	  - Code de la sécurité intérieure - art. L287-2 (V)
 	  - Code de la sécurité intérieure - art. R242-2 (Ab)
 	  - Code de la sécurité intérieure - art. R244-1 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L242-2
@@ -3392,23 +3511,38 @@ arrêté par le Premier ministre.
 La décision fixant ce contingent et sa répartition entre les ministères mentionnés à l'article L. 242-1 est portée sans délai
 à la connaissance de la Commission nationale de contrôle des interceptions de sécurité.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L242-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L243-8 (Ab)
 
 
 ###### Article L242-3
@@ -3416,19 +3550,34 @@ La décision fixant ce contingent et sa répartition entre les ministères menti
 L'autorisation mentionnée à l'article L. 241-2 est donnée pour une durée maximum de quatre mois. Elle cesse de plein droit de
 produire effet à l'expiration de ce délai. Elle ne peut être renouvelée que dans les mêmes conditions de forme et de durée.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
 
 
 ###### Article L242-4
@@ -3436,19 +3585,32 @@ produire effet à l'expiration de ce délai. Elle ne peut être renouvelée que 
 Il est établi, sous l'autorité du Premier ministre, un relevé de chacune des opérations d'interception et d'enregistrement.
 Ce relevé mentionne la date et l'heure auxquelles elle a commencé et celles auxquelles elle s'est terminée.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R242-2 (Ab)
 
 
 ###### Article L242-5
@@ -3458,19 +3620,34 @@ Dans les correspondances interceptées, seuls les renseignements en relation ave
 
 Cette transcription est effectuée par les personnels habilités.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
 
 
 ###### Article L242-6
@@ -3480,19 +3657,34 @@ compter de la date à laquelle il a été effectué.
 
 Il est dressé procès-verbal de cette opération.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R242-2 (Ab)
 
 
 ###### Article L242-7
@@ -3504,19 +3696,34 @@ Il est dressé procès-verbal de l'opération de destruction.
 
 Les opérations mentionnées aux alinéas précédents sont effectuées sous l'autorité du Premier ministre.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
 
 
 ###### Article L242-8
@@ -3524,20 +3731,33 @@ Les opérations mentionnées aux alinéas précédents sont effectuées sous l'a
 Sans préjudice de l'application du deuxième alinéa de l'article 40 du code de procédure pénale, les renseignements recueillis
 ne peuvent servir à d'autres fins que celles mentionnées à l'article L. 241-2.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 40
-	  - Code de la sécurité intérieure - art. L241-2 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+	  - Code de la sécurité intérieure - art. L241-2
 
 
 ###### Article L242-9
@@ -3550,6 +3770,15 @@ services, organismes, exploitants ou fournisseurs dans leurs installations respe
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
+
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L285-2 (V)
@@ -3559,14 +3788,16 @@ services, organismes, exploitants ou fournisseurs dans leurs installations respe
 	  - Code de la sécurité intérieure - art. R242-5 (Ab)
 	  - Code de la sécurité intérieure - art. R242-6 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L871-6 (V)
 
-	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+#### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
 
+##### Section 1 : Composition et fonctionnement
+
+##### Section 2 : Missions
 
 #### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
 
@@ -3577,25 +3808,36 @@ services, organismes, exploitants ou fournisseurs dans leurs installations respe
 La Commission nationale de contrôle des interceptions de sécurité est une autorité administrative indépendante chargée de
 veiller au respect des dispositions du présent titre.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°91-646 du 10 juillet 1991 - art. 13, al. 1 trois premières phrases (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L285-1 (V)
 	  - Code de la sécurité intérieure - art. L286-1 (M)
 	  - Code de la sécurité intérieure - art. L287-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L243-2
@@ -3609,19 +3851,30 @@ sénateur désigné après chaque renouvellement partiel du Sénat par le prési
 
 La qualité de membre de la commission est incompatible avec celle de membre du Gouvernement.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 13, al. 1 quatrième phrase, al. 2 à 5 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L243-3
@@ -3635,19 +3888,30 @@ Les membres de la commission désignés en remplacement de ceux dont les fonctio
 achèvent le mandat de ceux qu'ils remplacent. A l'expiration de ce mandat, par dérogation au précédent alinéa, ils peuvent
 être nommés comme membre de la commission s'ils ont occupé ces fonctions de remplacement pendant moins de deux ans.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 13, al. 6, 7 et 10 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L243-4
@@ -3655,23 +3919,34 @@ achèvent le mandat de ceux qu'ils remplacent. A l'expiration de ce mandat, par 
 Les membres de la commission sont astreints au respect des secrets protégés par les articles 413-10, 226-13 et 226-14 du code
 pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 13, al. 11 (VT)
-
-	**Cite**:
-
-	  - Code pénal - art. 413-10
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code pénal - art. 413-10
 
 
 ###### Article L243-5
@@ -3682,19 +3957,30 @@ En cas de partage des voix, la voix du président est prépondérante.
 
 Les agents de la commission sont nommés par le président.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 13, al. 8, 9 et 12 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L243-6
@@ -3704,15 +3990,30 @@ finances.
 
 Le président est ordonnateur des dépenses de la commission.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L243-7
@@ -3764,25 +4065,40 @@ l'article L. 242-2.
 
 Le Premier ministre informe sans délai la commission des suites données à ses recommandations.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-	  - Code de la sécurité intérieure - art. L242-2 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-7 (VD)
-	  - Code de la sécurité intérieure - art. L243-9 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L242-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L243-7 (Ab)
+	  - Code de la sécurité intérieure - art. L243-9 (Ab)
 
 
 ###### Article L243-9
@@ -3796,23 +4112,38 @@ adresse au Premier ministre une recommandation tendant à ce que cette intercept
 
 Il est alors procédé ainsi qu'il est indiqué aux quatrième et sixième alinéas de l'article L. 243-8.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-11 (VD)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L243-8 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L243-11 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L243-8
 
 
 ###### Article L243-10
@@ -3820,15 +4151,30 @@ Il est alors procédé ainsi qu'il est indiqué aux quatrième et sixième alin�
 Les ministres, les autorités publiques, les agents publics doivent prendre toutes mesures utiles pour faciliter l'action de
 la commission.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L243-11
@@ -3840,20 +4186,35 @@ Conformément au deuxième alinéa de l'article 40 du code de procédure pénale
 de la République de toute infraction aux dispositions du présent titre dont elle a pu avoir connaissance à l'occasion du
 contrôle effectué en application de l'article L. 243-9.
 
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 40
-	  - Code de la sécurité intérieure - art. L243-9 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+	  - Code de la sécurité intérieure - art. L243-9 (Ab)
 
 
 ###### Article L243-12
@@ -3900,9 +4261,18 @@ conditions dans lesquelles la prise en charge financière de cette mise en œuvr
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
+	  - Code de la sécurité intérieure - art. L242-1 (Ab)
 
 	**Cité par**:
 
@@ -3916,13 +4286,9 @@ conditions dans lesquelles la prise en charge financière de cette mise en œuvr
 	  - Code de la sécurité intérieure - art. R244-5 (T)
 	  - Code de la sécurité intérieure - art. R244-6 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L871-1 (V)
 
 
 ###### Article L244-2
@@ -3939,23 +4305,28 @@ sens de l'article 226-21 du code pénal.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
+
 	**Cite**:
 
 	  - Code pénal - art. 226-21
 	  - Code de procédure pénale
-	  - Code de la sécurité intérieure - art. L241-3 (VD)
+	  - Code de la sécurité intérieure - art. L241-3
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L245-3 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L871-2 (V)
 
 
 ###### Article L244-3
@@ -3973,10 +4344,17 @@ la voie des télécommunications ordonnées par l'autorité judiciaire.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
 
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L871-3 (V)
+
+
+#### Chapitre V : Dispositions pénales
 
 #### Chapitre V : Dispositions pénales
 
@@ -3986,6 +4364,15 @@ Le fait par une personne concourant, dans les cas prévus par la loi, à l'exéc
 de révéler l'existence de l'interception est puni des peines mentionnées aux articles 226-13, 226-14 et 226-31 du code pénal.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 13
 
 	**Cite**:
 
@@ -3998,13 +4385,9 @@ de révéler l'existence de l'interception est puni des peines mentionnées aux 
 	  - Code de la sécurité intérieure - art. L287-1 (V)
 	  - Code de la sécurité intérieure - art. R242-8 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L881-1 (V)
 
 
 ###### Article L245-2
@@ -4014,17 +4397,22 @@ habilitées est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L244-1
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L881-2 (V)
 
 
 ###### Article L245-3
