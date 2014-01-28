@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-29
 
 # Partie législative
 
@@ -700,6 +700,8 @@ définies par des conventions que le maire signe avec l'Etat.
 
 ##### Section 3 : Dispositions particulières à Paris
 
+##### Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris
+
 ###### Article L132-11
 
 Sous réserve des pouvoirs de l'autorité judiciaire et dans le cadre de leurs compétences respectives, le préfet de police et
@@ -748,6 +750,59 @@ par le préfet de Paris et le préfet de police.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L132-12-1
+
+Il est créé un conseil métropolitain de sécurité et de prévention de la délinquance qui coordonne les grandes orientations en
+matière de prévention de la délinquance sur le territoire de la métropole du Grand Paris. Le conseil métropolitain de
+sécurité et de prévention de la délinquance peut constituer en son sein un ou plusieurs groupes de travail et d'échange
+d'informations à vocation territoriale ou thématique. Les modalités d'application du présent alinéa sont fixées par décret. 
+
+Les modalités de fonctionnement du conseil métropolitain de sécurité et de prévention de la délinquance sont déterminées par
+le règlement intérieur établi par le conseil de la métropole.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (M)
+
+
+###### Article L132-12-2
+
+Après avis du conseil métropolitain de sécurité et de prévention de la délinquance, le préfet de police et le préfet de la
+région d'Ile-de-France, préfet de Paris, arrêtent conjointement le plan de prévention de la délinquance de la métropole. Les
+actions de prévention de la délinquance conduites par la métropole du Grand Paris et les plans de prévention de la
+délinquance arrêtés par le représentant de l'Etat dans le département, en application de l'article L. 132-6, ne doivent pas
+être incompatibles avec le plan mentionné au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+
+###### Article L132-12-3
+
+Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire, le
+préfet de police informe régulièrement le président de la métropole du Grand Paris des résultats obtenus en matière de lutte
+contre l'insécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
 
 
 ##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
