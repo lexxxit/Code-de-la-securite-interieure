@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-01-29
+Version Consolidée au 2014-02-19
 
 # Partie législative
 
@@ -697,8 +697,6 @@ définies par des conventions que le maire signe avec l'Etat.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-##### Section 3 : Dispositions particulières à Paris
 
 ##### Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris
 
@@ -22282,10 +22280,11 @@ régions et départements.
 
 ###### Article D122-56
 
-Le comité départemental de sécurité, placé auprès du préfet de département, et, à Paris, auprès du préfet de police, concourt
-à la mise en œuvre, dans le département, de la politique publique en matière de sécurité intérieure. Il est régi par les
-dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la simplification
-de la composition de diverses commissions administratives. 
+Le comité départemental de sécurité, placé auprès du préfet de département, à Paris auprès du préfet de police et, dans le
+département des Bouches-du-Rhône, auprès du préfet de police des Bouches-du-Rhône, concourt à la mise en œuvre, dans le
+département, de la politique publique en matière de sécurité intérieure. Il est régi par les dispositions des articles 8 et 9
+du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la simplification de la composition de diverses
+commissions administratives. 
 
 Il a notamment pour attributions : 
 
@@ -22303,28 +22302,27 @@ mentionné à l'article D. 132-5.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 10, 1° (V)
-
 	**Cite**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 8 (V)
-	  - Code de la sécurité intérieure - art. D132-5 (VD)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 8
+	  - Code de la sécurité intérieure - art. D132-5
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
 ###### Article D122-57
 
-Le comité départemental de sécurité est présidé conjointement par le préfet de département, à Paris par le préfet de police,
-et par le procureur de la République près le tribunal de grande instance.
+Le comité départemental de sécurité est présidé conjointement par le préfet de département et par le procureur de la
+République près le tribunal de grande instance.
+
+Le préfet de département est remplacé, à Paris, par le préfet de police et, dans le département des Bouches-du-Rhône, par le
+préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
 
@@ -22332,9 +22330,9 @@ et par le procureur de la République près le tribunal de grande instance.
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
 ###### Article D122-58
@@ -24052,6 +24050,20 @@ Il est transmis au maire de Paris.
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. D132-14 (VD)
+
+
+##### Section 7 : Dispositions particulières au département des Bouches-du-Rhône
+
+###### Article D132-16
+
+Les  missions exercées par le préfet au titre des sections 2, 3, 4 et 5 du  présent chapitre sont exercées, dans le
+département des  Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
 ### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE
@@ -26855,21 +26867,19 @@ Il est donné récépissé de cet engagement par le préfet du département où 
 
 A Paris, les compétences dévolues au préfet de département par la présente section sont exercées par le préfet de police.
 
-La déclaration exigée de l'organisateur du rassemblement doit être faite auprès de cette autorité.
+Dans le département des Bouches-du-Rhône, ces compétences sont exercées par le préfet de police des Bouches-du-Rhône.
+
+La déclaration exigée de l'organisateur du rassemblement doit être faite auprès de ces autorités.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-887 du 3 mai 2002 - art. 8 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
 ##### Section 3 : Attroupements
@@ -34116,7 +34126,8 @@ Nul ne peut être recruté :
 ###### Article R411-9
 
 Les adjoints de sécurité sont recrutés par contrat écrit, pour une durée de trois ans renouvelable une fois par reconduction
-expresse, conclu, au nom de l'Etat, par le préfet de département, et, à Paris, par le préfet de police.
+expresse, conclu, au nom de l'Etat, par le préfet de département, et, à Paris, par le préfet de police, et, dans le
+département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 Le contrat prévoit une période d'essai de trois mois. Elle peut être prolongée d'un mois. Au cours de cette période, l'Etat
 peut mettre fin au contrat sans indemnité ni préavis, et les adjoints de sécurité peuvent mettre fin à leurs fonctions sans
@@ -34124,9 +34135,9 @@ préavis.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-800 du 24 août 2000 - art. 5 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -34142,13 +34153,9 @@ préavis.
 	  - Code de la sécurité intérieure - art. R446-2 (VD)
 	  - Code de la sécurité intérieure - art. R447-2 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
 ##### Sous-section 4 : Formation et validation de l'expérience professionnelle
