@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-03-08
+Version Consolidée au 2014-03-13
 
 # Partie législative
 
@@ -3116,13 +3116,13 @@ intérieure est applicable jusqu'au 31 décembre 2017.
 Afin de prévenir et de réprimer le terrorisme, de faciliter la constatation des infractions s'y rattachant, de faciliter la
 constatation des infractions criminelles ou liées à la criminalité organisée au sens de l'article 706-73 du code de procédure
 pénale, des infractions de vol et de recel de véhicules volés, des infractions de contrebande, d'importation ou d'exportation
-commises en bande organisée, prévues et réprimées par le deuxième alinéa de l'article 414 du code des douanes, ainsi que la
+commises en bande organisée, prévues et réprimées par le dernier alinéa de l'article 414 du code des douanes, ainsi que la
 constatation, lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, de la réalisation ou de la tentative de
 réalisation des opérations financières définies à l'article 415 du même code et afin de permettre le rassemblement des
 preuves de ces infractions et la recherche de leurs auteurs, les services de police et de gendarmerie nationales et des
 douanes peuvent mettre en œuvre des dispositifs fixes ou mobiles de contrôle automatisé des données signalétiques des
 véhicules prenant la photographie de leurs occupants, en tous points appropriés du territoire, en particulier dans les zones
-frontalières, portuaires ou aéroportuaires ainsi que sur les grands axes de transit national ou international.
+frontalières, portuaires ou aéroportuaires ainsi que sur les grands axes de transit national ou international. 
 
 L'emploi de tels dispositifs est également possible par les services de police et de gendarmerie nationales, à titre
 temporaire, pour la préservation de l'ordre public, à l'occasion d'événements particuliers ou de grands rassemblements de
@@ -3130,26 +3130,23 @@ personnes, par décision de l'autorité administrative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 26, al. 1 et 2 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 14
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 706-73
 	  - Code des douanes - art. 414
+	  - Code des douanes - art. 415
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L233-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L233-2
@@ -4521,28 +4518,28 @@ qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique
 ###### Article L251-2
 
 La transmission et l'enregistrement d'images prises sur la voie publique par le moyen de la vidéoprotection peuvent être mis
-en œuvre par les autorités publiques compétentes aux fins d'assurer :
+en œuvre par les autorités publiques compétentes aux fins d'assurer : 
 
-1° La protection des bâtiments et installations publics et de leurs abords ;
+1° La protection des bâtiments et installations publics et de leurs abords ; 
 
-2° La sauvegarde des installations utiles à la défense nationale ;
+2° La sauvegarde des installations utiles à la défense nationale ; 
 
-3° La régulation des flux de transport ;
+3° La régulation des flux de transport ; 
 
-4° La constatation des infractions aux règles de la circulation ;
+4° La constatation des infractions aux règles de la circulation ; 
 
 5° La prévention des atteintes à la sécurité des personnes et des biens dans des lieux particulièrement exposés à des risques
 d'agression, de vol ou de trafic de stupéfiants ainsi que la prévention, dans des zones particulièrement exposées à ces
-infractions, des fraudes douanières prévues par le second alinéa de l'article 414 du code des douanes et des délits prévus à
-l'article 415 du même code portant sur des fonds provenant de ces mêmes infractions ;
+infractions, des fraudes douanières prévues par le dernier alinéa de l'article 414 du code des douanes et des délits prévus à
+l'article 415 du même code portant sur des fonds provenant de ces mêmes infractions ; 
 
-6° La prévention d'actes de terrorisme, dans les conditions prévues au chapitre III du titre II du présent livre ;
+6° La prévention d'actes de terrorisme, dans les conditions prévues au chapitre III du titre II du présent livre ; 
 
-7° La prévention des risques naturels ou technologiques ;
+7° La prévention des risques naturels ou technologiques ; 
 
-8° Le secours aux personnes et la défense contre l'incendie ;
+8° Le secours aux personnes et la défense contre l'incendie ; 
 
-9° La sécurité des installations accueillant du public dans les parcs d'attraction.
+9° La sécurité des installations accueillant du public dans les parcs d'attraction. 
 
 Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la
 sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques
@@ -4550,9 +4547,9 @@ d'agression ou de vol.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10 II, al. 1 à 12 sauf ecqc les actes de terrorisme (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -4566,17 +4563,14 @@ d'agression ou de vol.
 	  - Code de la sécurité intérieure - art. R252-3-1 (V)
 	  - Code général des collectivités territoriales - art. L3642-4 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 14
+
 	**Cite**:
 
 	  - Code des douanes - art. 414
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code des douanes - art. 415
 
 
 ###### Article L251-3
