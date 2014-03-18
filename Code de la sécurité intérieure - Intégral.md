@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-03-13
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -8331,15 +8331,16 @@ Les loteries de toute espèce sont prohibées.
 ###### Article L322-2
 
 Sont réputées loteries et interdites comme telles : les ventes d'immeubles, de meubles ou de marchandises effectuées par la
-voie du sort, ou auxquelles ont été réunies des primes ou autres bénéfices dus, même partiellement, au hasard et généralement
-toutes opérations offertes au public, sous quelque dénomination que ce soit, pour faire naître l'espérance d'un gain qui
-serait acquis par la voie du sort.
+voie du sort, ou auxquelles ont été réunies des primes ou autres bénéfices dus, même partiellement, au hasard et, d'une
+manière générale, toutes opérations offertes au public, sous quelque dénomination que ce soit, pour faire naître l'espérance
+d'un gain qui serait dû, même partiellement, au hasard et pour lesquelles un sacrifice financier est exigé par l'opérateur de
+la part des participants.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi du 21 mai 1836 - art. 2 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -8347,13 +8348,48 @@ serait acquis par la voie du sort.
 	  - Loi n°2010-476 du 12 mai 2010 - art. 2 (V)
 	  - Décret n°2016-1466 du 28 octobre 2016 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+
+###### Article L322-2-1
+
+Cette interdiction recouvre les jeux dont le fonctionnement repose sur le savoir-faire du joueur.
+
+Le sacrifice financier est établi dans les cas où l'organisateur exige une avance financière de la part des participants,
+même si un remboursement ultérieur est rendu possible par le règlement du jeu.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 (V)
+	  - Code de la sécurité intérieure - art. L322-7 (V)
+	  - Code de la sécurité intérieure - art. L344-1 (V)
+
+
+###### Article L322-2-2
+
+Cette interdiction ne recouvre pas les opérations publicitaires mentionnées à l'article L. 121-36 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-36
 
 
 ###### Article L322-3
@@ -8475,6 +8511,39 @@ l'utilisation au public sont précisés par voie réglementaire.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L322-7
+
+Le second alinéa de l'article L. 322-2-1 ne s'applique ni aux frais d'affranchissement, ni aux frais de communication ou de
+connexion, surtaxés ou non, engagés pour la participation aux jeux et concours organisés dans le cadre des programmes
+télévisés et radiodiffusés ainsi que dans les publications de presse définies à l'article 1er de la loi n° 86-897 du 1er août
+1986 portant réforme du régime juridique de la presse, dès lors que la possibilité pour les participants d'obtenir le
+remboursement des frais engagés est prévue par le règlement du jeu et que les participants en sont préalablement informés.
+Ces jeux et concours ne peuvent constituer qu'un complément auxdits programmes et publications. Les jeux et concours en lien
+avec des programmes télévisés et radiodiffusés sont organisés dans des conditions définies par le Conseil supérieur de
+l'audiovisuel. 
+
+Les modalités d'organisation des jeux et concours dans le cadre des publications de presse définies à l'article 1er de la loi
+n° 86-897 du 1er août 1986 précitée sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-897 du 1er août 1986 - art. 1
+	  - Code de la sécurité intérieure - art. L322-2-1
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 (V)
+	  - Code de la sécurité intérieure - art. D322-5 (V)
+	  - Code de la sécurité intérieure - art. L344-1 (V)
+	  - Code de la sécurité intérieure - art. L346-1 (M)
 
 
 #### Chapitre III : Dispositions communes
@@ -8749,39 +8818,35 @@ de l'intérieur ;
 
 ###### Article L324-6
 
-La violation des interdictions prévues aux articles L. 322-1 et L. 322-2 est punie de trois ans d'emprisonnement et de 90 000
-euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et à 200 000 euros d'amende lorsque l'infraction est
-commise en bande organisée. 
+La violation des interdictions prévues aux           articles L. 322-1, L. 322-2 et L. 322-2-1 est punie de trois ans
+d'emprisonnement et de 90 000 euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et à 200 000 euros d'amende
+lorsque l'infraction est commise en bande organisée. 
 
 La confiscation des appareils de jeux ou de loterie est obligatoire ; leur destruction peut être ordonnée par le tribunal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi du 21 mai 1836 - art. 3 I (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
+	  - Code de la sécurité intérieure - art. L322-1
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L324-9 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L324-7
 
-Les personnes physiques coupables de la violation des interdictions prévues aux articles L. 322-1 et L. 322-2 encourent
-également les peines complémentaires suivantes : 
+Les personnes physiques coupables de la violation des interdictions prévues aux           articles L. 322-1, L. 322-2 et L.
+322-2-1 encourent également les peines complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille dans les conditions prévues à l'article 131-26 du code pénal ; 
 
@@ -8806,31 +8871,27 @@ ou industrielle ou une société commerciale. Ces interdictions d'exercice peuve
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi du 21 mai 1836 - art. 3 II (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26
 	  - Code pénal - art. 131-27
 	  - Code pénal - art. 131-35
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L322-1
 
 
 ###### Article L324-8
 
 Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de la
-violation des interdictions prévues aux articles L. 322-1 et L. 322-2 encourent, outre l'amende suivant les modalités prévues
-par l'article 131-38 du code pénal : 
+violation des interdictions prévues aux           articles L. 322-1, L. 322-2 et L. 322-2-1 encourent, outre l'amende suivant
+les modalités prévues par l'article 131-38 du code pénal : 
 
 1° Les peines mentionnées aux 1°, 4°, 8° et 9° de l'article 131-39 du code pénal ; 
 
@@ -8841,32 +8902,29 @@ personne morale en est titulaire au moment du jugement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 21 mai 1836 - art. 3 III (VT)
-
 	**Cite**:
 
 	  - Loi n°2010-476 du 12 mai 2010 - art. 21
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code de la sécurité intérieure - art. L321-1 (VD)
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. L322-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 
 ###### Article L324-9
 
 Les peines prévues à l'article L. 324-6 sont encourues par les auteurs, entrepreneurs ou agents des loteries françaises ou
-étrangères prohibées par les articles L. 322-1 et L. 322-2, ou des opérations qui leur sont assimilées. 
+étrangères prohibées par les           articles L. 322-1, L. 322-2 et L. 322-2-1, ou des opérations qui leur sont
+assimilées. 
 
 Sont punis de 100 000 euros d'amende ceux qui auront colporté ou distribué des billets, ceux qui, par des avis, annonces,
 affiches ou par tout autre moyen de publication, auront fait connaître l'existence des loteries prohibées ou facilité
@@ -8875,47 +8933,39 @@ consacrées à l'opération illégale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 21 mai 1836 - art. 4 (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
-	  - Code de la sécurité intérieure - art. L324-6 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L322-1
+	  - Code de la sécurité intérieure - art. L324-6
 
 
 ###### Article L324-10
 
-Les infractions prévues aux articles L. 322-1 et L. 322-2 peuvent être constatées et poursuivies dans les conditions fixées
-par les articles L. 450-1, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
+Les infractions prévues aux           articles L. 322-1, L. 322-2 et L. 322-2-1 peuvent être constatées et poursuivies dans
+les conditions fixées par les articles L. 450-1, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 21 mai 1836 - art. 7-1 (VT)
-
-	**Cite**:
-
-	  - Code de commerce - art. L450-1
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L450-1
+	  - Code de la sécurité intérieure - art. L322-1
 
 
 ### TITRE III : FERMETURE ADMINISTRATIVE  DE CERTAINS ÉTABLISSEMENTS
@@ -9181,33 +9231,35 @@ Les dispositions suivantes sont applicables en Polynésie française :
 
 1° Le titre Ier ; 
 
-2° Au titre II : les articles L. 322-1, L. 322-2, L. 323-1 à L. 324-1, les alinéas 1 et 2 de l'article L. 324-2, les articles
-L. 324-3 à L. 324-9 ; 
+2° Au titre II : les articles L. 322-1, L. 322-2, L. 322-2-1, L. 322-7, L. 323-1 à L. 324-1, les alinéas 1 et 2 de l'article
+L. 324-2, les articles L. 324-3 à L. 324-9 ; 
 
 3° Au titre III : les articles L. 332-1, L. 333-1, L. 334-1 et L. 334-2.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
-	  - Code de la sécurité intérieure - art. L323-1 (VD)
-	  - Code de la sécurité intérieure - art. L324-3 (VD)
-	  - Code de la sécurité intérieure - art. L332-1 (VD)
-	  - Code de la sécurité intérieure - art. L333-1 (VD)
-	  - Code de la sécurité intérieure - art. L334-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L344-2 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L322-1
+	  - Code de la sécurité intérieure - art. L322-2-1
+	  - Code de la sécurité intérieure - art. L322-7
+	  - Code de la sécurité intérieure - art. L323-1
+	  - Code de la sécurité intérieure - art. L324-3
+	  - Code de la sécurité intérieure - art. L332-1
+	  - Code de la sécurité intérieure - art. L333-1
+	  - Code de la sécurité intérieure - art. L334-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L344-2 (VD)
 
 
 ###### Article L344-2
@@ -9252,7 +9304,7 @@ remplacés par les mots : " dispositions applicables localement ” ;
 
 ###### Article L344-3
 
-Sont exceptées des dispositions des articles L. 322-1 et L. 322-2 : 
+Sont exceptées des dispositions des           articles L. 322-1, L. 322-2 et L. 322-2-1 : 
 
 1° Les loteries proposées au public dans les casinos autorisés ; 
 
@@ -9267,26 +9319,22 @@ par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi du 21 mai 1836 - art. 9 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
+	  - Code de la sécurité intérieure - art. L322-1
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R344-37 (VD)
 	  - Code de la sécurité intérieure - art. R344-38 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L344-4
@@ -9410,29 +9458,26 @@ remplacés par les mots : " dispositions applicables localement ” ;
 
 ###### Article L345-3
 
-Les dérogations aux dispositions des articles L. 322-1 et L. 322-2, prévues aux articles L. 322-3 à L. 322-5, sont autorisées
-par le gouvernement de la Nouvelle-Calédonie, dans le respect de la législation applicable en Nouvelle-Calédonie en matière
-de loteries et d'un arrêté du haut-commissaire de la République en Nouvelle-Calédonie, qui précise notamment les personnes
-susceptibles de proposer au public les loteries et les conditions d'autorisation des loteries.
+Les dérogations aux dispositions des           articles L. 322-1, L. 322-2 et L. 322-2-1, prévues aux articles L. 322-3 à L.
+322-5, sont autorisées par le gouvernement de la Nouvelle-Calédonie, dans le respect de la législation applicable en
+Nouvelle-Calédonie en matière de loteries et d'un arrêté du haut-commissaire de la République en Nouvelle-Calédonie, qui
+précise notamment les personnes susceptibles de proposer au public les loteries et les conditions d'autorisation des
+loteries.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 21 mai 1836 - art. 10 (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
-	  - Code de la sécurité intérieure - art. L322-3 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L322-1
+	  - Code de la sécurité intérieure - art. L322-3
 
 
 ###### Article L345-4
@@ -9486,10 +9531,18 @@ Les dispositions suivantes sont applicables dans les îles Wallis et Futuna :
 
 1° Le titre Ier ; 
 
-2° Au titre II : les articles L. 322-1 à L. 322-3, L. 323-1 à L. 324-1, les premier et deuxième alinéas de l'article L.
-324-2, et les articles L. 324-3 à L. 324-9.
+2° Au titre II : les articles L. 322-1 à L. 322-3, L. 322-7, L. 323-1 à L. 324-1, les premier et deuxième alinéas de
+l'article L. 324-2, et les articles L. 324-3 à L. 324-9.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 	**Cité par**:
 
@@ -9498,18 +9551,11 @@ Les dispositions suivantes sont applicables dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
-	  - Code de la sécurité intérieure - art. L323-1 (VD)
-	  - Code de la sécurité intérieure - art. L324-2 (VD)
-	  - Code de la sécurité intérieure - art. L324-3 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L322-1
+	  - Code de la sécurité intérieure - art. L322-7
+	  - Code de la sécurité intérieure - art. L323-1
+	  - Code de la sécurité intérieure - art. L324-2
+	  - Code de la sécurité intérieure - art. L324-3
 
 
 ###### Article L346-2
