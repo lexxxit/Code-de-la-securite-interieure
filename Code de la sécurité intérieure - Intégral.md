@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-05-01
 
 # Partie législative
 
@@ -20761,8 +20761,8 @@ Sous l'autorité du Premier ministre et sous réserve des compétences du minist
 préfet de zone de défense et de sécurité est le délégué des ministres dans l'exercice de leurs attributions en matière de
 défense et de sécurité nationale. 
 
-A cet effet, il dirige les services des administrations civiles de l'Etat dans le cadre de la zone de défense et de sécurité
-et exerce les attributions fixées par la présente section.
+A cet effet, il dirige l'action des services des administrations civiles de l'Etat et des unités de la gendarmerie nationale
+dans le cadre de la zone de défense et de sécurité et exerce les attributions fixées par la présente section.
 
 **Liens relatifs à cet article**
 
@@ -20770,17 +20770,13 @@ et exerce les attributions fixées par la présente section.
 
 	  - Décret n°2013-1112 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art.
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1311-1
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1311-1, I (VT)
 
 
 ###### Article R*122-3
@@ -21231,18 +21227,23 @@ concourant à la sécurité nationale.
 ###### Article R122-14
 
 Sous l'autorité du préfet de zone de défense et de sécurité, le préfet délégué pour la défense et la sécurité assure la
-direction de l'état-major interministériel de zone de défense et de sécurité, du service de zone des systèmes d'information
-et de communication, du secrétariat général pour l'administration de la police et du centre régional d'information et de
-coordination routière. 
+direction de l'état-major interministériel de zone de défense et de sécurité, du secrétariat général pour l'administration du
+ministère de l'intérieur et du centre régional d'information et de coordination routière. 
 
-A cet effet, il est assisté d'un chef d'état-major interministériel de zone de défense et de sécurité, d'un chef de service
-de zone des systèmes d'information et de communication, du responsable du centre régional d'information et de coordination
-routière et, le cas échéant, d'un secrétaire général adjoint pour l'administration de la police. 
+A cet effet, il est assisté d'un chef d'état-major interministériel de zone de défense et de sécurité, du responsable du
+centre régional d'information et de coordination routière et, le cas échéant, d'un secrétaire général adjoint pour
+l'administration de la police. 
 
 Sous l'autorité du préfet de zone de défense et de sécurité, il dirige l'action des délégués de zone de défense et de
 sécurité et coordonne l'action des correspondants de zone de défense et de sécurité désignés dans les conditions définies aux
 articles R. 122-20 à R. 122-26, afin qu'ils apportent leur concours à l'exercice des missions attribuées au préfet de zone de
 défense et de sécurité.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2014-296 du 6 mars 2014, les références au secrétariat général pour l'administration
+de la police sont remplacées par les références au secrétariat général pour l'administration du ministère de l'intérieur à
+compter du 1er janvier 2016 pour la zone de défense et de sécurité de Paris.
 
 **Liens relatifs à cet article**
 
@@ -21250,17 +21251,13 @@ défense et de sécurité.
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R1311-16 (VT)
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R122-20 (VD)
+	  - Code de la sécurité intérieure - art. R122-20
 
 
 ###### Article R122-15
@@ -21268,11 +21265,16 @@ défense et de sécurité.
 Le préfet de zone de défense et de sécurité peut donner délégation de signature au préfet délégué pour la défense et la
 sécurité ainsi qu'aux agents placés sous l'autorité de ce dernier pour les matières de sa compétence concernant la sécurité
 nationale ou relevant de l'état-major interministériel de zone de défense et de sécurité, du secrétariat général pour
-l'administration de la police, du centre régional d'information et de coordination routière ou du service de zone des
-systèmes d'information et de communication.
+l'administration du ministère de l'intérieur, du centre régional d'information et de coordination routière. 
 
 Il peut également donner délégation de signature, pour les matières relevant de sa compétence concernant la sécurité
 nationale, au général commandant la gendarmerie pour la zone de défense et de sécurité.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2014-296 du 6 mars 2014, les références au secrétariat général pour l'administration
+de la police sont remplacées par les références au secrétariat général pour l'administration du ministère de l'intérieur à
+compter du 1er janvier 2016 pour la zone de défense et de sécurité de Paris.
 
 **Liens relatifs à cet article**
 
@@ -21280,13 +21282,9 @@ nationale, au général commandant la gendarmerie pour la zone de défense et de
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R1311-17 (VT)
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 
 ###### Article R122-16
@@ -21686,16 +21684,20 @@ défense.
 
 ###### Article R122-31
 
-Le préfet de zone de défense et de sécurité a autorité sur :
+Le préfet de zone de défense et de sécurité a autorité sur : 
 
-1° Le secrétaire général pour l'administration de la police ;
+1° Le secrétaire général pour l'administration du ministère de l'intérieur ; 
 
-2° Le responsable du service de zone des systèmes d'information et de communication ;
+2° Le chef de l'état-major de zone de défense et de sécurité ; 
 
-3° Le chef de l'état-major de zone de défense et de sécurité ;
-
-4° Le responsable du centre régional d'information et de coordination routière implanté dans la zone de défense et de
+3° Le responsable du centre régional d'information et de coordination routière implanté dans la zone de défense et de
 sécurité.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2014-296 du 6 mars 2014, les références au secrétariat général pour l'administration
+de la police sont remplacées par les références au secrétariat général pour l'administration du ministère de l'intérieur à
+compter du 1er janvier 2016 pour la zone de défense et de sécurité de Paris.
 
 **Liens relatifs à cet article**
 
@@ -21703,13 +21705,9 @@ sécurité.
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R1311-21-1 (VT)
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 
 ###### Article R122-32
@@ -21976,6 +21974,28 @@ zone de défense et de sécurité sont exercées par des directions et services 
 	  - Code de la sécurité intérieure - art. R122-19
 
 
+###### Article R*122-41-1
+
+Pour l'application dans la zone de défense et de sécurité de Paris du troisième alinéa de l'article R. * 122-5, dans la
+composition de la conférence de sécurité intérieure, au a, les mots : " Du préfet délégué pour la défense et la sécurité "
+sont remplacés par les mots : " Du préfet secrétaire général de la zone de défense et de sécurité et du préfet secrétaire
+général pour l'administration de la préfecture de police ", au d, les mots : " Du directeur départemental de la sécurité
+publique du chef-lieu de la zone de défense et de sécurité, coordonnateur zonal de la sécurité publique " par les mots : "
+Des directeurs des services actifs de police de la préfecture de police " et au f, les mots : " chef de l'état-major
+interministériel de zone de défense et de sécurité " par les mots : " chef d'état-major du secrétariat général de la zone de
+défense et de sécurité ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R*122-5
+
+
 ###### Article R*122-42
 
 Le préfet de police, préfet de la zone de défense et de sécurité de Paris, coordonne, par ses orientations, l'action des
@@ -22105,13 +22125,11 @@ sous l'autorité d'un sous-préfet qui porte le titre de secrétaire général d
 ###### Article R*122-49
 
 Sous l'autorité du préfet de la zone de défense et de sécurité Sud, le secrétaire général de zone de défense et de sécurité
-assure la direction de l'état-major interministériel de zone de défense et de sécurité, du service de zone des systèmes
-d'information et de communication, du secrétariat général pour l'administration de la police et du centre régional
-d'information et de coordination routières. 
+assure la direction de l'état-major interministériel de zone de défense et de sécurité, du secrétariat général pour
+l'administration du ministère de l'intérieur et du centre régional d'information et de coordination routières. 
 
-A cet effet, il est assisté d'un chef d'état-major interministériel de zone de défense et de sécurité, d'un chef de service
-de zone des systèmes d'information et de communication et du responsable du centre régional d'information et de coordination
-routières. 
+A cet effet, il est assisté d'un chef d'état-major interministériel de zone de défense et de sécurité et du responsable du
+centre régional d'information et de coordination routières. 
 
 Sous l'autorité du préfet de zone de défense et de sécurité, il dirige l'action des délégués de zone de défense et de
 sécurité et coordonne l'action des correspondants de zone de défense et de sécurité désignés dans les conditions définies aux
@@ -22124,13 +22142,9 @@ défense et de sécurité.
 
 	  - Décret n°2013-1112 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1311-29-1, II (VT)
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 	**Cite**:
 
@@ -22142,8 +22156,7 @@ défense et de sécurité.
 Le préfet de la zone de défense et de sécurité Sud peut donner délégation de signature au secrétaire général de zone de
 défense et de sécurité ainsi qu'aux agents placés sous l'autorité de ce dernier pour les matières de sa compétence concernant
 la sécurité nationale ou relevant de l'état-major interministériel de zone de défense et de sécurité, du secrétariat général
-pour l'administration de la police, du centre régional d'information et de coordination routières ou du service de zone des
-systèmes d'information et de communication. 
+pour l'administration du ministère de l'intérieur ou du centre régional d'information et de coordination routières. 
 
 Il peut également donner délégation de signature, pour les matières relevant de sa compétence concernant la sécurité
 nationale, au général commandant la gendarmerie pour la zone de défense et de sécurité.
@@ -22154,13 +22167,9 @@ nationale, au général commandant la gendarmerie pour la zone de défense et de
 
 	  - Décret n°2013-1112 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1311-29-1, III (VT)
+	  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 
 ###### Article R*122-51
