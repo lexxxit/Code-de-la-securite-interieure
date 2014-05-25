@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-05-01
+Version Consolidée au 2014-05-26
 
 # Partie législative
 
@@ -10666,30 +10666,25 @@ Pour l'application du présent livre à Mayotte :
 le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses contraires,
 aux dispositions qui leur sont applicables dans les départements ; 
 
-2° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
-et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux
-conditions d'entrée et de séjour des étrangers à Mayotte.
+2° Abrogé.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 6
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
-	  - Code de la sécurité intérieure - art. L411-5 (VD)
-	  - Code de la sécurité intérieure - art. L433-2 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R442-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L411-5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R442-1 (VD)
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française
@@ -16463,10 +16458,8 @@ dans le Département de Mayotte ;
 
 3° Les mots : " registre du commerce et des sociétés " sont remplacés par les mots : " répertoire local des entreprises " ; 
 
-4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les mots : " du code de l'entrée et du séjour des étrangers
-et du droit d'asile " sont remplacés par les mots : " de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions
-d'entrée et de séjour des étrangers à Mayotte " et les mots : " code du travail " sont remplacés par les mots : " code du
-travail applicable à Mayotte " ; 
+4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les  mots : " code du travail " sont remplacés par les
+mots : " code du travail applicable à Mayotte " ; 
 
 5° Au 4° de l'article L. 612-20 et au 2° de l'article L. 622-19, après les mots : " territoire national ", la fin de l'alinéa
 est supprimée ; 
@@ -16488,28 +16481,28 @@ L. 620-3 du code du travail applicable à Mayotte ".
 
 	**Cite**:
 
-	  - Ordonnance n°2000-373 du 26 avril 2000 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000
 	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
-	  - Code du travail - art. L3171-3 (V)
-	  - Code du travail - art. L8113-4 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-22 (V)
-	  - Code du travail applicable à Mayotte. - art. L620-3 (V)
-	  - Code de la sécurité intérieure - art. L612-16 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L616-1 (V)
-	  - Code de la sécurité intérieure - art. L622-14 (V)
-	  - Code de la sécurité intérieure - art. L622-19 (V)
-	  - Code de la sécurité intérieure - art. L623-1 (V)
-	  - Code de la sécurité intérieure - art. L634-3 (V)
+	  - Code du travail - art. L3171-3
+	  - Code du travail - art. L8113-4
+	  - Code du travail applicable à Mayotte. - art. L122-22
+	  - Code du travail applicable à Mayotte. - art. L620-3
+	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L616-1
+	  - Code de la sécurité intérieure - art. L622-14
+	  - Code de la sécurité intérieure - art. L622-19
+	  - Code de la sécurité intérieure - art. L623-1
+	  - Code de la sécurité intérieure - art. L634-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
 
 
 #### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin
