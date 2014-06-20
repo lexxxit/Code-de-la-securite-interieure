@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-06-21
 
 # Partie législative
 
@@ -22919,19 +22919,17 @@ L'institut est administré par un conseil d'administration et dirigé par un dir
 
 Le président du conseil d'administration est nommé par décret. La durée de son mandat est de trois ans renouvelable une fois.
 
+La limite d'âge applicable au président du conseil d'administration est fixée à soixante-huit ans.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 16 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-634 du 19 juin 2014 - art. 1
 
 
 ###### Article D123-17
