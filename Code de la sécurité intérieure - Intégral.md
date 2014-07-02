@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-06-30
+Version Consolidée au 2014-07-03
 
 # Partie législative
 
@@ -2411,8 +2411,6 @@ obligations expose aux sanctions pénales prévues par le chapitre IV du titre V
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-#### Chapitre II : Accès des services de la police et de la gendarmerie nationales à des traitements administratifs automatisés et à des données détenues par des opérateurs privés
 
 #### Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés
 
@@ -12246,22 +12244,26 @@ rapports des infractions en matière de police rurale.
 ###### Article L611-1
 
 Sont soumises aux dispositions du présent titre, dès lors qu'elles ne sont pas exercées par un service public administratif,
-les activités qui consistent :
+les activités qui consistent : 
 
 1° A fournir des services ayant pour objet la surveillance humaine ou la surveillance par des systèmes électroniques de
-sécurité ou le gardiennage de biens meubles ou immeubles ainsi que la sécurité des personnes se trouvant dans ces immeubles ;
+sécurité ou le gardiennage de biens meubles ou immeubles ainsi que la sécurité des personnes se trouvant dans ces
+immeubles ; 
 
 2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux représentant une valeur d'au moins 100 000
 euros, des fonds, sauf, pour les employés de La Poste ou des établissements de crédit habilités par leur employeur, lorsque
-leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ;
+leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; 
 
-3° A protéger l'intégrité physique des personnes.
+3° A protéger l'intégrité physique des personnes ; 
+
+4° A la demande et pour le compte d'un armateur, à protéger, contre les menaces extérieures, des navires battant pavillon
+français, en application de l'article L. 5441-1 du code des transports.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 1 al. 1 à 4 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -12279,7 +12281,7 @@ leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à
 	  - Arrêté du 27 février 2017 - art. 4 (V)
 	  - Arrêté du 27 février 2017 - art. 6 (V)
 	  - Code de la sécurité intérieure - art. L611-2 (V)
-	  - Code de la sécurité intérieure - art. L612-1 (VD)
+	  - Code de la sécurité intérieure - art. L612-1 (V)
 	  - Code de la sécurité intérieure - art. L612-10 (V)
 	  - Code de la sécurité intérieure - art. L612-11 (Ab)
 	  - Code de la sécurité intérieure - art. L612-12 (VD)
@@ -12359,13 +12361,72 @@ leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à
 	  - Code du sport. - art. L332-2 (V)
 	  - Code général des impôts, CGI. - art. 1609 quintricies (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1
+
+
+###### Article L611-2
+
+Sans préjudice des dispositions de l'article L. 634-1, les commissaires de police, les officiers de police et les officiers
+et sous-officiers de la gendarmerie nationale assurent, pour le compte du Conseil national des activités privées de sécurité
+ainsi que du représentant de l'Etat dans le département ou, à Paris, du préfet de police, le contrôle des personnes exerçant
+une activité mentionnée à l'article L. 611-1. 
+
+Sans préjudice des compétences des inspecteurs et contrôleurs du travail, ils peuvent demander la communication du registre
+unique du personnel prévu aux articles L. 1221-13 et L. 1221-15 du code du travail et de tous autres registres, livres et
+documents mentionnés aux articles L. 3171-3, L. 8113-4 et L. 8113-5 du même code ainsi que recueillir, sur convocation ou sur
+place, les renseignements et justifications nécessaires. 
+
+Dans l'exercice du contrôle des sociétés exerçant l'activité mentionnée au 4° de l'article L. 611-1 du présent code, ils
+peuvent également obtenir communication des registres prévus à l'article L. 5442-10 du code des transports. 
+
+En présence de l'occupant des lieux ou de son représentant, ils peuvent, entre 8 heures et 20 heures, accéder aux locaux dans
+lesquels est habituellement exercée une activité mentionnée à l'article L. 611-1 ; ils peuvent également y accéder à tout
+moment lorsque l'exercice de cette activité est en cours. Ils ne peuvent accéder à ceux de ces locaux qui servent de
+domicile. 
+
+Un compte rendu de visite est établi, dont copie est remise immédiatement au responsable de l'entreprise et est adressé aux
+autorités mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 26
 
 	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. L1221-13
+	  - Code du travail - art. L1221-15
+	  - Code du travail - art. L3171-3
+	  - Code du travail - art. L8113-4
+	  - Code du travail - art. L8113-5
+	  - Code des transports - art. L5442-10
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L634-1
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L616-1 (T)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L616-4 (V)
+	  - Code de la sécurité intérieure - art. L617-14 (V)
+	  - Code de la sécurité intérieure - art. L642-1 (V)
+	  - Code de la sécurité intérieure - art. L645-1 (M)
+	  - Code de la sécurité intérieure - art. L646-1 (M)
+	  - Code de la sécurité intérieure - art. L647-1 (M)
+	  - Code des transports - art. D5442-10 (V)
 
 
 #### Chapitre II : Conditions d'exercice
@@ -12375,7 +12436,8 @@ leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à
 ###### Article L612-1
 
 Seules peuvent être autorisées à exercer à titre professionnel, pour elles-mêmes ou pour autrui, les activités énumérées aux
-1° à 3° de l'article L. 611-1 : 
+1° à 3° de l'article L. 611-1, et à titre professionnel, pour autrui exclusivement, l'activité mentionnée au 4° du même
+article L. 611-1 : 
 
 1° Les personnes physiques ou morales immatriculées au registre du commerce et des sociétés ; 
 
@@ -12385,13 +12447,17 @@ une ou plusieurs de ces activités.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 1 al. 5 à 7 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
+	  - Code de la sécurité intérieure - art. L611-1 (M)
 
 	**Cité par**:
 
@@ -12412,14 +12478,6 @@ une ou plusieurs de ces activités.
 	  - Code de la sécurité intérieure - art. R612-5-1 (V)
 	  - Code de la sécurité intérieure - art. R613-28 (VD)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L612-2
 
@@ -12428,11 +12486,14 @@ non liée à la surveillance, au gardiennage ou au transport de fonds, de bijoux
 
 L'exercice de l'activité mentionnée au 3° de l'article L. 611-1 est exclusif de toute autre activité.
 
+L'exercice de l'activité mentionnée au 4° du même article L. 611-1 est exclusif de toute autre activité, à l'exception du
+conseil et de la formation en matière de sûreté maritime.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 2 al. 2 et 3 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -12445,17 +12506,13 @@ L'exercice de l'activité mentionnée au 3° de l'article L. 611-1 est exclusif 
 	  - Code de la sécurité intérieure - art. R631-18 (VD)
 	  - Code des transports - art. L2251-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 8
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L611-1
 
 
 ###### Article L612-3
@@ -12700,13 +12757,16 @@ tenant à l'ordre public.
 ###### Article L612-9
 
 L'exercice d'une activité mentionnée à l'article L. 611-1 est subordonné à une autorisation distincte pour l'établissement
-principal et pour chaque établissement secondaire.
+principal et pour chaque établissement secondaire. 
+
+Pour l'exercice de l'activité mentionnée au 4° du même article L. 611-1, cette autorisation est, en outre, soumise à une
+certification, selon les modalités définies à l'article L. 616-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 7 al. 1 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -12738,27 +12798,24 @@ principal et pour chaque établissement secondaire.
 	  - Code des transports - art. R5442-2 (V)
 	  - Code général des impôts, CGI. - art. 1609 quintricies (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 5
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L611-1
 
 
 ###### Article L612-10
 
 Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne physique mentionnée au 1° de l'article
-L. 612-1, la demande d'autorisation est faite auprès de la commission régionale d'agrément et de contrôle dans le ressort de
-laquelle cette personne est immatriculée au registre du commerce et des sociétés. Lorsque l'activité doit être exercée par
-une personne morale mentionnée au 1° de l'article L. 612-1, la demande est présentée par le dirigeant ayant le pouvoir
-d'engager cette personne et déposée auprès de la commission régionale d'agrément et de contrôle dans le ressort de laquelle
-celle-ci a son établissement principal ou secondaire. 
+L. 612-1, la demande d'autorisation est faite, sauf pour l'activité mentionnée au 4° du même article L. 611-1, auprès de la
+commission régionale d'agrément et de contrôle dans le ressort de laquelle cette personne est immatriculée au registre du
+commerce et des sociétés. Lorsque l'activité doit être exercée par une personne morale mentionnée au 1° de l'article L.
+612-1, la demande est présentée par le dirigeant ayant le pouvoir d'engager cette personne et déposée, sauf pour l'activité
+mentionnée au 4° de l'article L. 611-1, auprès de la commission régionale d'agrément et de contrôle dans le ressort de
+laquelle celle-ci a son établissement principal ou secondaire. 
 
 La demande mentionne le numéro d'immatriculation au registre du commerce et des sociétés. Pour une personne physique, elle
 indique l'adresse de celle-ci. Pour une personne morale, elle comporte la dénomination, l'adresse du siège social et, s'ils
@@ -12768,33 +12825,35 @@ social et les participations financières détenues dans d'autres sociétés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 7 I (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L613-7-1 (V)
-	  - Code de la sécurité intérieure - art. R612-6 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L612-13 (Ab)
+	  - Code de la sécurité intérieure - art. L613-7-1 (V)
+	  - Code de la sécurité intérieure - art. R612-6 (V)
 
 
 ###### Article L612-11
 
 Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne mentionnée au 2° de l'article L. 612-1,
-la demande d'autorisation est déposée auprès de la commission régionale d'agrément et de contrôle d'Ile-de-France. 
+la demande d'autorisation est déposée, sauf pour l'activité mentionnée au 4° du même article L. 611-1, auprès de la
+commission régionale d'agrément et de contrôle d'Ile-de-France. 
 
 Pour une personne physique, la demande indique l'adresse de celle-ci. Pour une personne morale, elle comporte la
 dénomination, l'adresse du siège social et, le cas échéant, celle de l'établissement que cette personne envisage de créer en
@@ -12805,14 +12864,22 @@ partie à l'accord sur l'Espace économique européen dans lequel la personne es
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 7 II (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-1 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-1
 
 	**Cité par**:
 
@@ -12826,14 +12893,6 @@ partie à l'accord sur l'Espace économique européen dans lequel la personne es
 	  - Code de la sécurité intérieure - art. R612-12 (V)
 	  - Code de la sécurité intérieure - art. R612-19 (V)
 	  - Code de la sécurité intérieure - art. R612-6 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L612-12
@@ -12896,26 +12955,22 @@ dans un délai d'un mois auprès de la commission régionale d'agrément et de c
 
 ###### Article L612-14
 
-L'autorisation administrative préalable ne confère aucun caractère officiel à l'entreprise ou aux personnes qui en
-bénéficient. Elle n'engage en aucune manière la responsabilité des pouvoirs publics.
+L'autorisation d'exercice ne confère aucune prérogative de puissance publique à l'entreprise ou aux personnes qui en
+bénéficient.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 8 (VT)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L612-15 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L612-15 (VD)
 
 
 ###### Article L612-15
@@ -13135,6 +13190,10 @@ La carte professionnelle peut être retirée lorsque son titulaire cesse de remp
 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et
 de la pêche maritime. 
 
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent
+article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L.
+616-2. 
+
 En cas d'urgence, le président de la commission régionale d'agrément et de contrôle peut retirer la carte professionnelle. En
 outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
 
@@ -13143,14 +13202,15 @@ outre, le représentant de l'Etat peut retirer la carte professionnelle en cas d
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
-	  - Code rural - art. L214-1 (V)
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L613-7 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
+	  - Code rural - art. L214-1
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L616-2
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 6 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -13183,13 +13243,9 @@ outre, le représentant de l'Etat peut retirer la carte professionnelle en cas d
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 	  - Code de la sécurité intérieure - art. R633-4 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 
 ###### Article L612-21
@@ -13271,9 +13327,9 @@ fondée sur le respect des conditions fixées aux 1°, 2° et 3° de l'article L
 
 ###### Article L612-23
 
-Par dérogation à l'article L. 612-20, une autorisation provisoire d'être employé pour participer à une activité mentionnée à
-l'article L. 611-1 est délivrée à la personne non titulaire de la carte professionnelle, sur sa demande, au vu des conditions
-fixées aux 1°, 2° et 3° de l'article L. 612-20. 
+Par dérogation à l'article L. 612-20, une autorisation provisoire d'être employé pour participer à une activité mentionnée
+aux 1° à 3° de l'article L. 611-1 est délivrée à la personne non titulaire de la carte professionnelle, sur sa demande, au vu
+des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20. 
 
 Toute personne physique ou morale exerçant une activité mentionnée à l'article L. 611-1 concluant un contrat de travail avec
 une personne titulaire de cette autorisation lui assure la délivrance sans délai d'une formation en vue de justifier de
@@ -13285,14 +13341,18 @@ dans la limite maximale d'un mois, à défaut de stipulation particulière d'une
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 6-1 II (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-20 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-20
 
 	**Cité par**:
 
@@ -13300,14 +13360,6 @@ dans la limite maximale d'un mois, à défaut de stipulation particulière d'une
 	  - Code de la sécurité intérieure - art. R625-11 (VD)
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 	  - Code de la sécurité intérieure - art. R633-4 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Section 5 : Dispositions communes
@@ -14037,72 +14089,6 @@ partie du code des transports.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Contrôle administratif
-
-###### Article L616-1
-
-Sans préjudice des dispositions de l'article L. 634-1, les commissaires de police, les officiers de police et les officiers
-et sous-officiers de la gendarmerie nationale assurent, pour le compte de l'autorité administrative, le contrôle des
-personnes exerçant une activité mentionnée à l'article L. 611-1. 
-
-Sans préjudice des compétences des inspecteurs et contrôleurs du travail, ils peuvent demander la communication du registre
-unique du personnel prévu aux articles L. 1221-13 et L. 1221-15 du code du travail et de tous autres registres, livres et
-documents mentionnés aux articles L. 3171-3, L. 8113-4 et L. 8113-5 du même code ainsi que recueillir, sur convocation ou sur
-place, les renseignements et justifications nécessaires. 
-
-En présence de l'occupant des lieux ou de son représentant, ils peuvent, entre 8 heures et 20 heures, accéder aux locaux dans
-lesquels est habituellement exercée une activité mentionnée à l'article L. 611-1 ; ils peuvent également y accéder à tout
-moment lorsque l'exercice de cette activité est en cours. Ils ne peuvent accéder à ceux de ces locaux qui servent de
-domicile. 
-
-Un compte rendu de visite est établi, dont une copie est remise immédiatement au responsable de l'entreprise, et adressé au
-représentant de l'Etat dans le département ou, à Paris, au préfet de police, ainsi qu'à la commission régionale d'agrément et
-de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 13 (VT)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-742 du 1er juillet 2014 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2014-1417 du 28 novembre 2014 - art. (V)
-	  - Décret n°2014-1417 du 28 novembre 2014 - art. 1 (V)
-	  - Code de la sécurité intérieure - art. L617-12-1 (V)
-	  - Code de la sécurité intérieure - art. L617-14 (VD)
-	  - Code de la sécurité intérieure - art. L642-1 (VD)
-	  - Code de la sécurité intérieure - art. L645-1 (V)
-	  - Code de la sécurité intérieure - art. L646-1 (V)
-	  - Code de la sécurité intérieure - art. L647-1 (V)
-	  - Code de la sécurité intérieure - art. R616-2 (V)
-	  - Code de la sécurité intérieure - art. R616-3 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L3171-3 (V)
-	  - Code du travail - art. L8113-4 (V)
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L634-1 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L611-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 #### Chapitre VII : Dispositions pénales
 
 ##### Section 1 : Conditions d'exercice
@@ -14114,41 +14100,39 @@ de contrôle.
 Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende : 
 
 1° Le fait, sauf pour les personnes mentionnées au 2° de l'article L. 612-1 et sous réserve des dispositions de l'article 29
-du code de procédure pénale, d'exercer pour autrui, à titre professionnel, les activités mentionnées aux 1° à 3° de l'article
-L. 611-1 sans être immatriculé au registre du commerce et des sociétés ; 
+du code de procédure pénale , d'exercer pour autrui, à titre professionnel, les activités mentionnées aux 1° à 4° de
+l'article L. 611-1 sans être immatriculé au registre du commerce et des sociétés ; 
 
-2° Le fait d'exercer l'une des activités mentionnées aux 1° et 2° de l'article L. 611-1 et d'avoir en outre soit une activité
-qui n'est pas liée à la sécurité ou au transport de fonds, de bijoux ou de métaux précieux, soit l'activité d'agent privé de
-recherches ; 
+2° Le fait d'exercer l'une des activités mentionnées aux 1° et 2° de l'article L. 611-1 et d'avoir, en outre, soit une
+activité qui n'est pas liée à la sécurité ou au transport de fonds, de bijoux ou de métaux précieux, soit l'activité d'agent
+privé de recherches ; 
 
 3° Le fait d'exercer l'activité mentionnée au 3° de l'article L. 611-1 et d'avoir une autre activité ; 
+
+3° bis Le fait d'exercer l'activité mentionnée au 4° du même article L. 611-1 et d'avoir, en outre, une activité autre que le
+conseil et la formation en matière de sûreté maritime ; 
 
 4° Le fait de commettre l'un des agissements mentionnés à l'article L. 612-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 14 I 1°, 2°, 3° et 6° (VT)
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 29
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-4 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L617-16 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 30
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-16 (VD)
 
 
 ###### Article L617-2
@@ -14464,6 +14448,86 @@ Est puni de 15 000 euros d'amende le fait de ne pas respecter les obligations pr
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+##### Sous-section 3 : Activités de protection des navires
+
+###### Article L617-12-1
+
+Est puni de trois ans d'emprisonnement et de 45 000 € d'amende : 
+
+1° Le fait, pour un armateur, d'avoir recours à une entreprise privée de protection des navires n'étant pas titulaire de
+l'autorisation d'exercice prévue à l'article L. 612-9 ; 
+
+2° Le fait d'exercer l'activité mentionnée au 4° de l'article L. 611-1 en violation des obligations assignées à l'article L.
+616-1 ; 
+
+3° Le fait, pour l'entreprise contractant avec l'armateur, de sous-traiter l'exercice de l'activité mentionnée au 4° de
+l'article L. 611-1 ou, pour l'armateur, d'avoir recours à plusieurs entreprises pour une même prestation ; 
+
+4° Le fait de recourir à une entreprise privée de protection des navires sans respecter les zones où ce recours est autorisé
+ou le type de navire éligible, définis par les dispositions réglementaires prises en application de l'article L. 5442-1 du
+code des transports ; 
+
+5° Le fait d'acquérir, détenir, transporter et mettre à disposition des armes et munitions sans respecter les dispositions
+réglementaires prises en application du premier alinéa de l'article L. 5442-5 du même code ; 
+
+6° Le fait d'importer sur le territoire national des armes et des munitions acquises dans un Etat non membre de l'Union
+européenne en méconnaissance du second alinéa du même article L. 5442-5 ; 
+
+7° Le fait de revendre dans un Etat non membre de l'Union européenne des armes et des munitions acquises sur le territoire
+national en méconnaissance du même second alinéa ; 
+
+8° Le fait d'exercer l'activité définie au 4° de l'article L. 611-1 du présent code depuis tout autre navire que celui que
+cette activité a pour but de protéger ; 
+
+9° Le fait de mettre à disposition ou d'avoir recours à un nombre d'agents inférieur à celui prévu à l'article L. 5442-2 du
+code des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 30
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-1
+	  - Code des transports - art. L5442-2
+	  - Code des transports - art. L5442-5
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-9
+	  - Code de la sécurité intérieure - art. L616-1
+
+
+###### Article L617-12-2
+
+Est puni de 3 750 € d'amende : 
+
+1° Le fait d'exercer ou de faire exercer à bord du navire protégé l'activité mentionnée au 4° de l'article L. 611-1 dans une
+tenue entraînant la confusion avec les tenues des forces de police, des forces armées ou de la douane françaises ; 
+
+2° Le fait de ne pas tenir les registres prévus à l'article L. 5442-10 du code des transports ; 
+
+3° Le fait, pour un armateur de navire battant pavillon français ayant recours aux services d'une entreprise privée de
+protection des navires, de ne pas en informer les autorités de l'Etat compétentes, en méconnaissance du dernier alinéa de
+l'article L. 5442-7 du même code ; 
+
+4° Le fait, pour un capitaine de navire battant pavillon français embarquant ou débarquant des agents de protection, de ne
+pas en informer les autorités de l'Etat en violation de l'article L. 5442-8 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 32
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-10
+	  - Code des transports - art. L5442-7
+	  - Code des transports - art. L5442-8
+	  - Code de la sécurité intérieure - art. L611-1
+
+
 ##### Section 3 : Services internes de sécurité
 
 ###### Article L617-13
@@ -14503,25 +14567,27 @@ prévue à l'article L. 612-9.
 ###### Article L617-14
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de mettre obstacle à l'accomplissement des contrôles
-exercés, dans les conditions prévues à l'article L. 616-1, par les agents mentionnés au premier alinéa de cet article.
+exercés, dans les conditions prévues à l'article L. 611-2, par les agents mentionnés au premier alinéa de cet article. 
+
+Est puni de la même peine le fait de mettre obstacle à l'accomplissement des contrôles prévus aux articles L. 611-2, L. 616-4
+ou L. 634-1 à L. 634-3, lorsqu'ils sont relatifs à l'activité mentionnée au 4° de l'article L. 611-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 14 III 2° (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L616-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
+	  - Code de la sécurité intérieure - art. L616-4
+	  - Code de la sécurité intérieure - art. L634-1
 
 
 ##### Section 5 : Dispositions communes
@@ -14606,6 +14672,243 @@ desquelles l'infraction a été commise.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+
+### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Conditions d'exercice
+
+#### Chapitre III : Modalités d'exercice
+
+#### Chapitre IV : Services de sécurité des bailleurs d'immeuble
+
+#### Chapitre V : Services internes de sécurité  des entreprises de transport
+
+#### Chapitre VI : Activités de protection des navires
+
+##### Section 1 : Certification
+
+###### Article L616-1
+
+En vue de l'obtention de l'autorisation d'exercice mentionnée à l'article L. 612-9, les entreprises privées de protection des
+navires justifient auprès du Conseil national des activités privées de sécurité de l'obtention d'une certification dont la
+liste des prescriptions est fixée par décret en Conseil d'Etat. Les normes et référentiels applicables ainsi que les
+modalités de désignation des organismes certificateurs sont précisés par décret. 
+
+Si l'entreprise n'a pas encore exercé l'activité définie au 4° de l'article L. 611-1, le Conseil national des activités
+privées de sécurité peut lui délivrer une autorisation d'exercice provisoire pour une durée maximale de six mois, après avoir
+vérifié l'engagement par l'entreprise d'une démarche de certification. Les modalités de délivrance de l'autorisation
+d'exercice provisoire sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2014-1417 du 28 novembre 2014 - art. (V)
+	  - Décret n°2014-1417 du 28 novembre 2014 - art. 1 (V)
+	  - Code de la sécurité intérieure - art. L612-9 (V)
+	  - Code de la sécurité intérieure - art. L617-12-1 (V)
+	  - Code de la sécurité intérieure - art. L617-14 (VD)
+	  - Code de la sécurité intérieure - art. L642-1 (VD)
+	  - Code de la sécurité intérieure - art. L645-1 (V)
+	  - Code de la sécurité intérieure - art. L646-1 (V)
+	  - Code de la sécurité intérieure - art. L647-1 (V)
+	  - Code de la sécurité intérieure - art. R616-2 (V)
+	  - Code de la sécurité intérieure - art. R616-3 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+
+
+##### Section 2 : Carte professionnelle
+
+###### Article L616-2
+
+Pour exercer l'activité d'agent de protection à bord des navires, la première demande de carte professionnelle donne lieu à
+la délivrance d'une carte provisoire, d'une durée de validité d'un an. Après ce délai, en fonction du niveau d'activité
+démontré et du comportement professionnel de son détenteur, en tenant compte des informations apportées par les employeurs,
+la carte est soit délivrée de plein droit, pour le reste de la durée fixée par décret en Conseil d'Etat, soit refusée à
+l'agent. 
+
+A peine d'irrecevabilité, la première demande est accompagnée d'une lettre d'intention d'embauche rédigée par une entreprise
+titulaire de l'autorisation d'exercice mentionnée à l'article L. 612-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2015 - art. 11 (V)
+	  - Arrêté du 7 janvier 2015 - art. 2 (V)
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. R616-6 (V)
+	  - Code de la sécurité intérieure - art. R635-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-9
+
+
+##### Section 3 : Modalités d'exercice spécifiques
+
+###### Article L616-3
+
+Les modalités d'exercice spécifiques aux activités de protection des navires sont définies au chapitre II du titre IV du
+livre IV de la cinquième partie du code des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 25
+
+
+##### Section 4 : Contrôle à bord des navires
+
+###### Article L616-4
+
+I.-Outre les agents mentionnés à l'article L. 611-2, les administrateurs et officiers du corps technique et administratif des
+affaires maritimes, les commandants, commandants en second ou officiers de bâtiments de l'Etat et les commandants des
+aéronefs de l'Etat affectés à la surveillance maritime, les fonctionnaires affectés dans les services exerçant des missions
+de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer et les
+agents des douanes assurent, à bord des navires battant pavillon français et pour le compte de l'autorité administrative, le
+contrôle des personnes exerçant l'activité mentionnée au 4° de l'article L. 611-1. 
+
+II.-Lorsque l'accès à bord s'est trouvé matériellement impossible ou que des investigations approfondies qui ne peuvent être
+effectuées doivent être diligentées à bord, les commandants des bâtiments de l'Etat peuvent ordonner le déroutement du navire
+vers une position ou un port appropriés. 
+
+Les contrôles s'effectuent à toute heure. 
+
+III.-Les agents mentionnés au I du présent article peuvent vérifier les cartes professionnelles des agents exerçant
+l'activité mentionnée au 4° de l'article L. 611-1 présents à bord ainsi que les documents d'identité de toute autre personne.
+Ils peuvent obtenir communication de tous documents de bord, notamment ceux relatifs à l'activité mentionnée au même 4°. 
+
+IV.-Ils peuvent procéder à la visite des ponts et locaux des différentes zones du navire, notamment des lieux de stockage des
+armes et munitions. 
+
+V.-Lorsque les locaux sont affectés à un usage privé ou d'habitation et que le navire est en mer ou depuis moins de soixante-
+douze heures dans un port, dans une rade ou à quai, les visites sont effectuées en présence de l'occupant des lieux ou, à
+défaut, du capitaine ou de son représentant. 
+
+VI.-Lorsque la visite des locaux mentionnés au V intervient alors que le navire est dans un port, dans une rade ou à quai
+depuis soixante-douze heures au moins, elle ne peut être effectuée, en cas de refus de l'occupant des lieux, qu'après
+autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel se trouve le
+navire. 
+
+L'ordonnance ayant autorisé la visite est exécutoire au seul vu de la minute. La procédure est sans représentation
+obligatoire. La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les
+locaux durant l'intervention. A tout moment, il peut décider de l'arrêt ou de la suspension de la visite. 
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou, en son absence, au
+capitaine ou à son représentant. 
+
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. 
+
+VII.-Un procès-verbal de visite du navire est établi et contresigné par le capitaine ou son représentant, à qui une copie est
+immédiatement remise, ainsi que, le cas échéant, à l'occupant des locaux affectés à un usage privé ou d'habitation, avec
+mention des voies et délais de recours. Il est adressé au représentant de l'Etat en mer et au directeur du Conseil national
+des activités privées de sécurité. 
+
+VIII.-L'occupant des locaux mentionnés aux V et VI peut contester la régularité de leur visite devant le premier président de
+la cour d'appel selon les règles de la procédure sans représentation. 
+
+IX.-Ce recours doit être formé par déclaration remise ou adressée, par pli recommandé, au greffe de la cour dans un délai de
+quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal. Ce recours n'est pas suspensif. 
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la
+procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours. 
+
+Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 27
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-14 (V)
+
+
+###### Article L616-5
+
+Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, les agents des douanes,
+les commandants et commandants en second des navires de l'Etat, les commandants des aéronefs de l'Etat affectés à la
+surveillance maritime ainsi que, lorsqu'ils sont spécialement habilités dans des conditions fixées par décret en Conseil
+d'Etat, les administrateurs et officiers du corps technique et administratif des affaires maritimes, les officiers de la
+marine nationale, les commissaires des armées embarqués à bord des bâtiments de la marine nationale et les fonctionnaires
+affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
+disposition du ministre chargé de la mer peuvent constater, à bord des navires, les infractions au présent titre et aux
+dispositions réglementaires prises pour son application. 
+
+Le procureur de la République compétent est informé par tout moyen des infractions constatées. Les procès-verbaux de
+constatation, qui font foi jusqu'à preuve du contraire, lui sont transmis par tout moyen dans les plus brefs délais. Copie en
+est remise à la personne intéressée. 
+
+Sauf extrême urgence, il ne peut être procédé qu'avec l'autorisation du procureur de la République à des perquisitions et à
+la saisie des armes, munitions ainsi que des objets ou documents qui paraissent provenir de la commission d'une infraction au
+présent titre et aux dispositions réglementaires prises pour son application, ou qui paraissent destinés à la commettre.
+Cette autorisation est transmise par tout moyen. 
+
+Les armes, munitions, objets ou documents saisis sont placés immédiatement sous scellés. 
+
+Pour la poursuite, l'instruction et le jugement de ces infractions, sans préjudice des articles 43,52,382,706-42 et 706-75 du
+code de procédure pénale, sont compétents le procureur de la République, le juge d'instruction et la juridiction de jugement
+du lieu dans lequel le navire à bord duquel une infraction est constatée est immatriculé ou du lieu de résidence
+administrative de l'agent qui a constaté cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 29
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 382
+	  - Code de procédure pénale - art. 43
+	  - Code de procédure pénale - art. 52
+	  - Code de procédure pénale - art. 706-42
+	  - Code de procédure pénale - art. 706-75
+
+
+###### Article L616-6
+
+La demande d'autorisation, d'agrément ou de carte professionnelle est déposée dans des conditions et selon des modalités
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 12
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-742 du 1er juillet 2014 - art. 27
+
+
+#### Chapitre VII : Dispositions pénales
 
 ### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES
 
@@ -16469,8 +16772,8 @@ dans le Département de Mayotte ;
 
 3° Les mots : " registre du commerce et des sociétés " sont remplacés par les mots : " répertoire local des entreprises " ; 
 
-4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les  mots : " code du travail " sont remplacés par les
-mots : " code du travail applicable à Mayotte " ; 
+4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les mots : " code du travail " sont remplacés par les mots :
+" code du travail applicable à Mayotte " ; 
 
 5° Au 4° de l'article L. 612-20 et au 2° de l'article L. 622-19, après les mots : " territoire national ", la fin de l'alinéa
 est supprimée ; 
@@ -16480,7 +16783,7 @@ est supprimée ;
 remplacés par les mots : " par les dispositions en vigueur dans le Département de Mayotte relatives au revenu de remplacement
 " ; 
 
-7° Aux articles L. 616-1 et L. 623-1, les mots : " aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés
+7° Aux articles L. 611-2 et L. 623-1, les mots : " aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés
 par les mots : " à l'article L. 620-3 du code du travail applicable à Mayotte " et les mots : " aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " à l'article L. 610-8 du code du travail applicable à
 Mayotte " ; 
@@ -16499,9 +16802,9 @@ L. 620-3 du code du travail applicable à Mayotte ".
 	  - Code du travail - art. L8113-4
 	  - Code du travail applicable à Mayotte. - art. L122-22
 	  - Code du travail applicable à Mayotte. - art. L620-3
+	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-16
 	  - Code de la sécurité intérieure - art. L612-20
-	  - Code de la sécurité intérieure - art. L616-1
 	  - Code de la sécurité intérieure - art. L622-14
 	  - Code de la sécurité intérieure - art. L622-19
 	  - Code de la sécurité intérieure - art. L623-1
@@ -16513,7 +16816,7 @@ L. 620-3 du code du travail applicable à Mayotte ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
 
 
 #### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin
@@ -16538,16 +16841,59 @@ dans la collectivité ;
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+###### Article L643-2
+
+Le présent livre est applicable à Saint-Barthélemy sous réserve des adaptations suivantes : 
+
+1° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
+l'Espace économique européen " sont supprimés ; 
+
+2° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
+sont supprimés ; 
+
+3° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
+économique européen " sont supprimés ; 
+
+4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
+européen " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-1 (V)
+	  - Code de la sécurité intérieure - art. L612-11 (V)
+	  - Code de la sécurité intérieure - art. L612-24 (V)
+	  - Code de la sécurité intérieure - art. L612-7 (V)
+
+
 #### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon
 
 ###### Article L644-1
 
-Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
+Pour l'application du présent livre à Saint-Pierre-et-Miquelon : 
 
 1° Les références au représentant de l'Etat dans le département sont remplacées par la référence au représentant de l'Etat
-dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;
+dans la collectivité territoriale de Saint-Pierre-et-Miquelon ; 
 
-2° Les références au département sont remplacées par la référence à la collectivité territoriale de Saint-Pierre-et-Miquelon.
+2° Les références au département sont remplacées par la référence à la collectivité territoriale de Saint-Pierre-et-
+Miquelon ; 
+
+3° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
+l'Espace économique européen " sont supprimés ; 
+
+4° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
+sont supprimés ; 
+
+5° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
+économique européen " sont supprimés ; 
+
+6° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
+européen " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -16555,9 +16901,16 @@ dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-1 (V)
+	  - Code de la sécurité intérieure - art. L612-11 (V)
+	  - Code de la sécurité intérieure - art. L612-24 (V)
+	  - Code de la sécurité intérieure - art. L612-7 (V)
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française
@@ -16594,12 +16947,12 @@ relatives aux contrat de travail, salaire, conditions de travail, repos et cong�
 
 a) Le 4° est ainsi rédigé : 
 
-" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le
-territoire de la  Polynésie française et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
+territoire de la Polynésie française et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions
 applicables localement ; ” ; 
 
-b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
-par les mots : " applicables localement ” ; 
+b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
+les mots : " applicables localement ” ; 
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
@@ -16615,9 +16968,9 @@ d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces
 personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
 
 " Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "  ; 
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
 
-10° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
+10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
 localement " ; 
@@ -16645,10 +16998,11 @@ locale.
 
 	  - Ordonnance n°2000-372 du 26 avril 2000
 	  - Code de procédure civile - art. 493
-	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-16
 	  - Code de la sécurité intérieure - art. L612-20
@@ -16656,7 +17010,6 @@ locale.
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
 	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L616-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 
@@ -16666,7 +17019,8 @@ locale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -16703,19 +17057,19 @@ relatives aux contrat de travail, salaire, conditions de travail, repos et cong�
 
 a) Le 4° est ainsi rédigé : 
 
-" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le
-territoire de la  Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
+territoire de la Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions
 applicables localement ; ” ; 
 
-b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
-par les mots : " applicables localement ” ;
+b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
+les mots : " applicables localement ” ; 
 
 8° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
 applicables localement " ; 
 
 9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement "  ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
 10° L'article L. 614-1 est ainsi rédigé : 
 
@@ -16726,7 +17080,7 @@ personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l
 " Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise les zones dans lesquelles cette obligation
 s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
 
-11° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
+11° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
 localement " ; 
@@ -16753,19 +17107,20 @@ locale.
 	**Cite**:
 
 	  - Ordonnance n°2002-388 du 20 mars 2002
-	  - Code de procédure civile - art. 493
 	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
 	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-20 (M)
+	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
+	  - Code de la sécurité intérieure - art. L613-7
 	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L616-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 	  - Code de la sécurité intérieure - art. L634-3
@@ -16776,7 +17131,8 @@ locale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -16795,7 +17151,7 @@ Futuna sous réserve des adaptations suivantes :
 d'agrément et de contrôle " ; 
 
 3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " le service des postes et des
-télécommunications de Wallis-et-Futuna ” ;
+télécommunications de Wallis-et-Futuna ” ; 
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
@@ -16813,12 +17169,12 @@ relatives au contrat de travail, salaire, conditions de travail, repos et congé
 
 a) Le 4° est ainsi rédigé : 
 
-" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité dans les
-îles Wallis et  Futuna et s'il ne dispose pas d'une autorisation de travail prévue par  les dispositions applicables
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité dans les
+îles Wallis et Futuna et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables
 localement ; ” ; 
 
-b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés
-par les mots : " applicables localement ”. 
+b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
+les mots : " applicables localement ”. 
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
@@ -16834,9 +17190,9 @@ d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces
 personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
 
 Un arrêté de l'administrateur supérieur des îles Wallis et Futuna précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "  ; 
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
 
-10° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
+10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
 localement " ; 
@@ -16860,7 +17216,8 @@ monnaie locale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 	**Cite**:
 
@@ -16870,18 +17227,52 @@ monnaie locale.
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
 	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
 	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L616-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
+	  - Code de la sécurité intérieure - art. L634-3
+
+
+#### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises
+
+###### Article L648-1
+
+Le titre Ier et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises en tant
+qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes : 
+
+1° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
+l'Espace économique européen " sont supprimés ; 
+
+2° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
+sont supprimés ; 
+
+3° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
+économique européen " sont supprimés ; 
+
+4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
+européen " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-1 (V)
+	  - Code de la sécurité intérieure - art. L612-11 (V)
+	  - Code de la sécurité intérieure - art. L612-24 (V)
+	  - Code de la sécurité intérieure - art. L612-7 (V)
 
 
 ## LIVRE VII : SÉCURITÉ CIVILE
