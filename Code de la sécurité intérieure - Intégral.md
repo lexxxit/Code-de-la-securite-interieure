@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-07-03
+Version Consolidée au 2014-08-07
 
 # Partie législative
 
@@ -12237,7 +12237,7 @@ rapports des infractions en matière de police rurale.
 
 ## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ
 
-### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS ET DE PROTECTION PHYSIQUE DES PERSONNES
+### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES
 
 #### Chapitre Ier : Dispositions générales
 
@@ -14089,6 +14089,229 @@ partie du code des transports.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+#### Chapitre VI : Activités de protection des navires
+
+##### Section 1 : Certification
+
+###### Article L616-1
+
+En vue de l'obtention de l'autorisation d'exercice mentionnée à l'article L. 612-9, les entreprises privées de protection des
+navires justifient auprès du Conseil national des activités privées de sécurité de l'obtention d'une certification dont la
+liste des prescriptions est fixée par décret en Conseil d'Etat. Les normes et référentiels applicables ainsi que les
+modalités de désignation des organismes certificateurs sont précisés par décret. 
+
+Si l'entreprise n'a pas encore exercé l'activité définie au 4° de l'article L. 611-1, le Conseil national des activités
+privées de sécurité peut lui délivrer une autorisation d'exercice provisoire pour une durée maximale de six mois, après avoir
+vérifié l'engagement par l'entreprise d'une démarche de certification. Les modalités de délivrance de l'autorisation
+d'exercice provisoire sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2014-1417 du 28 novembre 2014 - art. (V)
+	  - Décret n°2014-1417 du 28 novembre 2014 - art. 1 (V)
+	  - Code de la sécurité intérieure - art. L612-9 (V)
+	  - Code de la sécurité intérieure - art. L617-12-1 (V)
+	  - Code de la sécurité intérieure - art. L617-14 (VD)
+	  - Code de la sécurité intérieure - art. L642-1 (VD)
+	  - Code de la sécurité intérieure - art. L645-1 (V)
+	  - Code de la sécurité intérieure - art. L646-1 (V)
+	  - Code de la sécurité intérieure - art. L647-1 (V)
+	  - Code de la sécurité intérieure - art. R616-2 (V)
+	  - Code de la sécurité intérieure - art. R616-3 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+
+
+##### Section 2 : Carte professionnelle
+
+###### Article L616-2
+
+Pour exercer l'activité d'agent de protection à bord des navires, la première demande de carte professionnelle donne lieu à
+la délivrance d'une carte provisoire, d'une durée de validité d'un an. Après ce délai, en fonction du niveau d'activité
+démontré et du comportement professionnel de son détenteur, en tenant compte des informations apportées par les employeurs,
+la carte est soit délivrée de plein droit, pour le reste de la durée fixée par décret en Conseil d'Etat, soit refusée à
+l'agent. 
+
+A peine d'irrecevabilité, la première demande est accompagnée d'une lettre d'intention d'embauche rédigée par une entreprise
+titulaire de l'autorisation d'exercice mentionnée à l'article L. 612-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2015 - art. 11 (V)
+	  - Arrêté du 7 janvier 2015 - art. 2 (V)
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. R616-6 (V)
+	  - Code de la sécurité intérieure - art. R635-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-9
+
+
+##### Section 3 : Modalités d'exercice spécifiques
+
+###### Article L616-3
+
+Les modalités d'exercice spécifiques aux activités de protection des navires sont définies au chapitre II du titre IV du
+livre IV de la cinquième partie du code des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 25
+
+
+##### Section 4 : Contrôle à bord des navires
+
+###### Article L616-4
+
+I.-Outre les agents mentionnés à l'article L. 611-2, les administrateurs et officiers du corps technique et administratif des
+affaires maritimes, les commandants, commandants en second ou officiers de bâtiments de l'Etat et les commandants des
+aéronefs de l'Etat affectés à la surveillance maritime, les fonctionnaires affectés dans les services exerçant des missions
+de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer et les
+agents des douanes assurent, à bord des navires battant pavillon français et pour le compte de l'autorité administrative, le
+contrôle des personnes exerçant l'activité mentionnée au 4° de l'article L. 611-1. 
+
+II.-Lorsque l'accès à bord s'est trouvé matériellement impossible ou que des investigations approfondies qui ne peuvent être
+effectuées doivent être diligentées à bord, les commandants des bâtiments de l'Etat peuvent ordonner le déroutement du navire
+vers une position ou un port appropriés. 
+
+Les contrôles s'effectuent à toute heure. 
+
+III.-Les agents mentionnés au I du présent article peuvent vérifier les cartes professionnelles des agents exerçant
+l'activité mentionnée au 4° de l'article L. 611-1 présents à bord ainsi que les documents d'identité de toute autre personne.
+Ils peuvent obtenir communication de tous documents de bord, notamment ceux relatifs à l'activité mentionnée au même 4°. 
+
+IV.-Ils peuvent procéder à la visite des ponts et locaux des différentes zones du navire, notamment des lieux de stockage des
+armes et munitions. 
+
+V.-Lorsque les locaux sont affectés à un usage privé ou d'habitation et que le navire est en mer ou depuis moins de soixante-
+douze heures dans un port, dans une rade ou à quai, les visites sont effectuées en présence de l'occupant des lieux ou, à
+défaut, du capitaine ou de son représentant. 
+
+VI.-Lorsque la visite des locaux mentionnés au V intervient alors que le navire est dans un port, dans une rade ou à quai
+depuis soixante-douze heures au moins, elle ne peut être effectuée, en cas de refus de l'occupant des lieux, qu'après
+autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel se trouve le
+navire. 
+
+L'ordonnance ayant autorisé la visite est exécutoire au seul vu de la minute. La procédure est sans représentation
+obligatoire. La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les
+locaux durant l'intervention. A tout moment, il peut décider de l'arrêt ou de la suspension de la visite. 
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou, en son absence, au
+capitaine ou à son représentant. 
+
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. 
+
+VII.-Un procès-verbal de visite du navire est établi et contresigné par le capitaine ou son représentant, à qui une copie est
+immédiatement remise, ainsi que, le cas échéant, à l'occupant des locaux affectés à un usage privé ou d'habitation, avec
+mention des voies et délais de recours. Il est adressé au représentant de l'Etat en mer et au directeur du Conseil national
+des activités privées de sécurité. 
+
+VIII.-L'occupant des locaux mentionnés aux V et VI peut contester la régularité de leur visite devant le premier président de
+la cour d'appel selon les règles de la procédure sans représentation. 
+
+IX.-Ce recours doit être formé par déclaration remise ou adressée, par pli recommandé, au greffe de la cour dans un délai de
+quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal. Ce recours n'est pas suspensif. 
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la
+procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours. 
+
+Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 27
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-14 (V)
+
+
+###### Article L616-5
+
+Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, les agents des douanes,
+les commandants et commandants en second des navires de l'Etat, les commandants des aéronefs de l'Etat affectés à la
+surveillance maritime ainsi que, lorsqu'ils sont spécialement habilités dans des conditions fixées par décret en Conseil
+d'Etat, les administrateurs et officiers du corps technique et administratif des affaires maritimes, les officiers de la
+marine nationale, les commissaires des armées embarqués à bord des bâtiments de la marine nationale et les fonctionnaires
+affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
+disposition du ministre chargé de la mer peuvent constater, à bord des navires, les infractions au présent titre et aux
+dispositions réglementaires prises pour son application. 
+
+Le procureur de la République compétent est informé par tout moyen des infractions constatées. Les procès-verbaux de
+constatation, qui font foi jusqu'à preuve du contraire, lui sont transmis par tout moyen dans les plus brefs délais. Copie en
+est remise à la personne intéressée. 
+
+Sauf extrême urgence, il ne peut être procédé qu'avec l'autorisation du procureur de la République à des perquisitions et à
+la saisie des armes, munitions ainsi que des objets ou documents qui paraissent provenir de la commission d'une infraction au
+présent titre et aux dispositions réglementaires prises pour son application, ou qui paraissent destinés à la commettre.
+Cette autorisation est transmise par tout moyen. 
+
+Les armes, munitions, objets ou documents saisis sont placés immédiatement sous scellés. 
+
+Pour la poursuite, l'instruction et le jugement de ces infractions, sans préjudice des articles 43,52,382,706-42 et 706-75 du
+code de procédure pénale, sont compétents le procureur de la République, le juge d'instruction et la juridiction de jugement
+du lieu dans lequel le navire à bord duquel une infraction est constatée est immatriculé ou du lieu de résidence
+administrative de l'agent qui a constaté cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 29
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 382
+	  - Code de procédure pénale - art. 43
+	  - Code de procédure pénale - art. 52
+	  - Code de procédure pénale - art. 706-42
+	  - Code de procédure pénale - art. 706-75
+
+
+###### Article L616-6
+
+La demande d'autorisation, d'agrément ou de carte professionnelle est déposée dans des conditions et selon des modalités
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 12
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-742 du 1er juillet 2014 - art. 27
+
+
 #### Chapitre VII : Dispositions pénales
 
 ##### Section 1 : Conditions d'exercice
@@ -14672,243 +14895,6 @@ desquelles l'infraction a été commise.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Conditions d'exercice
-
-#### Chapitre III : Modalités d'exercice
-
-#### Chapitre IV : Services de sécurité des bailleurs d'immeuble
-
-#### Chapitre V : Services internes de sécurité  des entreprises de transport
-
-#### Chapitre VI : Activités de protection des navires
-
-##### Section 1 : Certification
-
-###### Article L616-1
-
-En vue de l'obtention de l'autorisation d'exercice mentionnée à l'article L. 612-9, les entreprises privées de protection des
-navires justifient auprès du Conseil national des activités privées de sécurité de l'obtention d'une certification dont la
-liste des prescriptions est fixée par décret en Conseil d'Etat. Les normes et référentiels applicables ainsi que les
-modalités de désignation des organismes certificateurs sont précisés par décret. 
-
-Si l'entreprise n'a pas encore exercé l'activité définie au 4° de l'article L. 611-1, le Conseil national des activités
-privées de sécurité peut lui délivrer une autorisation d'exercice provisoire pour une durée maximale de six mois, après avoir
-vérifié l'engagement par l'entreprise d'une démarche de certification. Les modalités de délivrance de l'autorisation
-d'exercice provisoire sont définies par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 6
-
-	**Cité par**:
-
-	  - Décret n°2014-1417 du 28 novembre 2014 - art. (V)
-	  - Décret n°2014-1417 du 28 novembre 2014 - art. 1 (V)
-	  - Code de la sécurité intérieure - art. L612-9 (V)
-	  - Code de la sécurité intérieure - art. L617-12-1 (V)
-	  - Code de la sécurité intérieure - art. L617-14 (VD)
-	  - Code de la sécurité intérieure - art. L642-1 (VD)
-	  - Code de la sécurité intérieure - art. L645-1 (V)
-	  - Code de la sécurité intérieure - art. L646-1 (V)
-	  - Code de la sécurité intérieure - art. L647-1 (V)
-	  - Code de la sécurité intérieure - art. R616-2 (V)
-	  - Code de la sécurité intérieure - art. R616-3 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1
-
-
-##### Section 2 : Carte professionnelle
-
-###### Article L616-2
-
-Pour exercer l'activité d'agent de protection à bord des navires, la première demande de carte professionnelle donne lieu à
-la délivrance d'une carte provisoire, d'une durée de validité d'un an. Après ce délai, en fonction du niveau d'activité
-démontré et du comportement professionnel de son détenteur, en tenant compte des informations apportées par les employeurs,
-la carte est soit délivrée de plein droit, pour le reste de la durée fixée par décret en Conseil d'Etat, soit refusée à
-l'agent. 
-
-A peine d'irrecevabilité, la première demande est accompagnée d'une lettre d'intention d'embauche rédigée par une entreprise
-titulaire de l'autorisation d'exercice mentionnée à l'article L. 612-9.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
-
-	**Cité par**:
-
-	  - Arrêté du 7 janvier 2015 - art. 11 (V)
-	  - Arrêté du 7 janvier 2015 - art. 2 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. R616-6 (V)
-	  - Code de la sécurité intérieure - art. R635-1 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-9
-
-
-##### Section 3 : Modalités d'exercice spécifiques
-
-###### Article L616-3
-
-Les modalités d'exercice spécifiques aux activités de protection des navires sont définies au chapitre II du titre IV du
-livre IV de la cinquième partie du code des transports.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 25
-
-
-##### Section 4 : Contrôle à bord des navires
-
-###### Article L616-4
-
-I.-Outre les agents mentionnés à l'article L. 611-2, les administrateurs et officiers du corps technique et administratif des
-affaires maritimes, les commandants, commandants en second ou officiers de bâtiments de l'Etat et les commandants des
-aéronefs de l'Etat affectés à la surveillance maritime, les fonctionnaires affectés dans les services exerçant des missions
-de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer et les
-agents des douanes assurent, à bord des navires battant pavillon français et pour le compte de l'autorité administrative, le
-contrôle des personnes exerçant l'activité mentionnée au 4° de l'article L. 611-1. 
-
-II.-Lorsque l'accès à bord s'est trouvé matériellement impossible ou que des investigations approfondies qui ne peuvent être
-effectuées doivent être diligentées à bord, les commandants des bâtiments de l'Etat peuvent ordonner le déroutement du navire
-vers une position ou un port appropriés. 
-
-Les contrôles s'effectuent à toute heure. 
-
-III.-Les agents mentionnés au I du présent article peuvent vérifier les cartes professionnelles des agents exerçant
-l'activité mentionnée au 4° de l'article L. 611-1 présents à bord ainsi que les documents d'identité de toute autre personne.
-Ils peuvent obtenir communication de tous documents de bord, notamment ceux relatifs à l'activité mentionnée au même 4°. 
-
-IV.-Ils peuvent procéder à la visite des ponts et locaux des différentes zones du navire, notamment des lieux de stockage des
-armes et munitions. 
-
-V.-Lorsque les locaux sont affectés à un usage privé ou d'habitation et que le navire est en mer ou depuis moins de soixante-
-douze heures dans un port, dans une rade ou à quai, les visites sont effectuées en présence de l'occupant des lieux ou, à
-défaut, du capitaine ou de son représentant. 
-
-VI.-Lorsque la visite des locaux mentionnés au V intervient alors que le navire est dans un port, dans une rade ou à quai
-depuis soixante-douze heures au moins, elle ne peut être effectuée, en cas de refus de l'occupant des lieux, qu'après
-autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel se trouve le
-navire. 
-
-L'ordonnance ayant autorisé la visite est exécutoire au seul vu de la minute. La procédure est sans représentation
-obligatoire. La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les
-locaux durant l'intervention. A tout moment, il peut décider de l'arrêt ou de la suspension de la visite. 
-
-L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou, en son absence, au
-capitaine ou à son représentant. 
-
-L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. 
-
-VII.-Un procès-verbal de visite du navire est établi et contresigné par le capitaine ou son représentant, à qui une copie est
-immédiatement remise, ainsi que, le cas échéant, à l'occupant des locaux affectés à un usage privé ou d'habitation, avec
-mention des voies et délais de recours. Il est adressé au représentant de l'Etat en mer et au directeur du Conseil national
-des activités privées de sécurité. 
-
-VIII.-L'occupant des locaux mentionnés aux V et VI peut contester la régularité de leur visite devant le premier président de
-la cour d'appel selon les règles de la procédure sans représentation. 
-
-IX.-Ce recours doit être formé par déclaration remise ou adressée, par pli recommandé, au greffe de la cour dans un délai de
-quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal. Ce recours n'est pas suspensif. 
-
-L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la
-procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours. 
-
-Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 27
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L611-2
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L617-14 (V)
-
-
-###### Article L616-5
-
-Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, les agents des douanes,
-les commandants et commandants en second des navires de l'Etat, les commandants des aéronefs de l'Etat affectés à la
-surveillance maritime ainsi que, lorsqu'ils sont spécialement habilités dans des conditions fixées par décret en Conseil
-d'Etat, les administrateurs et officiers du corps technique et administratif des affaires maritimes, les officiers de la
-marine nationale, les commissaires des armées embarqués à bord des bâtiments de la marine nationale et les fonctionnaires
-affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
-disposition du ministre chargé de la mer peuvent constater, à bord des navires, les infractions au présent titre et aux
-dispositions réglementaires prises pour son application. 
-
-Le procureur de la République compétent est informé par tout moyen des infractions constatées. Les procès-verbaux de
-constatation, qui font foi jusqu'à preuve du contraire, lui sont transmis par tout moyen dans les plus brefs délais. Copie en
-est remise à la personne intéressée. 
-
-Sauf extrême urgence, il ne peut être procédé qu'avec l'autorisation du procureur de la République à des perquisitions et à
-la saisie des armes, munitions ainsi que des objets ou documents qui paraissent provenir de la commission d'une infraction au
-présent titre et aux dispositions réglementaires prises pour son application, ou qui paraissent destinés à la commettre.
-Cette autorisation est transmise par tout moyen. 
-
-Les armes, munitions, objets ou documents saisis sont placés immédiatement sous scellés. 
-
-Pour la poursuite, l'instruction et le jugement de ces infractions, sans préjudice des articles 43,52,382,706-42 et 706-75 du
-code de procédure pénale, sont compétents le procureur de la République, le juge d'instruction et la juridiction de jugement
-du lieu dans lequel le navire à bord duquel une infraction est constatée est immatriculé ou du lieu de résidence
-administrative de l'agent qui a constaté cette infraction.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 29
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 382
-	  - Code de procédure pénale - art. 43
-	  - Code de procédure pénale - art. 52
-	  - Code de procédure pénale - art. 706-42
-	  - Code de procédure pénale - art. 706-75
-
-
-###### Article L616-6
-
-La demande d'autorisation, d'agrément ou de carte professionnelle est déposée dans des conditions et selon des modalités
-fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 12
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2014-742 du 1er juillet 2014 - art. 27
-
-
-#### Chapitre VII : Dispositions pénales
 
 ### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES
 
@@ -38825,7 +38811,7 @@ dispositions de la présente section.
 
 Les agents de police municipale peuvent être autorisés à porter les armes suivantes : 
 
-1° 1°, 3°, 6° de la catégorie B : 
+1° 1°, 3°, 6° et 8° de la catégorie B : 
 
 a) Revolvers chambrés pour le calibre 38 Spécial ; 
 
@@ -38836,9 +38822,11 @@ catégorie par arrêté du ministre de la défense et dont le calibre est au moi
 
 d) Pistolets à impulsions électriques ; 
 
+e) Générateurs d'aérosols incapacitants ou lacrymogènes ; 
+
 2° a et b du 2° de la catégorie D : 
 
-a) Matraques de type "bâton de défense" ou "tonfa", matraques ou tonfas télescopiques ;  
+a) Matraques de type "bâton de défense" ou "tonfa", matraques ou tonfas télescopiques ; 
 
 b) Générateurs d'aérosols incapacitants ou lacrymogènes ; 
 
@@ -38849,11 +38837,14 @@ c) Projecteurs hypodermiques ;
 Armes à feu tirant une ou deux balles ou projectiles non métalliques, classées dans cette catégorie par arrêté du ministre de
 la défense et dont le calibre est au moins égal à 44 mm.
 
+Les agents de police municipale sont également autorisés à porter les munitions et les systèmes d'alimentation correspondant
+aux armes qu'ils sont autorisés à porter.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-276 du 24 mars 2000 - art. 2 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -38883,17 +38874,9 @@ la défense et dont le calibre est au moins égal à 44 mm.
 	  - Code de la sécurité intérieure - art. R545-1 (VD)
 	  - Code de la sécurité intérieure - art. R545-3 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret  n°2013-1113 du 4 décembre 2013 - art., v. init.
+	  - Décret n°2014-888 du 1er août 2014 - art. 1
 
 
 ###### Article R511-13
