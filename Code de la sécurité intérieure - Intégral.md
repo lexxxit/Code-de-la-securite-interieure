@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-08-07
+Version Consolidée au 2014-08-18
 
 # Partie législative
 
@@ -375,6 +375,168 @@ commun de voyageurs par voie ferrée de la région d'Ile-de-France.
 
 
 ### TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE
+
+#### Chapitre Ier : Exercice des pouvoirs de police
+
+##### Section 1 : Pouvoirs de police du maire
+
+###### Article L131-1
+
+Le pouvoir de police du maire est défini aux chapitres II et III du titre Ier du livre II de la deuxième partie du code
+général des collectivités territoriales, sous réserve à Paris des dispositions de l'article L. 2512-13 du même code. Pour les
+départements de la Moselle, du Bas-Rhin et du Haut-Rhin, ce pouvoir est défini à la première section du chapitre II du titre
+IV du livre V de la deuxième partie du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2512-13
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L153-1 (VD)
+	  - Code de la sécurité intérieure - art. L155-1 (V)
+	  - Code de la sécurité intérieure - art. L155-2 (V)
+	  - Code de la sécurité intérieure - art. L156-1 (V)
+
+
+###### Article L131-2
+
+A Paris, le préfet de police exerce les pouvoirs de police définis aux articles L. 2512-13 et L. 2512-14 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2512-13
+
+
+##### Section 2 : Pouvoirs de police du président du conseil général
+
+###### Article L131-3
+
+Le président du conseil général exerce les pouvoirs de police afférents à la gestion du domaine du département, notamment en
+ce qui concerne la circulation sur ce domaine, dans les conditions prévues à l'article L. 3221-4 du code général des
+collectivités territoriales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3221-4
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+##### Section 3 : Pouvoirs de police du représentant de l'Etat  dans le département
+
+###### Article L131-4
+
+Sous réserve de l'article L. 122-2, le représentant de l'Etat dans le département exerce les pouvoirs de police définis au
+chapitre V du titre Ier du livre II de la deuxième partie du code général des collectivités territoriales. 
+
+Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le représentant de l'Etat exerce en
+outre le pouvoir prévu à l'article L. 2521-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2521-1
+	  - Code de la sécurité intérieure - art. L122-2
+
+
+###### Article L131-5
+
+Dans les conditions prévues par les dispositions du titre Ier du livre II de la deuxième partie du code général des
+collectivités territoriales, le représentant de l'Etat exerce son pouvoir de police dans les cas où il n'y aurait pas été
+pourvu par le maire. 
+
+Le représentant de l'Etat dans le département peut, dans les conditions prévues à l'article L. 3221-5 du même code, exercer
+les pouvoirs de police afférents à la gestion du domaine du département dans le cas où il n'y aurait pas été pourvu par le
+président du conseil général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3221-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L131-6
+
+L'exercice des pouvoirs de police dans les communes où le régime de la police d'Etat a été établi est régi par le chapitre IV
+du titre Ier du livre II de la deuxième partie du code général des collectivités territoriales. Dans les communes de la
+Moselle, du Bas-Rhin et du Haut-Rhin, les dispositions de l'article L. 2542-10 du même code sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2542-10
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L153-1 (VD)
+	  - Code de la sécurité intérieure - art. L155-1 (V)
+	  - Code de la sécurité intérieure - art. L156-1 (V)
+
 
 #### Chapitre II : Prévention de la délinquance
 
@@ -805,6 +967,8 @@ contre l'insécurité.
 
 ##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
 
+##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
+
 ###### Article L132-13
 
 Lorsqu'un établissement public de coopération intercommunale à fiscalité propre exerce la compétence relative aux dispositifs
@@ -854,6 +1018,14 @@ mettre à disposition de la ou des communes intéressées du personnel pour visi
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
+
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L156-1 (V)
@@ -861,16 +1033,10 @@ mettre à disposition de la ou des communes intéressées du personnel pour visi
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L251-2 (VD)
+	  - Code de la sécurité intérieure - art. L251-2
 
-	**Codifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
+##### Section 5 : Rôle du conseil général
 
 ##### Section 5 : Rôle du conseil général
 
@@ -917,163 +1083,7 @@ actions mises en œuvre.
 
 ##### Section 2 : Pouvoirs de police du président du conseil général
 
-###### Article L131-3
-
-Le président du conseil général exerce les pouvoirs de police afférents à la gestion du domaine du département, notamment en
-ce qui concerne la circulation sur ce domaine, dans les conditions prévues à l'article L. 3221-4 du code général des
-collectivités territoriales.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3221-4
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 ##### Section 3 : Pouvoirs de police du représentant de l'Etat  dans le département
-
-###### Article L131-4
-
-Sous réserve de l'article L. 122-2, le représentant de l'Etat dans le département exerce les pouvoirs de police définis au
-chapitre V du titre Ier du livre II de la deuxième partie du code général des collectivités territoriales. 
-
-Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le représentant de l'Etat exerce en
-outre le pouvoir prévu à l'article L. 2521-1 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2521-1 (V)
-	  - Code de la sécurité intérieure - art. L122-2 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L131-5
-
-Dans les conditions prévues par les dispositions du titre Ier du livre II de la deuxième partie du code général des
-collectivités territoriales, le représentant de l'Etat exerce son pouvoir de police dans les cas où il n'y aurait pas été
-pourvu par le maire. 
-
-Le représentant de l'Etat dans le département peut, dans les conditions prévues à l'article L. 3221-5 du même code, exercer
-les pouvoirs de police afférents à la gestion du domaine du département dans le cas où il n'y aurait pas été pourvu par le
-président du conseil général.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3221-5 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L131-6
-
-L'exercice des pouvoirs de police dans les communes où le régime de la police d'Etat a été établi est régi par le chapitre IV
-du titre Ier du livre II de la deuxième partie du code général des collectivités territoriales. Dans les communes de la
-Moselle, du Bas-Rhin et du Haut-Rhin, les dispositions de l'article L. 2542-10 du même code sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2542-10 (V)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L153-1 (VD)
-	  - Code de la sécurité intérieure - art. L155-1 (V)
-	  - Code de la sécurité intérieure - art. L156-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-##### Section 1 : Pouvoirs de police du maire
-
-###### Article L131-1
-
-Le pouvoir de police du maire est défini aux chapitres II et III du titre Ier du livre II de la deuxième partie du code
-général des collectivités territoriales, sous réserve à Paris des dispositions de l'article L. 2512-13 du même code. Pour les
-départements de la Moselle, du Bas-Rhin et du Haut-Rhin, ce pouvoir est défini à la première section du chapitre II du titre
-IV du livre V de la deuxième partie du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2512-13 (V)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L153-1 (VD)
-	  - Code de la sécurité intérieure - art. L155-1 (V)
-	  - Code de la sécurité intérieure - art. L155-2 (V)
-	  - Code de la sécurité intérieure - art. L156-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L131-2
-
-A Paris, le préfet de police exerce les pouvoirs de police définis aux articles L. 2512-13 et L. 2512-14 du code général des
-collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2512-13
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ PUBLIQUE
 
