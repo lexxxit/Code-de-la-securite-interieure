@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-08-18
+Version Consolidée au 2014-08-21
 
 # Partie législative
 
@@ -967,8 +967,6 @@ contre l'insécurité.
 
 ##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
 
-##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
-
 ###### Article L132-13
 
 Lorsqu'un établissement public de coopération intercommunale à fiscalité propre exerce la compétence relative aux dispositifs
@@ -1038,8 +1036,6 @@ mettre à disposition de la ou des communes intéressées du personnel pour visi
 
 ##### Section 5 : Rôle du conseil général
 
-##### Section 5 : Rôle du conseil général
-
 ###### Article L132-15
 
 Le conseil général concourt aux actions de prévention de la délinquance dans le cadre de l'exercice de ses compétences
@@ -1078,12 +1074,6 @@ actions mises en œuvre.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-#### Chapitre Ier : Exercice des pouvoirs de police
-
-##### Section 2 : Pouvoirs de police du président du conseil général
-
-##### Section 3 : Pouvoirs de police du représentant de l'Etat  dans le département
 
 ### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ PUBLIQUE
 
@@ -31338,7 +31328,7 @@ b) Un représentant de l'Association des maires des grandes villes de France, su
 
 c) Un représentant du groupement des autorités responsables de transport, sur proposition de son président ; 
 
-2° Cinq représentants du ministre de l'intérieur : 
+2° Six représentants du ministre de l'intérieur : 
 
 a) Le chef de l'inspection générale de l'administration ou son représentant ; 
 
@@ -31350,13 +31340,13 @@ d) Le directeur des libertés publiques et des affaires juridiques ou son repré
 
 e) Le directeur des services des systèmes d'information et de communication ou son représentant ; 
 
-3° Le délégué interministériel à la sécurité privée ; 
+f) Le délégué aux coopérations de sécurité au ministère de l'intérieur ou son représentant ; 
 
-4° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ; 
+3° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ; 
 
-5° Deux députés et deux sénateurs ; 
+4° Deux députés et deux sénateurs ; 
 
-6° Quatre personnes désignées au titre des personnalités qualifiées : 
+5° Quatre personnes désignées au titre des personnalités qualifiées : 
 
 a) Un magistrat du siège désigné par le premier président de la Cour de cassation ; 
 
@@ -31366,25 +31356,21 @@ près la cour ;
 c) Deux personnes nommées par le ministre de l'intérieur en raison de leurs compétences dans le domaine de la vidéoprotection
 ou des libertés individuelles. 
 
-Le mandat des membres mentionnés au 1° et au 6° est de cinq ans, renouvelable une fois.
+Le mandat des membres mentionnés au 1° et au 5° est de cinq ans, renouvelable une fois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-877 du 25 juillet 2011 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 31
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L251-5 (V)
+	  - Code de la sécurité intérieure - art. L251-5
 
 	**Cité par**:
 
@@ -31397,7 +31383,7 @@ Le mandat des membres mentionnés au 1° et au 6° est de cinq ans, renouvelable
 
 ###### Article R251-2
 
-Le président et le vice-président de la commission sont élus par ses membres, parmi les personnes mentionnées au 1° ou au 6°
+Le président et le vice-président de la commission sont élus par ses membres, parmi les personnes mentionnées au 1° ou au 5°
 de l'article R. 251-1.
 
 En cas d'empêchement du président pour quelque cause que ce soit, la présidence est assurée par le vice-président de la
@@ -31406,21 +31392,17 @@ la commission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-877 du 25 juillet 2011 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 32
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R251-1 (VD)
+	  - Code de la sécurité intérieure - art. R251-1
 
 
 ###### Article R251-3
@@ -33257,17 +33239,25 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">
-R. 251-1 à R. 251-12 
+R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 251-3 à R. 251-12
 
 </td>
+        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
+du code de la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
         <td align="center">
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -33284,9 +33274,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 33
 
 	**Cité par**:
 
@@ -33295,19 +33285,20 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R211-11 (VD)
-	  - Code de la sécurité intérieure - art. R211-18 (VD)
-	  - Code de la sécurité intérieure - art. R211-2 (VD)
-	  - Code de la sécurité intérieure - art. R211-21 (VD)
-	  - Code de la sécurité intérieure - art. R211-22 (VD)
-	  - Code de la sécurité intérieure - art. R211-27 (VD)
-	  - Code de la sécurité intérieure - art. R214-1 (VD)
-	  - Code de la sécurité intérieure - art. R223-2 (VD)
-	  - Code de la sécurité intérieure - art. R232-1 (VD)
-	  - Code de la sécurité intérieure - art. R234-1 (VD)
-	  - Code de la sécurité intérieure - art. R242-1 (VD)
-	  - Code de la sécurité intérieure - art. R251-1 (VD)
-	  - Code de la sécurité intérieure - art. R252-2 (VD)
+	  - Code de la sécurité intérieure - art. R211-11
+	  - Code de la sécurité intérieure - art. R211-18
+	  - Code de la sécurité intérieure - art. R211-2
+	  - Code de la sécurité intérieure - art. R211-21
+	  - Code de la sécurité intérieure - art. R211-22
+	  - Code de la sécurité intérieure - art. R211-27
+	  - Code de la sécurité intérieure - art. R214-1
+	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R234-1
+	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R251-1
+	  - Code de la sécurité intérieure - art. R251-3
+	  - Code de la sécurité intérieure - art. R252-2
 
 
 ###### Article R285-3
@@ -33563,17 +33554,25 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">
-R. 251-1 à R. 251-12 
+R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 251-3 à R. 251-12
 
 </td>
+        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
+du code de la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
         <td align="center">
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -33590,24 +33589,25 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 33
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R211-11 (VD)
-	  - Code de la sécurité intérieure - art. R211-18 (VD)
-	  - Code de la sécurité intérieure - art. R211-2 (VD)
-	  - Code de la sécurité intérieure - art. R211-21 (VD)
-	  - Code de la sécurité intérieure - art. R211-22 (VD)
-	  - Code de la sécurité intérieure - art. R211-27 (VD)
-	  - Code de la sécurité intérieure - art. R214-1 (VD)
-	  - Code de la sécurité intérieure - art. R223-2 (VD)
-	  - Code de la sécurité intérieure - art. R232-1 (VD)
-	  - Code de la sécurité intérieure - art. R242-1 (VD)
-	  - Code de la sécurité intérieure - art. R251-1 (VD)
-	  - Code de la sécurité intérieure - art. R252-2 (VD)
+	  - Code de la sécurité intérieure - art. R211-11
+	  - Code de la sécurité intérieure - art. R211-18
+	  - Code de la sécurité intérieure - art. R211-2
+	  - Code de la sécurité intérieure - art. R211-21
+	  - Code de la sécurité intérieure - art. R211-22
+	  - Code de la sécurité intérieure - art. R211-27
+	  - Code de la sécurité intérieure - art. R214-1
+	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R251-1
+	  - Code de la sécurité intérieure - art. R251-3
+	  - Code de la sécurité intérieure - art. R252-2
 
 	**Cité par**:
 
@@ -33865,17 +33865,25 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">
-R. 251-1 à R. 251-12 
+R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 251-3 à R. 251-12
 
 </td>
+        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
+du code de la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
         <td align="center">
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -33892,25 +33900,26 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 33
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R211-11 (VD)
-	  - Code de la sécurité intérieure - art. R211-18 (VD)
-	  - Code de la sécurité intérieure - art. R211-2 (VD)
-	  - Code de la sécurité intérieure - art. R211-21 (VD)
-	  - Code de la sécurité intérieure - art. R211-22 (VD)
-	  - Code de la sécurité intérieure - art. R211-27 (VD)
-	  - Code de la sécurité intérieure - art. R214-1 (VD)
-	  - Code de la sécurité intérieure - art. R223-2 (VD)
-	  - Code de la sécurité intérieure - art. R232-1 (VD)
-	  - Code de la sécurité intérieure - art. R234-1 (VD)
-	  - Code de la sécurité intérieure - art. R242-1 (VD)
-	  - Code de la sécurité intérieure - art. R251-1 (VD)
-	  - Code de la sécurité intérieure - art. R252-2 (VD)
+	  - Code de la sécurité intérieure - art. R211-11
+	  - Code de la sécurité intérieure - art. R211-18
+	  - Code de la sécurité intérieure - art. R211-2
+	  - Code de la sécurité intérieure - art. R211-21
+	  - Code de la sécurité intérieure - art. R211-22
+	  - Code de la sécurité intérieure - art. R211-27
+	  - Code de la sécurité intérieure - art. R214-1
+	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R234-1
+	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R251-1
+	  - Code de la sécurité intérieure - art. R251-3
+	  - Code de la sécurité intérieure - art. R252-2
 
 	**Cité par**:
 
@@ -34177,19 +34186,29 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
-        <td align="center">
-R. 251-1, 
-R. 251-8 à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
+        <td>
+
+R. 251-1
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td>
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
       </tr>
       <tr>
         <td align="center">
-R. 252-2 à R. 253-4
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
+</td>
+        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+réglementaire du code de la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td align="center">
+R. 252-2 à R. 253-4 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -34206,9 +34225,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-901 du 18 août 2014 - art. 33
 
 	**Cité par**:
 
@@ -34217,20 +34236,19 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R211-11 (VD)
-	  - Code de la sécurité intérieure - art. R211-18 (VD)
-	  - Code de la sécurité intérieure - art. R211-2 (VD)
-	  - Code de la sécurité intérieure - art. R211-21 (VD)
-	  - Code de la sécurité intérieure - art. R211-27 (VD)
-	  - Code de la sécurité intérieure - art. R214-1 (VD)
-	  - Code de la sécurité intérieure - art. R223-2 (VD)
-	  - Code de la sécurité intérieure - art. R232-1 (VD)
-	  - Code de la sécurité intérieure - art. R236-1 (VD)
-	  - Code de la sécurité intérieure - art. R242-1 (VD)
-	  - Code de la sécurité intérieure - art. R251-1 (VD)
-	  - Code de la sécurité intérieure - art. R251-8 (VD)
-	  - Code de la sécurité intérieure - art. R251-9 (VD)
-	  - Code de la sécurité intérieure - art. R252-2 (VD)
+	  - Code de la sécurité intérieure - art. R211-11
+	  - Code de la sécurité intérieure - art. R211-18
+	  - Code de la sécurité intérieure - art. R211-2
+	  - Code de la sécurité intérieure - art. R211-21
+	  - Code de la sécurité intérieure - art. R211-27
+	  - Code de la sécurité intérieure - art. R214-1
+	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R236-1
+	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R251-8
+	  - Code de la sécurité intérieure - art. R251-9
+	  - Code de la sécurité intérieure - art. R252-2
 
 
 ###### Article R288-3
