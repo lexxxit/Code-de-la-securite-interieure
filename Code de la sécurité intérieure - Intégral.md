@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-09-29
+Version Consolidée au 2014-10-01
 
 # Partie législative
 
@@ -684,25 +684,28 @@ prévention de la délinquance est facultative.
 Le conseil local de sécurité et de prévention de la délinquance peut constituer en son sein un ou plusieurs groupes de
 travail et d'échange d'informations à vocation territoriale ou thématique.
 
-Les faits et informations à caractère confidentiel échangés dans le cadre de ces groupes de travail ne peuvent être
-communiqués à des tiers.
+A la demande de l'autorité judiciaire, ces groupes peuvent traiter des questions relatives à l'exécution des peines et à la
+prévention de la récidive. 
+
+Des informations confidentielles peuvent être échangées dans le cadre de ces groupes. Elles ne peuvent être communiquées à
+des tiers. 
 
 L'échange d'informations est réalisé selon les modalités prévues par un règlement intérieur établi par le conseil local de
 sécurité et de prévention de la délinquance sur la proposition des membres du groupe de travail.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L156-2 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L156-2 (V)
 
 
 ###### Article L132-6
@@ -761,6 +764,8 @@ défaut, d'une personne exerçant une responsabilité éducative à l'égard de 
 
 
 ##### Section 2 : Rôle du représentant de l'Etat dans le département
+
+##### Section 2 : Rôle du représentant de l'Etat et du procureur de la République dans le département
 
 ###### Article L132-8
 
@@ -860,6 +865,58 @@ définies par des conventions que le maire signe avec l'Etat.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+###### Article L132-10-1
+
+I.-Au sein du conseil départemental de prévention de la délinquance et, le cas échéant, de la zone de sécurité prioritaire,
+l'état-major de sécurité et la cellule de coordination opérationnelle des forces de sécurité intérieure sont chargés d'animer
+et de coordonner, sur leur territoire, les actions conduites par l'administration pénitentiaire, les autres services de
+l'Etat, les collectivités territoriales, les associations et les autres personnes publiques ou privées, en vue de favoriser
+l'exécution des peines et prévenir la récidive. 
+
+Dans le cadre de leurs attributions, l'état-major de sécurité et la cellule de coordination opérationnelle des forces de
+sécurité intérieure : 
+
+1° Sont informés par le procureur de la République, au moins une fois par an, de la politique pénale mise en œuvre sur leur
+territoire ; 
+
+2° Examinent et donnent leur avis sur les conditions de mise en œuvre des mesures prévues à l'article 41-1 du code de
+procédure pénale ; 
+
+3° Organisent les modalités du suivi et du contrôle en milieu ouvert, par les services et personnes publiques ou privées
+mentionnés au premier alinéa du présent I, des personnes condamnées sortant de détention, désignées par l'autorité judiciaire
+compte tenu de leur personnalité, de leur situation matérielle, familiale et sociale ainsi que des circonstances de la
+commission des faits ; 
+
+4° Informent régulièrement les juridictions de l'application des peines ainsi que le service pénitentiaire d'insertion et de
+probation des conditions de mise en œuvre, dans le ressort, du suivi et du contrôle des personnes désignées en application du
+3° du présent I et peuvent se voir transmettre par ces mêmes juridictions et ce même service toute information que ceux-ci
+jugent utile au bon déroulement du suivi et du contrôle de ces personnes. 
+
+II.-Les informations confidentielles échangées en application du I du présent article ne peuvent être communiquées à des
+tiers. 
+
+L'échange d'informations est réalisé selon les modalités prévues par un règlement intérieur établi par le conseil
+départemental de prévention de la délinquance sur la proposition des membres des groupes de travail mentionnés au premier
+alinéa. 
+
+III.-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 36
+
+	**Cité par**:
+
+	  - Décret n°2015-1272 du 13 octobre 2015 (V)
+	  - Code de la sécurité intérieure - art. R132-6-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 41-1 (V)
+
+
 ##### Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris
 
 ###### Article L132-11
@@ -917,16 +974,19 @@ par le préfet de Paris et le préfet de police.
 Il est créé un conseil métropolitain de sécurité et de prévention de la délinquance qui coordonne les grandes orientations en
 matière de prévention de la délinquance sur le territoire de la métropole du Grand Paris. Le conseil métropolitain de
 sécurité et de prévention de la délinquance peut constituer en son sein un ou plusieurs groupes de travail et d'échange
-d'informations à vocation territoriale ou thématique. Les modalités d'application du présent alinéa sont fixées par décret. 
+d'informations à vocation territoriale ou thématique. A la demande de l'autorité judiciaire, ces groupes peuvent traiter des
+questions relatives à l'exécution des peines et à la prévention de la récidive. Des informations confidentielles peuvent être
+échangées dans le cadre de ces groupes. Elles ne peuvent être communiquées à des tiers.  Les modalités d'application du
+présent alinéa sont fixées par décret. 
 
 Les modalités de fonctionnement du conseil métropolitain de sécurité et de prévention de la délinquance sont déterminées par
 le règlement intérieur établi par le conseil de la métropole.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (M)
+	  - Loi n°2014-896 du 15 août 2014 - art. 36
 
 
 ###### Article L132-12-2
@@ -977,14 +1037,21 @@ président désigné dans les conditions prévues à l'article L. 5211-9 du code
 un conseil intercommunal de sécurité et de prévention de la délinquance.
 
 Le conseil intercommunal de sécurité et de prévention de la délinquance peut constituer en son sein un ou plusieurs groupes
-de travail et d'échange d'informations à vocation territoriale ou thématique. Les faits et informations à caractère
-confidentiel échangés dans le cadre de ces groupes de travail ne peuvent être communiqués à des tiers.
+de travail et d'échange d'informations à vocation territoriale ou thématique. A la demande de l'autorité judiciaire, ces
+groupes peuvent traiter des questions relatives à l'exécution des peines et à la prévention de la récidive. Des informations
+confidentielles peuvent être échangées dans le cadre de ces groupes. 
+
+Elles ne peuvent être communiquées à des tiers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code général des collectivités territoriales - art. L5211-59 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 36
 
 	**Cite**:
 
@@ -997,14 +1064,6 @@ confidentiel échangés dans le cadre de ces groupes de travail ne peuvent être
 	  - Code de la sécurité intérieure - art. L153-1 (VD)
 	  - Code de la sécurité intérieure - art. L154-1 (VD)
 	  - Code général des collectivités territoriales - art. L5211-59 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L132-14
@@ -1073,6 +1132,32 @@ actions mises en œuvre.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+##### Section 6 : De l'information des députés et des sénateurs
+
+###### Article L132-16
+
+Les députés et les sénateurs sont informés, à leur demande, par le président du conseil local de sécurité et de prévention de
+la délinquance ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de prévention de la délinquance,
+constitué dans la circonscription électorale dans laquelle ils ont été élus, de la tenue et de l'objet des réunions de ces
+instances. 
+
+Ils peuvent assister aux réunions de ces instances et être consultés par elles sur toute question concernant la prévention de
+la délinquance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 37
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L155-1 (V)
+	  - Code de la sécurité intérieure - art. L155-2 (V)
+	  - Code de la sécurité intérieure - art. L156-1 (V)
+	  - Code de la sécurité intérieure - art. L156-2 (VD)
 
 
 ### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ PUBLIQUE
@@ -1278,26 +1363,27 @@ Sont applicables en Polynésie française les dispositions suivantes :
 
 2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
-3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 ; 
+3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ; 
 
 4° Le titre IV.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L122-3 (VD)
-	  - Code de la sécurité intérieure - art. L131-1 (VD)
-	  - Code de la sécurité intérieure - art. L131-6 (VD)
-	  - Code de la sécurité intérieure - art. L132-6 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-896 du 15 août 2014 - art. 55
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L122-3
+	  - Code de la sécurité intérieure - art. L131-1
+	  - Code de la sécurité intérieure - art. L131-6
+	  - Code de la sécurité intérieure - art. L132-16 (VD)
+	  - Code de la sécurité intérieure - art. L132-6
 
 
 ###### Article L155-2
@@ -1356,7 +1442,7 @@ du titre VII du livre V de la deuxième partie du même code ;
 
 7° L'article L. 132-4 est ainsi rédigé : 
 
-" Art. L. 132-4. ― Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de
+" Art. L. 132-4 . ― Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de
 l'Etat, des compétences de la Polynésie française en matière sociale et des compétences des autres collectivités publiques et
 des établissements et organismes intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de
 la délinquance et en coordonne la mise en œuvre. 
@@ -1371,27 +1457,33 @@ a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance
 l'enfance délinquante " sont supprimés ; 
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont
-remplacés par les mots : " des dispositions applicables localement ".
+remplacés par les mots : " des dispositions applicables localement " ; 
+
+9° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de
+prévention de la délinquance, " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1
-	  - Code des communes
 	  - Code général des collectivités territoriales - art. L2122-18
-
-	**Cité par**:
-
-	  - Loi n°2004-193 du 27 février 2004 - art. 2 (VD)
+	  - Code de la sécurité intérieure - art. L122-1 (V)
+	  - Code de la sécurité intérieure - art. L131-1 (V)
+	  - Code de la sécurité intérieure - art. L132-16 (VD)
+	  - Code de la sécurité intérieure - art. L132-9 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2004-193 du 27 février 2004 - art. 2 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 55
 
 
 #### Chapitre VI : Dispositions applicables  en Nouvelle-Calédonie
@@ -1404,7 +1496,8 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 
 2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
-3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10 et L. 132-14 ; 
+3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10, 
+L. 132-14 et L. 132-16 ; 
 
 4° Le titre IV.
 
@@ -1416,15 +1509,17 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 1
+	  - Loi n°2014-896 du 15 août 2014 - art. 55
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L122-3
 	  - Code de la sécurité intérieure - art. L131-1
+	  - Code de la sécurité intérieure - art. L131-6 (V)
 	  - Code de la sécurité intérieure - art. L132-1
-	  - Code de la sécurité intérieure - art. L132-14
-	  - Code de la sécurité intérieure - art. L132-8
+	  - Code de la sécurité intérieure - art. L132-14 (V)
+	  - Code de la sécurité intérieure - art. L132-16 (V)
+	  - Code de la sécurité intérieure - art. L132-8 (V)
 
 
 ###### Article L156-2
@@ -1458,7 +1553,7 @@ d'urbanisme.
 
 " Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de
 la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours
-excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. ";
+excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ; 
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de police municipale et les gardes champêtres,
 en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont
@@ -1466,7 +1561,7 @@ remplacés par les mots : " en vertu de l'article 11 de la loi n° 83-634 du 13 
 fonctionnaires, ainsi que les agents de police municipale et les gardes champêtres, en vertu des dispositions applicables
 localement " ; 
 
-6° A l'article L. 122-1 :
+6° A l'article L. 122-1 : 
 
 a) Au premier alinéa, les mots : " des dispositions du code général des collectivités territoriales relatives à la prévention
 de la délinquance " sont remplacés par les mots : " des dispositions du code des communes de la Nouvelle-Calédonie relatives
@@ -1486,7 +1581,8 @@ sollicite, en tant que de besoin, le concours des agents des services fiscaux, d
 affaires économiques, du service de l'inspection du travail et des services chargés de la police de la chasse et de la pêche
 maritime et fluviale ainsi que des agents chargés de la police de l'eau et de ceux qui assurent des responsabilités en
 matière de sécurité sanitaire de la Nouvelle-Calédonie et selon lesquelles ces agents répondent aux demandes formulées par
-les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière. " ;
+les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière.
+" ; 
 
 7° L'article L. 131-1 est ainsi rédigé : 
 
@@ -1513,19 +1609,29 @@ mise en œuvre.
 L. 122-11 du code des communes de la Nouvelle-Calédonie préside un conseil local de sécurité et de prévention de la
 délinquance. " ; 
 
-10° A l'article L. 132-9 :
+10° A l'article L. 132-9 : 
 
 a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante " sont supprimés ; 
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont
-remplacés par les mots : " des dispositions applicables localement ".
+remplacés par les mots : " des dispositions applicables localement " ; 
+
+11° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de
+prévention de la délinquance, " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-634 du 13 juillet 1983 - art. 11
+	  - Loi n°83-634 du 13 juillet 1983 - art. 11 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-1 (V)
+	  - Code de la sécurité intérieure - art. L113-1 (V)
+	  - Code de la sécurité intérieure - art. L122-1 (V)
+	  - Code de la sécurité intérieure - art. L132-1 (V)
+	  - Code de la sécurité intérieure - art. L132-16 (VD)
+	  - Code de la sécurité intérieure - art. L132-5 (V)
+	  - Code de la sécurité intérieure - art. L132-9 (V)
 
 	**Codifié par**:
 
@@ -1537,7 +1643,7 @@ remplacés par les mots : " des dispositions applicables localement ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 1
+	  - Loi n°2014-896 du 15 août 2014 - art. 55
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
