@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-10-01
+Version Consolidée au 2014-10-23
 
 # Partie législative
 
@@ -762,8 +762,6 @@ défaut, d'une personne exerçant une responsabilité éducative à l'égard de 
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-##### Section 2 : Rôle du représentant de l'Etat dans le département
 
 ##### Section 2 : Rôle du représentant de l'Etat et du procureur de la République dans le département
 
@@ -30670,10 +30668,10 @@ au moins et ont fait l'objet d'une enquête administrative mentionnée à l'arti
 Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, sont autorisés à accéder aux
 données mentionnées aux articles R. 236-2 et R. 236-3 : 
 
-1° Les fonctionnaires relevant de la sous-direction de l'information générale de la direction centrale de la sécurité
+1° Les fonctionnaires relevant du service central du renseignement territorial de la direction centrale de la sécurité
 publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ; 
 
-2° Les fonctionnaires affectés dans les services d'information générale des directions départementales de la sécurité
+2° Les fonctionnaires affectés dans les services du renseignement territorial des directions départementales de la sécurité
 publique, individuellement désignés et spécialement habilités par le directeur départemental ; 
 
 3° Les fonctionnaires affectés dans les services de la préfecture de police chargés du renseignement, individuellement
@@ -30686,15 +30684,7 @@ demandes sont agréées par les responsables des services mentionnés aux 1° à
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2009-1250 du 16 octobre 2009 - art. 6 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
@@ -30703,9 +30693,13 @@ demandes sont agréées par les responsables des services mentionnés aux 1° à
 	  - Décret n°2014-1216 du 20 octobre 2014 (V)
 	  - Code de la sécurité intérieure - art. R236-7 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1216 du 20 octobre 2014 - art. 1
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R236-2 (VD)
+	  - Code de la sécurité intérieure - art. R236-2
 
 
 ###### Article R236-7
@@ -31039,11 +31033,11 @@ Dans la limite du besoin d'en connaître, y compris pour des enquêtes administr
 présent code et par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
 sécurité, sont autorisés à accéder aux données mentionnées aux articles R. 236-12 et R. 236-13 : 
 
-1° Les fonctionnaires relevant de la sous-direction de l'information générale de la direction centrale de la sécurité
+1° Les fonctionnaires relevant du service central du renseignement territorial de la direction centrale de la sécurité
 publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ; 
 
-2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les services d'information
-générale, individuellement désignés et spécialement habilités par le directeur départemental ; 
+2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les    services du renseignement
+territorial, individuellement désignés et spécialement habilités par le directeur départemental ; 
 
 3° Les fonctionnaires de la préfecture de police affectés dans les services chargés du renseignement, individuellement
 désignés et spécialement habilités par le préfet de police ; 
@@ -31064,21 +31058,13 @@ les responsables des services mentionnés aux 1° à 3°.
 
 	**Cite**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1 (V)
-	  - Code de la sécurité intérieure - art. L114-1 (V)
-	  - Code de la sécurité intérieure - art. R236-11 (VD)
-	  - Code de la sécurité intérieure - art. R236-12 (V)
-	  - Code de la sécurité intérieure - art. R236-15 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1249 du 16 octobre 2009 - art. 6 (VT)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
+	  - Code de la sécurité intérieure - art. L114-1
+	  - Code de la sécurité intérieure - art. R236-11
+	  - Code de la sécurité intérieure - art. R236-12
+	  - Code de la sécurité intérieure - art. R236-15
 
 	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
@@ -31089,6 +31075,10 @@ les responsables des services mentionnés aux 1° à 3°.
 	  - Code de la sécurité intérieure - art. R236-17 (VD)
 	  - Code de la sécurité intérieure - art. R285-3 (VD)
 	  - Code de la sécurité intérieure - art. R286-3 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1216 du 20 octobre 2014 - art. 1
 
 
 ###### Article R236-17
