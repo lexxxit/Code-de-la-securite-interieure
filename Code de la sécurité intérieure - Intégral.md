@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-11-08
+Version Consolidée au 2014-11-15
 
 # Partie législative
 
@@ -1158,14 +1158,13 @@ la délinquance.
 	  - Code de la sécurité intérieure - art. L156-2 (VD)
 
 
-### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ PUBLIQUE
+### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE
 
-#### Chapitre unique : Défenseur des droits
+#### Chapitre Ier : Dispositions générales
 
 ###### Article L141-1
 
-Le Défenseur des droits accomplit sa mission de veiller au respect de la déontologie par les personnes exerçant des activités
-de sécurité dans les conditions fixées par la loi organique n° 2011-333 du 29 mars 2011.
+La déontologie des personnes exerçant des missions ou activités de sécurité est précisée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1177,9 +1176,27 @@ de sécurité dans les conditions fixées par la loi organique n° 2011-333 du 2
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+	**Modifié par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+
+
+#### Chapitre II : Défenseur des droits
+
+###### Article L142-1
+
+Le Défenseur des droits accomplit sa mission de veiller au respect de la déontologie par les personnes exerçant des activités
+de sécurité dans les conditions fixées par la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011
+
 	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -2548,15 +2565,7 @@ autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 p
 mentionnés ci-dessus. 
 
 Un décret en Conseil d'Etat détermine les services spécialisés de renseignement mentionnés au premier alinéa du présent II et
-les modalités de leur accès aux traitements automatisés mentionnés au présent article.  
-
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2015.
-
-**Nota:**
-
-Conformément à l'article 15 II de la loi n° 2013-1168 du 18 décembre 2013, le présent article entre en vigueur à compter de
-la publication du décret en Conseil d'Etat mentionné au II de l'article L. 222-1 du code de la sécurité intérieure dans sa
-rédaction issue du présent article et au plus tard à compter du 30 juin 2014.
+les modalités de leur accès aux traitements automatisés mentionnés au présent article.
 
 **Liens relatifs à cet article**
 
@@ -2589,7 +2598,7 @@ rédaction issue du présent article et au plus tard à compter du 30 juin 2014.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 15 (V)
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 25
 
 
 ###### Article L222-2
@@ -2946,6 +2955,86 @@ application de l'article L. 132-14.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+#### Chapitre IV : Interdiction de sortie du territoire
+
+###### Article L224-1
+
+Tout Français peut faire l'objet d'une interdiction de sortie du territoire lorsqu'il existe des raisons sérieuses de penser
+qu'il projette :
+
+1° Des déplacements à l'étranger ayant pour objet la participation à des activités terroristes ;
+
+2° Ou des déplacements à l'étranger sur un théâtre d'opérations de groupements terroristes, dans des conditions susceptibles
+de le conduire à porter atteinte à la sécurité publique lors de son retour sur le territoire français.
+
+L'interdiction de sortie du territoire est prononcée par le ministre de l'intérieur pour une durée maximale de six mois à
+compter de sa notification. La décision est écrite et motivée. Le ministre de l'intérieur ou son représentant met la personne
+concernée en mesure de lui présenter ses observations dans un délai maximal de huit jours après la notification de la
+décision. Cette personne peut se faire assister par un conseil ou représenter par un mandataire de son choix.
+
+Lorsque les conditions en sont réunies, l'interdiction de sortie du territoire peut être renouvelée par décision expresse et
+motivée. Elle est levée aussitôt que ces conditions ne sont plus satisfaites. Les renouvellements consécutifs d'une
+interdiction initiale ne peuvent porter la durée globale d'interdiction au-delà de deux années.
+
+La personne qui fait l'objet d'une interdiction de sortie du territoire peut, dans le délai de deux mois suivant la
+notification de la décision et suivant la notification de chaque renouvellement, demander au tribunal administratif
+l'annulation de cette décision. Le tribunal administratif statue dans un délai de quatre mois à compter de sa saisine. Ces
+recours s'exercent sans préjudice des procédures ouvertes aux articles L. 521-1 et L. 521-2 du code de justice
+administrative.
+
+L'interdiction de sortie du territoire emporte dès son prononcé et à titre conservatoire l'invalidation du passeport et de la
+carte nationale d'identité de la personne concernée ou, le cas échéant, fait obstacle à la délivrance d'un tel document.
+L'autorité administrative informe la personne concernée par tout moyen.
+
+Dès notification de l'interdiction de sortie du territoire, et au plus tard dans les vingt-quatre heures à compter de celle-
+ci, la personne concernée est tenue de restituer son passeport et sa carte nationale d'identité.
+
+Un récépissé valant justification de son identité est remis à la personne concernée en échange de la restitution de son
+passeport et de sa carte nationale d'identité ou, à sa demande, en lieu et place de la délivrance d'un tel document. Ce
+récépissé suffit à justifier de l'identité de la personne concernée sur le territoire national en application de l'article
+1er de la loi n° 2012-410 du 27 mars 2012 relative à la protection de l'identité.
+
+Le fait de quitter ou de tenter de quitter le territoire français en violation d'une interdiction de sortie du territoire
+prise en application du présent article est puni de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+Le fait, pour toute personne s'étant vu notifier une décision d'interdiction de sortie du territoire, de se soustraire à
+l'obligation de restitution de son passeport et de sa carte nationale d'identité est puni de deux ans d'emprisonnement et de
+4 500 € d'amende.
+
+Un décret en Conseil d'Etat précise les modalités de mise en œuvre du présent article, s'agissant notamment des modalités
+d'établissement du récépissé mentionné au neuvième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2012-410 du 27 mars 2012 - art. 1
+	  - Code de justice administrative - art. L521-1
+	  - Code de justice administrative - art. L521-2
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 (V)
+	  - Arrêté du 18 février 2015 (V)
+	  - Arrêté du 23 décembre 2016 - art. 2 (V)
+	  - Code de justice administrative - art. R312-8 (V)
+	  - Code de la sécurité intérieure - art. L232-8 (V)
+	  - Code de la sécurité intérieure - art. L285-1 (M)
+	  - Code de la sécurité intérieure - art. L286-1 (M)
+	  - Code de la sécurité intérieure - art. L287-1 (M)
+	  - Code de la sécurité intérieure - art. L288-1 (M)
+	  - Code de la sécurité intérieure - art. R224-1 (V)
+	  - Code de procédure pénale - art. 706-16 (V)
+	  - Code de procédure pénale - art. 706-25-4 (V)
+	  - Code de procédure pénale - art. 706-25-6 (VT)
+	  - Code de procédure pénale - art. 706-25-7 (VT)
+	  - Code de procédure pénale - art. 706-25-9 (V)
+
+
 ### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES
 
 #### Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux
@@ -3211,6 +3300,35 @@ intérieure est applicable jusqu'au 31 décembre 2017.
 
 	  - Code de procédure pénale - art. 695-23
 	  - Code de la sécurité intérieure - art. L232-4
+	  - Code de la sécurité intérieure - art. L232-5
+
+
+###### Article L232-8
+
+Lorsque l'autorité administrative constate que les données transmises en application du présent chapitre permettent
+d'identifier une personne faisant l'objet d'une interdiction de sortie du territoire mentionnée à l'article L. 224-1, elle
+notifie à l'entreprise de transport concernée, par un moyen tenant compte de l'urgence, une décision d'interdiction de
+transport de cette personne. 
+
+En cas de méconnaissance de l'interdiction de transport par une entreprise de transport, l'amende prévue à l'article L. 232-5
+est applicable, dans les conditions prévues au même article. 
+
+Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R312-8 (V)
+	  - Code de la sécurité intérieure - art. R232-19 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L224-1
 	  - Code de la sécurité intérieure - art. L232-5
 
 
@@ -5389,23 +5507,23 @@ et des usagers dans ces transports.
 La police des aérodromes et des installations à usage aéronautique est régie par le livre III de la sixième partie du code
 des transports relatif à la circulation aérienne, en particulier le chapitre II du titre III et les chapitres Ier et II du
 titre IV. Les mesures de sûreté relatives au fret et aux colis postaux qui incombent aux transporteurs aériens sont définies
-au chapitre III du titre IV du même livre.
+au chapitre II du titre IV du même livre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L285-1 (M)
 	  - Code de la sécurité intérieure - art. L286-1 (M)
 	  - Code de la sécurité intérieure - art. L287-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre III : Sécurité des transports maritimes
@@ -5668,7 +5786,7 @@ Sont applicables en Polynésie française les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
 
 3° Le titre III ; 
 
@@ -5677,38 +5795,41 @@ L. 245-3 ;
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1.
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L211-1 (VD)
-	  - Code de la sécurité intérieure - art. L211-15 (VD)
-	  - Code de la sécurité intérieure - art. L212-1 (VD)
-	  - Code de la sécurité intérieure - art. L213-1 (VD)
-	  - Code de la sécurité intérieure - art. L214-1 (VD)
-	  - Code de la sécurité intérieure - art. L221-1 (VD)
-	  - Code de la sécurité intérieure - art. L222-1 (VD)
-	  - Code de la sécurité intérieure - art. L223-1 (VD)
-	  - Code de la sécurité intérieure - art. L241-1 (VD)
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-	  - Code de la sécurité intérieure - art. L243-1 (VD)
-	  - Code de la sécurité intérieure - art. L244-1 (VD)
-	  - Code de la sécurité intérieure - art. L245-1 (VD)
-	  - Code de la sécurité intérieure - art. L262-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L285-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-1
+	  - Code de la sécurité intérieure - art. L211-15
+	  - Code de la sécurité intérieure - art. L212-1
+	  - Code de la sécurité intérieure - art. L213-1
+	  - Code de la sécurité intérieure - art. L214-1
+	  - Code de la sécurité intérieure - art. L221-1
+	  - Code de la sécurité intérieure - art. L222-1
+	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L241-1
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L243-1
+	  - Code de la sécurité intérieure - art. L244-1
+	  - Code de la sécurité intérieure - art. L245-1
+	  - Code de la sécurité intérieure - art. L262-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L285-2 (V)
 
 
 ###### Article L285-2
@@ -5737,11 +5858,16 @@ a) Les mots : " des services ou organismes placés sous l'autorité ou la tutell
 " des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
 
 b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
-respectives "  sont remplacés par  les mots : " par des agents qualifiés de ces organismes "  ; 
+respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
 
-8°  A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
-code du travail " sont remplacés par  les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
-applicables localement ".
+8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
+code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
+applicables localement " ;
+
+9° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé : 
+
+" Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "
 
 **Liens relatifs à cet article**
 
@@ -5751,7 +5877,7 @@ applicables localement ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 	**Cite**:
 
@@ -5771,7 +5897,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
 
 3° Le titre III ; 
 
@@ -5780,39 +5906,42 @@ L. 245-3 ;
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1.
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L211-1 (VD)
-	  - Code de la sécurité intérieure - art. L211-15 (VD)
-	  - Code de la sécurité intérieure - art. L212-1 (VD)
-	  - Code de la sécurité intérieure - art. L213-1 (VD)
-	  - Code de la sécurité intérieure - art. L214-1 (VD)
-	  - Code de la sécurité intérieure - art. L221-1 (VD)
-	  - Code de la sécurité intérieure - art. L222-1 (VD)
-	  - Code de la sécurité intérieure - art. L222-3 (VD)
-	  - Code de la sécurité intérieure - art. L223-1 (VD)
-	  - Code de la sécurité intérieure - art. L241-1 (VD)
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-	  - Code de la sécurité intérieure - art. L243-1 (VD)
-	  - Code de la sécurité intérieure - art. L244-1 (VD)
-	  - Code de la sécurité intérieure - art. L245-1 (VD)
-	  - Code de la sécurité intérieure - art. L262-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L286-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-1
+	  - Code de la sécurité intérieure - art. L211-15
+	  - Code de la sécurité intérieure - art. L212-1
+	  - Code de la sécurité intérieure - art. L213-1
+	  - Code de la sécurité intérieure - art. L214-1
+	  - Code de la sécurité intérieure - art. L221-1
+	  - Code de la sécurité intérieure - art. L222-1
+	  - Code de la sécurité intérieure - art. L222-3
+	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L241-1
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L243-1
+	  - Code de la sécurité intérieure - art. L244-1
+	  - Code de la sécurité intérieure - art. L245-1
+	  - Code de la sécurité intérieure - art. L262-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L286-2 (V)
 
 
 ###### Article L286-2
@@ -5848,7 +5977,12 @@ respectives " sont remplacés par les mots : " par des agents qualifiés de ces 
 
 9° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
 code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
-applicables localement ".
+applicables localement " ;
+
+10° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé : 
+
+" Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise les zones dans lesquelles cette obligation
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "
 
 **Liens relatifs à cet article**
 
@@ -5858,18 +5992,18 @@ applicables localement ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L131-13 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-13
 	  - Code général des collectivités territoriales - art. L2215-1
 	  - Code pénal - art. 226-1
 	  - Code du travail
-	  - Code de la sécurité intérieure - art. L211-4 (V)
-	  - Code de la sécurité intérieure - art. L223-2 (V)
-	  - Code de la sécurité intérieure - art. L242-1 (V)
-	  - Code de la sécurité intérieure - art. L242-9 (V)
+	  - Code de la sécurité intérieure - art. L211-4
+	  - Code de la sécurité intérieure - art. L223-2
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L242-9
 	  - Code de la sécurité intérieure - art. L286-1
 
 
@@ -5882,7 +6016,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions suivantes :
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L.
 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
 
 3° Le titre III ; 
 
@@ -5891,39 +6025,42 @@ L. 245-3 ;
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1.
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L211-1 (VD)
-	  - Code de la sécurité intérieure - art. L211-11 (VD)
-	  - Code de la sécurité intérieure - art. L211-15 (VD)
-	  - Code de la sécurité intérieure - art. L212-1 (VD)
-	  - Code de la sécurité intérieure - art. L213-1 (VD)
-	  - Code de la sécurité intérieure - art. L214-1 (VD)
-	  - Code de la sécurité intérieure - art. L221-1 (VD)
-	  - Code de la sécurité intérieure - art. L222-1 (VD)
-	  - Code de la sécurité intérieure - art. L223-1 (VD)
-	  - Code de la sécurité intérieure - art. L241-1 (VD)
-	  - Code de la sécurité intérieure - art. L242-1 (VD)
-	  - Code de la sécurité intérieure - art. L243-1 (VD)
-	  - Code de la sécurité intérieure - art. L244-1 (VD)
-	  - Code de la sécurité intérieure - art. L245-1 (VD)
-	  - Code de la sécurité intérieure - art. L262-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L287-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-1
+	  - Code de la sécurité intérieure - art. L211-11
+	  - Code de la sécurité intérieure - art. L211-15
+	  - Code de la sécurité intérieure - art. L212-1
+	  - Code de la sécurité intérieure - art. L213-1
+	  - Code de la sécurité intérieure - art. L214-1
+	  - Code de la sécurité intérieure - art. L221-1
+	  - Code de la sécurité intérieure - art. L222-1 (V)
+	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L241-1
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L243-1
+	  - Code de la sécurité intérieure - art. L244-1
+	  - Code de la sécurité intérieure - art. L245-1
+	  - Code de la sécurité intérieure - art. L262-1 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L287-2 (V)
 
 
 ###### Article L287-2
@@ -5965,7 +6102,16 @@ respectives " sont remplacés par les mots : " par des agents qualifiés de ces 
 
 10° A l'article L. 254-1, les mots " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
 code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
-applicables localement ".
+applicables localement " ;
+
+11° L'article L. 271-1 est ainsi modifié : 
+
+a) Le deuxième alinéa est ainsi rédigé : 
+
+" Un arrêté de l'administrateur supérieur des îles Wallis et Futuna précise les zones dans lesquelles cette obligation
+s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+
+b) Le dernier alinéa est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -5975,16 +6121,16 @@ applicables localement ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 2
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 	**Cite**:
 
 	  - Code pénal - art. 226-1
-	  - Code de la sécurité intérieure - art. L211-2 (V)
-	  - Code de la sécurité intérieure - art. L211-4 (V)
-	  - Code de la sécurité intérieure - art. L223-2 (V)
-	  - Code de la sécurité intérieure - art. L242-1 (V)
-	  - Code de la sécurité intérieure - art. L242-9 (V)
+	  - Code de la sécurité intérieure - art. L211-2
+	  - Code de la sécurité intérieure - art. L211-4
+	  - Code de la sécurité intérieure - art. L223-2
+	  - Code de la sécurité intérieure - art. L242-1
+	  - Code de la sécurité intérieure - art. L242-9
 	  - Code de la sécurité intérieure - art. L287-1
 
 
@@ -5996,35 +6142,35 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 
 1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 à L. 214-3 ; 
 
-2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9 ; 
+2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9 et L. 224-1 ; 
 
-3° Au titre III : les articles L. 232-1 à L. 232-6, L. 234-1 à L. 234-3 ; 
+3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ; 
 
 4° Le titre V.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L211-11 (VD)
-	  - Code de la sécurité intérieure - art. L211-5 (VD)
-	  - Code de la sécurité intérieure - art. L214-1 (VD)
-	  - Code de la sécurité intérieure - art. L222-1 (VD)
-	  - Code de la sécurité intérieure - art. L223-1 (VD)
-	  - Code de la sécurité intérieure - art. L232-1 (VD)
-	  - Code de la sécurité intérieure - art. L234-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L288-2 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-11
+	  - Code de la sécurité intérieure - art. L211-5
+	  - Code de la sécurité intérieure - art. L214-1
+	  - Code de la sécurité intérieure - art. L222-1
+	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L232-1
+	  - Code de la sécurité intérieure - art. L234-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L288-2 (VD)
 
 
 ###### Article L288-2
@@ -10310,35 +10456,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Déontologie de la police nationale
-
-###### Article L412-1
-
-Un code de déontologie de la police nationale est édicté sous la forme d'un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-835 du 7 août 1985 - art. 4 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
-
-	**Cite**:
-
-	  - Code de déontologie de la police nationale
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 #### Chapitre III : Etablissements publics de la police nationale
 
 ##### Section unique : Institut national de police scientifique
@@ -10775,6 +10892,24 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+#### Chapitre IV : Déontologie de la police et de la gendarmerie nationales 
+
+
+
+
+
+
+###### Article L434-1
+
+Un code de déontologie commun à la police et à la gendarmerie nationales est établi par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 
 ### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER
@@ -16801,15 +16936,14 @@ Les sanctions disciplinaires applicables aux personnes physiques et morales exer
 II sont, compte tenu de la gravité des faits reprochés : l'avertissement, le blâme et l'interdiction d'exercice de l'activité
 privée de sécurité à titre temporaire pour une durée qui ne peut excéder cinq ans. En outre, les personnes morales et les
 personnes physiques non salariées peuvent se voir infliger des pénalités financières. Le montant des pénalités financières
-doit être fonction de la gravité des manquements commis et en relation avec les avantages tirés du manquement, sans pouvoir
-excéder 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos calculé sur une période de douze mois.
-Ce maximum est porté à 5 % en cas de nouvelle violation de la même obligation.
+est fonction de la gravité des manquements commis et, le cas échéant, en relation avec les avantages tirés du manquement,
+sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le respect des droits de la défense.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-6 (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -16827,13 +16961,9 @@ Ce maximum est porté à 5 % en cas de nouvelle violation de la même obligation
 	  - Code de la sécurité intérieure - art. R634-7 (VD)
 	  - Code des transports - art. R5442-16 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 
 #### Chapitre V : Dispositions finales
@@ -17061,14 +17191,7 @@ applicables localement " ;
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
 maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
-9° L'article L. 614-1 est ainsi rédigé : 
-
-" Art. L. 614-1. ― Les propriétaires, exploitants ou affectataires d'immeubles ou groupes d'immeubles collectifs à usage
-d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le justifient, une
-personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
-
-" Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ;
 
 10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -17109,7 +17232,6 @@ locale.
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 
@@ -17119,8 +17241,7 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -17171,14 +17292,7 @@ applicables localement " ;
 9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
 maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
-10° L'article L. 614-1 est ainsi rédigé : 
-
-" Art. L. 614-1. ― Les propriétaires, exploitants ou affectataires d'immeubles ou groupes d'immeubles collectifs à usage
-d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le justifient, une
-personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
-
-" Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+10° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Nouvelle-Calédonie " ; 
 
 11° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -17214,7 +17328,7 @@ locale.
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-20 (M)
+	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
@@ -17231,8 +17345,7 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -17283,14 +17396,7 @@ applicables localement " ;
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
 maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
-9° L'article L. 614-1 est ainsi rédigé : 
-
-" Art. L. 614-1. ― Les propriétaires, exploitants ou affectataires d'immeubles ou groupes d'immeubles collectifs à usage
-d'habitation peuvent constituer, lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le justifient, une
-personne morale dont l'objet est l'exercice, pour le compte de ses membres, de l'activité mentionnée à l'article L. 611-1. 
-
-Un arrêté de l'administrateur supérieur des îles Wallis et Futuna précise les zones dans lesquelles cette obligation
-s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ; 
+9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable dans les îles Wallis et Futuna " ; 
 
 10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -17316,8 +17422,7 @@ monnaie locale.
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
 
 	**Cite**:
 
@@ -17326,7 +17431,6 @@ monnaie locale.
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
