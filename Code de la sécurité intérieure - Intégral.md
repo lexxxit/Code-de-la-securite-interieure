@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-12-02
+Version Consolidée au 2014-12-29
 
 # Partie législative
 
@@ -21281,6 +21281,50 @@ utilisées pour la fabrication illicite de stupéfiants ou de substances psychot
 	  - Code de la sécurité intérieure - art. R114-6 (V)
 
 
+###### Article R114-6
+
+I.-Pour l'application de l'article L. 234-2, la consultation des traitements automatisés de données à caractère personnel
+mentionnés à l'article 230-6 du code de procédure pénale par les agents des services spécialisés de renseignement du
+ministère de la défense est effectuée par des agents individuellement désignés et spécialement habilités par le directeur
+dont ils relèvent. 
+
+Ces habilitations sont personnelles. 
+
+La compétence prévue au premier alinéa ne peut faire l'objet d'une délégation de signature. 
+
+II.-Cette consultation s'effectue sans autorisation du ministère public, par un accès direct et strictement limité aux
+données à caractère personnel qui se rapportent à des procédures judiciaires en cours ou closes, à l'exception des cas où
+sont intervenues des mesures ou décisions de classement sans suite, de non-lieu, de relaxe ou d'acquittement devenues
+définitives, ainsi que des données relatives aux victimes. 
+
+III.-Les enquêtes administratives pour lesquelles la consultation de ces traitements par les services spécialisés de
+renseignement du ministère de la défense peut intervenir sont : 
+
+1° Pour la direction générale de la sécurité extérieure, les enquêtes relatives aux autorisations ou aux habilitations
+mentionnées aux a et b du 1° et aux f et j du 3° de l'article R. 114-2, aux 1°, 2° et 3° de l'article R. 114-4 ainsi qu'au 2O
+de l'article R. 114-5 ; 
+
+2° Pour la direction de la protection et de la sécurité de la défense, les enquêtes relatives aux autorisations ou aux
+habilitations mentionnées aux a, b et c du 1° et aux f et j du 3° de l'article R. 114-2, aux 1°, 2° et 3° de l'article R.
+114-4 ainsi qu'aux 1°, 2° et 3° de l'article R. 114-5 ; 
+
+3° Pour la direction du renseignement militaire, les enquêtes relatives aux autorisations ou aux habilitations mentionnées
+aux a, b et h du 1° et j du 3° de l'article R. 114-2 ainsi qu'aux 1°, 2° et 3° de l'article R. 114-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L234-2 (V)
+	  - Code de la sécurité intérieure - art. R114-2 (V)
+	  - Code de la sécurité intérieure - art. R114-4 (V)
+	  - Code de la sécurité intérieure - art. R114-5 (V)
+
+
 ### TITRE II : ORGANISATION ADMINISTRATIVE
 
 #### Chapitre Ier : Institutions nationales
@@ -25742,6 +25786,16 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
+        <td>
+
+R. 114-6
+
+</td>
+        <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
+n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale </td>
+      </tr>
+      <tr>
         <td align="center">Au titre II 
 
 </td>
@@ -25802,9 +25856,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
 
@@ -25813,7 +25867,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D155-4 (VD)
+	  - Code de la sécurité intérieure - art. D155-4
 
 
 ###### Article R155-5
@@ -26333,6 +26387,20 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
+        <td>
+
+R. 114-6
+
+</td>
+        <td>
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
+concernant la défense et la sécurité nationale 
+
+</td>
+      </tr>
+      <tr>
         <td align="center">Au titre II 
 
 </td>
@@ -26376,9 +26444,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
 
@@ -26386,7 +26454,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D156-4 (VD)
+	  - Code de la sécurité intérieure - art. D156-4
 
 
 ###### Article R156-5
@@ -26750,24 +26818,24 @@ d'Etat et en conseil des ministres)</td>
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles D. 157-4 à R. 157-6, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau :
+colonne de droite du même tableau : 
 
 <table>
     <tbody>
       <tr>
         <td>
 
-DISPOSITIONS APPLICABLES
+DISPOSITIONS APPLICABLES 
 
 </td>
         <td>
 
-DANS LEUR RÉDACTION
+DANS LEUR RÉDACTION 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Au titre Ier
+        <td align="center">Au titre Ier 
 
 </td>
         <td align="center">
@@ -26775,16 +26843,31 @@ DANS LEUR RÉDACTION
 </td>
       </tr>
       <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4° et R. 114-3 à R. 114-5
+        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4° et R. 114-3 à R.
+114-5 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Au titre II
+        <td>
+
+R. 114-6 
+
+</td>
+        <td>
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
+du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
+concernant la défense et la sécurité nationale 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Au titre II 
 
 </td>
         <td align="center">
@@ -26793,16 +26876,16 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">R. 122-17 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1, R. 123-2, R.
-123-8, R. 123-10 et R. 123-11
+123-8, R. 123-10 et R. 123-11 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Au titre IV
+        <td align="center">Au titre IV 
 
 </td>
         <td align="center">
@@ -26810,7 +26893,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
-        <td align="center">R. 141-1
+        <td align="center">R. 141-1 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -26827,13 +26910,17 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
 
 	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. D157-4 (V)
 
 
 ###### Article R157-5
@@ -27125,6 +27212,20 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
+        <td>
+
+R. 114-6
+
+</td>
+        <td>
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
+concernant la défense et la sécurité nationale 
+
+</td>
+      </tr>
+      <tr>
         <td align="center">Au titre II 
 
 </td>
@@ -27184,13 +27285,13 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R158-4 (VD)
+	  - Code de la sécurité intérieure - art. R158-4
 
 
 ###### Article R158-4
@@ -28986,6 +29087,51 @@ ministre.
 
 ### TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION
 
+#### Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés
+
+###### Article R222-1
+
+Pour l'application du II de l'article L. 222-1, les services spécialisés de renseignement dont les agents peuvent accéder aux
+traitements automatisés de données à caractère personnel mentionnés à l'article L. 222-1 sont :
+
+- pour le ministère de la défense : la direction générale de la sécurité extérieure, la direction de la protection et de la
+sécurité de la défense et la direction du renseignement militaire ;
+
+- pour le ministère de l'intérieur : la direction générale de la sécurité intérieure ;
+
+- pour le ministère des finances et des comptes publics : la direction nationale du renseignement et des enquêtes douanières
+et le service à compétence nationale dénommé " traitement du renseignement et action contre les circuits financiers
+clandestins ". 
+
+L'accès de ces services aux traitements visés au I de l'article L. 222-1 est limité à la consultation et ne peut donner lieu
+à aucune interconnexion avec d'autres traitements. 
+
+Les consultations font l'objet d'un enregistrement de l'identification du consultant, de la date et l'heure de la
+consultation. Les informations relatives aux consultations sont conservées dans les traitements pendant une durée de trois
+ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 11-1 (Ab)
+	  - Décret n°2005-1726 du 30 décembre 2005 - art. 21-1 (Ab)
+	  - Décret n°2012-20 du 6 janvier 2012 - art. 17 (V)
+	  - Décret n°2016-1460 du 28 octobre 2016 - art. 4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (V)
+	  - Code de la route. - art. R225-4 (V)
+	  - Code de la route. - art. R330-2 (VT)
+
+	**Créé par**:
+
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L222-1 (V)
+
+
 #### Chapitre III : Mise en œuvre de systèmes de vidéoprotection
 
 ###### Article R223-1
@@ -30569,6 +30715,32 @@ Dans les autres cas, l'intéressé est informé lors de la notification de la d�
 	  - Code de la sécurité intérieure - art. R285-1 (M)
 	  - Code de la sécurité intérieure - art. R286-1 (M)
 	  - Code de la sécurité intérieure - art. R287-1 (M)
+
+
+###### Article R234-2
+
+Pour l'application du 2° de l'article L. 234-2, les services spécialisés de renseignement dont les agents peuvent accéder aux
+traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale sont :
+
+- pour le ministère de la défense : la direction générale de la sécurité extérieure, la direction de la protection et de la
+sécurité de la défense et la direction du renseignement militaire ;
+
+- pour le ministère de l'intérieur : la direction générale de la sécurité intérieure ;
+
+- pour le ministère des finances et des comptes publics : la direction nationale du renseignement et des enquêtes douanières
+et le service à compétence nationale dénommé " traitement du renseignement et action contre les circuits financiers
+clandestins ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 230-6 (V)
+	  - Code de la sécurité intérieure - art. L234-2 (V)
 
 
 #### Chapitre VI : Autres traitements automatisés de données personnelles
@@ -33972,6 +34144,16 @@ Au titre II
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 222-1
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale </td>
+    </tr>
+    <tr>
       <td align="center">
 R. 223-2 
 
@@ -34016,14 +34198,36 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 234-1 à R. 236-45 
+      <td align="center">R. 234-1 
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 234-2
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 236-1 à R. 236-45 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -34108,7 +34312,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
 
@@ -34125,7 +34329,6 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
-	  - Code de la sécurité intérieure - art. R234-1
 	  - Code de la sécurité intérieure - art. R242-1
 	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-3
@@ -34330,6 +34533,16 @@ Au titre II
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 222-1
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale </td>
+    </tr>
+    <tr>
       <td align="center">
 R. 223-2 
 
@@ -34372,13 +34585,36 @@ dénommé "système API-PNR France' pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 à R. 236-45 
+      <td align="center">R. 234-1
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 234-2
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 236-1 à R. 236-45 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -34464,7 +34700,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cite**:
 
@@ -34683,6 +34919,16 @@ Au titre II
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 222-1
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale</td>
+    </tr>
+    <tr>
       <td align="center">
 R. 223-2 
 
@@ -34725,16 +34971,36 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 234-1 à R. 236-45 
+      <td align="center">R. 234-1 
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 234-2 
+
+</td>
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 236-1 à R. 236-45 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
       <td align="center">
@@ -34818,7 +35084,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cite**:
 
@@ -35040,6 +35306,16 @@ Au titre II
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 222-1
+
+</td>
+      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale </td>
+    </tr>
+    <tr>
       <td align="center">
 R. 223-2 
 
@@ -35173,7 +35449,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
 
