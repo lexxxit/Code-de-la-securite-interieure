@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-12-29
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -383,9 +383,10 @@ commun de voyageurs par voie ferrée de la région d'Ile-de-France.
 ###### Article L131-1
 
 Le pouvoir de police du maire est défini aux chapitres II et III du titre Ier du livre II de la deuxième partie du code
-général des collectivités territoriales, sous réserve à Paris des dispositions de l'article L. 2512-13 du même code. Pour les
-départements de la Moselle, du Bas-Rhin et du Haut-Rhin, ce pouvoir est défini à la première section du chapitre II du titre
-IV du livre V de la deuxième partie du même code.
+général des collectivités territoriales, sous réserve à Paris des dispositions de l'article L. 2512-13 du même code et dans
+la métropole de Lyon des dispositions de l'article L. 3642-2 du même code. Pour les départements de la Moselle, du Bas-Rhin
+et du Haut-Rhin, ce pouvoir est défini à la première section du chapitre II du titre IV du livre V de la deuxième partie du
+même code.
 
 **Liens relatifs à cet article**
 
@@ -393,13 +394,9 @@ IV du livre V de la deuxième partie du même code.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2014-896 du 15 août 2014 - art. 36
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2512-13
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 11
 
 	**Cité par**:
 
@@ -427,6 +424,18 @@ collectivités territoriales.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2512-13
+
+
+###### Article L131-2-1
+
+Dans la métropole de Lyon, le président du conseil de la métropole exerce les pouvoirs de police mentionnés à l'article L.
+3642-2 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 11
 
 
 ##### Section 2 : Pouvoirs de police du président du conseil général
@@ -645,13 +654,17 @@ des organismes intéressés, le maire anime, sur le territoire de la commune, la
 en coordonne la mise en œuvre. A cette fin, il peut convenir avec l'Etat ou les autres personnes morales intéressées des
 modalités nécessaires à la mise en œuvre des actions de prévention de la délinquance. 
 
-Dans les communes de plus de 10 000 habitants et dans les communes comprenant une zone urbaine sensible telle que définie par
-le 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des
+Dans les communes de plus de 10 000 habitants et dans les communes comprenant un quartier prioritaire de la politique de la
+ville, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des
 collectivités territoriales préside un conseil local de sécurité et de prévention de la délinquance. Lorsque, en application
 de l'article L. 132-13, il est créé un conseil intercommunal de sécurité et de prévention de la délinquance, la mise en place
 par les communes membres de l'établissement public de coopération intercommunale d'un conseil local de sécurité et de
 prévention de la délinquance est facultative.
+
+**Nota:**
+
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
+fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -659,24 +672,20 @@ prévention de la délinquance est facultative.
 
 	  - Loi n°95-115 du 4 février 1995 - art. 42
 	  - Code général des collectivités territoriales - art. L2122-18
-	  - Code de la sécurité intérieure - art. L132-13 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L132-15 (VD)
-	  - Code des transports - art. R1632-3 (V)
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L2211-4 (VT)
+	  - Code de la sécurité intérieure - art. L132-13
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2014-173 du 21 février 2014 - art. 26
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L132-15 (VD)
+	  - Code des transports - art. R1632-3 (V)
 
 
 ###### Article L132-5
@@ -2601,61 +2610,6 @@ les modalités de leur accès aux traitements automatisés mentionnés au prése
 	  - Loi n°2014-1353 du 13 novembre 2014 - art. 25
 
 
-###### Article L222-2
-
-Les agents dûment habilités des services de la police et de la gendarmerie nationales spécialement chargés de la prévention
-des actes de terrorisme peuvent accéder aux données conservées par les opérateurs de communications électroniques dans les
-conditions définies à l'article L. 34-1-1 du code des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L34-1-1
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L222-3
-
-Les agents dûment habilités des services de la police et de la gendarmerie nationales spécialement chargés de la prévention
-des actes de terrorisme peuvent accéder aux données conservées par les prestataires de services de communication au public en
-ligne dans les conditions définies au II bis de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L286-1 (M)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 #### Chapitre III : Mise en œuvre de systèmes de vidéoprotection
 
 ###### Article L223-1
@@ -4286,28 +4240,43 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 ###### Article L243-7
 
 La commission remet chaque année au Premier ministre un rapport sur les conditions d'exercice et les résultats de son
-activité, qui précise notamment le nombre de recommandations qu'elle a adressées au Premier ministre en application de
-l'article L. 243-8 et au ministre de l'intérieur en application de l'article L. 34-1-1 du code des postes et des
-communications électroniques et de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie
-numérique, ainsi que les suites qui leur ont été données. Ce rapport est rendu public. 
+activité, qui précise notamment le nombre de recommandations qu'elle a adressées au Premier ministre en application 
+des articles L. 243-8, 
+L. 246-3 et L. 246-4, ainsi que les suites qui leur ont été données. Ce rapport est rendu public. 
 
 La commission adresse, à tout moment, au Premier ministre les observations qu'elle juge utiles.
+
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2004-575 du 21 juin 2004 - art. 6
-	  - Code des postes et des communications électroni... - art. L34-1-1 (VT)
-	  - Code de la sécurité intérieure - art. L243-8 (VD)
+	  - Code des postes et des communications électroniques - art. L34-1-1
+	  - Code de la sécurité intérieure - art. L243-8 (Ab)
+	  - Code de la sécurité intérieure - art. L246-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ##### Section 2 : Missions
@@ -4484,35 +4453,6 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 	  - Code de la sécurité intérieure - art. L243-9 (Ab)
 
 
-###### Article L243-12
-
-La Commission nationale de contrôle des interceptions de sécurité exerce les attributions définies à l'article L. 34-1-1 du
-code des postes et des communications électroniques et à l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
-dans l'économie numérique en ce qui concerne les demandes de communication de données formulées auprès des opérateurs de
-communications électroniques et personnes mentionnées à l'article L. 34-1 du code précité ainsi que des prestataires
-mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 précitée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6
-	  - Code des postes et des communications électroniques - art. L34-1
-	  - Code des postes et des communications électroniques - art. L34-1-1
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 #### Chapitre IV : Obligations des opérateurs  et prestataires de services
 
 ###### Article L244-1
@@ -4683,22 +4623,263 @@ habilitées est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 ###### Article L245-3
 
 Le fait par une personne exploitant un réseau de communications électroniques ou fournissant des services de communications
-électroniques de refuser, en violation du premier alinéa de l'article L. 244-2, de communiquer les informations ou documents
-ou de communiquer des renseignements erronés est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+électroniques de refuser, en violation des articles L. 246-1 à L. 246-3 et du premier alinéa de l'article L. 244-2, de
+communiquer les informations ou documents ou de communiquer des renseignements erronés est puni de six mois d'emprisonnement
+et de 7 500 euros d'amende.
+
+**Nota:**
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-2 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L244-2
+	  - Code de la sécurité intérieure - art. L246-1
+
+
+### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Conditions des interceptions
+
+#### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
+
+#### Chapitre IV : Obligations des opérateurs  et prestataires de services
+
+#### Chapitre V : Dispositions pénales
+
+#### Chapitre VI : Accès administratif aux données de connexion
+
+###### Article L246-1
+
+Pour les finalités énumérées à l'article L. 241-2, peut être autorisé le recueil, auprès des opérateurs de communications
+électroniques et des personnes mentionnées à l'article L. 34-1 du code des postes et des communications électroniques ainsi
+que des personnes mentionnées aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique, des informations ou documents traités ou conservés par leurs réseaux ou services de communications
+électroniques, y compris les données techniques relatives à l'identification des numéros d'abonnement ou de connexion à des
+services de communications électroniques, au recensement de l'ensemble des numéros d'abonnement ou de connexion d'une
+personne désignée, à la localisation des équipements terminaux utilisés ainsi qu'aux communications d'un abonné portant sur
+la liste des numéros appelés et appelants, la durée et la date des communications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+	  - Code des postes et des communications électroniques - art. L34-1
+	  - Code de la sécurité intérieure - art. L241-2
+
 	**Créé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L245-3 (Ab)
+	  - Code de la sécurité intérieure - art. L246-2 (VT)
+	  - Code de la sécurité intérieure - art. L246-3 (T)
+	  - Code de la sécurité intérieure - art. L246-4 (VT)
+	  - Code de la sécurité intérieure - art. L246-5 (T)
+	  - Code de la sécurité intérieure - art. R246-1 (Ab)
+	  - Code de la sécurité intérieure - art. R246-2 (Ab)
+	  - Code de la sécurité intérieure - art. R246-6 (Ab)
+	  - Code de la sécurité intérieure - art. R246-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+
+
+###### Article L246-2
+
+I. ― Les informations ou documents mentionnés à l'article L. 246-1 sont sollicités par les agents individuellement désignés
+et dûment habilités des services relevant des ministres chargés de la sécurité intérieure, de la défense, de l'économie et du
+budget, chargés des missions prévues à l'article L. 241-2. 
+
+II. ― Les demandes des agents sont motivées et soumises à la décision d'une personnalité qualifiée placée auprès du Premier
+ministre. Cette personnalité est désignée pour une durée de trois ans renouvelable par la Commission nationale de contrôle
+des interceptions de sécurité, sur proposition du Premier ministre qui lui présente une liste d'au moins trois noms. Des
+adjoints pouvant la suppléer sont désignés dans les mêmes conditions. La personnalité qualifiée établit un rapport d'activité
+annuel adressé à la Commission nationale de contrôle des interceptions de sécurité. Ces décisions, accompagnées de leur
+motif, font l'objet d'un enregistrement et sont communiquées à la Commission nationale de contrôle des interceptions de
+sécurité.
+
+**Nota:**
+
+En application du II de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services mentionnés aux articles L. 811-2 et R. 811-1
+du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L. 851-1 du même code et au plus
+tard jusqu'au 31 mars 2016. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce
+les compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 21 (V)
+	  - Code de la sécurité intérieure - art. R246-2 (Ab)
+	  - Code de la sécurité intérieure - art. R246-3 (Ab)
+	  - Code de la sécurité intérieure - art. R246-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
+	  - Code de la sécurité intérieure - art. L246-1
+
+
+###### Article L246-3
+
+Pour les finalités énumérées à l'article L. 241-2, les informations ou documents mentionnés à l'article L. 246-1 peuvent être
+recueillis sur sollicitation du réseau et transmis en temps réel par les opérateurs aux agents mentionnés au I de l'article
+L. 246-2. 
+
+L'autorisation de recueil de ces informations ou documents est accordée, sur demande écrite et motivée des ministres de la
+sécurité intérieure, de la défense, de l'économie et du budget ou des personnes que chacun d'eux a spécialement désignées,
+par décision écrite du Premier ministre ou des personnes spécialement désignées par lui, pour une durée maximale de trente
+jours. Elle peut être renouvelée, dans les mêmes conditions de forme et de durée. Elle est communiquée dans un délai de
+quarante-huit heures au président de la Commission nationale de contrôle des interceptions de sécurité. 
+
+Si celui-ci estime que la légalité de cette autorisation au regard des dispositions du présent titre n'est pas certaine, il
+réunit la commission, qui statue dans les sept jours suivant la réception par son président de la communication mentionnée au
+deuxième alinéa. 
+
+Au cas où la commission estime que le recueil d'une donnée de connexion a été autorisé en méconnaissance des dispositions du
+présent titre, elle adresse au Premier ministre une recommandation tendant à ce qu'il y soit mis fin. 
+
+Elle porte également cette recommandation à la connaissance du ministre ayant proposé le recueil de ces données et du
+ministre chargé des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
+	  - Code de la sécurité intérieure - art. L246-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L243-7 (Ab)
+	  - Code de la sécurité intérieure - art. R246-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L851-4 (V)
+
+
+###### Article L246-4
+
+La Commission nationale de contrôle des interceptions de sécurité dispose d'un accès permanent au dispositif de recueil des
+informations ou documents mis en œuvre en vertu du présent chapitre, afin de procéder à des contrôles visant à s'assurer du
+respect des conditions fixées aux articles L. 246-1 à L. 246-3. En cas de manquement, elle adresse une recommandation au
+Premier ministre. Celui-ci fait connaître à la commission, dans un délai de quinze jours, les mesures prises pour remédier au
+manquement constaté. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la Commission
+nationale de l'informatique et des libertés et de la Commission nationale de contrôle des interceptions de sécurité, qui
+précise notamment la procédure de suivi des demandes et les conditions et durée de conservation des informations ou documents
+transmis.
+
+**Nota:**
+
+En application du II de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services mentionnés aux articles L. 811-2 et R. 811-1
+du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L. 851-1 du même code et au plus
+tard jusqu'au 31 mars 2016. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce
+les compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
+
+En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
+abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
+articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
+811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
+compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-1
+
+
+###### Article L246-5
+
+Les surcoûts identifiables et spécifiques éventuellement exposés par les opérateurs et personnes mentionnées à l'article L.
+246-1 pour répondre à ces demandes font l'objet d'une compensation financière de la part de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-1
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L871-7 (V)
 
 
 ### TITRE V : VIDÉOPROTECTION
@@ -28586,39 +28767,56 @@ géographiques où ces moyens seront employés.
 
 ### TITRE IV : INTERCEPTIONS DE SÉCURITÉ
 
-#### Chapitre II : Conditions des interceptions
+#### Chapitre Ier : Dispositions générales
 
-##### Section 1 : Groupement interministériel de contrôle
+###### Article R241-1
 
-###### Article R242-1
-
-Le groupement interministériel de contrôle est un service du Premier ministre chargé des interceptions de sécurité.
+Le groupement interministériel de contrôle est un service du Premier ministre chargé des interceptions de sécurité et de
+l'accès administratif aux données de connexion dans les conditions fixées aux chapitres II et VI du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-497 du 12 avril 2002 - art. 1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 	**Créé par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cité par**:
 
+	  - Code de la sécurité intérieure - art. R241-6 (V)
+	  - Code de la sécurité intérieure - art. R241-7 (V)
 	  - Code de la sécurité intérieure - art. R285-1 (M)
 	  - Code de la sécurité intérieure - art. R286-1 (M)
 	  - Code de la sécurité intérieure - art. R287-1 (M)
 	  - Code de la sécurité intérieure - art. R288-1 (M)
 
+
+###### Article R241-2
+
+Le directeur du groupement interministériel de contrôle est nommé par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R241-3 (V)
+	  - Code de la sécurité intérieure - art. R241-4 (V)
+
+
+#### Chapitre II : Conditions des interceptions
+
+##### Section 1 : Groupement interministériel de contrôle
 
 ###### Article R242-2
 
@@ -28662,29 +28860,6 @@ enregistrements effectués, dans les conditions fixées par l'article L. 242-6.
 	  - Code de la sécurité intérieure - art. R286-1 (M)
 	  - Code de la sécurité intérieure - art. R287-1 (M)
 	  - Code de la sécurité intérieure - art. R288-1 (M)
-
-
-###### Article R242-3
-
-Le directeur du groupement interministériel de contrôle est nommé par arrêté du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-497 du 12 avril 2002 - art. 3 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
 
 
 ##### Section 2 : Réalisation des opérations matérielles  nécessaires à la mise en place des interceptions
@@ -29083,6 +29258,339 @@ ministre.
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L244-1
+
+
+### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Conditions des interceptions
+
+#### Chapitre IV : Obligations des opérateurs et prestataires de services
+
+#### Chapitre VI : Accès administratif aux données de connexion
+
+###### Article R246-1
+
+Pour l'application de l'article L. 246-1, les informations et les documents pouvant faire, à l'exclusion de tout autre,
+l'objet d'une demande de recueil sont ceux énumérés aux articles R. 10-13 et R. 10-14 du code des postes et des
+communications électroniques et à l'article 1er du décret n° 2011-219 du 25 février 2011 modifié relatif à la conservation et
+à la communication des données permettant d'identifier toute personne ayant contribué à la création d'un contenu mis en
+ligne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-219 du 25 février 2011 - art. 1
+	  - Code des postes et des communications électroniques - art. R10-13
+	  - Code de la sécurité intérieure - art. L246-1
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R285-1 (M)
+	  - Code de la sécurité intérieure - art. R286-1 (M)
+	  - Code de la sécurité intérieure - art. R287-1 (M)
+	  - Code de la sécurité intérieure - art. R288-1 (M)
+
+
+###### Article R246-2
+
+I.-Pour l'application du I de l'article L. 246-2, les services relevant des ministres chargés de la sécurité intérieure, de
+la défense, de l'économie et du budget dont les agents peuvent solliciter les informations et les documents mentionnés à
+l'article L. 246-1 sont : 
+
+1° Au ministère de l'intérieur : 
+
+a) La direction générale de la sécurité intérieure ; 
+
+b) A la direction générale de la police nationale :
+
+- l'unité de coordination de la lutte antiterroriste ;
+
+- la direction centrale de la police judiciaire ;
+
+- à la direction centrale de la sécurité publique : le service central du renseignement territorial ; les services
+départementaux du renseignement territorial et les sûretés départementales au sein des directions départementales de la
+sécurité publique ;
+
+- à la direction centrale de la police aux frontières : l'office central pour la répression de l'immigration irrégulière et
+de l'emploi d'étrangers sans titre au sein de la sous-direction de l'immigration irrégulière et des services territoriaux ; 
+
+c) A la direction générale de la gendarmerie nationale :
+
+- à la direction des opérations et de l'emploi : la sous-direction de la police judiciaire ; la sous-direction de
+l'anticipation opérationnelle ;
+
+- au pôle judiciaire : le service technique de recherches judiciaires et de documentation ;
+
+- les sections de recherches ; 
+
+d) A la préfecture de police :
+
+- la direction du renseignement ;
+
+- la direction régionale de la police judiciaire ;
+
+- à la direction de la sécurité de proximité de l'agglomération parisienne : le service transversal d'agglomération des
+événements au sein de la sous-direction des services spécialisés de l'agglomération ; la cellule de suivi du plan de lutte
+contre les bandes au sein de la sous-direction de la police d'investigation territoriale ; la sûreté régionale des transports
+au sein de la sous-direction régionale de la police des transports ; les sûretés territoriales au sein des directions
+territoriales de sécurité de proximité ; 
+
+2° Au ministère de la défense : 
+
+a) La direction générale de la sécurité extérieure ; 
+
+b) La direction de la protection et de la sécurité de la défense ; 
+
+c) La direction du renseignement militaire ; 
+
+3° Au ministère des finances et des comptes publics : 
+
+a) Le service à compétence nationale dénommé direction nationale du renseignement et des enquêtes douanières ; 
+
+b) Le service à compétence nationale dénommé traitement du renseignement et action contre les circuits financiers
+clandestins. 
+
+II.-Seuls peuvent solliciter ces informations et ces documents les agents individuellement désignés et dûment habilités par
+le directeur dont ils relèvent.
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2015-1639 du 11 décembre 2015, les dispositions de l'article R. 246-2 sont abrogées
+en tant qu'elles concernent les services mentionnés à l'article R. 811-2 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 10 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-1 (V)
+	  - Code de la sécurité intérieure - art. L246-2 (V)
+
+
+###### Article R246-3
+
+Afin de permettre la désignation de la personnalité qualifiée mentionnée au II de l'article L. 246-2 et de ses adjoints, le
+Premier ministre transmet à la Commission nationale de contrôle des interceptions de sécurité, pour chaque poste à pourvoir,
+une liste d'au moins trois personnes choisies en raison de leur compétence et de leur impartialité. Ces propositions sont
+motivées. Elles sont adressées à la commission au moins trois mois avant le terme du mandat de la personnalité qualifiée et
+de ses adjoints. La commission désigne, au sein des listes, la personnalité qualifiée et ses adjoints deux mois au plus tard
+après avoir reçu les propositions. 
+
+Toute décision désignant la personnalité qualifiée et ses adjoints est notifiée sans délai au Premier ministre par la
+commission et publiée au Journal officiel de la République française. 
+
+Les adjoints de la personnalité qualifiée sont au maximum au nombre de quatre.
+
+**Nota:**
+
+Ces dispositions entrent en vigueur le 1er janvier 2015. Toutefois, les délais mentionnés à l'article R. 246-3 du code de la
+sécurité intérieure ne sont pas applicables à la première désignation, après l'entrée en vigueur du décret n° 2014-1576 du 24
+décembre 2014, de la personnalité qualifiée et de ses adjoints mentionnés au II de l'article L. 246-2 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-2
+
+
+###### Article R246-4
+
+Les demandes de recueil d'informations ou de documents prévues à l'article L. 246-2 comportent : 
+
+a) Le nom, le prénom et la qualité du demandeur ainsi que son service d'affectation et l'adresse de celui-ci ; 
+
+b) La nature précise des informations ou des documents dont le recueil est demandé et, le cas échéant, la période
+concernée ; 
+
+c) La date de la demande et sa motivation au regard des finalités mentionnées à l'article L. 241-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
+	  - Code de la sécurité intérieure - art. L246-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R246-6 (Ab)
+
+
+###### Article R246-5
+
+Le Premier ministre enregistre et conserve pendant une durée maximale de trois ans, dans un traitement automatisé qu'il met
+en œuvre, les demandes des agents et les décisions de la personnalité qualifiée ou de ses adjoints. 
+
+Ces demandes et ces décisions sont automatiquement effacées du traitement, sous l'autorité du Premier ministre, à
+l'expiration de la durée de conservation. Le directeur du groupement interministériel de contrôle adresse chaque année à la
+Commission nationale de contrôle des interceptions de sécurité un procès-verbal certifiant que l'effacement a été effectué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R246-6 (Ab)
+	  - Code de la sécurité intérieure - art. R246-7 (Ab)
+	  - Code de la sécurité intérieure - art. R246-8 (Ab)
+
+
+###### Article R246-6
+
+Les demandes approuvées par la personnalité qualifiée ou par ses adjoints sont adressées par le groupement interministériel
+de contrôle, sans les éléments mentionnés aux a et c de l'article R. 246-4, aux opérateurs et aux personnes mentionnés à
+l'article L. 246-1. Ces derniers transmettent sans délai les informations ou les documents demandés au groupement
+interministériel de contrôle, qui les met à disposition de l'auteur de la demande pour exploitation. 
+
+La transmission des informations ou des documents par les opérateurs et les personnes mentionnés à l'article L. 246-1 au
+groupement interministériel de contrôle est effectuée selon des modalités assurant leur sécurité, leur intégrité et leur
+suivi. 
+
+Le Premier ministre enregistre et conserve pendant une durée maximale de trois ans, dans un traitement automatisé qu'il met
+en œuvre, les informations ou les documents transmis par les opérateurs et les personnes mentionnés à l'article L. 246-1. Ces
+informations ou ces documents sont automatiquement effacés du traitement dans les conditions prévues à l'article R. 246-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-1
+	  - Code de la sécurité intérieure - art. R246-4 (Ab)
+	  - Code de la sécurité intérieure - art. R246-5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R246-7 (Ab)
+
+
+###### Article R246-7
+
+Les demandes de recueil d'informations ou de documents, impliquant sollicitation du réseau et transmission en temps réel,
+prévues à l'article L. 246-3 comportent, outre leur date et leur motivation au regard des finalités mentionnées à l'article
+L. 241-2, la nature précise des informations ou des documents dont le recueil est demandé et la durée de ce recueil. 
+
+Les demandes des ministres ou des personnes spécialement désignées par eux et les décisions du Premier ministre ou des
+personnes spécialement désignées par lui sont enregistrées, conservées et effacées dans les conditions prévues à l'article R.
+246-5. 
+
+Les demandes approuvées par le Premier ministre ou par les personnes spécialement désignées par lui sont adressées par le
+groupement interministériel de contrôle, sans leur motivation, aux opérateurs et aux personnes mentionnés à l'article L.
+246-1. 
+
+La sollicitation du réseau prévue à l'article L. 246-3 est effectuée par l'opérateur qui exploite le réseau. Les informations
+ou les documents demandés sont transmis, enregistrés, conservés et effacés dans les conditions prévues à l'article R. 246-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-2
+	  - Code de la sécurité intérieure - art. L246-3
+	  - Code de la sécurité intérieure - art. R246-5
+	  - Code de la sécurité intérieure - art. R246-6 (Ab)
+
+
+###### Article R246-8
+
+La Commission nationale de contrôle des interceptions de sécurité dispose d'un accès permanent aux traitements automatisés
+mentionnés aux articles R. 246-5, R. 246-6 et R. 246-7. 
+
+L'autorité ayant approuvé une demande de recueil d'informations ou de documents fournit à la commission tous éclaircissements
+que celle-ci sollicite sur cette demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R246-5 (Ab)
+
+
+###### Article R246-9
+
+Les coûts identifiables et spécifiques supportés par les opérateurs et les personnes mentionnés à l'article L. 246-1 pour la
+transmission des informations ou des documents font l'objet d'un remboursement par l'Etat par référence aux tarifs et selon
+des modalités fixés par un arrêté des ministres chargés de la sécurité intérieure, de la défense, de l'économie, du budget et
+des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L246-1
 
 
 ### TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION
@@ -34204,7 +34712,7 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -34216,14 +34724,12 @@ R. 234-2
 </td>
       <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
-dispositions concernant la défense et la sécurité nationale 
-
-</td>
+dispositions concernant la défense et la sécurité nationale</td>
     </tr>
     <tr>
       <td>
 
-R. 236-1 à R. 236-45 
+R. 236-1 à R. 236-45
 
 </td>
       <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
@@ -34242,16 +34748,31 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 242-1 à R. 244-6 
-
-</td>
+      <td align="center">R. 241-1 et R. 241-2</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 246-1 à R. 246-9 
+
+</td>
+      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -34312,6 +34833,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
@@ -34329,6 +34851,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R234-1
 	  - Code de la sécurité intérieure - art. R242-1
 	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-3
@@ -34585,7 +35108,7 @@ dénommé "système API-PNR France' pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1
+      <td align="center">R. 234-1 à R. 236-45 
 
 </td>
       <td align="center">
@@ -34603,14 +35126,12 @@ R. 234-2
 </td>
       <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
-dispositions concernant la défense et la sécurité nationale 
-
-</td>
+dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
       <td>
 
-R. 236-1 à R. 236-45 
+R. 236-1 à R. 236-45
 
 </td>
       <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
@@ -34629,16 +35150,31 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 242-1 à R. 244-6 
-
-</td>
+      <td align="center">R. 241-1 et R. 241-2 </td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 246-1 à R. 246-9
+
+</td>
+      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -34700,6 +35236,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cite**:
@@ -34926,7 +35463,7 @@ R. 222-1
 </td>
       <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
-dispositions concernant la défense et la sécurité nationale</td>
+dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
       <td align="center">
@@ -34977,30 +35514,32 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 234-2 
+R. 234-2
 
 </td>
       <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
-dispositions concernant la défense et la sécurité nationale 
-
-</td>
+dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
       <td>
 
-R. 236-1 à R. 236-45 
+R. 236-1 à R. 236-45
 
 </td>
-      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
-code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -35013,16 +35552,31 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 242-1 à R. 244-6 
-
-</td>
+      <td align="center">R. 241-1 et R. 241-2</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 246-1 à R. 246-9
+
+</td>
+      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -35084,6 +35638,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cite**:
@@ -35311,8 +35866,8 @@ Au titre II
 R. 222-1
 
 </td>
-      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n°
-2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
+n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
@@ -35380,16 +35935,31 @@ Au titre IV
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">
-R. 242-1 à R. 242-3 
-
-</td>
+      <td align="center">R. 241-1 et R. 241-2 </td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 242-2 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 246-1 à R. 246-9 
+
+</td>
+      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion</td>
     </tr>
     <tr>
       <td align="center">
@@ -35449,6 +36019,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
+	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
 
 	**Cité par**:
@@ -35466,7 +36037,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
 	  - Code de la sécurité intérieure - art. R236-1
-	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R242-1 (VT)
 	  - Code de la sécurité intérieure - art. R251-8
 	  - Code de la sécurité intérieure - art. R251-9
 	  - Code de la sécurité intérieure - art. R252-2
@@ -42209,7 +42780,7 @@ La demande d'autorisation est soumise à une enquête sauf lorsqu'elle a pour ob
 2° Un transfert de l'activité autorisée par l'arrêté mentionné au premier alinéa de l'article R. 321-5 sauf lorsque l'enquête
 initiale n'a porté que sur un lieu provisoire d'implantation ; 
 
-3° Une extension à de nouveaux jeux mentionnés aux 1°, 2° et 3° de l'article D. 321-13 ; 
+3° (Abrogé) 
 
 4° Une expérimentation prévue à l'article R. 321-15 ; 
 
@@ -42219,23 +42790,18 @@ initiale n'a porté que sur un lieu provisoire d'implantation ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3, ecqc l'enquête (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D321-13 (VD)
-	  - Code de la sécurité intérieure - art. R321-15 (VD)
-	  - Code de la sécurité intérieure - art. R321-5 (VD)
+	  - Code de la sécurité intérieure - art. R321-15
+	  - Code de la sécurité intérieure - art. R321-5 (V)
 
 
 ###### Article R321-4
@@ -42245,34 +42811,18 @@ Le préfet adresse la demande d'autorisation au ministre de l'intérieur.
 Elle est soumise à l'avis de la commission consultative des jeux de cercles et de casinos pris dans les conditions et selon
 les modalités prévues par la sous-section 2. 
 
-Toutefois, cet avis n'est pas requis lorsque la demande a pour objet : 
-
-1° De ne plus exploiter un jeu de table ; 
-
-2° De substituer un nouveau jeu de table à un jeu de table autorisé, à condition que le nombre total de tables de jeux
-installées ne soit pas diminué ; 
-
-3° D'augmenter le nombre de machines à sous sans en porter le nombre total au-delà d'un seuil fixé par l'arrêté mentionné au
-premier alinéa de l'article R. 321-39 ; 
-
-4° De modifier le minimum des mises ou les horaires limites d'ouverture des jeux ; 
-
-5° D'augmenter le nombre de tables de poker autorisées aux seules fins de permettre le déroulement d'un tournoi régulièrement
-déclaré.
+Toutefois, cet avis n'est pas requis lorsque la demande a pour objet d'augmenter le nombre de machines à sous sans en porter
+le nombre total au-delà d'un seuil fixé par l'arrêté mentionné au premier alinéa de l'article R. 321-39.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3, ecqc l'avis de la commission consultative des jeux de cercles et de casinos (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 3
 
 	**Cité par**:
 
@@ -42280,7 +42830,7 @@ déclaré.
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ###### Article R321-5
@@ -42289,7 +42839,7 @@ L'autorisation est accordée par arrêté du ministre de l'intérieur.
 
 Cet arrêté fixe :
 
-1° Le nombre et la nature des jeux autorisés :
+1° Le nombre de tables de jeux, de formes électroniques de ces jeux et de machines à sous autorisées :
 
 2° La durée de l'autorisation ;
 
@@ -42297,7 +42847,7 @@ Cet arrêté fixe :
 
 Il prévoit en outre :
 
-4° L'interdiction d'affermer les activités du casino ;
+4° L'interdiction d'affermer les activités de jeu et d'animation  ;
 
 5° L'interdiction aux directeur et membres du comité de direction du casino de participer aux jeux directement ou par
 personne interposée ;
@@ -42306,17 +42856,13 @@ personne interposée ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 4
 
 	**Cité par**:
 
@@ -42557,23 +43103,23 @@ Elle peut également solliciter tout avis ou étude de la part de l'observatoire
 
 ###### Article D321-13
 
-Peuvent être autorisés dans les casinos les jeux de hasard suivants : 
+Peuvent être autorisés dans les casinos les jeux de hasard suivants :
 
-1° Jeux dits " de contrepartie " : 
+1° Jeux dits " de contrepartie " :
 
-a) La boule ; 
+a) La boule ;
 
-b) Le vingt-trois ; 
+b) Le vingt-trois ;
 
-c) La roulette dite " française " ; 
+c) La roulette dite " française " ;
 
-d) La roulette dite " américaine " ; 
+d) La roulette dite " américaine " ;
 
-e) La roulette dite " anglaise " ; 
+e) La roulette dite " anglaise " ;
 
-f) Le trente et quarante ; 
+f) Le trente et quarante ;
 
-g) Le black jack ; 
+g) Le black jack ;
 
 h) Le craps ; 
 
@@ -42585,17 +43131,25 @@ k) Le hold'em poker de casino ;
 
 l) La bataille ; 
 
+m) La roue de la chance ; 
+
+n) L'ultimate poker ; 
+
+o) Le poker trois cartes ; 
+
+p) Le rampo.
+
 2° Jeux dits " de cercle " : 
 
 a) Le baccara chemin de fer ; 
 
-b) Le baccara à deux tableaux à banque limitée ; 
+b) Le baccara à deux tableaux à banque limitée ;
 
 c) Le baccara à deux tableaux à banque ouverte ; 
 
 d) L'écarté ; 
 
-e) Les formes de poker déterminées par arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget ; 
+e) Les formes de poker déterminées par arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget ;
 
 3° Les formes électroniques des jeux mentionnés aux 1° et 2° ; 
 
@@ -42604,9 +43158,9 @@ e) Les formes de poker déterminées par arrêté conjoint du ministre de l'int�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 1 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -42620,17 +43174,13 @@ e) Les formes de poker déterminées par arrêté conjoint du ministre de l'int�
 	  - Code de la sécurité intérieure - art. R321-3 (VD)
 	  - Code général des collectivités territoriales - art. D2333-82-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1726 du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L321-5 (V)
+	  - Code de la sécurité intérieure - art. L321-5
 
 
 ###### Article R321-14
@@ -42753,25 +43303,20 @@ blanchiment d'argent et le financement du terrorisme.
 
 Pour les machines à sous, les taux de redistribution, qui ne peuvent être inférieurs à 85 % des enjeux, et les valeurs des
 mises unitaires sur lesquelles est réglé l'appareil sont fixés par l'exploitant et portés à la connaissance du ministre de
-l'intérieur ainsi que de l'autorité désignée par le ministre chargé du budget quinze jours au moins avant la mise en
-exploitation de chaque appareil.
+l'intérieur quinze jours au moins avant la mise en exploitation de chaque appareil.
 
-Toute modification des taux de redistribution et des valeurs des mises unitaires est portée à la connaissance des mêmes
-autorités par l'exploitant dans un délai de quinze jours avant la mise en œuvre de la modification.
+Toute modification des taux de redistribution et des valeurs des mises unitaires est portée à la connaissance de la même
+autorité  par l'exploitant dans un délai de quinze jours avant la mise en œuvre de la modification.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 4 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 5
 
 	**Cité par**:
 
@@ -43131,7 +43676,11 @@ Ces mesures sont susceptibles d'être révisées périodiquement.
 ###### Article R321-29
 
 Le directeur responsable et les membres du comité de direction des casinos sont tenus de se conformer aux clauses du cahier
-des charges. Ils veillent, en permanence, à la sincérité des jeux et à la régularité de leur fonctionnement. 
+des charges, aux prescriptions de l'autorisation et à la réglementation applicable. Ils veillent, en permanence, à la
+sincérité des jeux et à la régularité de leur fonctionnement. 
+
+Ils procèdent à la déclaration préalable, auprès du ministre de l'intérieur, des opérations d'installation et d'exploitation
+des jeux qui sont énumérées par l'arrêté mentionné au premier alinéa de l'article R. 321-39. 
 
 Ils doivent, dans les délais et conditions prévus par l'arrêté mentionné au premier alinéa de l'article R. 321-39, faire
 toutes les communications réglementaires aux fonctionnaires du ministère de l'intérieur chargés du contrôle. 
@@ -43141,17 +43690,13 @@ commerciale de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 5 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 6
 
 	**Cité par**:
 
@@ -43162,7 +43707,7 @@ commerciale de l'établissement.
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ###### Article R321-30
@@ -43782,7 +44327,7 @@ Les articles D. 321-22 à D. 321-25 ne sont pas applicables à Saint-Pierre-et-M
 ###### Article R343-1
 
 Les articles R. 321-1 à R. 321-6, R. 321-14, R. 321-15, R. 321-17 (premier alinéa), R. 321-18 à R. 321-20, R. 321-26, R.
-321-30, R. 321-37, R. 321-39 et R. 324-1 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+321-29 (deuxième alinéa), R. 321-30, R. 321-37, R. 321-39 et R. 324-1 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -43790,21 +44335,22 @@ Les articles R. 321-1 à R. 321-6, R. 321-14, R. 321-15, R. 321-17 (premier alin
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2014-1724 du 30 décembre 2014  - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-1 (VD)
-	  - Code de la sécurité intérieure - art. R321-14 (VD)
-	  - Code de la sécurité intérieure - art. R321-17 (VD)
-	  - Code de la sécurité intérieure - art. R321-18 (VD)
-	  - Code de la sécurité intérieure - art. R321-26 (VD)
-	  - Code de la sécurité intérieure - art. R321-30 (VD)
-	  - Code de la sécurité intérieure - art. R321-37 (VD)
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
-	  - Code de la sécurité intérieure - art. R324-1 (VD)
+	  - Code de la sécurité intérieure - art. R321-1
+	  - Code de la sécurité intérieure - art. R321-14 (V)
+	  - Code de la sécurité intérieure - art. R321-17
+	  - Code de la sécurité intérieure - art. R321-18
+	  - Code de la sécurité intérieure - art. R321-26
+	  - Code de la sécurité intérieure - art. R321-29
+	  - Code de la sécurité intérieure - art. R321-30
+	  - Code de la sécurité intérieure - art. R321-37
+	  - Code de la sécurité intérieure - art. R321-39
+	  - Code de la sécurité intérieure - art. R324-1
 
 
 ###### Article R343-3
