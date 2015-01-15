@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-16
 
 # Partie législative
 
@@ -3519,7 +3519,7 @@ des engagements prévus au présent article.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ
+### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
 
 #### Chapitre Ier : Dispositions générales
 
@@ -4657,18 +4657,6 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 	  - Code de la sécurité intérieure - art. L244-2
 	  - Code de la sécurité intérieure - art. L246-1
 
-
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Conditions des interceptions
-
-#### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
-
-#### Chapitre IV : Obligations des opérateurs  et prestataires de services
-
-#### Chapitre V : Dispositions pénales
 
 #### Chapitre VI : Accès administratif aux données de connexion
 
@@ -28765,7 +28753,7 @@ géographiques où ces moyens seront employés.
 	  - Code pénal - art. R431-5, III (VT)
 
 
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ
+### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
 
 #### Chapitre Ier : Dispositions générales
 
@@ -29260,14 +29248,6 @@ ministre.
 	  - Code de la sécurité intérieure - art. L244-1
 
 
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Conditions des interceptions
-
-#### Chapitre IV : Obligations des opérateurs et prestataires de services
-
 #### Chapitre VI : Accès administratif aux données de connexion
 
 ###### Article R246-1
@@ -29700,6 +29680,199 @@ Ce système de vidéoprotection est mis en œuvre dans les conditions prévues a
 	  - Code de la sécurité intérieure - art. R286-1 (M)
 	  - Code de la sécurité intérieure - art. R287-1 (M)
 	  - Code de la sécurité intérieure - art. R288-1 (M)
+
+
+#### Chapitre IV : Interdiction de sortie du territoire 
+
+###### Article R224-1
+
+Le récépissé valant justification de l'identité prévu à l'article L. 224-1 du code de la sécurité intérieure mentionne : 
+
+1° Le nom de famille, les prénoms dans l'ordre de l'état civil, le cas échéant le nom dont l'usage est autorisé par la loi ; 
+
+2° La date et le lieu de naissance ; 
+
+3° Le sexe ; 
+
+4° La taille ; 
+
+5° La nationalité ; 
+
+6° Le domicile ou la résidence de l'intéressé ou, le cas échéant, sa commune de rattachement ; 
+
+7° L'autorité d'établissement du récépissé et ses dates d'établissement et d'expiration ; 
+
+8° Le fondement légal du récépissé ; 
+
+9° L'indication selon laquelle le récépissé ne permet pas la sortie du territoire national ; 
+
+10° Le numéro du récépissé. 
+
+Il comporte également la photographie et la signature du titulaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L224-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R224-2 (V)
+	  - Code de la sécurité intérieure - art. R224-4 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (M)
+	  - Code de la sécurité intérieure - art. R286-1 (M)
+	  - Code de la sécurité intérieure - art. R287-1 (M)
+	  - Code de la sécurité intérieure - art. R288-1 (M)
+
+
+###### Article R224-2
+
+Le récépissé est établi par le préfet du département dans lequel se situe le domicile, la résidence ou la commune de
+rattachement de la personne concernée ou, le cas échéant, par le préfet du département dans lequel elle séjourne. A Paris, le
+récépissé est établi par le préfet de police. 
+
+La carte nationale d'identité et le passeport invalidés sont restitués à l'autorité mentionnée au premier alinéa ou, le cas
+échéant, aux services de police ou de gendarmerie. Lors de cette restitution, la personne concernée obtient la remise du
+récépissé ou, dans l'attente de son établissement dans les meilleurs délais, un document d'une validité de quinze jours
+attestant de la restitution de la carte nationale d'identité et du passeport et comportant les numéros de ces documents, les
+mentions prévues aux 1° à 6° de l'article R. 224-1 ainsi que celle de l'autorité d'établissement de l'attestation. 
+
+La durée de validité du récépissé est égale à la durée de l'interdiction de sortie du territoire, augmentée d'un mois. 
+
+Lorsque cette interdiction fait l'objet d'un renouvellement, un nouveau récépissé est établi et remis à son titulaire après
+restitution de l'ancien récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R224-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R224-3 (V)
+
+
+###### Article R224-3
+
+Lorsqu'une personne qui fait l'objet d'une interdiction de sortie du territoire n'est titulaire ni d'une carte nationale
+d'identité ni d'un passeport, ou lorsqu'elle ne dispose plus d'aucun de ces titres à la suite d'une perte ou d'un vol dûment
+déclarés, un récépissé lui est remis à sa demande, en lieu et place de la délivrance d'un tel document, par l'autorité
+administrative mentionnée au premier alinéa de l'article R. 224-2. 
+
+Les articles 2,4-3 et 4-4 du décret n° 55-1397 du 22 octobre 1955 instituant la carte nationale d'identité s'appliquent à
+cette demande, qui est déposée auprès de l'autorité administrative mentionnée au premier alinéa de l'article R. 224-2. 
+
+Le demandeur justifie de son état civil et de sa nationalité française dans les conditions prévues au c du I de l'article 4. 
+
+En cas de perte ou de vol de ses titres, il produit en outre la déclaration de perte ou de vol.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 2
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 4-3
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 4-4
+	  - Code de la sécurité intérieure - art. R224-2
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+
+
+###### Article R224-4
+
+A l'expiration de l'interdiction de sortie du territoire, la personne concernée peut demander le renouvellement de sa carte
+nationale d'identité et de son passeport. 
+
+La demande de renouvellement de titre est déposée auprès du préfet ou du sous-préfet auquel le décret n° 55-1397 du 22
+octobre 1955 modifié instituant la carte nationale d'identité et le décret n° 2005-1726 du 30 décembre 2005 modifié relatif
+aux passeports donnent compétence pour la délivrance de ces titres. Leur remise est effectuée par l'autorité administrative
+qui a instruit la demande. 
+
+Sans préjudice de la vérification des informations produites à l'appui de la demande de ses anciens titres, la production du
+récépissé visé à l'article R. 224-1, valide ou périmé depuis moins d'un an, dispense le demandeur d'avoir à justifier de son
+état civil et de sa nationalité française. 
+
+Lorsque le demandeur ne produit pas le récépissé dans les conditions prévues au précédent alinéa, il justifie de son état
+civil et de sa nationalité française dans les conditions prévues par l'article 4-1 du décret n° 55-1397 du 22 octobre 1955
+modifié instituant la carte nationale d'identité ou, le cas échéant, par l'article 5-1 du décret n° 2005-1726 du 30 décembre
+2005 modifié relatif aux passeports. 
+
+Sous réserve des dispositions prévues aux alinéas précédents, les dispositions du décret n° 55-1397 du 22 octobre 1955
+modifié instituant la carte nationale d'identité et celles du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux
+passeports s'appliquent à la demande de renouvellement de la carte nationale d'identité ou du passeport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1397 du 22 octobre 1955
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 4-1 (V)
+	  - Décret n°2005-1726 du 30 décembre 2005
+	  - Décret n°2005-1726 du 30 décembre 2005 - art. 5-1 (V)
+	  - Code de la sécurité intérieure - art. R224-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+
+
+###### Article R224-5
+
+Lorsque le récépissé a été établi dans les conditions prévues à l'article R. 224-3, son titulaire peut, à l'expiration de
+l'interdiction de sortie du territoire, demander sur production de ce récépissé, valide ou périmé depuis moins d'un an, la
+délivrance d'une carte nationale d'identité ou d'un passeport. 
+
+La demande de titre est déposée auprès du préfet ou du sous-préfet auquel le décret n° 55-1397 du 22 octobre 1955 modifié
+instituant la carte nationale d'identité et le décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux passeports donnent
+compétence pour la délivrance de ces titres. Leur remise est effectuée par l'autorité administrative qui a instruit la
+demande. 
+
+Sans préjudice de la vérification des informations produites à l'appui de la demande du titre en lieu et place duquel le
+récépissé a été établi, le demandeur est dispensé de justifier de son état civil et sa nationalité française. 
+
+Sous réserve des dispositions prévues aux alinéas précédents, les dispositions du décret n° 55-1397 du 22 octobre 1955
+modifié instituant la carte nationale d'identité et celles du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux
+passeports s'appliquent à la demande de la carte nationale d'identité ou du passeport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1397 du 22 octobre 1955
+	  - Décret n°2005-1726 du 30 décembre 2005
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+
+
+###### Article R224-6
+
+Avant de procéder à la délivrance ou au renouvellement de la carte nationale d'identité ou du passeport, l'autorité
+administrative compétente vérifie qu'aucune décision judiciaire ou autre circonstance nouvelle ne s'oppose à cette
+délivrance. 
+
+Lorsqu'il obtient une carte nationale d'identité ou un passeport à l'expiration de l'interdiction de sortie du territoire, le
+titulaire du récépissé est tenu, au moment de la remise du nouveau titre, de restituer ce document à l'autorité
+administrative compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
 
 
 ### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES
@@ -31182,6 +31355,30 @@ II.-Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique p
 	**Créé par**:
 
 	  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+
+##### Section 5 : Interdiction de transport
+
+###### Article R232-19
+
+L'autorité administrative mentionnée à l'article L. 232-8 est le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L232-8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R285-1 (M)
+	  - Code de la sécurité intérieure - art. R286-1 (M)
+	  - Code de la sécurité intérieure - art. R287-1 (M)
+	  - Code de la sécurité intérieure - art. R288-1 (M)
 
 
 #### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives
@@ -34613,7 +34810,7 @@ R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -34625,7 +34822,7 @@ R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -34674,6 +34871,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 224-1 à R. 224-6 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger </td>
+    </tr>
+    <tr>
       <td align="center">
 
 Au titre III 
@@ -34684,24 +34890,37 @@ Au titre III
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+R. 232-1 à R. 232-5-1 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 232-12 à R. 232-18
+R. 232-12 à R. 232-18 
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 232-19 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
 
 </td>
     </tr>
@@ -34748,7 +34967,9 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">R. 241-1 et R. 241-2</td>
+      <td align="center">
+R. 241-1 et R. 241-2 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
@@ -34798,7 +35019,7 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
     <tr>
       <td>
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td>
@@ -34827,22 +35048,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. D285-2 (VD)
-	  - Code de la sécurité intérieure - art. R285-3 (VD)
-
 	**Cite**:
 
+	  - Décret n°2013-1113 du 4 décembre 2013
+	  - Décret n°2014-901 du 18 août 2014
+	  - Décret n°2014-1095 du 26 septembre 2014
+	  - Décret n°2014-1576 du 24 décembre 2014
 	  - Code de la sécurité intérieure - art. R211-11
 	  - Code de la sécurité intérieure - art. R211-18
 	  - Code de la sécurité intérieure - art. R211-2
@@ -34851,11 +35062,32 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R224-1
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R232-12
+	  - Code de la sécurité intérieure - art. R232-19
 	  - Code de la sécurité intérieure - art. R234-1
+	  - Code de la sécurité intérieure - art. R241-1
 	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R242-2
+	  - Code de la sécurité intérieure - art. R246-1
 	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-3
 	  - Code de la sécurité intérieure - art. R252-2
+
+	**Codifié par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. D285-2 (VD)
+	  - Code de la sécurité intérieure - art. R285-3 (VD)
 
 
 ###### Article R285-3
@@ -35017,7 +35249,7 @@ R. 211-18 et R. 211-21
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -35029,7 +35261,7 @@ R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -35078,6 +35310,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 224-1 à R. 224-6 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger </td>
+    </tr>
+    <tr>
       <td align="center">Au titre III 
 
 </td>
@@ -35086,11 +35327,13 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+R. 232-1 à R. 232-5-1 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
@@ -35103,12 +35346,23 @@ R. 232-12 à R. 232-18
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France' pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France'pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 à R. 236-45 
+      <td>
+
+R. 232-19 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 234-1 
 
 </td>
       <td align="center">
@@ -35150,7 +35404,9 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">R. 241-1 et R. 241-2 </td>
+      <td align="center">
+R. 241-1 et R. 241-2 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
@@ -35201,7 +35457,7 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
     <tr>
       <td>
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td>
@@ -35236,8 +35492,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 3
 
 	**Cite**:
 
@@ -35249,7 +35505,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R224-1
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R232-12
+	  - Code de la sécurité intérieure - art. R232-19
+	  - Code de la sécurité intérieure - art. R234-1
+	  - Code de la sécurité intérieure - art. R241-1
 	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R242-2
+	  - Code de la sécurité intérieure - art. R246-1
 	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-3
 	  - Code de la sécurité intérieure - art. R252-2
@@ -35417,7 +35681,7 @@ R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -35429,7 +35693,7 @@ R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -35478,6 +35742,17 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 224-1 à R. 224-6 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 Au titre III 
@@ -35486,11 +35761,13 @@ Au titre III
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+R. 232-1 à R. 232-5-1 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
@@ -35503,12 +35780,23 @@ R. 232-12 à R. 232-18
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 
+      <td>
+
+R. 232-19 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 234-1 
 
 </td>
       <td align="center">
@@ -35524,8 +35812,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 234-2
 
 </td>
-      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
-2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
+n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
@@ -35534,12 +35822,8 @@ dispositions concernant la défense et la sécurité nationale </td>
 R. 236-1 à R. 236-45
 
 </td>
-      <td>
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+      <td> Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
+du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
       <td align="center">
@@ -35552,7 +35836,9 @@ Au titre IV
 </td>
     </tr>
     <tr>
-      <td align="center">R. 241-1 et R. 241-2</td>
+      <td align="center">
+R. 241-1 et R. 241-2 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
@@ -35603,7 +35889,7 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
     <tr>
       <td>
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td>
@@ -35638,8 +35924,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 3
 
 	**Cite**:
 
@@ -35651,8 +35937,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R224-1
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R232-12
+	  - Code de la sécurité intérieure - art. R232-19
 	  - Code de la sécurité intérieure - art. R234-1
+	  - Code de la sécurité intérieure - art. R241-1
 	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R242-2
+	  - Code de la sécurité intérieure - art. R246-1
 	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-3
 	  - Code de la sécurité intérieure - art. R252-2
@@ -35822,7 +36115,7 @@ R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -35866,8 +36159,8 @@ Au titre II
 R. 222-1
 
 </td>
-      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
-n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
@@ -35883,6 +36176,17 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
+      <td>
+
+R. 224-1 à R. 224-6 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 Au titre III 
@@ -35893,11 +36197,13 @@ Au titre III
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+R. 232-1 à R. 232-5-1 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
@@ -35910,7 +36216,18 @@ R. 232-12 à R. 232-18
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 232-19 
+
+</td>
+      <td>Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des
+ressortissants français projetant de participer à des activités terroristes à l'étranger 
 
 </td>
     </tr>
@@ -35935,7 +36252,9 @@ Au titre IV
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 241-1 et R. 241-2 </td>
+      <td align="center">
+R. 241-1 et R. 241-2 
+</td>
       <td align="center">
 
 Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
@@ -35959,7 +36278,7 @@ code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simple
 R. 246-1 à R. 246-9 
 
 </td>
-      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion</td>
+      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -35979,13 +36298,13 @@ R. 251-1
 </td>
       <td>
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="center">
-R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
 </td>
       <td align="center">
 
@@ -36019,8 +36338,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
 	  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 3
 
 	**Cité par**:
 
@@ -36036,8 +36355,16 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R211-27
 	  - Code de la sécurité intérieure - art. R214-1
 	  - Code de la sécurité intérieure - art. R223-2
+	  - Code de la sécurité intérieure - art. R224-1
+	  - Code de la sécurité intérieure - art. R232-1
+	  - Code de la sécurité intérieure - art. R232-12
+	  - Code de la sécurité intérieure - art. R232-19
 	  - Code de la sécurité intérieure - art. R236-1
-	  - Code de la sécurité intérieure - art. R242-1 (VT)
+	  - Code de la sécurité intérieure - art. R241-1
+	  - Code de la sécurité intérieure - art. R242-1
+	  - Code de la sécurité intérieure - art. R242-2
+	  - Code de la sécurité intérieure - art. R246-1
+	  - Code de la sécurité intérieure - art. R251-1
 	  - Code de la sécurité intérieure - art. R251-8
 	  - Code de la sécurité intérieure - art. R251-9
 	  - Code de la sécurité intérieure - art. R252-2
