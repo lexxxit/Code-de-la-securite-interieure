@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-02-19
 
 # Partie législative
 
@@ -52899,21 +52899,17 @@ convocation à celle-ci.
 ###### Article R515-1
 
 Les dispositions du présent chapitre, qui constitue le code de déontologie des agents de police municipale, s'appliquent à
-l'ensemble des agents de police municipale et des chefs de service de police municipale.
+l'ensemble des agents de police municipale, des chefs de service de police municipale et des directeurs de police municipale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-735 du 1 août 2003 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-181 du 16 février 2015 - art. 1
 
 	**Cité par**:
 
@@ -53034,21 +53030,17 @@ dignité en aucune circonstance.
 Il est placé au service du public et se comporte de manière exemplaire envers celui-ci.
 
 Il a le respect absolu des personnes, quelles que soient leur nationalité ou leur origine, leur condition sociale ou leurs
-convictions politiques, religieuses ou philosophiques.
+convictions politiques, religieuses ou philosophiques ainsi que leurs opinions syndicales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-735 du 1 août 2003 - art. 6 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-181 du 16 février 2015 - art. 1
 
 	**Cité par**:
 
@@ -54163,11 +54155,39 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">
-R. 515-1 à R. 515-21 
+R. 515-1 
+</td>
+        <td align="center">Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des
+agents de police municipale aux directeurs de police municipale et modifiant ce code 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      </tr>
+      <tr>
+        <td>
+
+R. 515-2 à R. 515-6 
+
+</td>
+        <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 515-7 
+
+</td>
+        <td>Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de
+police municipale aux directeurs de police municipale et modifiant ce code </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 515-8 à R. 515-21
+
+</td>
+        <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
@@ -54181,7 +54201,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       </tr>
       <tr>
         <td align="center">
-R. 521-1 à R. 522-2
+R. 521-1 à R. 522-2 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
@@ -54207,21 +54227,24 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-181 du 16 février 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R511-1 (VD)
-	  - Code de la sécurité intérieure - art. R511-11 (VD)
-	  - Code de la sécurité intérieure - art. R511-14 (VD)
-	  - Code de la sécurité intérieure - art. R511-29 (VD)
-	  - Code de la sécurité intérieure - art. R512-1 (VD)
-	  - Code de la sécurité intérieure - art. R512-5 (VD)
-	  - Code de la sécurité intérieure - art. R514-1 (VD)
-	  - Code de la sécurité intérieure - art. R515-1 (VD)
-	  - Code de la sécurité intérieure - art. R521-1 (VD)
+	  - Code de la sécurité intérieure - art. R511-1
+	  - Code de la sécurité intérieure - art. R511-11
+	  - Code de la sécurité intérieure - art. R511-14
+	  - Code de la sécurité intérieure - art. R511-29
+	  - Code de la sécurité intérieure - art. R512-1
+	  - Code de la sécurité intérieure - art. R512-5
+	  - Code de la sécurité intérieure - art. R514-1
+	  - Code de la sécurité intérieure - art. R515-1
+	  - Code de la sécurité intérieure - art. R515-2
+	  - Code de la sécurité intérieure - art. R515-7
+	  - Code de la sécurité intérieure - art. R515-8
+	  - Code de la sécurité intérieure - art. R521-1
 
 	**Cité par**:
 
