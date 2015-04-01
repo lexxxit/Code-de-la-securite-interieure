@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-03-30
+Version Consolidée au 2015-04-02
 
 # Partie législative
 
@@ -35158,35 +35158,20 @@ publique ;
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
 vidéoprotection ; 
 
-7° La référence à l'article R. 311-2 est remplacée par la référence au décret n° 2009-450 du 21 avril 2009 et à son article
-2 ; 
-
-8° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
+7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
 331-1 du code du sport, " sont supprimés ; 
 
-9° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
+8° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
 
-10° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Polynésie française " ; 
+9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Polynésie française " ; 
 
-11° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
+10° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
 consulaire local territorialement compétents " ; 
 
-12° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
+11° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel de la Polynésie française ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2009-450 du 21 avril 2009
-	  - Code du sport. - art. D331-1
-	  - Code de la sécurité intérieure - art. R211-24
-	  - Code de la sécurité intérieure - art. R236-16
-	  - Code de la sécurité intérieure - art. R251-7
-	  - Code de la sécurité intérieure - art. R251-8
-	  - Code de la sécurité intérieure - art. R252-10
-	  - Code de la sécurité intérieure - art. R285-1 (VD)
-	  - Code de la sécurité intérieure - art. R311-2
 
 	**Codifié par**:
 
@@ -35194,7 +35179,17 @@ Journal officiel de la Polynésie française ".
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. D331-1
+	  - Code de la sécurité intérieure - art. R211-24
+	  - Code de la sécurité intérieure - art. R236-16
+	  - Code de la sécurité intérieure - art. R251-7
+	  - Code de la sécurité intérieure - art. R251-8
+	  - Code de la sécurité intérieure - art. R252-10
+	  - Code de la sécurité intérieure - art. R285-1
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -35591,35 +35586,20 @@ publique ;
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
 vidéoprotection ; 
 
-7° La référence à l'article R. 311-2 est remplacée par la référence au décret n° 2009-451 du 21 avril 2009 et à son article
-2 ; 
-
-8° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
+7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
 331-1 du code du sport, " sont supprimés ; 
 
-9° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
+8° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
 
-10° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ; 
+9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ; 
 
-11° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
+10° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
 consulaire local territorialement compétents " ; 
 
-12° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
+11° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel de la Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2009-451 du 21 avril 2009
-	  - Décret n°2009-451 du 21 avril 2009 - art. 2
-	  - Code de la sécurité intérieure - art. R211-24
-	  - Code de la sécurité intérieure - art. R236-16
-	  - Code de la sécurité intérieure - art. R251-7
-	  - Code de la sécurité intérieure - art. R251-8
-	  - Code de la sécurité intérieure - art. R252-10
-	  - Code de la sécurité intérieure - art. R286-1 (VD)
-	  - Code de la sécurité intérieure - art. R311-2
 
 	**Codifié par**:
 
@@ -35627,7 +35607,16 @@ Journal officiel de la Nouvelle-Calédonie ".
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R211-24
+	  - Code de la sécurité intérieure - art. R236-16
+	  - Code de la sécurité intérieure - art. R251-7
+	  - Code de la sécurité intérieure - art. R251-8
+	  - Code de la sécurité intérieure - art. R252-10
+	  - Code de la sécurité intérieure - art. R286-1
 
 
 #### Chapitre VII : Dispositions applicables à Wallis et Futuna
@@ -45022,58 +45011,176 @@ salles de jeux, en méconnaissance des prescriptions de l'article R. 321-27 ;
 ###### Article R344-1
 
 Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polynésie française, sous réserve des adaptations
-prévues à l'article R. 344-2, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après,
-dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+prévues aux articles R. 344-2 et R. 344-3, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table>
-      <tbody><tr>
+    <tbody>
+      <tr>
         <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES 
+
+</th>
         <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION 
+
+</th>
       </tr>
       <tr>
-        <td align="left">
+        <td align="center" colspan="2">
 
-Au titre III </td>
-        <td align="left">
-      </td></tr>
+Au titre Ier 
+
+</td>
+      </tr>
       <tr>
-        <td align="left">
+        <td align="justify">
 
-R. 332-1 et R. 333-1
+R. 311-1 à R. 311-6 
+
 </td>
         <td align="justify">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
       </tr>
-    </tbody></table>
+      <tr>
+        <td align="justify">
+
+R. 312-1 à R. 312-83 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 313-1 à R. 313-26 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 314-1 à R. 314-20 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 315-1 à R. 315-18 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 317-1 à R. 317-14 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="middle" align="center">
+
+Au titre III 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 332-1 et R. 333-1
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-	  - Code de la sécurité intérieure - art. R332-1 (VD)
-	  - Code de la sécurité intérieure - art. R333-1 (VD)
-	  - Code de la sécurité intérieure - art. R344-2 (VD)
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. R311-1
+	  - Code de la sécurité intérieure - art. R312-1
+	  - Code de la sécurité intérieure - art. R313-1
+	  - Code de la sécurité intérieure - art. R314-1
+	  - Code de la sécurité intérieure - art. R315-1
+	  - Code de la sécurité intérieure - art. R317-1
+	  - Code de la sécurité intérieure - art. R332-1
+	  - Code de la sécurité intérieure - art. R333-1
+	  - Code de la sécurité intérieure - art. R344-2
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R344-3 (VD)
 
 
 ###### Article R344-2
 
-Pour l'application en Polynésie française des articles mentionnés à l'article précédent, la référence au préfet de
-département est remplacée par la référence au haut-commissaire de la République en Polynésie française.
+Pour l'application en Polynésie française des articles mentionnés à l'article précédent :
+
+1° Les références au préfet de département et au préfet sont remplacées par la référence au haut-commissaire de la République
+en Polynésie française ;
+
+2° Les références à la préfecture et aux services préfectoraux sont remplacées par la référence au haut-commissariat de la
+République en Polynésie française ;
+
+3° La référence au commandant du groupement de gendarmerie départementale est remplacée par la référence au commandant de la
+gendarmerie nationale pour la Polynésie française ;
+
+4° La référence à la cour d'appel est remplacée par la référence à la cour d'appel de Papeete ;
+
+5° La référence à l'agence régionale de santé est remplacée par la référence aux autorités locales compétentes en matière de
+santé.
 
 **Liens relatifs à cet article**
 
@@ -45081,9 +45188,9 @@ département est remplacée par la référence au haut-commissaire de la Républ
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
 
 	**Cité par**:
 
@@ -45092,7 +45199,387 @@ département est remplacée par la référence au haut-commissaire de la Républ
 
 ###### Article R344-3
 
-Article réservé.
+Pour l'application des dispositions du titre Ier énumérées à l'article R. 344-1 en Polynésie française : 
+
+1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé : 
+
+" Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si
+elles sont conformes aux caractéristiques techniques définies par arrêté conjoint des ministres de la défense et de
+l'intérieur et des ministres chargés de l'industrie et des douanes et constatées dans un procès-verbal d'expertise effectuée
+soit par un établissement technique désigné par le ministre de la défense, soit par un établissement désigné ou un armurier
+agréé, établi sur le territoire français, par arrêté du haut-commissaire de la République en Polynésie française, dans les
+cas et les conditions déterminés par l'arrêté interministériel prévu ci-dessus. " ; 
+
+2° A l'article R. 312-1 : 
+
+a) Au 1°, les mots : " permis de chasser délivré en France " sont remplacés par les mots : " permis de chasser délivré sur le
+territoire de la République " ; 
+
+b) Au 2°, après les mots : " ou du ball-trap " sont ajoutés les mots : " ou d'une fédération sportive territoriale compétente
+en ce domaine en application des dispositions applicables localement. " ; 
+
+c) Il est ajouté un 3° ainsi rédigé : 
+
+" 3° Ou de l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres.
+" ; 
+
+3° L'article R. 312-2 est ainsi rédigé : 
+
+" Art. R. 312-2.-Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-38 à R. 312-40, R.
+312-44, R. 312-65 et au 19° de l'article R. 344-3 sont délivrées, dans chaque cas, par le haut-commissaire de la République
+en Polynésie française. En outre : 
+
+" 1° Pour les autorisations portant sur les matériels de la catégorie A2 susceptibles d'être déclassés, l'autorisation du
+haut-commissaire est délivrée dans les conditions prévues par un arrêté conjoint des ministres de la défense et de
+l'intérieur ; 
+
+" 2° Pour les autorisations mentionnées à l'article R. 312-27, lorsque le matériel de guerre est classé au titre de la
+législation nationale des monuments historiques, la décision ne peut être prise qu'après avis du ministre chargé de la
+culture. " ; 
+
+4° A l'article R. 312-3, après les mots : " ou de leurs éléments ", sont ajoutés les mots : " sur le territoire de la
+Polynésie française " et les mots : " au préfet du lieu de domicile ou, pour les personnes ne possédant pas la nationalité
+française, du lieu de leur résidence " sont remplacés par les mots : " au haut-commissaire de la République en Polynésie
+française " ; 
+
+5° A l'article R. 312-5 : 
+
+a) Aux b et c du 4°, après les mots : " pour la pratique du tir " sont ajoutés les mots : " ou d'une fédération sportive
+territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+
+b) Au a du 7°, les mots : " certificat de résidence " et " sur le territoire français " sont remplacés respectivement par les
+mots : " titre de séjour " et " sur le territoire de la Polynésie française " ; 
+
+c) Au a du 8°, les mots : " avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
+l'autorisation " sont supprimés ; 
+
+d) Au 10°, après les mots : " Fédération française de tir ", sont ajoutés les mots : " ou d'une fédération sportive
+territoriale de tir. " ; 
+
+6° A l'article R. 312-6, le 3° est supprimé ; 
+
+7° A l'article R. 312-8, les mots : " de santé mentionné à l'article L. 3222-1 du code de la santé publique " et à l'article
+R. 312-57, les mots : " de santé habilité en vertu des dispositions de l'article L. 3222-1 du code de la santé publique "
+sont remplacés par les mots : " habilité à soigner les personnes atteintes de troubles mentaux conformément à la
+réglementation applicable localement " ; 
+
+8° A l'article R. 312-12, les mots : " trois mois " sont remplacés par les mots : " six mois " ; 
+
+9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 344-3 ; 
+
+10° A l'article R. 312-16, les mots : " R. 312-37 à R. 312-41 et R. 312-44 " sont remplacés par les mots : " R. 312-38 à R.
+312-41, R. 312-44 et au 19° de l'article R. 344-3 " ; 
+
+11° A l'article R. 312-18, les mots : " la décision préfectorale " sont remplacés par les mots : " la décision du haut-
+commissaire de la République en Polynésie française " ; 
+
+12° A l'article R. 312-19 : 
+
+a) Le 3° est supprimé ; 
+
+b) Au 4° les mots : " dans le respect des dispositions de l'article L. 622-16 du code du patrimoine si les matériels sont
+classés au titre des monuments historiques " sont supprimés ; 
+
+13° A l'article R. 312-22, après les mots : " les administrations ou services publics ", sont ajoutés les mots : " en
+Polynésie française " ; 
+
+14° A l'article R. 312-24 : 
+
+a) Au premier alinéa, après les mots : " agents des administrations publiques ", sont ajoutés les mots : " en Polynésie
+française " ; 
+
+b) Au deuxième alinéa, après les mots : " ou services publics ", sont ajoutés les mots : " en Polynésie française " ; 
+
+c) Au troisième alinéa, après les mots : " les sous-officiers d'active ", sont ajoutés les mots : " affectés en Polynésie
+française " ; 
+
+d) Au quatrième alinéa, après les mots : " ou le service public ", sont ajoutés les mots : " en Polynésie française " ; 
+
+15° A l'article R. 312-25 : 
+
+a) Après les mots : " et agents ", sont ajoutés les mots : " de l'Etat en Polynésie française " ; 
+
+b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé : 
+
+" Les catégories de fonctionnaires et agents des administrations ou services publics autres que ceux de l'Etat en Polynésie
+française appelés à bénéficier des autorisations mentionnées à l'article R. 312-22 et aux premier et deuxième alinéas de
+l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Polynésie française. " ; 
+
+c) Au dernier alinéa, les mots : " le préfet du département où les intéressés exercent leurs fonctions " sont remplacés par
+les mots : " le haut-commissaire de la République en Polynésie française " ; 
+
+16° Aux articles R. 312-26 et R. 312-64, les mots : " les théâtres nationaux " sont remplacés par les mots : " les
+établissements publics de spectacle " ; 
+
+17° A l'article R. 312-34, les mots : " le préfet du département du lieu où l'expert exerce son activité " et les mots : " le
+préfet du département du lieu où il exerce son activité " sont remplacés par les mots : " le haut-commissaire de la
+République en Polynésie française " ; 
+
+18° L'article R. 312-36 est ainsi rédigé : 
+
+" Art. R. 312-36.-L'expert informe le haut-commissaire de la République en Polynésie française en cas de changement du lieu
+de son activité et, le cas échéant, le représentant de l'Etat dans le département de métropole ou d'outre-mer ou dans la
+collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu. " ; 
+
+19° L'article R. 312-37 est ainsi rédigé : 
+
+" Art. R. 312-37.-Les personnes exerçant l'activité mentionnée au 2° de l'article L. 611-1 sont autorisées, en application de
+l'article L. 613-9, à acquérir et à détenir des armes et éléments d'arme dans les conditions et selon les modalités prévues
+par les articles R. 613-41, R. 613-43 à R. 613-46 et le 18° de l'article R. 645-3. " ; 
+
+20° A l'article R. 312-40 : 
+
+a) Au 1°, après les mots : " ou du ball-trap ", sont ajoutés les mots : ", ou d'une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement " ; 
+
+b) Au 2° après les mots : " pour la pratique du tir ", sont ajoutés les mots : ", ou d'une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement, " ; 
+
+c) Au 2°, les mots : " en application de l'article R. 322-1 du code du sport. " sont remplacés par les mots : " selon la
+réglementation localement applicable. " ; 
+
+d) Au sixième alinéa du 2°, les mots : " par arrêté conjoint des ministres de la défense et de l'intérieur et du ministre
+chargé des sports " sont remplacés par les mots : " par arrêté du haut-commissaire de la République en Polynésie française.
+" ; 
+
+e) Le dernier alinéa du 2° est supprimé ; 
+
+21° Au deuxième alinéa de l'article R. 312-43, les mots : " ou de gendarmerie. " sont remplacés par les mots : ", de
+gendarmerie ou des douanes. " ; 
+
+22° A l'article R. 312-48, les mots : " au préfet du lieu de domicile " sont remplacés par les mots : " au haut-commissaire
+de la République en Polynésie française " et les mots : " le préfet qui a reçu la demande " sont remplacés par les mots : "
+le haut-commissaire de la République en Polynésie française " ; 
+
+23° L'article R. 312-50 est ainsi rédigé : 
+
+" Art. R. 312-50.-Lorsqu'ils transfèrent leur domicile en Polynésie française, les titulaires d'autorisation d'acquisition et
+de détention doivent déclarer au haut-commissaire de la République en Polynésie française le nombre et la nature des armes et
+éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
+d'outre-mer, les titulaires d'autorisation d'acquisition et de détention en Polynésie française doivent déclarer au préfet du
+département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes des
+catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+
+" 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
+applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
+de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
+Calédonie ; 
+
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+
+24° A l'article R. 312-52 : 
+
+a) Au deuxième alinéa, les mots : " aux articles R. 312-53 à R. 312-58 " sont remplacés par les mots : " aux articles R.
+312-54 à R. 312-58 et au 25° de l'article R. 344-3 " ; 
+
+b) Le troisième alinéa est ainsi rédigé : 
+
+" Les armes et leurs éléments des catégories C et D peuvent être détenues par des mineurs s'ils ont plus de seize ans, y sont
+autorisés par la personne exerçant l'autorité parentale, sauf si celle-ci est inscrite au fichier national des interdits
+d'acquisition et de détention d'armes, et, hormis pour les armes des d au g du 2° de la catégorie D, sont titulaires : 
+
+" 1° D'un permis de chasser, délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu
+de permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+
+" 2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres. " ; 
+
+c) Aux quatrième et cinquième alinéas, après les mots : " ou du ball-trap ", sont ajoutés les mots : " ou d'une fédération
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+
+d) Au dernier alinéa, les mots : " en application du code du sport. " sont remplacés par les mots : " selon la réglementation
+localement applicable. " ; 
+
+25° L'article R. 312-53 est ainsi rédigé : 
+
+" Art. R. 312-53.-L'acquisition par des personnes majeures des armes et de leurs éléments de la catégorie C et du 1° de la
+catégorie D est subordonnée à la présentation : 
+
+" 1° D'un permis de chasser délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu de
+permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+
+" 2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+
+" 3° D'une licence en cours de validité d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du
+sport, délégation du ministre chargé des sports pour la pratique du tir ou du ball-trap ou d'une fédération sportive
+territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+
+26° Au 1° de l'article R. 312-54, les mots : " lorsqu'elle est faite en vue du transfert vers un autre Etat membre de l'Union
+européenne ou de l'exportation vers un pays tiers. " sont remplacés par les mots : " lorsqu'elle est faite en vue de
+l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers. " ; 
+
+27° Aux articles R. 312-54, R. 312-55, R. 312-56, R. 312-72, R. 313-22 et R. 313-24, la référence à l'article R. 312-53 est
+remplacée par la référence au 25° de l'article R. 344-3 ; 
+
+28° Au premier alinéa de l'article R. 312-55, les mots : " au préfet du lieu de domicile " et les mots : " au préfet du
+département du domicile du déclarant ou du demandeur " sont remplacés par les mots : " au haut-commissaire de la République
+en Polynésie française " ; 
+
+29° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes : 
+
+" Toute personne physique qui acquiert en Polynésie française, auprès d'un armurier ou d'un particulier en présence d'un
+armurier, une arme ou un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle fixé par
+l'arrêté prévu à l'article R. 311-6. 
+
+" Toute personne physique qui acquiert en Polynésie française, à compter de la date d'entrée en vigueur du décret n° 5
+février 2015 du 5 février 2015, auprès d'un armurier ou d'un particulier en présence d'un armurier, une arme ou un élément
+d'arme du 1° de la catégorie D procède à une demande d'enregistrement. " ; 
+
+30° A l'article R. 312-58 : 
+
+a) Les mots : ", de spectacles ou à des théâtres nationaux " sont remplacés par les mots : " ou de spectacles " ; 
+
+b) Les mots : " du préfet de département du lieu d'implantation sur site " sont remplacés par les mots : " du haut-
+commissaire de la République en Polynésie française " ; 
+
+31° L'article R. 312-59 est ainsi rédigé : 
+
+" Art. R. 312-59.-Lorsqu'ils transfèrent leur domicile en Polynésie française, les titulaires d'un récépissé de déclaration
+ou d'enregistrement doivent déclarer au haut-commissaire de la République en Polynésie française le nombre et la nature des
+armes et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent. 
+
+" Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
+d'outre-mer, les titulaires d'un récépissé de déclaration ou d'enregistrement en Polynésie française doivent déclarer au
+préfet du département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes
+des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+
+" 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
+applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
+de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
+Calédonie ; 
+
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+
+32° L'article R. 312-60 est ainsi rédigé : 
+
+" Art. R. 312-60.-L'acquisition de munitions et éléments de munition classés dans le 8° de la catégorie C et dans le c du 1°
+de la catégorie D se fait sur présentation : 
+
+" 1° D'un permis de chasser délivré sur le territoire de la République ou à l'étranger, ou de toute autre pièce tenant lieu
+de permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+
+" 2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+
+" 3° D'une licence de tir en cours de validité. " ; 
+
+33° Le premier alinéa de l'article R. 312-61 est ainsi rédigé : 
+
+" L'acquisition de munitions et éléments de munition classés dans les 6° et 7° de la catégorie C se fait sur présentation du
+récépissé de déclaration de l'arme légalement détenue, accompagné : 
+
+" 1° Du permis de chasser accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+
+" 2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+
+" 3° De la licence de tir en cours de validité. " ; 
+
+34° A l'article R. 312-74, le 2° est ainsi rédigé : 
+
+" 2° Neutralisation soit par un établissement désigné par arrêté conjoint du ministre de l'intérieur, du ministre de la
+défense et des ministres chargés de l'industrie et des douanes, soit par un établissement désigné ou un armurier agréé,
+établi sur le territoire français, par arrêté du haut-commissaire de la République en Polynésie française ; " ; 
+
+35° A l'article R. 312-81, les mots : " l'Office national de la chasse et de la faune sauvage, les armuriers et représentants
+de la Fédération nationale des chasseurs " sont remplacés par les mots : " les armuriers et les autorités locales compétentes
+pour délivrer et valider les permis de chasser " ; 
+
+36° A l'article R. 313-3 : 
+
+a) Au a du 2°, après les mots : " l'Espace économique européen, " sont ajoutés les mots : " ou un titre professionnel de la
+Polynésie française reconnu par l'Etat dans les conditions prévues aux articles R. 373-3 à R. 373-9 du code de l'éducation,
+" ; 
+
+b) Le b du 2° est ainsi rédigé : 
+
+" b) Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'armurerie,
+agréé par le haut-commissaire de la République en Polynésie française ; " ; 
+
+37° A l'article R. 313-4, le II est ainsi rédigé : 
+
+" II.-Le certificat de qualification professionnelle est élaboré, délivré et agréé dans les conditions suivantes : il est
+élaboré et délivré par la branche professionnelle et agréé, pour une durée maximale de cinq ans, par le haut-commissaire de
+la République en Polynésie française au regard d'un cahier des charges qu'il définit. 
+
+" L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges. " ; 
+
+38° A l'article R. 313-9, il est ajouté un 5° ainsi rédigé : 
+
+" 5° Une attestation d'enregistrement au répertoire des entreprises de Polynésie française. " ; 
+
+39° Aux articles R. 313-11 et R. 313-14, il est ajouté un 7° ainsi rédigé : 
+
+" 7° Le numéro d'enregistrement au répertoire des entreprises de Polynésie française ; " ; 
+
+40° A l'article R. 313-20 : 
+
+a) Au 1°, les mots : " prévues par l'article L. 762-2 du code du commerce ; " sont remplacés par les mots : " prévues par les
+dispositions applicables localement ; " ; 
+
+b) Au 2°, après les mots : " l'article L. 310-2 du code de commerce ", sont ajoutés les mots : " dans sa version applicable
+en Polynésie française " ; 
+
+c) Au 2°, les mots : " autres que celles définies par l'article L. 762-2 du code du commerce par le préfet de département du
+lieu où elles se tiennent. " sont remplacés par les mots : " autres que des foires et salons par le haut-commissaire de la
+République en Polynésie française. " ; 
+
+41° A l'article R. 313-26, les mots : " en France " et " hors du territoire national " sont remplacés respectivement par les
+mots : " sur le territoire de la République " et " hors du territoire de la République " ; 
+
+42° A l'article 314-10, les mots : " à compter du 6 septembre 2013 " sont remplacés par les mots : " à compter de la date
+d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité
+intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie " ; 
+
+43° Le premier alinéa de l'article R. 314-19 est remplacé par les alinéas suivants : 
+
+" Toute personne physique qui transfère en Polynésie française à un armurier, ou à un particulier en présence d'un armurier,
+la propriété d'une arme ou d'un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle
+fixé par l'arrêté prévu à l'article R. 311-6. 
+
+" Toute personne physique qui transfère en Polynésie française, à compter de la date d'entrée en vigueur du décret n°
+2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire)
+relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie à un armurier, ou à un particulier en
+présence d'un armurier, la propriété d'une arme ou d'un élément d'arme du 1° de la catégorie D procède à une demande
+d'enregistrement. " ; 
+
+44° A l'article R. 315-2 : 
+
+a) Aux 1° et 2°, les mots : " le permis de chasser délivré en France " sont remplacés par les mots : " un permis de chasser
+délivré sur le territoire de la République " ; 
+
+b) Au 3°, après les mots : " pour la pratique du tir ", sont ajoutés les mots : " ou par une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement, " ; 
+
+c) Il est ajouté un 4° ainsi rédigé : 
+
+" 4° L'adhésion à une association de chasse ou l'autorisation de propriétaires à chasser sur leurs terres vaut titre de port
+et de transport légitimes des armes, éléments d'armes et munitions de catégorie C et du 1° de la catégorie D ainsi que des
+armes du a du 2° de la catégorie D, destinés à être utilisés en action de chasse ou pour toute activité qui y est liée. " ; 
+
+45° A l'article R. 315-6, les mots : " en France " sont remplacés par les mots : " en Polynésie française " ; 
+
+46° A l'article R. 315-14, les mots : " transférées au sens du chapitre VI " sont supprimés ; 
+
+47° A l'article R. 315-16, le mot : " ferrée, " est supprimé ; 
+
+48° A l'article R. 317-3, le 1° est ainsi rédigé : 
+
+" 1° Toute personne qui transfère son domicile en Polynésie française de ne pas faire la déclaration prévue aux 23° et 31° de
+l'article R. 344-3 ; " ; 
+
+49° A l'article R. 317-4, après les mots : " ou du ball-trap, ", sont ajoutés les mots : " ou d'une fédération sportive
+territoriale compétente en ce domaine en application des dispositions applicables localement, ; 
+
+50° A l'article R. 317-6 et au 1° de l'article R. 317-7, après les mots : " en cours de validité " sont ajoutés les mots : "
+ou de l'adhésion à une association de chasse ou de l'autorisation par des propriétaires de chasser sur leurs terres. " ; 
+
+51° A l'article R. 317-12, le 3° est supprimé. 
+
+[...]
 
 **Liens relatifs à cet article**
 
@@ -45100,9 +45587,65 @@ Article réservé.
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-2
+	  - Code de la sécurité intérieure - art. R312-1
+	  - Code de la sécurité intérieure - art. R312-12
+	  - Code de la sécurité intérieure - art. R312-13
+	  - Code de la sécurité intérieure - art. R312-16
+	  - Code de la sécurité intérieure - art. R312-18
+	  - Code de la sécurité intérieure - art. R312-19
+	  - Code de la sécurité intérieure - art. R312-2
+	  - Code de la sécurité intérieure - art. R312-22
+	  - Code de la sécurité intérieure - art. R312-24
+	  - Code de la sécurité intérieure - art. R312-25
+	  - Code de la sécurité intérieure - art. R312-26
+	  - Code de la sécurité intérieure - art. R312-3
+	  - Code de la sécurité intérieure - art. R312-34
+	  - Code de la sécurité intérieure - art. R312-36
+	  - Code de la sécurité intérieure - art. R312-37
+	  - Code de la sécurité intérieure - art. R312-40
+	  - Code de la sécurité intérieure - art. R312-43
+	  - Code de la sécurité intérieure - art. R312-48
+	  - Code de la sécurité intérieure - art. R312-5
+	  - Code de la sécurité intérieure - art. R312-50
+	  - Code de la sécurité intérieure - art. R312-52
+	  - Code de la sécurité intérieure - art. R312-53
+	  - Code de la sécurité intérieure - art. R312-54
+	  - Code de la sécurité intérieure - art. R312-56
+	  - Code de la sécurité intérieure - art. R312-58
+	  - Code de la sécurité intérieure - art. R312-59
+	  - Code de la sécurité intérieure - art. R312-6
+	  - Code de la sécurité intérieure - art. R312-60
+	  - Code de la sécurité intérieure - art. R312-61
+	  - Code de la sécurité intérieure - art. R312-64
+	  - Code de la sécurité intérieure - art. R312-72
+	  - Code de la sécurité intérieure - art. R312-74
+	  - Code de la sécurité intérieure - art. R312-8
+	  - Code de la sécurité intérieure - art. R312-81
+	  - Code de la sécurité intérieure - art. R313-11
+	  - Code de la sécurité intérieure - art. R313-20
+	  - Code de la sécurité intérieure - art. R313-22
+	  - Code de la sécurité intérieure - art. R313-26
+	  - Code de la sécurité intérieure - art. R313-3
+	  - Code de la sécurité intérieure - art. R313-4
+	  - Code de la sécurité intérieure - art. R313-9
+	  - Code de la sécurité intérieure - art. R314-19
+	  - Code de la sécurité intérieure - art. R315-14
+	  - Code de la sécurité intérieure - art. R315-16
+	  - Code de la sécurité intérieure - art. R315-2
+	  - Code de la sécurité intérieure - art. R315-6
+	  - Code de la sécurité intérieure - art. R317-12
+	  - Code de la sécurité intérieure - art. R317-3
+	  - Code de la sécurité intérieure - art. R317-4
+	  - Code de la sécurité intérieure - art. R317-6
+	  - Code de la sécurité intérieure - art. R317-7
+	  - Code de la sécurité intérieure - art. R344-1 (VD)
 
 
 ##### Section 1 : Casinos
@@ -46434,71 +46977,6 @@ l'intérieur, du ministre chargé du budget et du ministre chargé de l'outre-me
 
 #### Chapitre V : Dispositions applicables en Nouvelle-Calédonie
 
-###### Article D345-2
-
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 345-5, les dispositions du
-présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
-droite du même tableau : 
-
-<table>
-      <tbody><tr>
-        <td valign="bottom" align="center">
-
-DISPOSITIONS APPLICABLES </td>
-        <td align="center" valign="bottom">
-
-DANS LEUR RÉDACTION </td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 321-22 à D. 321-25 
-</td>
-        <td align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="left">
-
-D. 322-4 
-</td>
-        <td align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody></table>
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014
-	  - Code de la sécurité intérieure - art. D321-22
-	  - Code de la sécurité intérieure - art. D322-4
-	  - Code de la sécurité intérieure - art. D345-5
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-130 du 5 février 2015 - art.
-
-
 ###### Article D345-5
 
 Pour l'application en Nouvelle-Calédonie de l'article D. 322-4, la référence à l'article L. 123-29 du code de commerce est
@@ -46528,51 +47006,168 @@ remplacée par la référence aux dispositions ayant le même objet applicables 
 
 ###### Article R345-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 345-3, R. 345-4 et D. 345-5, les
+dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau : 
 
 <table>
-      <tbody><tr>
-        <td valign="bottom" align="center">
+    <tbody>
+      <tr>
+        <th>
 
-DISPOSITIONS APPLICABLES </td>
-        <td align="center" valign="bottom">
+DISPOSITIONS APPLICABLES 
 
-DANS LEUR RÉDACTION </td>
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
       </tr>
       <tr>
-        <td align="left">
+        <td colspan="2" align="center">
 
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+Au titre Ier 
 
-R. 321-21, R. 321-26
 </td>
-        <td align="left">
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 311-1 à R. 311-6 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 312-1 à R. 312-48 
+
+</td>
+        <td align="justify">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
       </tr>
-    </tbody></table>
+      <tr>
+        <td align="justify">
+
+R. 312-50 à R. 312-83 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 313-1 à R. 313-26 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 314-1 à R. 314-20 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 315-1 à R. 315-18 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 317-1 à R. 317-14 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+
+Au titre II 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 321-21, R. 321-26 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-	  - Code de la sécurité intérieure - art. R321-21 (VD)
-	  - Code de la sécurité intérieure - art. R321-26 (VD)
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. D345-5
+	  - Code de la sécurité intérieure - art. R311-1
+	  - Code de la sécurité intérieure - art. R312-1
+	  - Code de la sécurité intérieure - art. R312-50
+	  - Code de la sécurité intérieure - art. R313-1
+	  - Code de la sécurité intérieure - art. R314-1
+	  - Code de la sécurité intérieure - art. R315-1
+	  - Code de la sécurité intérieure - art. R317-1
+	  - Code de la sécurité intérieure - art. R321-21
+	  - Code de la sécurité intérieure - art. R321-26
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
 
 	**Cité par**:
 
@@ -46580,9 +47175,93 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 	  - Code de la sécurité intérieure - art. R345-4 (VD)
 
 
+###### Article R345-2
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 345-5, les dispositions du
+présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
+droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+
+Au titre II 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+D. 321-22 à D. 321-25 
+
+</td>
+          <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+D. 322-4
+
+</td>
+          <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. D321-22
+	  - Code de la sécurité intérieure - art. D322-4
+	  - Code de la sécurité intérieure - art. D345-5
+
+	**Créé par**:
+
+	  - Décret n°2015-130 du 5 février 2015 - art.
+
+
 ###### Article R345-3
 
-Article réservé.
+Pour l'application des dispositions énumérées à l'article R. 345-1 en Nouvelle-Calédonie : 
+
+1° Les références au préfet de département et au préfet sont remplacées par la référence au haut-commissaire de la République
+en Nouvelle-Calédonie ; 
+
+2° Les références à la préfecture et aux services préfectoraux sont remplacées par la référence au haut-commissariat de la
+République en Nouvelle-Calédonie ; 
+
+3° La référence au commandant du groupement de gendarmerie départementale est remplacée par la référence au commandant de la
+gendarmerie nationale pour la Nouvelle-Calédonie ; 
+
+4° La référence à la cour d'appel est remplacée par la référence à la cour d'appel de Nouméa ; 
+
+5° La référence à l'agence régionale de santé est remplacée par la référence aux autorités locales compétentes en matière de
+santé.
 
 **Liens relatifs à cet article**
 
@@ -46590,9 +47269,9 @@ Article réservé.
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
 
 	**Cité par**:
 
@@ -46601,7 +47280,447 @@ Article réservé.
 
 ###### Article R345-4
 
-Article réservé.
+Pour l'application des dispositions du titre Ier énumérées à l'article R. 345-1 en Nouvelle-Calédonie : 
+
+1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé : 
+
+" Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si
+elles sont conformes aux caractéristiques techniques définies par arrêté conjoint des ministres de la défense et de
+l'intérieur et des ministres chargés de l'industrie et des douanes constatées dans un procès-verbal d'expertise effectuée
+soit par un établissement technique désigné par le ministre de la défense, soit par un établissement désigné ou un armurier
+agréé, établi sur le territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie, dans les cas
+et les conditions déterminés par l'arrêté interministériel prévu ci-dessus. " ; 
+
+2° A l'article R. 312-1 : 
+
+a) Le 1° est remplacé par les dispositions suivantes : 
+
+" 1° Sur présentation du permis de chasser délivré sur le territoire de la République ou à l'étranger au nom du mineur, ou de
+toute autre pièce tenant lieu de permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de
+l'année précédente ; " ; 
+
+b) Au 2°, après les mots : " ou du ball trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement. " ; 
+
+3° L'article R. 312-2 est ainsi rédigé : 
+
+" Art. R. 312-2.-Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-38 à R. 312-40, R.
+312-44, R. 312-65 et au 20° de l'article R. 345-4 sont délivrées, dans chaque cas, par le haut-commissaire de la République
+en Nouvelle-Calédonie. En outre : 
+
+" 1° Pour les autorisations portant sur les matériels de la catégorie A2 susceptibles d'être déclassés, l'autorisation du
+haut-commissaire est délivrée dans les conditions prévues par un arrêté conjoint des ministres de la défense et de
+l'intérieur ; 
+
+" 2° Pour les autorisations mentionnées à l'article R. 312-27, lorsque le matériel de guerre est classé au titre de la
+législation nationale des monuments historiques, la décision ne peut être prise qu'après avis du ministre chargé de la
+culture. " ; 
+
+4° A l'article R. 312-3, après les mots : " ou de leurs éléments ", sont ajoutés les mots : " sur le territoire de la
+Nouvelle-Calédonie " et les mots : " au préfet du lieu de domicile ou, pour les personnes ne possédant pas la nationalité
+française, du lieu de leur résidence " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-
+Calédonie " ; 
+
+5° A l'article R. 312-5 : 
+
+a) Aux b et c du 4°, après les mots : " pour la pratique du tir ", sont ajoutés les mots : " ou d'une fédération sportive
+territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+
+b) Au a du 7°, les mots : " certificat de résidence " et " sur le territoire français " sont remplacés respectivement par les
+mots : " titre de séjour " et " sur le territoire de la Nouvelle-Calédonie " ; 
+
+c) Au a du 8°, les mots : " avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
+l'autorisation " sont supprimés ; 
+
+d) Au 10°, après les mots : " Fédération française de tir ", sont ajoutés les mots : " ou d'une fédération sportive
+territoriale de tir. " ; 
+
+6° A l'article R. 312-6, le 3° est supprimé ; 
+
+7° A l'article R. 312-8, les mots : " de santé mentionné à l'article L. 3222-1 du code de la santé publique " et à l'article
+R. 312-57, les mots : " de santé habilité en vertu des dispositions de l'article L. 3222-1 du code de la santé publique ",
+sont remplacés par les mots : " habilité à soigner les personnes atteintes de troubles mentaux conformément à la
+réglementation applicable localement " ; 
+
+8° A l'article R. 312-12, les mots : " trois mois " sont remplacés par les mots : " six mois " ; 
+
+9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 345-4 ; 
+
+10° A l'article R. 312-16, les mots : " R. 312-37 à R. 312-41 et R. 312-44 " sont remplacés par les mots : " R. 312-38 à R.
+312-41, R. 312-44 et au 20° de l'article R. 345-4 " ; 
+
+11° A l'article R. 312-18, les mots : " la décision préfectorale " sont remplacés par les mots : " la décision du haut-
+commissaire de la République en Nouvelle-Calédonie " ; 
+
+12° A l'article R. 312-19 : 
+
+a) Le 3° est supprimé ; 
+
+b) Au 4° les mots : " dans le respect des dispositions de l'article L. 622-16 du code du patrimoine si les matériels sont
+classés au titre des monuments historiques " sont supprimés ; 
+
+13° Au 4° de l'article R. 312-21, à l'article R. 312-70 et au 1° de l'article R. 313-6, après les mots : " en application de
+l'article 425 du code civil ", sont ajoutés les mots : " ou des dispositions applicables localement ayant le même objet " ; 
+
+14° A l'article R. 312-22, après les mots : " les administrations ou services publics ", sont ajoutés les mots : " en
+Nouvelle-Calédonie " ; 
+
+15° A l'article R. 312-24 : 
+
+a) Au premier alinéa, après les mots : " agents des administrations publiques ", sont ajoutés les mots : " en Nouvelle-
+Calédonie " ; 
+
+b) Aux deuxième et quatrième alinéas, après les mots : " ou services publics ", sont ajoutés les mots : " en Nouvelle-
+Calédonie " ; 
+
+c) Au troisième alinéa, après les mots : " les sous-officiers d'active ", sont ajoutés les mots : " affectés en Nouvelle-
+Calédonie " ; 
+
+d) Au quatrième alinéa, après : " ou le service public ", sont ajoutés les mots : " en Nouvelle-Calédonie " ; 
+
+16° A l'article R. 312-25 : 
+
+a) Après les mots : " et agents ", sont ajoutés les mots : " de l'Etat en Nouvelle-Calédonie " ; 
+
+b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé : 
+
+" Les catégories de fonctionnaires et agents des administrations ou services publics autres que ceux de l'Etat en Nouvelle-
+Calédonie appelés à bénéficier des autorisations mentionnées à l'article R. 312-22 et aux premier et deuxième alinéas de
+l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. " ; 
+
+c) Au dernier alinéa, les mots : " le préfet du département où les intéressés exercent leurs fonctions " sont remplacés par
+les mots : " le haut-commissaire de la République en Nouvelle-Calédonie " ; 
+
+17° Aux articles R. 312-26 et R. 312-64, les mots : " les théâtres nationaux " sont remplacés par les mots : " les
+établissements publics de spectacle " ; 
+
+18° A l'article R. 312-34, les mots : " le préfet du département du lieu où l'expert exerce son activité " et les mots : " le
+préfet du département du lieu où il exerce son activité " sont remplacés par les mots : " le haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
+
+19° L'article R. 312-36 est ainsi rédigé : 
+
+" Art. R. 312-36.-L'expert informe le haut-commissaire de la République en Nouvelle-Calédonie en cas de changement du lieu de
+son activité et, le cas échéant, le représentant de l'Etat dans le département de métropole ou d'outre-mer ou dans la
+collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu. " ; 
+
+20° L'article R. 312-37 est ainsi rédigé : 
+
+" Art. R. 312-37.-Les personnes exerçant l'activité mentionnée au 2° de l'article L. 611-1 sont autorisées, en application de
+l'article L. 613-9, à porter une arme du 1° de la catégorie B ainsi que les munitions correspondantes classées au 10° de la
+catégorie B, lorsque le transport de fonds est effectué au moyen d'un véhicule blindé. 
+
+" La demande d'autorisation de port d'arme des convoyeurs est présentée par l'entreprise qui les emploie. 
+
+" Tout véhicule blindé est en outre équipé d'une arme complémentaire du f du 2° de la catégorie B de l'article 2 ainsi que
+des munitions correspondantes classées au 8° de la catégorie C. 
+
+" L'équipage d'un véhicule banalisé servant au transport de billets, de bijoux ou de métaux précieux n'est pas armé. 
+
+" Le dossier de demande d'autorisation comporte : 
+
+" 1° La copie d'une pièce d'identité en cours de validité ; 
+
+" 2° Le justificatif de l'aptitude professionnelle ; 
+
+" 3° Le numéro de la carte professionnelle attribuée par la commission locale d'agrément et de contrôle de Nouvelle-
+Calédonie ; 
+
+" 4° Un certificat médical datant de moins de quinze jours, placé sous pli fermé et attestant que l'état de santé physique et
+psychique du convoyeur n'est pas incompatible avec le port d'une arme ; 
+
+" L'autorisation de port d'arme est délivrée par le haut-commissaire de la République en Nouvelle-Calédonie pour une durée de
+cinq ans ; 
+
+" L'autorisation de port d'arme devient caduque en cas de retrait de la carte professionnelle ou si son titulaire cesse
+d'être employé comme convoyeur par l'entreprise qui a présenté la demande d'autorisation. " ; 
+
+21° A l'article R. 312-40 : 
+
+a) Au 1° après les mots : " ou du ball-trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale compétente
+en ce domaine en application des dispositions applicables localement, " ; 
+
+b) Le premier alinéa du 2° est ainsi rédigé : 
+
+" 2° Les personnes majeures et les tireurs sélectionnés de moins de dix-huit ans participant à des concours internationaux,
+membres des associations mentionnées au 1°, titulaires du carnet de tir conforme aux dispositions de l'article R. 312-43 du
+présent code, licenciés d'une fédération ayant reçu du ministre chargé des sports au titre de l'article L. 131-14 du code du
+sport délégation pour la pratique du tir ou d'une fédération sportive territoriale compétente en ce domaine en application
+des dispositions applicables localement, et titulaires d'un avis favorable de cette fédération, dans la limite de huit armes
+mentionnées au 1°, 2°, 4° et 9° de la catégorie B. Ces armes ne peuvent être utilisées que dans un stand de tir déclaré selon
+la réglementation localement applicable. " ; 
+
+c) Au deuxième alinéa du 2°, après les mots : " la pratique du tir ", sont ajoutés les mots : ", ou par une fédération
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ; 
+
+d) Au sixième alinéa du 2°, les mots : " par arrêté conjoint des ministres de la défense et de l'intérieur et du ministre
+chargé des sports " sont remplacés par les mots : " par arrêté du haut-commissaire de la République en Nouvelle-Calédonie.
+" ; 
+
+e) Le dernier alinéa du 2° est supprimé ; 
+
+22° Au deuxième alinéa de l'article R. 312-43, les mots : " ou de gendarmerie. " sont remplacés par les mots : ", de
+gendarmerie ou des douanes. " ; 
+
+23° A l'article R. 312-47 : 
+
+a) Le 2° est ainsi rédigé : 
+
+" 2° Des articles R. 312-26 et R. 312-30 : 1 000 cartouches par arme ; " ; 
+
+b) Il est ajouté un 3° ainsi rédigé : 
+
+" 3° Des articles R. 312-40 et R. 312-41 : sous réserve de la détention d'un nombre maximal de 1 000 munitions par personne,
+quels que soient le nombre et la catégorie des armes détenues, les détenteurs d'armes mentionnés à l'article R. 312-40
+peuvent être autorisés à acquérir et détenir des munitions pour recompléter les quantités indiquées ci-dessus dans les
+conditions fixées à l'article R. 312-48. " ; 
+
+24° A l'article R. 312-48, les mots : " au préfet du lieu de domicile " sont remplacés par les mots : " au haut-commissaire
+de la République en Nouvelle-Calédonie " et les mots : " le préfet qui a reçu la demande " sont remplacés par les mots : " le
+haut-commissaire de la République en Nouvelle-Calédonie " ; 
+
+25° L'article R. 312-50 est ainsi rédigé : 
+
+" Art. R. 312-50.-Lorsqu'ils transfèrent leur domicile en Nouvelle-Calédonie, les titulaires d'autorisation d'acquisition et
+de détention doivent déclarer au haut-commissaire de la République en Nouvelle-Calédonie le nombre et la nature des armes et
+éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
+d'outre-mer, les titulaires d'autorisation d'acquisition et de détention en Nouvelle-Calédonie doivent déclarer au préfet du
+département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes des
+catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+
+" 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
+applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
+de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
+Calédonie ; 
+
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+
+26° A l'article R. 312-52 : 
+
+a) Au deuxième alinéa, les mots : " prévues aux articles R. 312-53 à R. 312-58 " sont remplacés par les mots : " prévues aux
+articles R. 312-54 à R. 312-58 et au 27° de l'article R. 345-4 " ; 
+
+b) Le troisième alinéa est ainsi rédigé : 
+
+" Les armes et leurs éléments des catégories C et D peuvent être détenus par des mineurs s'ils ont plus de seize ans, y sont
+autorisés par la personne exerçant l'autorité parentale, sauf si celle-ci est inscrite au fichier national des interdits
+d'acquisition et de détention d'armes, et, hormis pour les armes des d et g du 2° de la catégorie D, sont titulaires d'un
+permis de chasser, délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu de permis
+de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente. " ; 
+
+c) Aux quatrième et cinquième alinéas, après les mots : " ou du ball-trap ", sont ajoutés les mots : ", ou d'une fédération
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ; 
+
+d) Avant le cinquième alinéa, il est inséré un alinéa ainsi rédigé : 
+
+" Le nombre total d'armes de catégorie C et du 1° de la catégorie D détenues par les mineurs visés à l'alinéa précédent est
+limité à quatre. " ; 
+
+e) Au dernier alinéa, les mots : " en application du code du sport. " sont remplacés par les mots : " selon la réglementation
+localement applicable. " ; 
+
+27° Le premier alinéa de l'article R. 312-53 est ainsi rédigé : 
+
+" L'acquisition par des personnes majeures des armes et de leurs éléments de la catégorie C et du 1° de la catégorie D est
+subordonnée à la présentation d'un permis de chasser délivré sur le territoire de la République ou à l'étranger ou de tout
+autre pièce tenant lieu de permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année
+précédente ou, dans les conditions prévues au 4° de l'article R. 312-5 du présent code, d'une licence en cours de validité
+d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du ministre chargé des
+sports pour la pratique du tir ou du ball-trap, ou d'une fédération sportive territoriale compétente en ce domaine en
+application des dispositions applicables localement. " ; 
+
+28° Au 1° de l'article R. 312-54, les mots : " lorsqu'elle est faite en vue du transfert vers un autre Etat membre de l'Union
+européenne ou de l'exportation vers un pays tiers. " sont remplacés par les mots : " lorsqu'elle est faite en vue de
+l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers. " ; 
+
+29° Au premier alinéa de l'article R. 312-55, les mots : " au préfet du lieu de domicile " et les mots : " au préfet du
+département du domicile du déclarant ou du demandeur " sont remplacés par les mots : " au haut-commissaire de la République
+en Nouvelle-Calédonie " ; 
+
+30° Aux articles R. 312-54, R. 312-55, R. 312-56, R. 312-72, R. 313-22 et R. 313-24, la référence au premier alinéa de
+l'article R. 312-53 est remplacée par la référence au 27° de l'article R. 345-4 ; 
+
+31° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes : 
+
+" Toute personne physique qui acquiert en Nouvelle-Calédonie auprès d'un armurier ou d'un particulier en présence d'un
+armurier une arme ou un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle fixé par
+l'arrêté prévu à l'article R. 311-6. 
+
+" Toute personne physique qui acquiert en Nouvelle-Calédonie, à compter de la date d'entrée en vigueur du décret n° 2015-130
+du 5 février 2015, auprès d'un armurier ou d'un particulier en présence d'un armurier une arme ou un élément d'arme du 1° de
+la catégorie D procède à une demande d'enregistrement. " ; 
+
+32° A l'article R. 312-58 : 
+
+a) Les mots : ", de spectacles ou à des théâtres nationaux " sont remplacés par les mots : " ou de spectacles " ; 
+
+b) Les mots : " du préfet de département du lieu d'implantation sur site " sont remplacés par les mots : " du haut-
+commissaire de la République en Nouvelle-Calédonie " ; 
+
+33° L'article R. 312-59 est ainsi rédigé : 
+
+" Art. R. 312-59.-Lorsqu'ils transfèrent leur domicile en Nouvelle-Calédonie, les titulaires d'un récépissé de déclaration ou
+d'enregistrement doivent déclarer au haut-commissaire de la République en Nouvelle-Calédonie le nombre et la nature des armes
+et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent. 
+
+" Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
+d'outre-mer, les titulaires d'un récépissé de déclaration ou d'enregistrement en Nouvelle-Calédonie doivent déclarer au
+préfet du département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes
+des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+
+" 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
+applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
+de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
+Calédonie ; 
+
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+
+34° L'article R. 312-60 est ainsi rédigé : 
+
+" Art. R. 312-60.-L'acquisition de munitions et éléments de munition classés dans le 8° de la catégorie C et dans le c du 1°
+de la catégorie D se fait sur présentation du récépissé de déclaration ou d'enregistrement de l'arme légalement détenue et
+d'un permis de chasser délivré sur le territoire de la République ou à l'étranger, ou de toute autre pièce tenant lieu de
+permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ou de la licence
+de tir en cours de validité. " ; 
+
+35° L'article R. 312-61 est ainsi rédigé : 
+
+" Art. R. 312-61.-L'acquisition des munitions et éléments de munition classés dans les 6° et 7° de la catégorie C se fait sur
+présentation du récépissé de déclaration de l'arme légalement détenue et d'un permis de chasser accompagné d'un titre de
+validation de l'année en cours ou de l'année précédente ou de la licence de tir en cours de validité. " ; 
+
+36° L'article R. 312-63 est ainsi rédigé : 
+
+" Art. R. 312-63.-Nul ne peut détenir plus de 1 000 munitions quel que soit le nombre d'armes détenues de catégorie C et du
+1° de la catégorie D. 
+
+" Nul ne peut détenir de munitions classées dans les 6°, 7° et 8° de la catégorie C ou dans le c du 1° de la catégorie D sans
+détenir l'arme correspondante. 
+
+" Nul ne peut détenir plus de 150 munitions du c du 1° de la catégorie D à projectiles multiples, dont le diamètre est
+supérieur à 5 mm, ou à projectile unique. " ; 
+
+37° A l'article R. 312-74, le 2° est ainsi rédigé : 
+
+" 2° Neutralisation soit par un établissement désigné par arrêté conjoint du ministre de l'intérieur, du ministre de la
+défense et des ministres chargés de l'industrie et des douanes, soit par un établissement désigné ou un armurier agréé,
+établi sur le territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie ; " ; 
+
+38° A l'article R. 312-81, les mots : " l'Office national de la chasse et de la faune sauvage, les armuriers et représentants
+de la Fédération nationale des chasseurs " sont remplacés par les mots : " les armuriers et les autorités locales compétentes
+pour délivrer et valider les permis de chasser " ; 
+
+39° A l'article R. 313-3 : 
+
+a) Au a du 2°, après les mots : " l'Espace économique européen, ", sont ajoutés les mots : " ou un titre professionnel de la
+Nouvelle-Calédonie reconnu par l'Etat dans les conditions prévues aux articles R. 374-6 à R. 374-12 du code de l'éducation,
+" ; 
+
+b) Le b du 2° est ainsi rédigé : 
+
+" b) Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'armurerie,
+agréé par le haut-commissaire de la République en Nouvelle-Calédonie et inscrit au répertoire de la certification
+professionnelle de la Nouvelle-Calédonie ; " ; 
+
+40° A l'article R. 313-4, le II est ainsi rédigé : 
+
+" II.-Le certificat de qualification professionnelle est élaboré, délivré et agréé dans les conditions suivantes : il est
+élaboré et délivré par la branche professionnelle et agréé, pour une durée maximale de cinq ans, par le haut-commissaire de
+la République en Nouvelle-Calédonie au regard d'un cahier des charges qu'il définit. 
+
+" L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges. " ; 
+
+41° A l'article R. 313-20 : 
+
+a) Au 1°, les mots : " prévues par l'article L. 762-2 du code du commerce ; " sont remplacés par les mots : " prévues par les
+dispositions applicables localement ; " ; 
+
+b) Au 2°, après les mots : " l'article L. 310-2 du code du commerce " sont ajoutés les mots : " dans sa version applicable en
+Nouvelle-Calédonie " ; 
+
+c) Au 2°, les mots : " autres que celles définies par l'article L. 762-2 du code de commerce par le préfet de département du
+lieu où elles se tiennent. " sont remplacés par les mots : " autres que des foires et des salons par le haut-commissaire de
+la République en Nouvelle-Calédonie. " ; 
+
+42° A l'article R. 313-26, les mots : " en France " et " hors du territoire national " sont remplacés respectivement par les
+mots : " sur le territoire de la République " et " hors du territoire de la République " ; 
+
+43° A l'article 314-10, les mots : " à compter du 6 septembre 2013 " sont remplacés par les mots : " à compter de la date
+d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité
+intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie " ; 
+
+44° Le premier alinéa de l'article R. 314-19 est remplacé par les dispositions suivantes : 
+
+" Toute personne physique qui transfère en Nouvelle-Calédonie à un armurier, ou à un particulier en présence d'un armurier,
+la propriété d'une arme ou d'un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle
+fixé par l'arrêté prévu à l'article R. 311-6. 
+
+" Toute personne physique qui transfère en Nouvelle-Calédonie à compter de la date d'entrée en vigueur du décret n° 2015-130
+du 5 février 2015, à un armurier, ou à un particulier en présence d'un armurier, la propriété d'une arme ou un élément d'arme
+du 1° de la catégorie D procède à une demande d'enregistrement. " ; 
+
+45° A l'article R. 315-2 : 
+
+a) Aux 1° et 2°, les mots : " le permis de chasser délivré en France " sont remplacés par les mots : " un permis de chasser
+délivré sur le territoire de la République " ; 
+
+b) Au 3°, après les mots : " pour la pratique du tir ", sont ajoutés les mots : " ou par une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement, " ; 
+
+46° A l'article R. 315-6, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
+
+47° A l'article R. 315-14, les mots : " transférées au sens du chapitre VI " sont supprimés ; 
+
+48° A l'article R. 315-16, le mot : " ferrée, " est supprimé ; 
+
+49° A l'article R. 317-1, les mots : " à sixième alinéas de l'article R. 312-52. " sont remplacés par les mots : " à septième
+alinéas de l'article R. 312-52. " ; 
+
+50° A l'article R. 317-3, le 1° est ainsi rédigé : 
+
+" 1° Toute personne qui transfère son domicile en Nouvelle-Calédonie de ne pas faire la déclaration prévue aux 25° et 33° de
+l'article R. 345-4 ; " ; 
+
+51° A l'article R. 317-4 : 
+
+a) Au 1°, après les mots : " ou du ball-trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale
+compétente en ce domaine en application des dispositions applicables localement " ; 
+
+b) Au 2°, les mots : " plus de douze armes " sont remplacés par les mots : " plus de huit armes " ; 
+
+c) Il est ajouté un 5° ainsi rédigé : 
+
+" 5° Toute personne d'acquérir ou de détenir plus de quatre armes de catégorie C et du 1° de la catégorie D en violation du
+quota fixé au d du 26° de l'article R. 345-4 pour les mineurs. " ; 
+
+52° A l'article R. 317-6, après les mots : " sans présentation " sont ajoutés les mots : " du récépissé de déclaration ou
+d'enregistrement des armes légalement détenues et " ; 
+
+53° A l'article R. 317-7, le 2° est supprimé ; 
+
+54° L'article R. 317-8 est remplacé par les dispositions suivantes : 
+
+" Art. R. 317-8.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, en violation des
+dispositions du 3° de l'article R. 312-47 et du 36° de l'article R. 345-4, pour : 
+
+" 1° Toute personne de détenir plus de 1 000 munitions quel que soit le nombre d'armes détenues de catégories B, C et du 1°
+de la catégorie D ; 
+
+" 2° Toute personne de détenir plus de 150 munitions du c du 1° de la catégorie D à projectiles multiples, dont le diamètre
+est supérieur à 5 mm, ou à projectile unique en violation des conditions fixées au 36° de l'article R. 345-4. " ; 
+
+55° A l'article R. 317-11, il est inséré un alinéa ainsi rédigé : 
+
+" Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de contrevenir aux dispositions prévues au 20°
+de l'article R. 345-4. " ; 
+
+56° A l'article R. 317-12, le 3° est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -46609,9 +47728,73 @@ Article réservé.
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art.
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-2
+	  - Code de la sécurité intérieure - art. R312-1
+	  - Code de la sécurité intérieure - art. R312-12
+	  - Code de la sécurité intérieure - art. R312-13
+	  - Code de la sécurité intérieure - art. R312-16
+	  - Code de la sécurité intérieure - art. R312-18
+	  - Code de la sécurité intérieure - art. R312-19
+	  - Code de la sécurité intérieure - art. R312-2
+	  - Code de la sécurité intérieure - art. R312-21
+	  - Code de la sécurité intérieure - art. R312-22
+	  - Code de la sécurité intérieure - art. R312-24
+	  - Code de la sécurité intérieure - art. R312-25
+	  - Code de la sécurité intérieure - art. R312-26
+	  - Code de la sécurité intérieure - art. R312-3
+	  - Code de la sécurité intérieure - art. R312-34
+	  - Code de la sécurité intérieure - art. R312-36
+	  - Code de la sécurité intérieure - art. R312-37
+	  - Code de la sécurité intérieure - art. R312-40
+	  - Code de la sécurité intérieure - art. R312-43
+	  - Code de la sécurité intérieure - art. R312-47
+	  - Code de la sécurité intérieure - art. R312-48
+	  - Code de la sécurité intérieure - art. R312-5
+	  - Code de la sécurité intérieure - art. R312-50
+	  - Code de la sécurité intérieure - art. R312-52
+	  - Code de la sécurité intérieure - art. R312-53
+	  - Code de la sécurité intérieure - art. R312-54
+	  - Code de la sécurité intérieure - art. R312-55
+	  - Code de la sécurité intérieure - art. R312-56
+	  - Code de la sécurité intérieure - art. R312-58
+	  - Code de la sécurité intérieure - art. R312-59
+	  - Code de la sécurité intérieure - art. R312-6
+	  - Code de la sécurité intérieure - art. R312-60
+	  - Code de la sécurité intérieure - art. R312-61
+	  - Code de la sécurité intérieure - art. R312-63
+	  - Code de la sécurité intérieure - art. R312-64
+	  - Code de la sécurité intérieure - art. R312-70
+	  - Code de la sécurité intérieure - art. R312-72
+	  - Code de la sécurité intérieure - art. R312-74
+	  - Code de la sécurité intérieure - art. R312-8
+	  - Code de la sécurité intérieure - art. R312-81
+	  - Code de la sécurité intérieure - art. R313-20
+	  - Code de la sécurité intérieure - art. R313-22
+	  - Code de la sécurité intérieure - art. R313-24
+	  - Code de la sécurité intérieure - art. R313-26
+	  - Code de la sécurité intérieure - art. R313-3
+	  - Code de la sécurité intérieure - art. R313-4
+	  - Code de la sécurité intérieure - art. R313-6
+	  - Code de la sécurité intérieure - art. R314-19
+	  - Code de la sécurité intérieure - art. R315-14
+	  - Code de la sécurité intérieure - art. R315-16
+	  - Code de la sécurité intérieure - art. R315-2
+	  - Code de la sécurité intérieure - art. R315-6
+	  - Code de la sécurité intérieure - art. R317-1
+	  - Code de la sécurité intérieure - art. R317-11
+	  - Code de la sécurité intérieure - art. R317-12
+	  - Code de la sécurité intérieure - art. R317-3
+	  - Code de la sécurité intérieure - art. R317-4
+	  - Code de la sécurité intérieure - art. R317-6
+	  - Code de la sécurité intérieure - art. R317-7
+	  - Code de la sécurité intérieure - art. R317-8
+	  - Code de la sécurité intérieure - art. R345-1
 
 
 #### Chapitre VI : Dispositions applicables à Wallis-et-Futuna
@@ -54136,128 +55319,187 @@ présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans
 droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 511-1 à R. 511-2, 
-R. 511-11 à R. 511-12, R. 511-14 à R. 511-27 et R. 511-29 à R. 511-34 
+    </tr>
+    <tr>
+      <td align="center">
+R. 511-1 à R. 511-2, R. 511-11 
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td align="center">
+R. 511-12 
+</td>
+      <td align="center">
+
+Résultant du décret n° 2014-888 du 1er août 2014 relatif à l'armement professionnel 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
+R. 511-14 à R. 511-27 et R. 511-29 à R. 511-34 
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 512-1 à R. 512-3, 
 R. 512-5 et R. 512-6 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 514-1 à R. 514-11 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td>
+
 R. 515-1 
-</td>
-        <td align="center">Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des
-agents de police municipale aux directeurs de police municipale et modifiant ce code 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+      <td>
 
+Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
+aux directeurs de police municipale et modifiant ce code 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 515-2 à R. 515-6 
 
 </td>
-        <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 515-7 
 
 </td>
-        <td>Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de
-police municipale aux directeurs de police municipale et modifiant ce code </td>
-      </tr>
-      <tr>
-        <td>
+      <td>
+
+Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
+aux directeurs de police municipale et modifiant ce code 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 515-8 à R. 515-21
 
 </td>
-        <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 521-1 à R. 522-2 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Annexes 1 et 2 
+    </tr>
+    <tr>
+      <td align="center">Au titre II 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="center">
+R. 521-1 à R. 522-2 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Annexes 1 et 2 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013
+	  - Code de la sécurité intérieure - art. R511-1
+	  - Code de la sécurité intérieure - art. R511-11
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-14
+	  - Code de la sécurité intérieure - art. R511-29
+	  - Code de la sécurité intérieure - art. R512-1
+	  - Code de la sécurité intérieure - art. R512-5
+	  - Code de la sécurité intérieure - art. R514-1
+	  - Code de la sécurité intérieure - art. R515-1 (V)
+	  - Code de la sécurité intérieure - art. R515-2 (V)
+	  - Code de la sécurité intérieure - art. R515-7 (V)
+	  - Code de la sécurité intérieure - art. R515-8 (V)
+	  - Code de la sécurité intérieure - art. R521-1
 
 	**Codifié par**:
 
@@ -54265,22 +55507,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-181 du 16 février 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R511-1
-	  - Code de la sécurité intérieure - art. R511-11
-	  - Code de la sécurité intérieure - art. R511-14
-	  - Code de la sécurité intérieure - art. R511-29
-	  - Code de la sécurité intérieure - art. R512-1
-	  - Code de la sécurité intérieure - art. R512-5
-	  - Code de la sécurité intérieure - art. R514-1
-	  - Code de la sécurité intérieure - art. R515-1
-	  - Code de la sécurité intérieure - art. R515-2
-	  - Code de la sécurité intérieure - art. R515-7
-	  - Code de la sécurité intérieure - art. R515-8
-	  - Code de la sécurité intérieure - art. R521-1
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
 
 	**Cité par**:
 
@@ -54306,29 +55533,24 @@ dispositions applicables en Polynésie française ayant le même objet ;
 " Art. R. 511-2.-L'agrément des agents de police municipale est prévu par l'article L. 545-2. Il est retiré ou suspendu par
 le haut-commissaire de la République en Polynésie française. " ; 
 
-3° Le troisième alinéa de l'article R. 511-11 est ainsi rédigé : 
+3° Les 1° et 3° de l'article R. 511-12 sont supprimés ; 
 
-" Les dispositions des articles 27, 28 et 39 du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de guerre,
-armes et munitions en Polynésie française ne sont pas applicables. " ; 
-
-4° Les 1° et 3° de l'article R. 511-12 sont supprimés ; 
-
-5° Aux articles R. 511-14, R. 511-15 et R. 511-16, les mots : " des armes mentionnées au 1°, aux a et b du 2° et au 3° de
+4° Aux articles R. 511-14, R. 511-15 et R. 511-16, les mots : " des armes mentionnées au 1°, aux a et b du 2° et au 3° de
 l'article R. 511-12 " sont remplacés par les mots : " des armes mentionnées aux a et b du 2° l'article R. 511-12 " ; 
 
-6° Le premier alinéa de l'article R. 511-19 est ainsi rédigé : 
+5° Le premier alinéa de l'article R. 511-19 est ainsi rédigé : 
 
 " L'autorisation de port d'une arme mentionnée aux a et b du 2° de l'article R. 511-12 ne peut être délivrée qu'aux agents
 ayant validé une formation préalable attestée par l'organisme chargé de la formation des agents de la fonction publique
 communale en Polynésie française. " ; 
 
-7° Le premier alinéa de l'article R. 511-21 est ainsi rédigé : 
+6° Le premier alinéa de l'article R. 511-21 est ainsi rédigé : 
 
 " Les agents de police municipale autorisés à porter une arme mentionnée aux a et b du 2° de l'article R. 511-12 sont
 astreints à suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à l'article
 R. 511-22. " ; 
 
-8° L'article R. 511-22 est ainsi rédigé : 
+7° L'article R. 511-22 est ainsi rédigé : 
 
 " Art. R. 511-22.-La formation préalable à l'autorisation de port d'arme mentionnée à l'article R. 511-18 et la formation
 d'entraînement mentionnée à l'article R. 511-21 sont organisées par l'organisme chargé de la formation des agents de la
@@ -54338,61 +55560,58 @@ fonction publique communale en Polynésie française.
 formés à cette fonction avec le concours des administrations et établissements publics de l'Etat chargés de la formation des
 fonctionnaires de la police nationale et des militaires de la gendarmerie. " ; 
 
-9° Le deuxième alinéa de l'article R. 511-24 est supprimé ; 
+8° Le deuxième alinéa de l'article R. 511-24 est supprimé ; 
 
-10° Les deuxième à quatrième alinéas de l'article R. 511-25 sont supprimés ; 
+9° Les deuxième à quatrième alinéas de l'article R. 511-25 sont supprimés ; 
 
-11° A l'article R. 511-27, les mots : " ou, pour les armes mentionnées aux c et d du 1° et au 3° de l'article R. 511-12, dans
+10° A l'article R. 511-27, les mots : " ou, pour les armes mentionnées aux c et d du 1° et au 3° de l'article R. 511-12, dans
 un sac ou une housse spécifiquement prévus à cet effet, " sont supprimés ; 
 
-12° A l'article R. 511-32, les mots : " mentionnées à l'article R. 511-12 " sont remplacés par les mots : " mentionnées aux a
+11° A l'article R. 511-32, les mots : " mentionnées à l'article R. 511-12 " sont remplacés par les mots : " mentionnées aux a
 et b du 2° de l'article R. 511-12 " ; 
 
-13° L'article R. 512-1 est ainsi modifié : 
+12° L'article R. 512-1 est ainsi modifié : 
 
 a) Le f du 1° est supprimé ; 
 
 b) Au d du 2°, les mots : " de l'article 97 de la loi n° 84-53 du 26 janvier 1984 " sont remplacés par les mots : " de
 l'article 70 de l'ordonnance n° 2005-10 du 4 janvier 2005 " ; 
 
-14° A l'article R. 515-17, les mots : " l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
+13° A l'article R. 515-17, les mots : " l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
 fonctionnaires " sont remplacés par les mots : " l'article 18 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut
 général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs
 établissements publics administratifs. " ; 
 
-15° Le deuxième alinéa de l'article R. 522-1 est supprimé.
+14° Le deuxième alinéa de l'article R. 522-1 est supprimé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2005-10 du 4 janvier 2005 - art. 70 (V)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 27 (V)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 39 (V)
-	  - Code de la sécurité intérieure - art. L545-2 (V)
-	  - Code de la sécurité intérieure - art. R511-1 (VD)
-	  - Code de la sécurité intérieure - art. R511-11 (VD)
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
-	  - Code de la sécurité intérieure - art. R511-14 (VD)
-	  - Code de la sécurité intérieure - art. R511-19 (VD)
-	  - Code de la sécurité intérieure - art. R511-21 (VD)
-	  - Code de la sécurité intérieure - art. R511-24 (VD)
-	  - Code de la sécurité intérieure - art. R511-25 (VD)
-	  - Code de la sécurité intérieure - art. R511-27 (VD)
-	  - Code de la sécurité intérieure - art. R511-32 (VD)
-	  - Code de la sécurité intérieure - art. R512-1 (VD)
-	  - Code de la sécurité intérieure - art. R515-17 (VD)
-	  - Code de la sécurité intérieure - art. R521-1 (VD)
-	  - Code de la sécurité intérieure - art. R522-1 (VD)
+	  - Ordonnance n°2005-10 du 4 janvier 2005 - art. 70
+	  - Code de la sécurité intérieure - art. L545-2
+	  - Code de la sécurité intérieure - art. R511-1
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-14
+	  - Code de la sécurité intérieure - art. R511-19
+	  - Code de la sécurité intérieure - art. R511-21
+	  - Code de la sécurité intérieure - art. R511-24
+	  - Code de la sécurité intérieure - art. R511-25
+	  - Code de la sécurité intérieure - art. R511-27
+	  - Code de la sécurité intérieure - art. R511-32
+	  - Code de la sécurité intérieure - art. R512-1
+	  - Code de la sécurité intérieure - art. R515-17
+	  - Code de la sécurité intérieure - art. R521-1
+	  - Code de la sécurité intérieure - art. R522-1
 	  - Code de la sécurité intérieure - art. R545-1 (VD)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
 
 
 ###### Article R545-5
@@ -63860,7 +65079,7 @@ en matière d'accès au travail des étrangers ;
 5° A l'article R. 612-10, les mots : " au recueil des actes administratifs du département " sont remplacés par les mots : "
 au Journal officiel de la Polynésie française " ; 
 
-6° Les 1°, 2° et 3° de l'article R. 612-24 sont remplacés par les dispositions suivantes : 
+6° Les  1°, 2° et 3° de l'article R. 612-24 sont remplacés par les dispositions suivantes : 
 
 " 1° Soit d'un diplôme délivré par la France ou d'un diplôme ou titre équivalent délivré par un autre Etat membre de l'Union
 européenne ou par un des Etats parties à l'accord sur l'Espace économique européen, se rapportant à l'activité exercée ; 
@@ -63883,10 +65102,7 @@ septembre 2013 " ;
 " 2° Soit pendant 1 607 heures durant une période de trente-six mois comprise entre le 1er janvier 2010 et le 1er septembre
 2013. " ; 
 
-9° A l'article R. 613-3, les mots : " armes de catégorie B, à l'exception du 6° et du 8°, et de catégorie C, à l'exception
-des 3°, 4° et 5° " sont remplacés par les mots : " armes de 1re et de 4e catégories définies, d'une part, par le décret n°
-2009-450 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Polynésie française et, d'autre
-part, " ; 
+9° (Abrogé)
 
 10° L'article R. 613-24 est ainsi rédigé : 
 
@@ -63978,17 +65194,7 @@ de fonds ;
 " Les entreprises de transport de fonds, de bijoux ou de métaux précieux ne sont pas astreintes à faire figurer de façon
 apparente leur raison sociale sur les véhicules banalisés. " ; 
 
-17° A l'article R. 613-41 : 
-
-a) Les mots : " une arme du 1° de la catégorie B de l'article R. 311-2, ainsi que les munitions correspondantes classées au
-10° de la catégorie B " sont remplacés par les mots : " une arme de 1re catégorie mentionnée au paragraphe 1 du A de
-l'article 2 du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Polynésie
-française ou une arme de 4e catégorie mentionnée au paragraphe 1 du I du B de cet article " ; 
-
-b) Les mots : " une arme complémentaire du f du 2° de la catégorie B de l'article R. 311-2, ainsi que des munitions
-correspondantes classées au 8° de la catégorie C " sont remplacés par les mots : " une arme complémentaire de la 4e catégorie
-mentionnée au paragraphe 8 du I du B de l'article 2 du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de
-guerre, armes et munitions en Polynésie française " ; 
+17° (Abrogé)
 
 18° L'  article R. 613-42 est ainsi rédigé : 
 
@@ -64040,9 +65246,7 @@ R. 613-47 " ;
 
 24°  Aux articles R. 614-1 et R. 614-6 : 
 
-a) Les mots : " des armes classées au 8° de la catégorie B et au b du 2° de la catégorie D " sont remplacés par  les mots : "
-des armes classées au paragraphe 2 de la sixième catégorie du B de l'article 2 du décret n° 2009-450 du 21 avril 2009 fixant
-le régime des matériels de guerre, armes et munitions en Polynésie française " ; 
+a) (Abrogé)  
 
 b) Les mots : " classés au a du 2° de la catégorie D "  sont supprimés  ; 
 
@@ -64066,11 +65270,16 @@ mots : " au Journal officiel de la Polynésie française ".
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
+
 	**Cite**:
 
-	  - Décret n°2009-450 du 21 avril 2009
-	  - Décret n°2009-450 du 21 avril 2009 - art. 2
-	  - Code du travail
 	  - Code de la sécurité intérieure - art. R612-10
 	  - Code de la sécurité intérieure - art. R612-2
 	  - Code de la sécurité intérieure - art. R612-22
@@ -64085,7 +65294,6 @@ mots : " au Journal officiel de la Polynésie française ".
 	  - Code de la sécurité intérieure - art. R613-37
 	  - Code de la sécurité intérieure - art. R613-38
 	  - Code de la sécurité intérieure - art. R613-39
-	  - Code de la sécurité intérieure - art. R613-41
 	  - Code de la sécurité intérieure - art. R613-42
 	  - Code de la sécurité intérieure - art. R613-46
 	  - Code de la sécurité intérieure - art. R613-47
@@ -64097,14 +65305,6 @@ mots : " au Journal officiel de la Polynésie française ".
 	  - Code de la sécurité intérieure - art. R632-15
 	  - Code de la sécurité intérieure - art. R633-3
 	  - Code de la sécurité intérieure - art. R634-5
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
 
 
 ###### Article R645-4
@@ -64413,33 +65613,11 @@ septembre 2013 " ;
 " 2° Soit pendant 1 607 heures durant une période de trente-six mois comprise entre le 1er janvier 2010 et le 1er septembre
 2013. "   ; 
 
-9°  A l'article R. 613-3, les mots : " armes de catégorie B, à l'exception du 6° et du 8°, et de catégorie C, à l'exception
-des 3°, 4° et 5°  "  sont remplacés par  les mots : "  armes de 1re et de 4e catégories définies, d'une part, par le décret
-n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie et, d'autre
-part " ; 
+9° (Abrogé)
 
-10°   A l'article R. 613-41 : 
+10° (Abrogé)
 
-a) Les mots : "  une arme du 1° de la catégorie B de l'article R. 311-2, ainsi que les munitions correspondantes classées au
-10° de la catégorie B "  sont remplacés par les mots : " une arme de 1e catégorie mentionnée au paragraphe 1 du A de
-l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-
-Calédonie ou une arme de 4e catégorie mentionnée au paragraphe 1 du I du B de cet article " ; 
-
-b) Les mots : " une arme complémentaire du f du 2° de la catégorie B de l'article R. 311-2, ainsi que des munitions
-correspondantes classées au 8° de la catégorie C " sont remplacés par les mots : " une arme complémentaire de la 4e catégorie
-mentionnée au paragraphe 8 du I du B de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de
-guerre, armes et munitions en Nouvelle-Calédonie " ; 
-
-11° ux articles R. 614-1 et R. 614-6 : 
-
-a) Les mots : " des armes classées au 8° de la catégorie B et au b du 2° de la catégorie D " sont remplacés par  les mots : "
-des armes classées au paragraphe 2 de la sixième catégorie du B de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant
-le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie " ; 
-
-b) Les mots : " classés au a du 2° de la catégorie D" sont supprimés  ; 
-
-c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : " mentionnés au 10° de l'article L. 646-1
-" ; 
+11° (Abrogé)
 
 11° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
@@ -64458,11 +65636,16 @@ mots : " au Journal officiel de la Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-130 du 5 février 2015 - art. 3
+
 	**Cite**:
 
-	  - Décret n°2009-451 du 21 avril 2009
-	  - Décret n°2009-451 du 21 avril 2009 - art. 2
-	  - Code du travail
 	  - Code de la sécurité intérieure - art. R612-10
 	  - Code de la sécurité intérieure - art. R612-2
 	  - Code de la sécurité intérieure - art. R612-22
@@ -64470,21 +65653,8 @@ mots : " au Journal officiel de la Nouvelle-Calédonie ".
 	  - Code de la sécurité intérieure - art. R612-25
 	  - Code de la sécurité intérieure - art. R612-35
 	  - Code de la sécurité intérieure - art. R612-38
-	  - Code de la sécurité intérieure - art. R613-3
-	  - Code de la sécurité intérieure - art. R613-41
-	  - Code de la sécurité intérieure - art. R614-1
-	  - Code de la sécurité intérieure - art. R614-6
 	  - Code de la sécurité intérieure - art. R632-15
-	  - Code de la sécurité intérieure - art. R633-3
 	  - Code de la sécurité intérieure - art. R634-5
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
 
 	**Cité par**:
 
