@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-04-02
+Version Consolidée au 2015-05-01
 
 # Partie législative
 
@@ -33477,27 +33477,36 @@ l'indication de leurs accès et de leurs ouvertures ;
 huit caméras, un plan de détail à une échelle suffisante montrant le nombre et l'implantation des caméras ainsi que les zones
 couvertes par celles-ci ; 
 
-4° La description du dispositif prévu pour la transmission, l'enregistrement et le traitement des images ; 
+4° Lorsque le système de vidéoprotection est mis en œuvre aux fins définies au dernier alinéa de l'article L. 251-2, le plan
+de détail prévu au 3° montre la zone couverte par la ou les caméras dont le champ de vision doit être limité aux abords
+immédiats des bâtiments et installations en cause ;
 
-5° La description des mesures de sécurité qui seront prises pour la sauvegarde et la protection des images éventuellement
+Une attestation de l'installateur certifiant que la ou les caméras sont déconnectées des caméras intérieures et que les
+images qu'elles enregistrent ne peuvent être techniquement visionnées par le demandeur ou ses subordonnés est jointe à la
+demande. Est de même jointe une copie du courrier adressé par le demandeur au maire en application du dernier alinéa de
+l'article L. 251-2 ;
+
+5° La description du dispositif prévu pour la transmission, l'enregistrement et le traitement des images ; 
+
+6° La description des mesures de sécurité qui seront prises pour la sauvegarde et la protection des images éventuellement
 enregistrées ; 
 
-6° Les modalités de l'information du public ; 
+7° Les modalités de l'information du public ; 
 
-7° Le délai de conservation des images, s'il y a lieu, avec les justifications nécessaires ; 
+8° Le délai de conservation des images, s'il y a lieu, avec les justifications nécessaires ; 
 
-8° La désignation de la personne ou du service responsable du système et, s'il s'agit d'une personne ou d'un service
+9° La désignation de la personne ou du service responsable du système et, s'il s'agit d'une personne ou d'un service
 différent, la désignation du responsable de sa maintenance, ainsi que toute indication sur la qualité des personnes chargées
 de l'exploitation du système et susceptibles de visionner les images, en particulier la copie des agréments et autorisations
 délivrés en application du titre Ier du livre VI, à l'exception des articles L. 613-1 à L. 613-5, L. 613-7 à L. 613-9 et L.
 613-12 ; 
 
-9° Les consignes générales données aux personnels d'exploitation du système pour le fonctionnement de celui-ci et le
+10° Les consignes générales données aux personnels d'exploitation du système pour le fonctionnement de celui-ci et le
 traitement des images ; 
 
-10° Les modalités du droit d'accès des personnes intéressées ; 
+11° Les modalités du droit d'accès des personnes intéressées ; 
 
-11° La justification de la conformité du système de vidéoprotection aux normes techniques prévues par le deuxième alinéa de
+12° La justification de la conformité du système de vidéoprotection aux normes techniques prévues par le deuxième alinéa de
 l'article L. 252-4. La certification de l'installateur du système, dans les conditions fixées par arrêté du ministre de
 l'intérieur, tient lieu, le cas échéant, de cette justification. 
 
@@ -33511,24 +33520,20 @@ L'autorité préfectorale peut demander au pétitionnaire de compléter son doss
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-926 du 17 octobre 1996 - art. 1, ecqc le dossier administratif (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-489 du 29 avril 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L252-4 (V)
-	  - Code de la sécurité intérieure - art. L613-1 (V)
-	  - Code de la sécurité intérieure - art. L613-12 (V)
-	  - Code de la sécurité intérieure - art. L613-7 (V)
+	  - Code de la sécurité intérieure - art. L252-4
+	  - Code de la sécurité intérieure - art. L613-1
+	  - Code de la sécurité intérieure - art. L613-12
+	  - Code de la sécurité intérieure - art. L613-7
 
 	**Cité par**:
 
@@ -33537,6 +33542,31 @@ L'autorité préfectorale peut demander au pétitionnaire de compléter son doss
 	  - Code de la sécurité intérieure - art. R252-5 (VD)
 	  - Code de la sécurité intérieure - art. R252-6 (VD)
 	  - Code de la sécurité intérieure - art. R252-8 (VD)
+
+
+###### Article R252-3-1
+
+Sont concernés au titre du dernier alinéa de l'article L. 251-2, lorsque ces lieux sont particulièrement exposés à des
+risques d'agression ou de vol à raison notamment de la nature des biens ou services vendus ou de la situation des bâtiments
+ou installations :
+
+- les lieux ouverts au public où se déroulent les opérations de vente de biens ou de services ;
+
+- les lieux où sont entreposés lesdits biens ou marchandises destinés à ces opérations de vente. 
+
+La ou les caméras composant le dispositif de vidéoprotection sont déconnectées des caméras installées à l'intérieur du lieu
+ouvert au public de manière à ce que le responsable ou ses subordonnés ne puissent avoir accès aux images enregistrées par la
+ou les caméras extérieures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-489 du 29 avril 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L251-2
 
 
 ###### Article R252-4
@@ -33682,34 +33712,29 @@ de toute personne qualifiée qui lui paraîtrait indispensable pour l'examen d'u
 
 ###### Article R252-9
 
-Le délai raisonnable mentionné à l'article 15 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et
-au fonctionnement de commissions administratives à caractère consultatif, dans lequel la commission départementale de
-vidéoprotection doit émettre son avis, est de trois mois. Il peut être prolongé d'un mois à la demande de la commission. 
+Le délai, dans lequel la commission départementale de vidéoprotection doit émettre son avis, est de trois mois. Il peut être
+prolongé d'un mois à la demande de la commission. 
 
 Le silence gardé par l'autorité préfectorale pendant plus de quatre mois sur une demande d'autorisation vaut décision de
 rejet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-926 du 17 octobre 1996 - art. 11-1 (VT)
-
 	**Cite**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 15 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 15
 
 	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
 	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-489 du 29 avril 2015 - art. 4
 
 
 ###### Article R252-10
@@ -33750,7 +33775,11 @@ du public à la mairie et, le cas échéant, dans les mairies d'arrondissement.
 ###### Article R252-11
 
 Le titulaire de l'autorisation tient un registre mentionnant les enregistrements réalisés, la date de destruction des images
-et, le cas échéant, la date de leur transmission au parquet. 
+et, le cas échéant, la date de leur transmission au parquet. Lorsque l'autorisation a été délivrée sur le fondement du
+dernier alinéa de l'article L. 251-2 et qu'il n'a pas été fait application des dispositions de l'article L. 252-3, les agents
+de l'autorité publique individuellement désignés et habilités à visionner les images en application du second alinéa de
+l'article L. 252-2 renseignent ce registre lors de chaque visionnage. Ils sont seuls habilités à extraire des images du
+dispositif d'enregistrement. 
 
 Le titulaire de l'autorisation est tenu d'informer préalablement l'autorité préfectorale de la date de mise en service des
 caméras de vidéoprotection. Le titulaire de l'autorisation, qui a constitué le dossier de demande conformément aux prévisions
@@ -33760,47 +33789,43 @@ leur déplacement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-926 du 17 octobre 1996 - art. 18 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-489 du 29 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R252-3 (VD)
+	  - Code de la sécurité intérieure - art. L251-2
+	  - Code de la sécurité intérieure - art. L252-2
+	  - Code de la sécurité intérieure - art. L252-3
+	  - Code de la sécurité intérieure - art. R252-3
 
 
 ###### Article R252-12
 
 Les agents des services de la police ou de la gendarmerie nationales, ainsi que les agents des douanes ou des services
 d'incendie et de secours destinataires des images et enregistrements de systèmes de vidéoprotection appartenant à des tiers,
-en application de l'article L. 252-3, sont individuellement désignés et dûment habilités par le chef de service ou le chef
-d'unité à compétence départementale, régionale, zonale ou nationale sous l'autorité duquel ils sont affectés.
+en application des articles L. 252-2 et L. 252-3, sont individuellement désignés et dûment habilités par le chef de service
+ou le chef d'unité à compétence départementale, régionale, zonale ou nationale sous l'autorité duquel ils sont affectés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-926 du 17 octobre 1996 - art. 13 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-489 du 29 avril 2015 - art. 6
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L252-3 (V)
+	  - Code de la sécurité intérieure - art. L252-2
+	  - Code de la sécurité intérieure - art. L252-3
 
 
 #### Chapitre III : Contrôle et droit d'accès
@@ -33879,9 +33904,10 @@ vu desquelles elle a été délivrée.
 ###### Article R253-3
 
 L'information sur l'existence d'un système de vidéoprotection filmant la voie publique, un lieu ou un établissement ouvert au
-public est apportée au moyen d'affiches ou de panonceaux comportant un pictogramme représentant une caméra. Afin de garantir
-une information claire et permanente des personnes filmées ou susceptibles de l'être, le format, le nombre et la localisation
-des affiches ou panonceaux sont adaptés à la situation des lieux et établissements. 
+public ou les abords immédiats des bâtiments et installations des commerçants est apportée au moyen d'affiches ou de
+panonceaux comportant un pictogramme représentant une caméra. Afin de garantir une information claire et permanente des
+personnes filmées ou susceptibles de l'être, le format, le nombre et la localisation des affiches ou panonceaux sont adaptés
+à la situation des lieux et établissements. 
 
 Ces affiches ou panonceaux indiquent le nom ou la qualité et le numéro de téléphone du responsable auprès duquel toute
 personne intéressée peut s'adresser pour faire valoir le droit d'accès prévu à l'article L. 253-5, lorsque l'importance des
@@ -33889,21 +33915,17 @@ lieux et établissements concernés et la multiplicité des intervenants rendent
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-926 du 17 octobre 1996 - art. 19 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-489 du 29 avril 2015 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L253-5 (V)
+	  - Code de la sécurité intérieure - art. L253-5
 
 
 ###### Article R253-4
