@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-05-18
+Version Consolidée au 2015-06-05
 
 # Partie législative
 
@@ -53032,6 +53032,60 @@ relatives à la délivrance du certificat individuel mentionné à l'alinéa pr�
 	  - Code de la sécurité intérieure - art. R511-12 (VD)
 	  - Code de la sécurité intérieure - art. R511-19 (VD)
 	  - Code de la sécurité intérieure - art. R511-21 (VD)
+
+
+###### Article R511-22-1
+
+Le Centre national de la fonction publique territoriale peut acquérir les munitions nécessaires aux formations prévues à
+l'article R. 511-22 et correspondant aux armes que les agents de police municipale peuvent être autorisés à porter. Les
+acquisitions sont effectuées chaque année en fonction de l'estimation des besoins annuels de formation. 
+
+Les munitions sont directement livrées aux centres de formation désignés par la convention mentionnée à l'article L. 511-6.
+La livraison s'effectue dans les conditions prévues aux articles R. 315-12 à R. 315-18. Toutefois, une partie des munitions
+peut être provisoirement détenue par le Centre national de la fonction publique territoriale dans les conditions prévues à
+l'article R. 511-22-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-602 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-6
+	  - Code de la sécurité intérieure - art. R315-12
+	  - Code de la sécurité intérieure - art. R511-22
+
+
+###### Article R511-22-2
+
+Le Centre national de la fonction publique territoriale peut détenir un stock limité de munitions afin de répondre à des
+besoins imprévus d'approvisionnement de la part des centres de formation. Ces munitions sont déposées dans un coffre-fort ou
+une armoire forte, scellés au mur ou au sol d'une pièce sécurisée. 
+
+Il est tenu un registre d'inventaire des munitions, coté et paraphé à chaque page par le président du Centre national de la
+fonction publique territoriale ou la personne qu'il désigne à cet effet. Le registre mentionne la catégorie, le type et le
+nombre des munitions détenues. 
+
+Le Centre national de la fonction publique territoriale tient un état mensuel retraçant les entrées et les sorties de
+munitions figurant au registre d'inventaire. Les états mensuels sont conservés pendant un délai de trois ans. 
+
+Le registre et les états mensuels peuvent être contrôlés à tout moment par le représentant de l'Etat dans le département
+conformément aux dispositions de l'article L. 314-4. 
+
+Le Centre national de la fonction publique territoriale signale sans délai le vol ou la perte de munitions au représentant de
+l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-602 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L314-4
 
 
 ##### Paragraphe 5 : Conditions de port et d'emploi des armes
