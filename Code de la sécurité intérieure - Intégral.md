@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-06-28
+Version Consolidée au 2015-07-17
 
 # Partie législative
 
@@ -14465,9 +14465,8 @@ modalités d'agrément des personnes dispensant la formation à ces agents ainsi
 
 ###### Article L615-1
 
-Les dispositions applicables aux services internes de sécurité de la Société nationale des chemins de fer français (SNCF) et
-de la Régie autonome des transports parisiens (RATP) sont définies au chapitre Ier du titre V du livre II de la deuxième
-partie du code des transports.
+Les dispositions applicables aux services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens
+(RATP) sont définies au chapitre Ier du titre V du livre II de la deuxième partie du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -14475,9 +14474,9 @@ partie du code des transports.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 31
 
 
 #### Chapitre VI : Activités de protection des navires
