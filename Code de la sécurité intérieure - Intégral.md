@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-08-19
 
 # Partie législative
 
@@ -13654,6 +13654,23 @@ outre, le représentant de l'Etat peut retirer la carte professionnelle en cas d
 	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
 
 
+###### Article L612-20-1
+
+Le renouvellement de la carte professionnelle est subordonné au suivi d'une formation continue, dans des conditions prévues
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cité par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 63 (V)
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+
+
 ###### Article L612-21
 
 Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 612-20, le
@@ -15198,7 +15215,10 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de mettre 
 exercés, dans les conditions prévues à l'article L. 611-2, par les agents mentionnés au premier alinéa de cet article. 
 
 Est puni de la même peine le fait de mettre obstacle à l'accomplissement des contrôles prévus aux articles L. 611-2, L. 616-4
-ou L. 634-1 à L. 634-3, lorsqu'ils sont relatifs à l'activité mentionnée au 4° de l'article L. 611-1.
+ou L. 634-1 à L. 634-3, lorsqu'ils sont relatifs à l'activité mentionnée au 4° de l'article L. 611-1. 
+
+Est puni de la même peine le fait de mettre obstacle à l'accomplissement des contrôles prévus aux articles L. 634-1 et L.
+634-3, lorsqu'ils sont relatifs aux activités mentionnées aux 1° à 3° de l'article L. 611-1.
 
 **Liens relatifs à cet article**
 
@@ -15208,7 +15228,7 @@ ou L. 634-1 à L. 634-3, lorsqu'ils sont relatifs à l'activité mentionnée au 
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 	**Cite**:
 
@@ -16074,6 +16094,23 @@ en cas de nécessité tenant à l'ordre public.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+###### Article L622-19-1
+
+Le renouvellement de la carte professionnelle est subordonné au suivi d'une formation continue, dans des conditions prévues
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cité par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 63 (V)
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+
+
 ###### Article L622-20
 
 Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 622-19, le
@@ -16620,25 +16657,26 @@ l'article L. 622-24.
 ###### Article L624-12
 
 Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait de mettre obstacle à l'accomplissement des contrôles
-exercés, dans les conditions prévues à l'article L. 623-1, par les agents mentionnés au premier alinéa de cet article.
+exercés, dans les conditions prévues à l'article L. 623-1, par les agents mentionnés au premier alinéa de cet article. 
+
+Est puni de la même peine le fait de mettre obstacle à l'accomplissement des contrôles prévus aux articles L. 634-1 et L.
+634-3, lorsqu'ils sont relatifs à l'activité mentionnée à l'article L. 621-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 31 III 2° (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L623-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L623-1
+	  - Code de la sécurité intérieure - art. L634-1 (V)
 
 
 ##### Section 3 : Dispositions communes
@@ -16707,6 +16745,199 @@ l'exercice desquelles l'infraction a été commise.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+### TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ 
+
+#### Chapitre Ier : Dispositions générales 
+
+###### Article L625-1
+
+Est soumise au présent titre, lorsqu'elle est délivrée par des exploitants individuels et des personnes morales de droit
+privé, établis sur le territoire français, et n'ayant pas conclu un contrat d'association avec l'Etat : 
+
+1° La formation permettant de justifier de l'aptitude professionnelle à exercer les activités mentionnées aux 1° à 3° de
+l'article L. 611-1 et à l'article L. 621-1 ; 
+
+2° La formation permettant le renouvellement des cartes professionnelles mentionnées aux articles L. 612-20-1 et L.
+622-19-1. 
+
+Les personnes mentionnées au premier alinéa du présent article sont dénommées " prestataires de formation ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cité par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 (V)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 63 (V)
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+	  - Code de la sécurité intérieure - art. L625-3 (V)
+	  - Code de la sécurité intérieure - art. L625-6 (V)
+	  - Code de la sécurité intérieure - art. L625-7 (V)
+	  - Code de la sécurité intérieure - art. L634-4 (V)
+	  - Code de la sécurité intérieure - art. R625-11 (VD)
+	  - Code de la sécurité intérieure - art. R625-2 (VD)
+	  - Code de la sécurité intérieure - art. R625-3 (VD)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L612-20-1 (V)
+	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L622-19-1 (V)
+
+
+#### Chapitre II : Conditions d'exercice 
+
+###### Article L625-2
+
+L'exercice d'une activité mentionnée à l'article L. 625-1 est subordonné à la délivrance d'une autorisation, dans des
+conditions fixées par décret en Conseil d'Etat, par la commission d'agrément et de contrôle territorialement compétente, aux
+prestataires de formation qui satisfont aux conditions suivantes : 
+
+1° Etre titulaire d'une déclaration d'activité enregistrée dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du
+code du travail ; 
+
+2° Etre dirigé par une personne physique répondant aux conditions prévues aux 1° à 4° de l'article L. 612-20 du présent
+code ; 
+
+3° Avoir fait l'objet d'une certification dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cité par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 63 (V)
+	  - Décret n°2017-606 du 21 avril 2017 (V)
+	  - Code de la sécurité intérieure - art. L625-4 (V)
+	  - Code de la sécurité intérieure - art. L625-6 (V)
+	  - Code de la sécurité intérieure - art. R625-1 (VD)
+	  - Code de la sécurité intérieure - art. R625-5 (VD)
+	  - Code de la sécurité intérieure - art. R625-6 (VD)
+	  - Code de la sécurité intérieure - art. R632-14 (VD)
+	  - Code de la sécurité intérieure - art. R633-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L6351-1
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+
+
+###### Article L625-3
+
+Si le prestataire de formation n'a pas encore exercé l'activité mentionnée à l'article L. 625-1, la commission d'agrément et
+de contrôle territorialement compétente lui délivre une autorisation d'exercice provisoire dans des conditions définies par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cité par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 (V)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 63 (V)
+	  - Code de la sécurité intérieure - art. R625-5 (VD)
+	  - Code de la sécurité intérieure - art. R625-6 (VD)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+
+
+###### Article L625-4
+
+L'autorisation peut être retirée : 
+
+1° A la personne physique ou morale qui ne remplit plus les conditions exigées à l'article L. 625-2 ; 
+
+2° A la personne morale dont la direction ou la gestion est exercée en fait par une personne agissant, directement ou par
+personne interposée, en lieu et place des représentants légaux. 
+
+Le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+
+
+###### Article L625-5
+
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut suspendre
+l'autorisation pour six mois au plus. 
+
+L'autorisation peut être également suspendue lorsque la personne morale ou son dirigeant fait l'objet de poursuites pénales.
+L'autorité qui a procédé à la suspension peut y mettre fin dès lors qu'elle a connaissance d'une décision de l'autorité
+judiciaire intervenue sur le fond.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+
+#### Chapitre III : Dispositions pénales 
+
+
+###### Article L625-6
+
+Est puni de trois ans d'emprisonnement et de 45 000 € d'amende le fait de diriger, en violation de l'article L. 625-2, un
+organisme exerçant une activité mentionnée à l'article L. 625-1, ou d'exercer en fait, directement ou par personne
+interposée, la direction ou la gestion d'une telle personne morale, en lieu et place de ses représentants légaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+
+
+###### Article L625-7
+
+Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait de mettre obstacle à l'accomplissement des contrôles
+prévus aux articles L. 634-1 et L. 634-3, lorsqu'ils sont relatifs à l'activité mentionnée à l'article L. 625-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-994 du 17 août 2015 - art. 40
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+	  - Code de la sécurité intérieure - art. L634-1 (V)
+
+
 ### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS  PRIVÉES DE SÉCURITÉ
 
 #### Chapitre Ier : Dispositions générales
@@ -16714,22 +16945,18 @@ l'exercice desquelles l'infraction a été commise.
 ###### Article L631-1
 
 Sont soumises aux dispositions du présent titre, dès lors qu'elles ne sont pas exercées par un service public administratif,
-les activités mentionnées aux titres Ier et II exercées par les personnes physiques ou morales, opérant pour le compte d'un
-tiers ou pour leur propre compte.
+les activités mentionnées aux titres Ier, II et II bis exercées par les personnes physiques ou morales, opérant pour le
+compte d'un tiers ou pour leur propre compte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 #### Chapitre II : Missions et fonctionnement du Conseil national  des activités privées de sécurité
@@ -16744,7 +16971,8 @@ Le Conseil national des activités privées de sécurité, personne morale de dr
 professionnelles prévus par le présent livre ;
 
 2° D'une mission disciplinaire. Il assure la discipline de la profession et prépare un code de déontologie de la profession
-approuvé par décret en Conseil d'Etat. Ce code s'applique à l'ensemble des activités mentionnées aux titres Ier et II ;
+approuvé par décret en Conseil d'Etat. Ce code s'applique à l'ensemble des activités mentionnées aux titres Ier, II et II
+bis ;
 
 3° D'une mission de conseil et d'assistance à la profession.
 
@@ -16755,22 +16983,18 @@ de sécurité privée est préalablement soumise à la concertation avec les org
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-2 (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
 	  - Décret n°2011-1919 du 22 décembre 2011 - art. 4 (VT)
 	  - Code de la sécurité intérieure - art. R632-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 ##### Section 2 : Fonctionnement
@@ -16859,13 +17083,10 @@ Les membres et le personnel du Conseil national des activités privées de sécu
 Dans chaque région, une commission régionale d'agrément et de contrôle est chargée, au nom du Conseil national des activités
 privées de sécurité : 
 
-1° De délivrer les autorisations, agréments et cartes professionnelles prévus aux articles L. 612-6, L. 612-7, L. 612-9, L.
-612-11, L. 612-12, L. 612-20, L. 612-22, L. 612-23, L. 612-24, L. 612-25, L. 613-3, L. 622-6, L. 622-7, L. 622-9, L. 622-11,
-L. 622-12, L. 622-13, L. 622-19, L. 622-21 et L. 622-22 ; 
+1° De délivrer les autorisations, agréments et cartes professionnelles prévus au présent livre ; 
 
 2° De refuser, retirer ou suspendre les agréments, autorisations et cartes professionnelles pour exercer ces activités dans
-les conditions prévues aux articles L. 612-8, L. 612-16 à L. 612-19, L. 612-20, L. 622-8, L. 622-14 à L. 622-17 et L.
-622-19 ; 
+les conditions prévues au présent livre ; 
 
 3° De prononcer les sanctions disciplinaires prévues à l'article L. 634-4. 
 
@@ -16877,34 +17098,22 @@ Ses membres sont soumis aux mêmes obligations que les membres du Conseil nation
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-5 (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
 	  - Décret n°2005-1122 du 6 septembre 2005 - art. 17-1 (VT)
 	  - Code de la sécurité intérieure - art. R635-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-6 (V)
-	  - Code de la sécurité intérieure - art. L612-8 (V)
-	  - Code de la sécurité intérieure - art. L613-3 (V)
-	  - Code de la sécurité intérieure - art. L622-21 (V)
-	  - Code de la sécurité intérieure - art. L622-6 (V)
-	  - Code de la sécurité intérieure - art. L622-8 (V)
-	  - Code de la sécurité intérieure - art. L634-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L634-4 (M)
 
 
 ###### Article L633-2
@@ -16965,17 +17174,17 @@ contrôle, à peine d'irrecevabilité du recours contentieux.
 ###### Article L634-1
 
 Les membres et les agents du Conseil national des activités privées de sécurité ainsi que les membres des commissions
-régionales d'agrément et de contrôle assurent le contrôle des personnes exerçant les activités mentionnées aux titres Ier et
-II. Ils peuvent, pour l'exercice de leurs missions, accéder aux locaux à usage professionnel de l'employeur ou du donneur
-d'ordres, à l'exclusion des locaux affectés au domicile privé, ainsi qu'à tout site d'intervention des agents exerçant les
-activités mentionnées aux mêmes titres Ier et II, en présence de l'occupant des lieux ou de son représentant. Le procureur de
-la République territorialement compétent en est préalablement informé.
+régionales d'agrément et de contrôle assurent le contrôle des personnes exerçant les activités mentionnées aux titres Ier, II
+et II bis. Ils peuvent, pour l'exercice de leurs missions, accéder aux locaux à usage professionnel de l'employeur, du
+donneur d'ordres ou du prestataire de formation, à l'exclusion des locaux affectés au domicile privé, ainsi qu'à tout site
+d'intervention des agents exerçant les activités mentionnées aux mêmes titres Ier et II, en présence de l'occupant des lieux
+ou de son représentant. Le procureur de la République territorialement compétent en est préalablement informé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-8 I (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -16991,13 +17200,9 @@ la République territorialement compétent en est préalablement informé.
 	  - Code du travail - art. L8271-6-3 (V)
 	  - Code du travail applicable à Mayotte. - art. L313-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 ###### Article L634-2
@@ -17088,12 +17293,12 @@ sécurité peut donner lieu à sanction disciplinaire. Le Conseil national des a
 de faits remontant à plus de trois ans s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur
 sanction.
 
-Les sanctions disciplinaires applicables aux personnes physiques et morales exerçant les activités définies aux titres Ier et
-II sont, compte tenu de la gravité des faits reprochés : l'avertissement, le blâme et l'interdiction d'exercice de l'activité
-privée de sécurité à titre temporaire pour une durée qui ne peut excéder cinq ans. En outre, les personnes morales et les
-personnes physiques non salariées peuvent se voir infliger des pénalités financières. Le montant des pénalités financières
-est fonction de la gravité des manquements commis et, le cas échéant, en relation avec les avantages tirés du manquement,
-sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le respect des droits de la défense.
+Les sanctions disciplinaires applicables aux personnes physiques et morales exerçant les activités définies aux titres Ier,
+II et II bis sont, compte tenu de la gravité des faits reprochés : l'avertissement, le blâme et l'interdiction d'exercice de
+l'activité privée de sécurité à titre temporaire pour une durée qui ne peut excéder cinq ans. En outre, les personnes morales
+et les personnes physiques non salariées peuvent se voir infliger des pénalités financières. Le montant des pénalités
+financières est fonction de la gravité des manquements commis et, le cas échéant, en relation avec les avantages tirés du
+manquement, sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le respect des droits de la défense.
 
 **Liens relatifs à cet article**
 
@@ -17119,7 +17324,7 @@ sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le resp
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 #### Chapitre V : Dispositions finales
@@ -17303,8 +17508,8 @@ européen " sont supprimés.
 
 ###### Article L645-1
 
-Le titre Ier, à l'exception de l'article L. 613-10, et le titre III sont applicables en Polynésie française sous réserve des
-adaptations suivantes : 
+Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III sont applicables en Polynésie française
+sous réserve des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence à la Polynésie française ; 
 
@@ -17321,10 +17526,10 @@ télécommunications de Polynésie française ” ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ;
+supprimés ; 
 
-4° bis Au premier alinéa de l'article L. 612-2, les références : "L. 613-8 à L. 613-11" sont remplacées par les références :
-"L. 613-8, L. 613-9 et L. 613-11" ; 
+4° bis Au premier alinéa de l'article L. 612-2, les références : " L. 613-8 à L. 613-11 " sont remplacées par les
+références : " L. 613-8, L. 613-9 et L. 613-11 " ; 
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
@@ -17350,7 +17555,7 @@ applicables localement " ;
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
 maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
-9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ;
+9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ; 
 
 10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
@@ -17386,7 +17591,9 @@ locale.
 	  - Code de la sécurité intérieure - art. L611-1
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11 (V)
 	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-2 (V)
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
@@ -17400,15 +17607,15 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 66
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
 
 ###### Article L646-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, et le titre III sont applicables en Nouvelle-Calédonie sous
-réserve des adaptations suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III sont applicables en
+Nouvelle-Calédonie sous réserve des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
 
@@ -17425,9 +17632,10 @@ télécommunications de Nouvelle-Calédonie " ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ;
+supprimés ; 
 
-5° bis Au premier alinéa de l'article L. 612-2, la référence : "à L. 613-11" est remplacée par la référence : "et L. 613-9" ;
+5° bis Au premier alinéa de l'article L. 612-2, la référence : " à L. 613-11 " est remplacée par la référence : " et L. 613-9
+" ; 
 
 6° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des
@@ -17489,13 +17697,13 @@ locale.
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-2 (V)
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 	  - Code de la sécurité intérieure - art. L634-3
@@ -17506,15 +17714,15 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 66
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
 
 ###### Article L647-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, et le titre III sont applicables dans les îles Wallis et
-Futuna sous réserve des adaptations suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III sont applicables dans les
+îles Wallis et Futuna sous réserve des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
 
@@ -17534,7 +17742,7 @@ européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'acc
 supprimés ;
 
 4° bis Au premier alinéa de l'article L. 612-2, la référence : "à L. 613-11" est remplacée par la référence : "et L.
-613-9" ;  
+613-9" ; 
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
@@ -17586,7 +17794,7 @@ monnaie locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 66
+	  - Loi n°2015-994 du 17 août 2015 - art. 40
 
 	**Cite**:
 
