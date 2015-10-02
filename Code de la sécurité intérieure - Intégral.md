@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-08-22
+Version Consolidée au 2015-10-03
 
 # Partie législative
 
@@ -2503,8 +2503,8 @@ obligations expose aux sanctions pénales prévues par le chapitre IV du titre V
 
 ###### Article L222-1
 
-I. - Pour les besoins de la prévention et de la répression des atteintes aux intérêts fondamentaux de la Nation et des actes
-de terrorisme, les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales
+I.-Pour les besoins de la prévention et de la répression des atteintes aux intérêts fondamentaux de la Nation et des actes de
+terrorisme, les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales
 spécialement chargés de ces missions peuvent, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, avoir accès aux traitements automatisés suivants : 
 
@@ -2524,14 +2524,19 @@ de la frontière, ne remplissent pas les conditions d'entrée requises ;
 
 7° Les données à caractère personnel mentionnées à l'article L. 611-6 du même code. 
 
-II. - Pour les seuls besoins de la prévention des atteintes et des actes mentionnés au premier alinéa du I, les agents
-individuellement désignés et dûment habilités des services spécialisés de renseignement mentionnés au I de l'article 6 nonies
-de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires sont également
-autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, à accéder aux traitements automatisés
-mentionnés ci-dessus. 
+II.-Pour les seuls besoins de la prévention des atteintes et des actes mentionnés au premier alinéa du I, les agents
+individuellement désignés et dûment habilités des services spécialisés de renseignement mentionnés à l'article L. 811-2 du
+présent code sont également autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, à accéder
+aux traitements automatisés mentionnés ci-dessus. 
 
 Un décret en Conseil d'Etat détermine les services spécialisés de renseignement mentionnés au premier alinéa du présent II et
 les modalités de leur accès aux traitements automatisés mentionnés au présent article.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -2561,10 +2566,11 @@ les modalités de leur accès aux traitements automatisés mentionnés au prése
 	  - Loi n°78-17 du 6 janvier 1978
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-6
+	  - Code de la sécurité intérieure - art. L811-2
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 25
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 21 (V)
 
 
 #### Chapitre III : Mise en œuvre de systèmes de vidéoprotection
@@ -3381,18 +3387,18 @@ La consultation prévue à l'article L. 234-1 est faite par des agents individue
 1° De la police et de la gendarmerie nationales ; 
 
 2° Dans des conditions fixées par le décret en Conseil d'Etat mentionné à l'article L. 234-1, des services spécialisés de
-renseignement mentionnés au I de l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement
-des assemblées parlementaires. 
+renseignement mentionnés à l'article L. 811-2. 
 
 Dans des conditions déterminées par décret en Conseil d'Etat, elle peut également être effectuée par des personnels investis
 de missions de police administrative désignés selon les mêmes procédures.
 
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
-	  - Code de la sécurité intérieure - art. L234-1
 
 	**Codifié par**:
 
@@ -3400,7 +3406,12 @@ de missions de police administrative désignés selon les mêmes procédures.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 18
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 21 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L234-1
+	  - Code de la sécurité intérieure - art. L811-2
 
 	**Cité par**:
 
@@ -3619,61 +3630,6 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 	  - Code de la sécurité intérieure - art. L246-3 (T)
 	  - Code de la sécurité intérieure - art. R246-4 (Ab)
 	  - Code de la sécurité intérieure - art. R246-7 (Ab)
-
-
-###### Article L241-3
-
-Les mesures prises par les pouvoirs publics pour assurer, aux seules fins de défense des intérêts nationaux, la surveillance
-et le contrôle des transmissions empruntant la voie hertzienne ne sont pas soumises aux dispositions du présent titre, ni à
-celles de la sous-section 2 de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L244-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L811-5 (VT)
-
-
-###### Article L241-4
-
-Les exigences essentielles définies au 12° de l'article L. 32 du code des postes et communications électroniques et le secret
-des correspondances mentionné à l'article L. 32-3 du même code ne sont opposables ni aux juridictions compétentes pour
-ordonner des interceptions en application de l'article 100 du code de procédure pénale, ni au ministre chargé des
-communications électroniques dans l'exercice des prérogatives qui leur sont dévolues par le présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L32
-	  - Code des postes et des communications électroniques - art. L32-3
-	  - Code de procédure pénale - art. 100
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-5 (V)
 
 
 #### Chapitre II : Conditions des interceptions
@@ -3983,39 +3939,6 @@ compétences confiées par le présent titre à la Commission nationale de contr
 
 	  - Code de procédure pénale - art. 40
 	  - Code de la sécurité intérieure - art. L241-2
-
-
-###### Article L242-9
-
-Les opérations matérielles nécessaires à la mise en place des interceptions dans les locaux et installations des services ou
-organismes placés sous l'autorité ou la tutelle du ministre chargé des communications électroniques ou des exploitants de
-réseaux ou fournisseurs de services de télécommunications ne peuvent être effectuées que sur ordre du ministre chargé des
-communications électroniques ou sur ordre de la personne spécialement déléguée par lui, par des agents qualifiés de ces
-services, organismes, exploitants ou fournisseurs dans leurs installations respectives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 11
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L285-2 (V)
-	  - Code de la sécurité intérieure - art. L286-2 (V)
-	  - Code de la sécurité intérieure - art. L287-2 (V)
-	  - Code de la sécurité intérieure - art. R242-4 (Ab)
-	  - Code de la sécurité intérieure - art. R242-5 (Ab)
-	  - Code de la sécurité intérieure - art. R242-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-6 (V)
 
 
 #### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
@@ -4451,172 +4374,7 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 	  - Code de la sécurité intérieure - art. L243-9 (Ab)
 
 
-#### Chapitre IV : Obligations des opérateurs  et prestataires de services
-
-###### Article L244-1
-
-Les personnes physiques ou morales qui fournissent des prestations de cryptologie visant à assurer une fonction de
-confidentialité sont tenues de remettre aux agents autorisés dans les conditions prévues à l'article L. 242-1, sur leur
-demande, les conventions permettant le déchiffrement des données transformées au moyen des prestations qu'elles ont fournies.
-Les agents autorisés peuvent demander aux fournisseurs de prestations susmentionnés de mettre eux-mêmes en œuvre ces
-conventions, sauf si ceux-ci démontrent qu'ils ne sont pas en mesure de satisfaire à ces réquisitions. 
-
-Un décret en Conseil d'Etat précise les procédures suivant lesquelles cette obligation est mise en œuvre ainsi que les
-conditions dans lesquelles la prise en charge financière de cette mise en œuvre est assurée par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L245-2 (T)
-	  - Code de la sécurité intérieure - art. L285-1 (V)
-	  - Code de la sécurité intérieure - art. L286-1 (M)
-	  - Code de la sécurité intérieure - art. L287-1 (V)
-	  - Code de la sécurité intérieure - art. R244-1 (T)
-	  - Code de la sécurité intérieure - art. R244-3 (T)
-	  - Code de la sécurité intérieure - art. R244-4 (T)
-	  - Code de la sécurité intérieure - art. R244-5 (T)
-	  - Code de la sécurité intérieure - art. R244-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-1 (V)
-
-
-###### Article L244-2
-
-Les juridictions compétentes pour ordonner des interceptions en application du code de procédure pénale ainsi que le Premier
-ministre ou, en ce qui concerne l'exécution des mesures prévues à l'article L. 241-3, le ministre de la défense ou le
-ministre de l'intérieur peuvent recueillir, auprès des personnes physiques ou morales exploitant des réseaux de
-communications électroniques ou fournisseurs de services de communications électroniques, les informations ou documents qui
-leur sont nécessaires, chacun en ce qui le concerne, pour la réalisation et l'exploitation des interceptions autorisées par
-la loi. 
-
-La fourniture des informations ou documents visés à l'alinéa précédent ne constitue pas un détournement de leur finalité au
-sens de l'article 226-21 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
-
-	**Cite**:
-
-	  - Code pénal - art. 226-21
-	  - Code de procédure pénale
-	  - Code de la sécurité intérieure - art. L241-3
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L245-3 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-2 (V)
-
-
-###### Article L244-3
-
-Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques,
-le ministre chargé des communications électroniques veille notamment à ce que l'exploitant public, les autres exploitants de
-réseaux publics de communications électroniques et les autres fournisseurs de services de communications électroniques
-autorisés prennent les mesures nécessaires pour assurer l'application des dispositions du présent titre et de la section 3 du
-chapitre Ier du titre III du livre Ier du code de procédure pénale relatives aux interceptions de correspondances émises par
-la voie des télécommunications ordonnées par l'autorité judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 12
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-3 (V)
-
-
 #### Chapitre V : Dispositions pénales
-
-###### Article L245-1
-
-Le fait par une personne concourant, dans les cas prévus par la loi, à l'exécution d'une décision d'interception de sécurité,
-de révéler l'existence de l'interception est puni des peines mentionnées aux articles 226-13, 226-14 et 226-31 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 13
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L285-1 (V)
-	  - Code de la sécurité intérieure - art. L286-1 (V)
-	  - Code de la sécurité intérieure - art. L287-1 (V)
-	  - Code de la sécurité intérieure - art. R242-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L881-1 (V)
-
-
-###### Article L245-2
-
-Le fait de ne pas déférer, dans les conditions prévues au premier alinéa de l'article L. 244-1, aux demandes des autorités
-habilitées est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L881-2 (V)
-
 
 ###### Article L245-3
 
@@ -4657,50 +4415,6 @@ Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 20
 
 
 #### Chapitre VI : Accès administratif aux données de connexion
-
-###### Article L246-1
-
-Pour les finalités énumérées à l'article L. 241-2, peut être autorisé le recueil, auprès des opérateurs de communications
-électroniques et des personnes mentionnées à l'article L. 34-1 du code des postes et des communications électroniques ainsi
-que des personnes mentionnées aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique, des informations ou documents traités ou conservés par leurs réseaux ou services de communications
-électroniques, y compris les données techniques relatives à l'identification des numéros d'abonnement ou de connexion à des
-services de communications électroniques, au recensement de l'ensemble des numéros d'abonnement ou de connexion d'une
-personne désignée, à la localisation des équipements terminaux utilisés ainsi qu'aux communications d'un abonné portant sur
-la liste des numéros appelés et appelants, la durée et la date des communications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6
-	  - Code des postes et des communications électroniques - art. L34-1
-	  - Code de la sécurité intérieure - art. L241-2
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L245-3 (Ab)
-	  - Code de la sécurité intérieure - art. L246-2 (VT)
-	  - Code de la sécurité intérieure - art. L246-3 (T)
-	  - Code de la sécurité intérieure - art. L246-4 (VT)
-	  - Code de la sécurité intérieure - art. L246-5 (T)
-	  - Code de la sécurité intérieure - art. R246-1 (Ab)
-	  - Code de la sécurité intérieure - art. R246-2 (Ab)
-	  - Code de la sécurité intérieure - art. R246-6 (Ab)
-	  - Code de la sécurité intérieure - art. R246-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L851-1 (V)
-
 
 ###### Article L246-2
 
@@ -4754,53 +4468,6 @@ compétences confiées par le présent titre à la Commission nationale de contr
 	  - Code de la sécurité intérieure - art. L246-1
 
 
-###### Article L246-3
-
-Pour les finalités énumérées à l'article L. 241-2, les informations ou documents mentionnés à l'article L. 246-1 peuvent être
-recueillis sur sollicitation du réseau et transmis en temps réel par les opérateurs aux agents mentionnés au I de l'article
-L. 246-2. 
-
-L'autorisation de recueil de ces informations ou documents est accordée, sur demande écrite et motivée des ministres de la
-sécurité intérieure, de la défense, de l'économie et du budget ou des personnes que chacun d'eux a spécialement désignées,
-par décision écrite du Premier ministre ou des personnes spécialement désignées par lui, pour une durée maximale de trente
-jours. Elle peut être renouvelée, dans les mêmes conditions de forme et de durée. Elle est communiquée dans un délai de
-quarante-huit heures au président de la Commission nationale de contrôle des interceptions de sécurité. 
-
-Si celui-ci estime que la légalité de cette autorisation au regard des dispositions du présent titre n'est pas certaine, il
-réunit la commission, qui statue dans les sept jours suivant la réception par son président de la communication mentionnée au
-deuxième alinéa. 
-
-Au cas où la commission estime que le recueil d'une donnée de connexion a été autorisé en méconnaissance des dispositions du
-présent titre, elle adresse au Premier ministre une recommandation tendant à ce qu'il y soit mis fin. 
-
-Elle porte également cette recommandation à la connaissance du ministre ayant proposé le recueil de ces données et du
-ministre chargé des communications électroniques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-	  - Code de la sécurité intérieure - art. L246-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-7 (Ab)
-	  - Code de la sécurité intérieure - art. R246-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L851-4 (V)
-
-
 ###### Article L246-4
 
 La Commission nationale de contrôle des interceptions de sécurité dispose d'un accès permanent au dispositif de recueil des
@@ -4842,30 +4509,6 @@ compétences confiées par le présent titre à la Commission nationale de contr
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L246-1
-
-
-###### Article L246-5
-
-Les surcoûts identifiables et spécifiques éventuellement exposés par les opérateurs et personnes mentionnées à l'article L.
-246-1 pour répondre à ces demandes font l'objet d'une compensation financière de la part de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-1
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L871-7 (V)
 
 
 ### TITRE V : VIDÉOPROTECTION
@@ -5953,18 +5596,23 @@ Sont applicables en Polynésie française les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
 
 3° Le titre III ; 
 
-4° Au titre IV : les articles L. 241-1 à L. 241-3, L. 242-1 à L. 242-9, L. 243-1 à L. 243-11, L. 244-1, L. 244-2, L. 245-1 à
-L. 245-3 ; 
+4° (Abrogé) 
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1 ;
+6° Au titre VI : l'article L. 262-1 ; 
 
 7° Au titre VII : l'article L. 271-1.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -5974,8 +5622,7 @@ L. 245-3 ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -5987,12 +5634,9 @@ L. 245-3 ;
 	  - Code de la sécurité intérieure - art. L221-1
 	  - Code de la sécurité intérieure - art. L222-1
 	  - Code de la sécurité intérieure - art. L223-1
-	  - Code de la sécurité intérieure - art. L241-1
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L243-1
-	  - Code de la sécurité intérieure - art. L244-1
-	  - Code de la sécurité intérieure - art. L245-1
+	  - Code de la sécurité intérieure - art. L224-1 (V)
 	  - Code de la sécurité intérieure - art. L262-1
+	  - Code de la sécurité intérieure - art. L271-1 (V)
 
 	**Cité par**:
 
@@ -6015,17 +5659,7 @@ de vidéoprotection ;
 
 5° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ; 
 
-6° A l'article L. 242-1, l'autorisation peut également être donnée sur proposition écrite et motivée du ministre chargé de
-l'outre-mer ; 
-
-7° A l'article L. 242-9 : 
-
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
-électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
-" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
-
-b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
-respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
+6° et 7° (Abrogés) ; 
 
 8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
 code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
@@ -6036,6 +5670,12 @@ applicables localement " ;
 " Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation
 s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "
 
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6044,16 +5684,14 @@ s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont as
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 15
 
 	**Cite**:
 
 	  - Code pénal - art. 226-1
 	  - Code de la sécurité intérieure - art. L223-2
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L242-9
 	  - Code de la sécurité intérieure - art. L254-1
-	  - Code de la sécurité intérieure - art. L285-1
+	  - Code de la sécurité intérieure - art. L285-1 (V)
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -6064,18 +5702,23 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
 
 3° Le titre III ; 
 
-4° Au titre IV : les articles L. 241-1 à L. 241-3, L. 242-1 à L. 242-9, L. 243-1 à L. 243-11, L. 244-1, L. 244-2, L. 245-1 à
-L. 245-3 ; 
+4° (Abrogé) 
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1 ;
+6° Au titre VI : l'article L. 262-1 ; 
 
 7° Au titre VII : l'article L. 271-1.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -6085,8 +5728,7 @@ L. 245-3 ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -6099,12 +5741,13 @@ L. 245-3 ;
 	  - Code de la sécurité intérieure - art. L222-1
 	  - Code de la sécurité intérieure - art. L222-3
 	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L224-1 (V)
 	  - Code de la sécurité intérieure - art. L241-1
 	  - Code de la sécurité intérieure - art. L242-1
 	  - Code de la sécurité intérieure - art. L243-1
 	  - Code de la sécurité intérieure - art. L244-1
-	  - Code de la sécurité intérieure - art. L245-1
 	  - Code de la sécurité intérieure - art. L262-1
+	  - Code de la sécurité intérieure - art. L271-1 (V)
 
 	**Cité par**:
 
@@ -6130,26 +5773,22 @@ territoriales est remplacée par la référence à l'article L. 131-13 du code d
 
 6° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ; 
 
-7° A l'article L. 242-1, l'autorisation peut également être donnée sur proposition écrite et motivée du ministre chargé de
-l'outre-mer ; 
-
-8° A l'article L. 242-9 : 
-
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
-électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
-" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
-
-b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
-respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
+7° et 8° (Abrogés) ; 
 
 9° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
 code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
-applicables localement " ;
+applicables localement " ; 
 
 10° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé : 
 
 " Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise les zones dans lesquelles cette obligation
 s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -6159,7 +5798,7 @@ s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont as
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 15
 
 	**Cite**:
 
@@ -6167,11 +5806,15 @@ s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont as
 	  - Code général des collectivités territoriales - art. L2215-1
 	  - Code pénal - art. 226-1
 	  - Code du travail
+	  - Code du travail - art. L1121-1 (V)
+	  - Code du travail - art. L1221-9 (V)
+	  - Code du travail - art. L1222-4 (V)
+	  - Code du travail - art. L2323-32 (V)
+	  - Code des transports - art. L1000-1 (V)
 	  - Code de la sécurité intérieure - art. L211-4
 	  - Code de la sécurité intérieure - art. L223-2
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L242-9
-	  - Code de la sécurité intérieure - art. L286-1
+	  - Code de la sécurité intérieure - art. L271-1 (V)
+	  - Code de la sécurité intérieure - art. L286-1 (V)
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -6183,18 +5826,23 @@ Sont applicables dans les îles Wallis et Futuna les dispositions suivantes :
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L.
 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9  et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
 
 3° Le titre III ; 
 
-4° Au titre IV : les articles L. 241-1 à L. 241-3, L. 242-1 à L. 242-9, L. 243-1 à L. 243-11, L. 244-1, L. 244-2, L. 245-1 à
-L. 245-3 ; 
+4° (Abrogé) 
 
 5° Le titre V ; 
 
-6° Au titre VI : l'article L. 262-1 ;
+6° Au titre VI : l'article L. 262-1 ; 
 
 7° Au titre VII : l'article L. 271-1.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -6204,8 +5852,7 @@ L. 245-3 ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -6216,14 +5863,12 @@ L. 245-3 ;
 	  - Code de la sécurité intérieure - art. L213-1
 	  - Code de la sécurité intérieure - art. L214-1
 	  - Code de la sécurité intérieure - art. L221-1
-	  - Code de la sécurité intérieure - art. L222-1 (V)
+	  - Code de la sécurité intérieure - art. L222-1
 	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L224-1 (V)
 	  - Code de la sécurité intérieure - art. L241-1
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L243-1
-	  - Code de la sécurité intérieure - art. L244-1
-	  - Code de la sécurité intérieure - art. L245-1
-	  - Code de la sécurité intérieure - art. L262-1 (V)
+	  - Code de la sécurité intérieure - art. L262-1
+	  - Code de la sécurité intérieure - art. L271-1 (V)
 
 	**Cité par**:
 
@@ -6255,17 +5900,7 @@ supprimés ;
 
 7° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ; 
 
-8° A l'article L. 242-1, l'autorisation peut également être donnée sur proposition écrite et motivée du ministre chargé de
-l'outre-mer ; 
-
-9° A l'article L. 242-9 : 
-
-a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
-électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots :
-" des organismes chargés de l'exploitation d'un service public de télécommunications " ; 
-
-b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
-respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ; 
+8° et 9° (Abrogés) ; 
 
 10° A l'article L. 254-1, les mots " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du
 code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail
@@ -6280,6 +5915,12 @@ s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont as
 
 b) Le dernier alinéa est supprimé.
 
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6288,7 +5929,7 @@ b) Le dernier alinéa est supprimé.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 15
 
 	**Cite**:
 
@@ -6296,9 +5937,7 @@ b) Le dernier alinéa est supprimé.
 	  - Code de la sécurité intérieure - art. L211-2
 	  - Code de la sécurité intérieure - art. L211-4
 	  - Code de la sécurité intérieure - art. L223-2
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L242-9
-	  - Code de la sécurité intérieure - art. L287-1
+	  - Code de la sécurité intérieure - art. L287-1 (V)
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises
@@ -21251,6 +20890,2318 @@ territoriales " sont supprimés.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+## LIVRE VIII : DU RENSEIGNEMENT
+
+###### Article L801-1
+
+Le respect de la vie privée, dans toutes ses composantes, notamment le secret des correspondances, la protection des données
+personnelles et l'inviolabilité du domicile, est garanti par la loi. L'autorité publique ne peut y porter atteinte que dans
+les seuls cas de nécessité d'intérêt public prévus par la loi, dans les limites fixées par celle-ci et dans le respect du
+principe de proportionnalité. 
+
+L'autorisation et la mise en œuvre sur le territoire national des techniques de recueil de renseignement mentionnées aux
+chapitres Ier à III du titre V du présent livre ne peuvent être décidées que si : 
+
+1° Elles procèdent d'une autorité ayant légalement compétence pour le faire ; 
+
+2° Elles résultent d'une procédure conforme au titre II du même livre ; 
+
+3° Elles respectent les missions confiées aux services mentionnés à l'article L. 811-2 ou aux services désignés par le décret
+en Conseil d'Etat prévu à l'article L. 811-4 ; 
+
+4° Elles sont justifiées par les menaces, les risques et les enjeux liés aux intérêts fondamentaux de la Nation mentionnés à
+l'article L. 811-3 ; 
+
+5° Les atteintes qu'elles portent au respect de la vie privée sont proportionnées aux motifs invoqués. 
+
+La Commission nationale de contrôle des techniques de renseignement s'assure, dans les conditions prévues au présent livre,
+du respect de ces principes. Le Conseil d'Etat statue sur les recours formés contre les décisions relatives à l'autorisation
+et à la mise en œuvre de ces techniques et ceux portant sur la conservation des renseignements collectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L833-5 (V)
+	  - Code de la sécurité intérieure - art. L855-1 (V)
+
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+###### Article L811-1
+
+La politique publique de renseignement concourt à la stratégie de sécurité nationale ainsi qu'à la défense et à la promotion
+des intérêts fondamentaux de la Nation. Elle relève de la compétence exclusive de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L811-2
+
+Les services spécialisés de renseignement sont désignés par décret en Conseil d'Etat. Ils ont pour missions, en France et à
+l'étranger, la recherche, la collecte, l'exploitation et la mise à disposition du Gouvernement des renseignements relatifs
+aux enjeux géopolitiques et stratégiques ainsi qu'aux menaces et aux risques susceptibles d'affecter la vie de la Nation. Ils
+contribuent à la connaissance et à l'anticipation de ces enjeux ainsi qu'à la prévention et à l'entrave de ces risques et de
+ces menaces. 
+
+Ils agissent dans le respect de la loi, sous l'autorité du Gouvernement et conformément aux orientations déterminées par le
+Conseil national du renseignement. 
+
+La mise en œuvre sur le territoire national du chapitre II du titre II et des chapitres Ier à III du titre V du présent livre
+est effectuée sans préjudice du second alinéa de l'article 40 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°55-385 du 3 avril 1955 - art. 6-1 (V)
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+	  - Arrêté du 30 juin 2015 - art. 15 (VD)
+	  - Décret n°2015-1185 du 28 septembre 2015 (V)
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+	  - Décret n°2015-1807 du 28 décembre 2015 (V)
+	  - Arrêté du 16 janvier 2017 - art. 10
+	  - Décret n°2017-588 du 20 avril 2017 - art. 2 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 5 (V)
+	  - Code de justice administrative - art. L773-2 (V)
+	  - Code de la défense. - art. L4211-1 (V)
+	  - Code de la défense. - art. L4241-2 (V)
+	  - Code de la sécurité intérieure - art. L222-1 (V)
+	  - Code de la sécurité intérieure - art. L234-2 (V)
+	  - Code de la sécurité intérieure - art. L234-4 (V)
+	  - Code de la sécurité intérieure - art. L801-1 (V)
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+	  - Code de la sécurité intérieure - art. L853-1 (V)
+	  - Code de la sécurité intérieure - art. L853-2 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. L854-2 (V)
+	  - Code de la sécurité intérieure - art. L854-6 (V)
+	  - Code de la sécurité intérieure - art. L861-1 (V)
+	  - Code de la sécurité intérieure - art. L861-2 (V)
+	  - Code de la sécurité intérieure - art. L861-3 (V)
+	  - Code de la sécurité intérieure - art. L862-1 (V)
+	  - Code de la sécurité intérieure - art. L863-1 (V)
+	  - Code de la sécurité intérieure - art. L863-2 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (V)
+	  - Code de la sécurité intérieure - art. R286-1 (V)
+	  - Code de la sécurité intérieure - art. R287-1 (V)
+	  - Code de la sécurité intérieure - art. R288-1 (V)
+	  - Code de la sécurité sociale. - art. L114-16-1 (V)
+	  - Code de procédure pénale - art. 656-1 (V)
+	  - Code de procédure pénale - art. 694-4-1 (V)
+	  - Code de procédure pénale - art. 706-25-2 (V)
+	  - Code de procédure pénale - art. 706-25-9 (V)
+	  - Code pénal - art. 323-8 (V)
+	  - Code pénal - art. 413-13 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+
+
+###### Article L811-3
+
+Pour le seul exercice de leurs missions respectives, les services spécialisés de renseignement peuvent recourir aux
+techniques mentionnées au titre V du présent livre pour le recueil des renseignements relatifs à la défense et à la promotion
+des intérêts fondamentaux de la Nation suivants : 
+
+1° L'indépendance nationale, l'intégrité du territoire et la défense nationale ; 
+
+2° Les intérêts majeurs de la politique étrangère, l'exécution des engagements européens et internationaux de la France et la
+prévention de toute forme d'ingérence étrangère ; 
+
+3° Les intérêts économiques, industriels et scientifiques majeurs de la France ; 
+
+4° La prévention du terrorisme ; 
+
+5° La prévention : 
+
+a) Des atteintes à la forme républicaine des institutions ; 
+
+b) Des actions tendant au maintien ou à la reconstitution de groupements dissous en application de l'article L. 212-1 ; 
+
+c) Des violences collectives de nature à porter gravement atteinte à la paix publique ; 
+
+6° La prévention de la criminalité et de la délinquance organisées ; 
+
+7° La prévention de la prolifération des armes de destruction massive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+	  - Décret n°2015-1807 du 28 décembre 2015 (V)
+	  - Code de la sécurité intérieure - art. L234-4 (V)
+	  - Code de la sécurité intérieure - art. L801-1 (V)
+	  - Code de la sécurité intérieure - art. L811-4 (V)
+	  - Code de la sécurité intérieure - art. L821-5 (V)
+	  - Code de la sécurité intérieure - art. L822-3 (V)
+	  - Code de la sécurité intérieure - art. L852-1 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. L854-1 (V)
+	  - Code de la sécurité intérieure - art. L854-2 (V)
+	  - Code de la sécurité intérieure - art. L854-6 (V)
+	  - Code de la sécurité intérieure - art. L863-1 (V)
+	  - Code de la sécurité intérieure - art. R811-2 (VD)
+	  - Code de la sécurité intérieure - art. R851-1 (VD)
+	  - Code de la sécurité intérieure - art. R851-2 (VD)
+	  - Code de la sécurité intérieure - art. R851-3 (VD)
+	  - Code de la sécurité intérieure - art. R851-4 (VD)
+	  - Code de la sécurité intérieure - art. R852-1 (VD)
+	  - Code de la sécurité intérieure - art. R852-2 (VD)
+	  - Code de la sécurité intérieure - art. R853-1 (VD)
+	  - Code de la sécurité intérieure - art. R853-2 (VD)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+	  - Code de la sécurité sociale. - art. L114-16-1 (V)
+	  - Code de procédure pénale - art. 694-4-1 (V)
+	  - Code monétaire et financier - art. L561-29 (VT)
+	  - Code monétaire et financier - art. L561-31 (VD)
+	  - Code pénal - art. 323-8 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L212-1
+
+
+###### Article L811-4
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de contrôle des techniques de renseignement, désigne
+les services, autres que les services spécialisés de renseignement, relevant des ministres de la défense et de l'intérieur
+ainsi que des ministres chargés de l'économie, du budget ou des douanes, qui peuvent être autorisés à recourir aux techniques
+mentionnées au titre V du présent livre dans les conditions prévues au même livre. Il précise, pour chaque service, les
+finalités mentionnées à l'article L. 811-3 et les techniques qui peuvent donner lieu à autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+	  - Décret n°2015-1639 du 11 décembre 2015 (V)
+	  - Décret n°2015-1807 du 28 décembre 2015 (V)
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+	  - Décret n°2017-36 du 16 janvier 2017 - art. 12
+	  - Décret n°2017-588 du 20 avril 2017 - art. 2 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 5 (V)
+	  - Code de justice administrative - art. L773-2 (V)
+	  - Code de la sécurité intérieure - art. L234-4 (V)
+	  - Code de la sécurité intérieure - art. L801-1 (V)
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+	  - Code de la sécurité intérieure - art. L853-1 (V)
+	  - Code de la sécurité intérieure - art. L853-2 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. L861-1 (V)
+	  - Code de la sécurité intérieure - art. L861-2 (V)
+	  - Code de la sécurité intérieure - art. L861-3 (V)
+	  - Code de la sécurité intérieure - art. L863-1 (V)
+	  - Code de la sécurité intérieure - art. L863-2 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (V)
+	  - Code de la sécurité intérieure - art. R286-1 (V)
+	  - Code de la sécurité intérieure - art. R287-1 (V)
+	  - Code de la sécurité intérieure - art. R288-1 (V)
+	  - Code de la sécurité intérieure - art. R811-2 (VD)
+	  - Code de la sécurité intérieure - art. R851-1 (VD)
+	  - Code de la sécurité intérieure - art. R851-2 (VD)
+	  - Code de la sécurité intérieure - art. R851-3 (VD)
+	  - Code de la sécurité intérieure - art. R851-4 (VD)
+	  - Code de la sécurité intérieure - art. R852-1 (VD)
+	  - Code de la sécurité intérieure - art. R852-2 (VD)
+	  - Code de la sécurité intérieure - art. R853-1 (VD)
+	  - Code de la sécurité intérieure - art. R853-2 (VD)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+	  - Code de la sécurité intérieure - art. R895-1 (V)
+	  - Code de la sécurité intérieure - art. R896-1 (V)
+	  - Code de la sécurité intérieure - art. R897-1 (V)
+	  - Code de la sécurité intérieure - art. R898-1 (V)
+	  - Code de la sécurité sociale. - art. L114-16-1 (V)
+	  - Code de procédure pénale - art. 656-1 (V)
+	  - Code de procédure pénale - art. 706-25-2 (V)
+	  - Code de procédure pénale - art. 706-25-9 (V)
+	  - Code pénal - art. 413-13 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+
+
+###### Article L811-5
+
+Les mesures prises par les pouvoirs publics pour assurer, aux seules fins de défense des intérêts nationaux, la surveillance
+et le contrôle des transmissions empruntant la voie hertzienne ne sont pas soumises aux dispositions du présent livre, ni à
+celles de la sous-section 2 de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale.
+
+**Nota:**
+
+Dans sa décision n° 2016-590 QPC du 21 octobre 2016 (NOR: CSCX1630577S), le Conseil constitutionnel a déclaré contraires à la
+Constitution l'article L. 811-5 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2015-912 du 24
+juillet 2015 relative au renseignement. La déclaration d'inconstitutionnalité prend effet à compter du 31 décembre 2017 dans
+les conditions prévues aux paragraphes 11 et 12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 11
+
+	**Abrogé par**:
+
+	  - Décision n°2016-590 QPC du 21 octobre 2016 - art. 1, v. init.
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L241-3 (T)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L871-2 (V)
+
+
+### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION
+
+#### Chapitre Ier : De l'autorisation de mise en œuvre
+
+###### Article L821-1
+
+La mise en œuvre sur le territoire national des techniques de recueil de renseignement mentionnées au titre V du présent
+livre est soumise à autorisation préalable du Premier ministre, délivrée après avis de la Commission nationale de contrôle
+des techniques de renseignement. 
+
+Ces techniques ne peuvent être mises en œuvre que par des agents individuellement désignés et habilités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L821-2 (V)
+
+
+###### Article L821-2
+
+L'autorisation mentionnée à l'article L. 821-1 est délivrée sur demande écrite et motivée du ministre de la défense, du
+ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes. Chaque ministre ne peut déléguer
+cette attribution individuellement qu'à des collaborateurs directs habilités au secret de la défense nationale. 
+
+La demande précise : 
+
+1° La ou les techniques à mettre en œuvre ; 
+
+2° Le service pour lequel elle est présentée ; 
+
+3° La ou les finalités poursuivies ; 
+
+4° Le ou les motifs des mesures ; 
+
+5° La durée de validité de l'autorisation ; 
+
+6° La ou les personnes, le ou les lieux ou véhicules concernés. 
+
+Pour l'application du 6°, les personnes dont l'identité n'est pas connue peuvent être désignées par leurs identifiants ou
+leur qualité et les lieux ou véhicules peuvent être désignés par référence aux personnes faisant l'objet de la demande. 
+
+Lorsqu'elle a pour objet le renouvellement d'une autorisation, la demande expose les raisons pour lesquelles ce
+renouvellement est justifié au regard de la ou des finalités poursuivies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L821-4 (V)
+	  - Code de la sécurité intérieure - art. L832-3 (V)
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+	  - Code de la sécurité intérieure - art. L851-6 (V)
+	  - Code de la sécurité intérieure - art. L852-1 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+
+
+###### Article L821-3
+
+La demande est communiquée au président ou, à défaut, à l'un des membres de la Commission nationale de contrôle des
+techniques de renseignement parmi ceux mentionnés aux 2° et 3° de l'article L. 831-1, qui rend un avis au Premier ministre
+dans un délai de vingt-quatre heures. Si la demande est examinée par la formation restreinte ou par la formation plénière de
+la commission, le Premier ministre en est informé sans délai et l'avis est rendu dans un délai de soixante-douze heures. 
+
+Les avis mentionnés au présent article sont communiqués sans délai au Premier ministre. En l'absence d'avis transmis dans les
+délais prévus au même article, celui-ci est réputé rendu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L831-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+
+
+###### Article L821-4
+
+L'autorisation de mise en œuvre des techniques mentionnées au titre V du présent livre est délivrée par le Premier ministre
+pour une durée maximale de quatre mois. Le Premier ministre ne peut déléguer cette attribution individuellement qu'à des
+collaborateurs directs habilités au secret de la défense nationale. L'autorisation comporte les motivations et mentions
+prévues aux 1° à 6° de l'article L. 821-2. Toute autorisation est renouvelable dans les mêmes conditions que celles prévues
+au présent chapitre. 
+
+Lorsque l'autorisation est délivrée après un avis défavorable de la Commission nationale de contrôle des techniques de
+renseignement, elle indique les motifs pour lesquels cet avis n'a pas été suivi. 
+
+L'autorisation du Premier ministre est communiquée sans délai au ministre responsable de son exécution ainsi qu'à la
+commission. 
+
+La demande et l'autorisation sont enregistrées par les services du Premier ministre. Les registres sont tenus à la
+disposition de la Commission nationale de contrôle des techniques de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+	  - Code de la sécurité intérieure - art. L821-5 (V)
+	  - Code de la sécurité intérieure - art. L851-2 (M)
+	  - Code de la sécurité intérieure - art. L851-6 (V)
+	  - Code de la sécurité intérieure - art. L853-1 (V)
+	  - Code de la sécurité intérieure - art. L853-2 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. L854-2 (V)
+	  - Code de la sécurité intérieure - art. L871-1 (V)
+	  - Code de la sécurité intérieure - art. R871-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-2
+
+
+###### Article L821-5
+
+En cas d'urgence absolue et pour les seules finalités mentionnées aux 1° et 4° et au a du 5° de l'article L. 811-3, le
+Premier ministre, ou l'une des personnes déléguées mentionnées à l'article L. 821-4, peut délivrer de manière exceptionnelle
+l'autorisation mentionnée au même article L. 821-4 sans avis préalable de la Commission nationale de contrôle des techniques
+de renseignement. Il en informe celle-ci sans délai et par tout moyen. 
+
+Le Premier ministre fait parvenir à la commission, dans un délai maximal de vingt-quatre heures à compter de la délivrance de
+l'autorisation, tous les éléments de motivation mentionnés audit article L. 821-4 et ceux justifiant le caractère d'urgence
+absolue au sens du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L821-4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L821-7 (V)
+	  - Code de la sécurité intérieure - art. L833-9 (V)
+	  - Code de la sécurité intérieure - art. L851-2 (V)
+	  - Code de la sécurité intérieure - art. L851-3 (V)
+
+
+###### Article L821-6
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23
+juillet 2015.]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L821-7
+
+Un parlementaire, un magistrat, un avocat ou un journaliste ne peut être l'objet d'une demande de mise en œuvre, sur le
+territoire national, d'une technique de recueil de renseignement mentionnée au titre V du présent livre à raison de
+l'exercice de son mandat ou de sa profession. Lorsqu'une telle demande concerne l'une de ces personnes ou ses véhicules, ses
+bureaux ou ses domiciles, l'avis de la Commission nationale de contrôle des techniques de renseignement est examiné en
+formation plénière. L'article L. 821-5 n'est pas applicable. [Dispositions déclarées non conformes à la Constitution par la
+décision du Conseil constitutionnel n° 2015-713 DC du 23 juillet 2015.]
+
+La commission est informée des modalités d'exécution des autorisations délivrées en application du présent article. 
+
+Les transcriptions des renseignements collectés en application du présent article sont transmises à la commission, qui veille
+au caractère nécessaire et proportionné des atteintes, le cas échéant, portées aux garanties attachées à l'exercice de ces
+activités professionnelles ou mandats.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+	  - Code de la sécurité intérieure - art. L821-5
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L854-3 (V)
+
+
+###### Article L821-8
+
+La Commission nationale de contrôle des techniques de renseignement peut adresser des recommandations et saisir le Conseil
+d'Etat dans les conditions prévues, respectivement, aux articles L. 833-6 et L. 833-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L833-6
+	  - Code de la sécurité intérieure - art. L833-8
+
+
+#### Chapitre II : Des renseignements collectés
+
+###### Article L822-1
+
+Les procédures prévues au présent chapitre sont mises en œuvre sous l'autorité du Premier ministre dans des conditions qu'il
+définit après consultation de la Commission nationale de contrôle des techniques de renseignement. 
+
+Le Premier ministre organise la traçabilité de l'exécution des techniques autorisées en application du chapitre Ier du
+présent titre et définit les modalités de la centralisation des renseignements collectés. 
+
+A cet effet, un relevé de chaque mise en œuvre d'une technique de recueil de renseignement est établi. Il mentionne les dates
+de début et de fin de cette mise en œuvre ainsi que la nature des renseignements collectés. Ce relevé est tenu à la
+disposition de la commission, qui peut y accéder de manière permanente, complète et directe, quel que soit son degré
+d'achèvement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L833-2 (V)
+
+
+###### Article L822-2
+
+I.-Les renseignements collectés par la mise en œuvre d'une technique de recueil de renseignement autorisée en application du
+chapitre Ier du présent titre sont détruits à l'issue d'une durée de : 
+
+1° Trente jours à compter de leur recueil pour les correspondances interceptées en application de l'article L. 852-1 et pour
+les paroles captées en application de l'article L. 853-1 ; 
+
+2° Cent vingt jours à compter de leur recueil pour les renseignements collectés par la mise en œuvre des techniques
+mentionnées au chapitre III du titre V du présent livre, à l'exception des informations ou documents mentionnés à l'article
+L. 851-1 ; 
+
+3° Quatre ans à compter de leur recueil pour les informations ou documents mentionnés à l'article L. 851-1. 
+
+Pour ceux des renseignements qui sont chiffrés, le délai court à compter de leur déchiffrement. Ils ne peuvent être conservés
+plus de six ans à compter de leur recueil. 
+
+Dans une mesure strictement nécessaire aux besoins de l'analyse technique et à l'exclusion de toute utilisation pour la
+surveillance des personnes concernées, les renseignements collectés qui contiennent des éléments de cyberattaque ou qui sont
+chiffrés, ainsi que les renseignements déchiffrés associés à ces derniers, peuvent être conservés au-delà des durées
+mentionnées au présent I. 
+
+II.-Par dérogation au I, les renseignements qui concernent une requête dont le Conseil d'Etat a été saisi ne peuvent être
+détruits. A l'expiration des délais prévus au même I, ils sont conservés pour les seuls besoins de la procédure devant le
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L822-4 (V)
+	  - Code de la sécurité intérieure - art. L851-6 (V)
+	  - Code de la sécurité intérieure - art. L852-1 (V)
+	  - Code de la sécurité intérieure - art. L854-8 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+	  - Code de la sécurité intérieure - art. L853-1 (V)
+
+
+###### Article L822-3
+
+Les renseignements ne peuvent être collectés, transcrits ou extraits pour d'autres finalités que celles mentionnées à
+l'article L. 811-3. Ces opérations sont soumises au contrôle de la Commission nationale de contrôle des techniques de
+renseignement. 
+
+Les transcriptions ou les extractions doivent être détruites dès que leur conservation n'est plus indispensable à la
+poursuite de ces finalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+
+
+###### Article L822-4
+
+Les opérations de destruction des renseignements collectés, les transcriptions et les extractions mentionnées aux articles L.
+822-2 et L. 822-3 sont effectuées par des agents individuellement désignés et habilités. Elles font l'objet de relevés tenus
+à la disposition de la Commission nationale de contrôle des techniques de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L822-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L854-8 (V)
+
+
+### TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT 
+
+
+
+#### Chapitre Ier : Composition et organisation
+
+###### Article L831-1
+
+La Commission nationale de contrôle des techniques de renseignement est une autorité administrative indépendante. 
+
+Elle est composée de neuf membres : 
+
+1° Deux députés et deux sénateurs, désignés, respectivement, pour la durée de la législature par l'Assemblée nationale et
+pour la durée de leur mandat par le Sénat, de manière à assurer une représentation pluraliste du Parlement ; 
+
+2° Deux membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller d'Etat, nommés par le vice-président du
+Conseil d'Etat ; 
+
+3° Deux magistrats hors hiérarchie de la Cour de cassation, nommés conjointement par le premier président et par le procureur
+général de la Cour de cassation ; 
+
+4° Une personnalité qualifiée pour sa connaissance en matière de communications électroniques, nommée sur proposition du
+président de l'Autorité de régulation des communications électroniques et des postes. 
+
+Les modalités de désignation ou de nomination des membres mentionnés aux 1° à 3° assurent l'égale représentation des hommes
+et des femmes. 
+
+Le président de la commission est nommé par décret du Président de la République parmi les membres mentionnés aux 2° et 3°. 
+
+Le mandat des membres, à l'exception de ceux mentionnés au 1°, est de six ans. Il n'est pas renouvelable. 
+
+Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans. 
+
+La commission peut suspendre le mandat d'un de ses membres ou y mettre fin si elle constate, à la majorité des trois quarts
+des autres membres, qu'il se trouve dans une situation d'incompatibilité, qu'il est empêché d'exercer ses fonctions ou qu'il
+a manqué à ses obligations. 
+
+En cas de vacance d'un siège de membre, pour quelque cause que ce soit, il est procédé à la désignation ou à la nomination
+d'un nouveau membre pour la durée du mandat restant à courir. Si cette durée est inférieure à deux ans, le mandat du nouveau
+membre est renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 21 (V)
+	  - Arrêté du 29 septembre 2015 - art. 2 (V)
+	  - Décret n°2015-1186 du 29 septembre 2015 - art. 2 (V)
+	  - Code de la sécurité intérieure - art. L821-3 (V)
+	  - Code de la sécurité intérieure - art. L831-2 (V)
+	  - Code de la sécurité intérieure - art. L832-2 (V)
+	  - Code de la sécurité intérieure - art. L832-3 (M)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L831-2
+
+La formation plénière de la Commission nationale de contrôle des techniques de renseignement comprend l'ensemble des membres
+mentionnés à l'article L. 831-1.
+
+La formation restreinte de la Commission nationale de contrôle des techniques de renseignement est composée des membres
+mentionnés aux 2° à 4° du même article L. 831-1. 
+
+Ces formations sont présidées par le président de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L831-1
+
+
+#### Chapitre II : Règles de déontologie et de fonctionnement 
+
+
+###### Article L832-1
+
+Dans l'exercice de leurs fonctions, les membres de la commission ne reçoivent d'instruction d'aucune autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
+
+
+###### Article L832-2
+
+Le président de la commission ne peut être titulaire d'aucun mandat électif et ne peut exercer aucune autre activité
+professionnelle. 
+
+La fonction de membre de la commission est incompatible avec tout intérêt, direct ou indirect, dans les services pouvant être
+autorisés à mettre en œuvre les techniques mentionnées au titre V du présent livre ou dans l'activité de l'une des personnes
+mentionnées au II de l'article L. 34-1 du code des postes et des communications électroniques ainsi qu'aux 1 et 2 du I de
+l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. La fonction de membre est
+également incompatible avec toute activité professionnelle ou autre emploi public exercés à temps plein et tout mandat
+électif, à l'exception de ceux des membres mentionnés au 1° de l'article L. 831-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+	  - Code des postes et des communications électroniques - art. L34-1
+	  - Code de la sécurité intérieure - art. L831-1
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L832-3
+
+La Commission nationale de contrôle des techniques de renseignement établit son règlement intérieur. 
+
+Les avis sur les demandes mentionnées à l'article L. 821-2 sont rendus par le président ou par un autre membre mentionné aux
+2° et 3° de l'article L. 831-1. Ces avis sont tenus à la disposition de tous les membres de la commission. 
+
+Toute question nouvelle ou sérieuse est renvoyée à la formation restreinte ou à la formation plénière. Ces formations peuvent
+également être réunies si le président de la commission ou le membre mentionné au deuxième alinéa du présent article estime
+que la validité de la demande n'est pas certaine. La formation restreinte et la formation plénière ne peuvent valablement
+délibérer que si, respectivement, au moins trois et quatre membres sont présents. Leurs décisions sont prises à la majorité
+des membres présents. 
+
+En cas de partage égal des voix, la voix du président est prépondérante. 
+
+La formation plénière se réunit au moins une fois par mois. Elle est informée des avis rendus sur les demandes mentionnées à
+l'article L. 821-2 lors de sa plus proche réunion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-2
+	  - Code de la sécurité intérieure - art. L831-1
+
+
+###### Article L832-4
+
+La commission dispose des moyens humains et techniques nécessaires à l'accomplissement de ses missions ainsi que des crédits
+correspondants, dans les conditions fixées par la loi de finances. [Dispositions déclarées non conformes à la Constitution
+par la décision du Conseil constitutionnel n° 2015-713 DC du 23 juillet 2015.] Le président est ordonnateur des dépenses de
+la commission. La loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui est pas applicable.
+La commission présente ses comptes au contrôle de la Cour des comptes. 
+
+Le secrétaire général de la commission assiste le président. Il est nommé par le président de la commission. 
+
+La commission peut bénéficier de la mise à disposition ou du détachement de fonctionnaires et de magistrats et recruter, au
+besoin, des agents contractuels, placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 10 août 1922
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
+
+
+###### Article L832-5
+
+Les membres de la commission sont autorisés ès qualités à connaître des informations ou des éléments d'appréciation protégés
+au titre de l'article 413-9 du code pénal et utiles à l'exercice de leurs fonctions. 
+
+Les agents de la commission doivent être habilités au secret de la défense nationale aux fins d'accéder aux informations et
+aux documents nécessaires à l'accomplissement de leurs missions. 
+
+Les membres et les agents de la commission sont astreints au respect des secrets protégés aux articles 413-10 et 226-13 du
+même code pour les faits, actes et renseignements dont ils peuvent avoir connaissance dans l'exercice de leurs fonctions. 
+
+Les travaux de la commission sont couverts par le secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 413-10
+	  - Code pénal - art. 413-9
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L833-3 (V)
+
+
+#### Chapitre III : Missions 
+
+
+
+###### Article L833-1
+
+La Commission nationale de contrôle des techniques de renseignement veille à ce que les techniques de recueil de
+renseignement soient mises en œuvre sur le territoire national conformément au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L833-2
+
+Pour l'accomplissement de ses missions, la commission : 
+
+1° Reçoit communication de toutes demandes et autorisations mentionnées au présent livre ; 
+
+2° Dispose d'un accès permanent, complet et direct aux relevés, registres, renseignements collectés, transcriptions et
+extractions mentionnés au présent livre [Dispositions déclarées non conformes à la Constitution par la décision du Conseil
+constitutionnel n° 2015-713 DC du 23 juillet 2015], ainsi qu'aux dispositifs de traçabilité des renseignements collectés et
+aux locaux où sont centralisés ces renseignements en application de l'article L. 822-1 ; 
+
+3° Est informée à tout moment, à sa demande, des modalités d'exécution des autorisations en cours ; 
+
+4° Peut solliciter du Premier ministre tous les éléments nécessaires à l'accomplissement de ses missions, y compris lorsque
+la technique de recueil de renseignement mise en œuvre n'a fait l'objet ni d'une demande, ni d'une autorisation ou ne répond
+pas aux conditions de traçabilité, à l'exclusion des éléments communiqués par des services étrangers ou par des organismes
+internationaux ou qui pourraient donner connaissance à la commission, directement ou indirectement, de l'identité des sources
+des services spécialisés de renseignement ; 
+
+5° Peut solliciter du Premier ministre tout ou partie des rapports de l'inspection des services de renseignement ainsi que
+des rapports des services d'inspection générale des ministères portant sur les services qui relèvent de leur compétence, en
+lien avec les missions de la commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+	  - Code de la sécurité intérieure - art. L822-1
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L833-3 (V)
+
+
+###### Article L833-3
+
+Les ministres, les autorités publiques et les agents publics prennent toutes mesures utiles pour faciliter l'action de la
+commission. 
+
+Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'entraver l'action de la commission : 
+
+1° Soit en refusant de communiquer à la commission les documents et les renseignements qu'elle a sollicités en application de
+l'article L. 833-2, ou en dissimulant lesdits documents ou renseignements, ou en les faisant disparaître ; 
+
+2° Soit en communiquant des transcriptions ou des extractions qui ne sont pas conformes au contenu des renseignements
+collectés tel qu'il était au moment où la demande a été formulée ; 
+
+3° Soit en s'opposant à l'exercice des missions confiées à ses membres ou aux agents habilités en application de l'article L.
+832-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L832-5 (VD)
+	  - Code de la sécurité intérieure - art. L833-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L854-9 (V)
+
+
+###### Article L833-4
+
+De sa propre initiative ou lorsqu'elle est saisie d'une réclamation de toute personne souhaitant vérifier qu'aucune technique
+de renseignement n'est irrégulièrement mise en œuvre à son égard, la commission procède au contrôle de la ou des techniques
+invoquées en vue de vérifier qu'elles ont été ou sont mises en œuvre dans le respect du présent livre. Elle notifie à
+l'auteur de la réclamation qu'il a été procédé aux vérifications nécessaires, sans confirmer ni infirmer leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2015-1405 du 5 novembre 2015 - art. Annexe 1 (V)
+	  - Code de justice administrative - art. R773-31 (V)
+	  - Code de la sécurité intérieure - art. L841-1 (V)
+
+
+###### Article L833-5
+
+Lorsqu'elle rend un avis sur la demande d'autorisation pour la mise en œuvre d'une technique de renseignement prévue aux
+chapitres Ier à III du titre V du présent livre ou qu'elle en contrôle la mise en œuvre, la commission vérifie que la mesure
+respecte l'article L. 801-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L801-1
+
+
+###### Article L833-6
+
+La commission peut adresser, à tout moment, au Premier ministre, au ministre responsable de son exécution et au service
+concerné une recommandation tendant à ce que la mise en œuvre d'une technique soit interrompue et les renseignements
+collectés détruits lorsqu'elle estime que : 
+
+1° Une autorisation a été accordée en méconnaissance du présent livre ; 
+
+2° Une technique a été mise en œuvre en méconnaissance du présent livre ; 
+
+3° La collecte, la transcription, l'extraction, la conservation ou la destruction des renseignements collectés est effectuée
+en méconnaissance du chapitre II du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L821-8 (V)
+
+
+###### Article L833-7
+
+Le Premier ministre informe sans délai la commission des suites données à ses recommandations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L833-8
+
+Le Conseil d'Etat peut être saisi d'un recours prévu au 2° de l'article L. 841-1 soit par le président de la commission
+lorsque le Premier ministre ne donne pas suite aux avis ou aux recommandations de la commission ou que les suites qui y sont
+données sont estimées insuffisantes, soit par au moins trois membres de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L821-8 (V)
+	  - Code de la sécurité intérieure - art. L841-1 (V)
+	  - Code de la sécurité intérieure - art. L861-3 (V)
+
+
+###### Article L833-9
+
+La commission établit chaque année un rapport public dressant le bilan de son activité. 
+
+Dans le respect du secret de la défense nationale et sans révéler des procédures ou des méthodes opérationnelles, le rapport
+public de la commission fait état du nombre : 
+
+1° De demandes dont elle a été saisie et d'avis qu'elle a rendus ; 
+
+2° De réclamations dont elle a été saisie ; 
+
+3° De recommandations qu'elle a adressées au Premier ministre et de suites favorables données à ces recommandations ; 
+
+4° D'observations qu'elle a adressées au Premier ministre et d'avis qu'elle a rendus sur demande ; 
+
+5° D'utilisation des procédures d'urgence définies aux articles L. 821-5 [Dispositions déclarées non conformes à la
+Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23 juillet 2015] ; 
+
+6° De recours dont elle a saisi le Conseil d'Etat et de recours pour lesquels elle a produit des observations devant lui.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (M)
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+	  - Code de la sécurité intérieure - art. L821-5
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L833-10
+
+La commission peut adresser au Premier ministre, à tout moment, les observations qu'elle juge utiles. 
+
+Ces observations sont communiquées par le Premier ministre à la délégation parlementaire au renseignement, sous réserve du
+respect du dernier alinéa du I et du premier alinéa du IV de l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre
+1958 relative au fonctionnement des assemblées parlementaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+###### Article L833-11
+
+La commission répond aux demandes d'avis du Premier ministre, du président de l'Assemblée nationale, du président du Sénat et
+de la délégation parlementaire au renseignement. 
+
+Dans le respect du secret de la défense nationale, la commission peut consulter l'Autorité de régulation des communications
+électroniques et des postes ou répondre aux demandes de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+
+### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT 
+
+
+###### Article L841-1
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23
+juillet 2015.] Le Conseil d'Etat est compétent pour connaître, dans les conditions prévues au chapitre III bis du titre VII
+du livre VII du code de justice administrative, des requêtes concernant la mise en œuvre des techniques de renseignement
+mentionnées au titre V du présent livre. 
+
+Il peut être saisi par : 
+
+1° Toute personne souhaitant vérifier qu'aucune technique de renseignement n'est irrégulièrement mise en œuvre à son égard et
+justifiant de la mise en œuvre préalable de la procédure prévue à l'article L. 833-4 ; 
+
+2° La Commission nationale de contrôle des techniques de renseignement, dans les conditions prévues à l'article L. 833-8. 
+
+Lorsqu'une juridiction administrative ou une autorité judiciaire est saisie d'une procédure ou d'un litige dont la solution
+dépend de l'examen de la régularité d'une ou de plusieurs techniques de recueil de renseignement, elle peut, d'office ou sur
+demande de l'une des parties, saisir le Conseil d'Etat à titre préjudiciel. Il statue dans le délai d'un mois à compter de sa
+saisine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+	  - Code de la sécurité intérieure - art. L833-4
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2015-1211 du 1er octobre 2015 - art. 3 (V)
+	  - Code de justice administrative - art. L773-1 (V)
+	  - Code de justice administrative - art. L773-3 (V)
+	  - Code de justice administrative - art. R773-23 (V)
+	  - Code de justice administrative - art. R773-24 (V)
+	  - Code de justice administrative - art. R773-30 (V)
+	  - Code de justice administrative - art. R773-32 (V)
+	  - Code de justice administrative - art. R773-33 (V)
+	  - Code de justice administrative - art. R773-7 (V)
+	  - Code de la sécurité intérieure - art. L833-8 (V)
+
+
+###### Article L841-2
+
+Le Conseil d'Etat est compétent pour connaître, dans les conditions prévues au chapitre III bis du titre VII du livre VII du
+code de justice administrative, des requêtes concernant la mise en œuvre de l'article 41 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés, pour les traitements ou parties de traitements intéressant la sûreté
+de l'Etat dont la liste est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 41
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-725 du 1er juin 2016 - art. 2
+	  - Code de justice administrative - art. R773-7 (V)
+
+
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION
+
+#### Chapitre Ier :  Des accès administratifs aux données de connexion
+
+###### Article L851-1
+
+Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisé le recueil, auprès des
+opérateurs de communications électroniques et des personnes mentionnées à l'article L. 34-1 du code des postes et des
+communications électroniques ainsi que des personnes mentionnées aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21
+juin 2004 pour la confiance dans l'économie numérique, des informations ou documents traités ou conservés par leurs réseaux
+ou services de communications électroniques, y compris les données techniques relatives à l'identification des numéros
+d'abonnement ou de connexion à des services de communications électroniques, au recensement de l'ensemble des numéros
+d'abonnement ou de connexion d'une personne désignée, à la localisation des équipements terminaux utilisés ainsi qu'aux
+communications d'un abonné portant sur la liste des numéros appelés et appelants, la durée et la date des communications. 
+
+Par dérogation à l'article L. 821-2, les demandes écrites et motivées portant sur les données techniques relatives à
+l'identification des numéros d'abonnement ou de connexion à des services de communications électroniques, ou au recensement
+de l'ensemble des numéros d'abonnement ou de connexion d'une personne désignée sont directement transmises à la Commission
+nationale de contrôle des techniques de renseignement par les agents individuellement désignés et habilités des services de
+renseignement mentionnés aux articles L. 811-2 et L. 811-4. La commission rend son avis dans les conditions prévues à
+l'article L. 821-3. 
+
+Un service du Premier ministre est chargé de recueillir les informations ou documents auprès des opérateurs et des personnes
+mentionnés au premier alinéa du présent article. La Commission nationale de contrôle des techniques de renseignement dispose
+d'un accès permanent, complet, direct et immédiat aux informations ou documents collectés. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la Commission
+nationale de l'informatique et des libertés et de la Commission nationale de contrôle des techniques de renseignement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+	  - Code de la sécurité intérieure - art. L811-2 (VD)
+	  - Code de la sécurité intérieure - art. L811-4 (VD)
+	  - Code de la sécurité intérieure - art. L821-2 (VD)
+	  - Code de la sécurité intérieure - art. L821-3 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L246-1 (T)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L822-2 (V)
+	  - Code de la sécurité intérieure - art. L851-2 (V)
+	  - Code de la sécurité intérieure - art. L851-3 (V)
+	  - Code de la sécurité intérieure - art. L851-4 (V)
+	  - Code de la sécurité intérieure - art. L852-1 (V)
+	  - Code de la sécurité intérieure - art. L855-1 (V)
+	  - Code de la sécurité intérieure - art. L871-6 (V)
+	  - Code de la sécurité intérieure - art. L871-7 (V)
+	  - Code de la sécurité intérieure - art. R851-1 (VD)
+
+
+###### Article L851-2
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
+terrorisme, peut être individuellement autorisé le recueil en temps réel, sur les réseaux des opérateurs et des personnes
+mentionnés à l'article L. 851-1, des informations ou documents mentionnés au même article L. 851-1 relatifs à une personne
+préalablement identifiée comme présentant une menace. 
+
+II.-Par dérogation à l'article L. 821-4, l'autorisation est délivrée pour une durée de deux mois, renouvelable dans les mêmes
+conditions de durée. 
+
+III.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-4
+	  - Code de la sécurité intérieure - art. L821-5
+	  - Code de la sécurité intérieure - art. L851-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L871-7 (V)
+
+
+###### Article L851-3
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
+terrorisme, il peut être imposé aux opérateurs et aux personnes mentionnés à l'article L. 851-1 la mise en œuvre sur leurs
+réseaux de traitements automatisés destinés, en fonction de paramètres précisés dans l'autorisation, à détecter des
+connexions susceptibles de révéler une menace terroriste. 
+
+Ces traitements automatisés utilisent exclusivement les informations ou documents mentionnés à l'article L. 851-1, sans
+recueillir d'autres données que celles qui répondent à leurs paramètres de conception et sans permettre l'identification des
+personnes auxquelles les informations ou documents se rapportent. 
+
+Dans le respect du principe de proportionnalité, l'autorisation du Premier ministre précise le champ technique de la mise en
+œuvre de ces traitements. 
+
+II.-La Commission nationale de contrôle des techniques de renseignement émet un avis sur la demande d'autorisation relative
+aux traitements automatisés et les paramètres de détection retenus. Elle dispose d'un accès permanent, complet et direct à
+ces traitements ainsi qu'aux informations et données recueillies. Elle est informée de toute modification apportée aux
+traitements et paramètres et peut émettre des recommandations. 
+
+La première autorisation de mise en œuvre des traitements automatisés prévue au I du présent article est délivrée pour une
+durée de deux mois. L'autorisation est renouvelable dans les conditions de durée prévues au chapitre Ier du titre II du
+présent livre. La demande de renouvellement comporte un relevé du nombre d'identifiants signalés par le traitement automatisé
+et une analyse de la pertinence de ces signalements. 
+
+III.-Les conditions prévues à l'article L. 871-6 sont applicables aux opérations matérielles effectuées pour cette mise en
+œuvre par les opérateurs et les personnes mentionnés à l'article L. 851-1. 
+
+IV.-Lorsque les traitements mentionnés au I du présent article détectent des données susceptibles de caractériser l'existence
+d'une menace à caractère terroriste, le Premier ministre ou l'une des personnes déléguées par lui peut autoriser, après avis
+de la Commission nationale de contrôle des techniques de renseignement donné dans les conditions prévues au chapitre Ier du
+titre II du présent livre, l'identification de la ou des personnes concernées et le recueil des données y afférentes. Ces
+données sont exploitées dans un délai de soixante jours à compter de ce recueil et sont détruites à l'expiration de ce délai,
+sauf en cas d'éléments sérieux confirmant l'existence d'une menace terroriste attachée à une ou plusieurs des personnes
+concernées. 
+
+V.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-5
+	  - Code de la sécurité intérieure - art. L851-1
+	  - Code de la sécurité intérieure - art. L871-6 (V)
+
+
+###### Article L851-4
+
+Dans les conditions prévues au chapitre Ier du titre II du présent livre, les données techniques relatives à la localisation
+des équipements terminaux utilisés mentionnées à l'article L. 851-1 peuvent être recueillis sur sollicitation du réseau et
+transmis en temps réel par les opérateurs à un service du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L246-3 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L851-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L855-1 (V)
+	  - Code de la sécurité intérieure - art. R851-2 (VD)
+
+
+###### Article L851-5
+
+Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée l'utilisation d'un dispositif
+technique permettant la localisation en temps réel d'une personne, d'un véhicule ou d'un objet. 
+
+Si la mise en œuvre de cette technique nécessite l'introduction dans un véhicule ou dans un lieu privé, cette mesure
+s'effectue selon les modalités définies à l'article L. 853-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. R851-3 (VD)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+
+
+###### Article L851-6
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peuvent être directement recueillies, au moyen
+d'un appareil ou d'un dispositif technique mentionné au 1° de l'article 226-3 du code pénal, les données techniques de
+connexion permettant l'identification d'un équipement terminal ou du numéro d'abonnement de son utilisateur ainsi que les
+données relatives à la localisation des équipements terminaux utilisés. 
+
+Par dérogation à l'article L. 821-4 du présent code, l'autorisation est délivrée pour une durée de deux mois, renouvelable
+dans les mêmes conditions de durée. 
+
+II.-Les appareils ou dispositifs techniques mentionnés au I font l'objet d'une inscription dans un registre spécial tenu à la
+disposition de la Commission nationale de contrôle des techniques de renseignement et ne peuvent être mis en œuvre que par
+des agents individuellement désignés et habilités. 
+
+III.-Un service du Premier ministre centralise les informations ou documents recueillis, qui sont : 
+
+1° Conservés dans les conditions prévues à l'article L. 822-2, s'ils se rapportent à l'autorisation de mise en œuvre ; 
+
+2° Détruits dès qu'il apparaît qu'ils ne sont pas en rapport avec l'autorisation de mise en œuvre, dans un délai maximal de
+quatre-vingt-dix jours. 
+
+IV.-Le nombre maximal d'appareils ou de dispositifs techniques mentionnés au II du présent article pouvant être utilisés
+simultanément est arrêté par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de
+renseignement. La décision fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de
+l'article L. 821-2 est portée à la connaissance de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 226-3 (M)
+	  - Code de la sécurité intérieure - art. L821-2
+	  - Code de la sécurité intérieure - art. L821-4
+	  - Code de la sécurité intérieure - art. L822-2
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R851-4 (VD)
+
+
+###### Article L851-7
+
+Le présent chapitre est mis en œuvre dans le respect de l'article 226-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 226-15
+
+
+#### Chapitre II : Des interceptions de sécurité 
+
+
+
+###### Article L852-1
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peuvent être autorisées les interceptions de
+correspondances émises par la voie des communications électroniques et susceptibles de révéler des renseignements relatifs
+aux finalités mentionnées à l'article L. 811-3. Lorsqu'il existe des raisons sérieuses de croire qu'une ou plusieurs
+personnes appartenant à l'entourage d'une personne concernée par l'autorisation sont susceptibles de fournir des informations
+au titre de la finalité qui motive l'autorisation, celle-ci peut être également accordée pour ces personnes. 
+
+II.-Pour les seules finalités mentionnées aux 1° et 4° et a du 5° de l'article L. 811-3 du présent code, peut être autorisée,
+pour une durée de quarante-huit heures renouvelable, l'utilisation d'un appareil ou d'un dispositif technique mentionné au 1°
+de l'article 226-3 du code pénal afin d'intercepter des correspondances émises ou reçues par un équipement terminal. Les
+correspondances interceptées par cet appareil ou ce dispositif technique sont détruites dès qu'il apparaît qu'elles sont sans
+lien avec l'autorisation délivrée, dans la limite du délai prévu au 1° du I de l'article L. 822-2 du présent code. 
+
+III.-L'autorisation vaut autorisation de recueil des informations ou documents mentionnés à l'article L. 851-1 nécessaires à
+l'exécution de l'interception et à son exploitation. 
+
+IV.-Un service du Premier ministre organise la centralisation de l'exécution des interceptions mentionnées au I. Après avis
+de la Commission nationale de contrôle des techniques de renseignement, le Premier ministre définit les modalités de la
+centralisation des correspondances interceptées en application du II. 
+
+V.-Les opérations de transcription et d'extraction des communications interceptées, auxquelles la Commission nationale de
+contrôle des techniques de renseignement dispose d'un accès permanent, complet, direct et immédiat, sont effectuées au sein
+d'un service du Premier ministre. 
+
+VI.-Le nombre maximal des autorisations d'interception en vigueur simultanément est arrêté par le Premier ministre, après
+avis de la Commission nationale de contrôle des techniques de renseignement. La décision fixant ce contingent et sa
+répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 ainsi que le nombre d'autorisations
+d'interception délivrées sont portés à la connaissance de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2017-749 du 3 mai 2017 (V)
+	  - Code de la sécurité intérieure - art. L822-2 (V)
+	  - Code de la sécurité intérieure - art. L854-1 (V)
+	  - Code de la sécurité intérieure - art. L854-8 (V)
+	  - Code de la sécurité intérieure - art. L855-1 (V)
+	  - Code de la sécurité intérieure - art. L871-6 (V)
+	  - Code de la sécurité intérieure - art. L871-7 (V)
+	  - Code de la sécurité intérieure - art. R852-1 (VD)
+	  - Code de la sécurité intérieure - art. R852-2 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-3 (VT)
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L821-2 (VD)
+	  - Code de la sécurité intérieure - art. L851-1
+
+
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques 
+
+
+
+###### Article L853-1
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée, lorsque les renseignements
+ne peuvent être recueillis par un autre moyen légalement autorisé, l'utilisation de dispositifs techniques permettant la
+captation, la fixation, la transmission et l'enregistrement de paroles prononcées à titre privé ou confidentiel, ou d'images
+dans un lieu privé. 
+
+II.-Par dérogation à l'article L. 821-4, l'autorisation est délivrée pour une durée maximale de deux mois, renouvelable dans
+les mêmes conditions de durée. 
+
+III.-Les dispositifs techniques mentionnés au I du présent article ne peuvent être utilisés que par des agents appartenant à
+l'un des services mentionnés aux articles L. 811-2 et L. 811-4 dont la liste est fixée par décret en Conseil d'Etat. 
+
+IV.-Le service autorisé à recourir à la technique mentionnée au I du présent article rend compte à la Commission nationale de
+contrôle des techniques de renseignement de sa mise en œuvre. La commission peut à tout moment adresser une recommandation
+tendant à ce que cette opération soit interrompue et que les renseignements collectés soient détruits. 
+
+V.-Si la mise en œuvre de cette technique nécessite l'introduction dans un véhicule ou dans un lieu privé, cette mesure
+s'effectue selon les modalités définies à l'article L. 853-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 (V)
+	  - Code de la sécurité intérieure - art. L822-2 (V)
+	  - Code de la sécurité intérieure - art. L853-3 (V)
+	  - Code de la sécurité intérieure - art. R853-1 (VD)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L821-4
+
+
+###### Article L853-2
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée, lorsque les renseignements
+ne peuvent être recueillis par un autre moyen légalement autorisé, l'utilisation de dispositifs techniques permettant : 
+
+1° D'accéder à des données informatiques stockées dans un système informatique, de les enregistrer, de les conserver et de
+les transmettre ; 
+
+2° D'accéder à des données informatiques, de les enregistrer, de les conserver et de les transmettre, telles qu'elles
+s'affichent sur un écran pour l'utilisateur d'un système de traitement automatisé de données, telles qu'il les y introduit
+par saisie de caractères ou telles qu'elles sont reçues et émises par des périphériques audiovisuels. 
+
+II.-Par dérogation à l'article L. 821-4, l'autorisation de mise en œuvre de la technique mentionnée au 1° du I du présent
+article est délivrée pour une durée maximale de trente jours et celle mentionnée au 2° du même I pour une durée maximale de
+deux mois. L'autorisation est renouvelable dans les mêmes conditions de durée. 
+
+III.-Les dispositifs techniques mentionnés au I du présent article ne peuvent être utilisés que par des agents appartenant à
+l'un des services mentionnés aux articles L. 811-2 et L. 811-4 dont la liste est fixée par décret en Conseil d'Etat. 
+
+IV.-Le service autorisé à recourir à la technique mentionnée au I rend compte à la Commission nationale de contrôle des
+techniques de renseignement de sa mise en œuvre. La commission peut à tout moment adresser une recommandation tendant à ce
+que cette opération soit interrompue et que les renseignements collectés soient détruits. 
+
+V.-Si la mise en œuvre de cette technique nécessite l'introduction dans un véhicule ou dans un lieu privé, cette mesure
+s'effectue selon les modalités définies à l'article L. 853-3.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 4 juillet 2012 - art. Annexe I (VD)
+	  - Arrêté du 4 juillet 2012 - art. Annexe II (VD)
+	  - Arrêté du 15 décembre 2015 (V)
+	  - Arrêté du 15 décembre 2015 - art. 1
+	  - Code de la sécurité intérieure - art. R853-2 (VD)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+	  - Code pénal - art. 226-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L821-4
+	  - Code de la sécurité intérieure - art. L853-3
+
+
+###### Article L853-3
+
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, lorsque les renseignements ne peuvent être
+recueillis par un autre moyen légalement autorisé, l'introduction dans un véhicule ou dans un lieu privé à la seule fin de
+mettre en place, d'utiliser ou de retirer les dispositifs techniques mentionnés aux articles L. 851-5, L. 853-1 et L. 853-2
+peut être autorisée. S'il s'agit d'un lieu d'habitation ou pour l'utilisation de la technique mentionnée au 1° du I de
+l'article L. 853-2, l'autorisation ne peut être donnée qu'après avis exprès de la Commission nationale de contrôle des
+techniques de renseignement, statuant en formation restreinte ou en formation plénière. 
+
+L'introduction dans un véhicule ou dans un lieu privé ne peut être effectuée que par des agents individuellement désignés et
+habilités appartenant à l'un des services mentionnés aux articles L. 811-2 et L. 811-4 dont la liste est fixée par décret en
+Conseil d'Etat. 
+
+II.-Lorsqu'il est fait application de l'avant-dernier alinéa de l'article L. 821-2, la demande mentionne, lorsqu'ils sont
+connus, toute indication permettant d'identifier le lieu, son usage, son propriétaire ou toute personne bénéficiant d'un
+droit, ainsi que la nature détaillée du dispositif envisagé. 
+
+III.-Par dérogation à l'article L. 821-4, l'autorisation, spécialement motivée, est délivrée pour une durée maximale de
+trente jours et est renouvelable dans les mêmes conditions de durée que l'autorisation initiale. Elle ne vaut que pour les
+actes d'installation, d'utilisation, de maintenance ou de retrait des dispositifs techniques. 
+
+Lorsque l'introduction mentionnée au I du présent article et portant sur un lieu privé à usage d'habitation est autorisée
+après avis défavorable de la Commission nationale de contrôle des techniques de renseignement, le Conseil d'Etat est
+immédiatement saisi par le président de la commission ou, à défaut, par l'un des membres de la commission parmi ceux
+mentionnés aux 2° et 3° de l'article L. 831-1 du présent code. La formation spécialisée mentionnée à l'article L. 773-2 du
+code de justice administrative, le président de la formation restreinte mentionnée au même article L. 773-2 ou le membre
+qu'il délègue statue dans un délai de vingt-quatre heures à compter de cette saisine. La décision d'autorisation du Premier
+ministre ne peut être exécutée avant que le Conseil d'Etat n'ait statué, sauf si elle a été délivrée au titre du 4° de
+l'article L. 811-3 du présent code et que le Premier ministre a ordonné sa mise en œuvre immédiate. 
+
+IV.-Le service autorisé à recourir à l'introduction dans un véhicule ou dans un lieu privé rend compte à la commission de sa
+mise en œuvre. La commission peut à tout moment adresser une recommandation tendant à ce que cette opération soit interrompue
+et que les renseignements collectés soient détruits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L773-2 (V)
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L821-2
+	  - Code de la sécurité intérieure - art. L821-4
+	  - Code de la sécurité intérieure - art. L831-1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R773-7 (V)
+	  - Code de la sécurité intérieure - art. L851-5 (V)
+	  - Code de la sécurité intérieure - art. L853-1 (V)
+	  - Code de la sécurité intérieure - art. L853-2 (V)
+	  - Code de la sécurité intérieure - art. R853-3 (VD)
+
+
+#### Chapitre IV : Des mesures de surveillance internationale 
+
+
+
+###### Article L854-1
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23
+juillet 2015.]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - DÉCISION n°2015-713 DC du 23 juillet 2015
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 6
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L854-9 (V)
+
+
+### TITRE VI : DES AGENTS DES SERVICES SPECIALISES DE RENSEIGNEMENT
+
+#### Chapitre Ier : De la protection du secret de la défense nationale et de l'anonymat des agents
+
+###### Article L861-1
+
+Les actes réglementaires et individuels concernant l'organisation, la gestion et le fonctionnement des services mentionnés à
+l'article L. 811-2 et de ceux désignés par le décret en Conseil d'Etat prévu à l'article L. 811-4 ainsi que la situation de
+leurs agents sont pris dans des conditions qui garantissent la préservation de l'anonymat des agents. 
+
+Lorsque, en application du premier alinéa du présent article, un acte ne peut être publié, son entrée en vigueur est
+subordonnée à son enregistrement dans un recueil spécial, dispensé de toute publication ou diffusion et tenu par le Premier
+ministre. Seuls les autorités publiques compétentes et les agents publics justifiant d'un intérêt ainsi que, dans les
+conditions et sous les réserves prévues au dernier alinéa, les juridictions administratives et judiciaires peuvent consulter
+un acte figurant dans ce recueil. 
+
+Par dérogation à l'article 4 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations
+avec les administrations, les décisions et les autres actes pris par les autorités administratives au sein des services
+mentionnés au premier alinéa du présent article peuvent comporter seulement, outre la signature, le numéro d'identification
+de leur auteur, attribué avec la délégation de signature et qui se substitue à la mention de ses prénom, nom et qualité. Le
+nombre de délégations de signature numérotées par service est fixé par arrêté du ministre compétent. 
+
+Lorsque, dans le cadre d'une procédure engagée devant une juridiction administrative ou judiciaire, la solution du litige
+dépend d'une question relative à un acte non publié en application du présent article ou faisant l'objet d'une signature
+numérotée, ce dernier est communiqué, à sa demande, à la juridiction ou au magistrat délégué par celle-ci, sans être versé au
+contradictoire. Si cet acte est protégé au titre du secret de la défense nationale, la juridiction peut demander sa
+déclassification et sa communication en application de l'article L. 2312-4 du code de la défense.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 4
+	  - Code de la défense. - art. L2312-4
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+	**Cité par**:
+
+	  - Arrêté du 22 juin 2016 - art. (Ab)
+	  - Arrêté du 5 mai 2017 - art. (V)
+
+
+###### Article L861-2
+
+Pour l'exercice d'une mission intéressant la défense et la sécurité nationale, les agents des services spécialisés de
+renseignement mentionnés à l'article L. 811-2 peuvent, sous l'autorité de l'agent chargé de superviser ou de coordonner la
+mission, faire usage d'une identité d'emprunt ou d'une fausse qualité. 
+
+Dans ce cas, ne sont pas pénalement responsables de cet usage les agents mentionnés au premier alinéa, non plus que de leurs
+actes les personnes requises à seule fin d'établir ou de permettre l'usage de l'identité d'emprunt ou de la fausse qualité.
+Les articles 50 à 52 du code civil ne sont pas applicables à ces personnes. 
+
+Un arrêté du Premier ministre précise, parmi les services désignés par le décret en Conseil d'Etat prévu à l'article L. 811-4
+du présent code, ceux dont les agents peuvent également faire usage d'une identité d'emprunt ou d'une fausse qualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. L2371-1 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L863-1 (V)
+	  - Code pénal - art. 413-13 (V)
+
+
+###### Article L861-3
+
+I.-Tout agent d'un service mentionné à l'article L. 811-2 ou d'un service désigné par le décret en Conseil d'Etat prévu à
+l'article L. 811-4 qui a connaissance, dans l'exercice de ses fonctions, de faits susceptibles de constituer une violation
+manifeste du présent livre peut porter ces faits à la connaissance de la seule Commission nationale de contrôle des
+techniques de renseignement, qui peut alors saisir le Conseil d'Etat dans les conditions prévues à l'article L. 833-8 et en
+informer le Premier ministre. 
+
+Lorsque la commission estime que l'illégalité constatée est susceptible de constituer une infraction, elle saisit le
+procureur de la République dans le respect du secret de la défense nationale et transmet l'ensemble des éléments portés à sa
+connaissance à la Commission consultative du secret de la défense nationale afin que celle-ci donne au Premier ministre son
+avis sur la possibilité de déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la
+République. 
+
+II.-Aucun agent ne peut être sanctionné ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en
+matière de rémunération, de recrutement, de titularisation, de notation, de discipline, de traitement, de formation, de
+reclassement, d'affectation, de qualification, de classification, de promotion professionnelle, de mutation, d'interruption
+ou de renouvellement de contrat, pour avoir porté, de bonne foi, des faits mentionnés au I à la connaissance de la Commission
+nationale de contrôle des techniques de renseignement. Tout acte contraire au présent alinéa est nul et non avenu. 
+
+En cas de litige relatif à l'application du premier alinéa du présent II, il incombe à la partie défenderesse de prouver que
+sa décision est justifiée par des éléments objectifs étrangers à la déclaration ou au témoignage de l'agent intéressé. 
+
+Tout agent qui relate ou témoigne des faits mentionnés au I, de mauvaise foi ou avec l'intention de nuire ou avec la
+connaissance au moins partielle de l'inexactitude des faits, encourt les peines prévues au premier alinéa de l'article 226-10
+du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+	**Cite**:
+
+	  - Code pénal - art. 226-10 (M)
+	  - Code de la sécurité intérieure - art. L811-2 (V)
+	  - Code de la sécurité intérieure - art. L811-4 (V)
+
+
+#### Chapitre II : De la protection juridique des agents
+
+###### Article L862-1
+
+Lorsque des faits commis hors du territoire national, à des fins strictement nécessaires à l'accomplissement d'une mission
+commandée par ses autorités légitimes, par un agent des services mentionnés à l'article L. 811-2, sont portés à sa
+connaissance et paraissent susceptibles de constituer des infractions pénales, le procureur de la République territorialement
+compétent en informe le ministre dont relève le service de l'agent concerné aux fins de recueillir son avis préalablement à
+tout acte de poursuite. Hormis le cas d'urgence, cet avis est donné dans le délai d'un mois. L'avis est demandé par tout
+moyen dont il est fait mention au dossier de la procédure. 
+
+L'avis figure au dossier de la procédure, à peine de nullité, sauf s'il n'a pas été formulé dans le délai précité ou en cas
+d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+
+
+###### Article L862-2
+
+Les agents des services spécialisés de renseignement sont pénalement responsables de leurs actes dans les conditions définies
+au titre II du livre Ier du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+
+#### Chapitre III : De l'information des services de renseignement
+
+###### Article L863-1
+
+Dans l'accomplissement de leurs missions définies au titre Ier du présent livre, les agents individuellement désignés et
+habilités des services mentionnés à l'article L. 811-2 ou des services désignés par le décret en Conseil d'Etat prévu à
+l'article L. 811-4 peuvent procéder aux actes suivants sans en être pénalement responsables : 
+
+1° Etre en contact, par le moyen d'échanges électroniques et dans les conditions prévues à l'article L. 861-2, avec des
+personnes susceptibles de porter atteinte aux intérêts fondamentaux de la Nation mentionnés à l'article L. 811-3 ; 
+
+2° Extraire, acquérir ou conserver par ce moyen des données sur les personnes mentionnées au 1° du présent article ; 
+
+3° Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus provoquant directement à la
+commission d'actes de terrorisme ou en faisant l'apologie. 
+
+Ces actes ne peuvent constituer une incitation à commettre des infractions, sous peine d'un an d'emprisonnement et de 30 000
+€ d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L861-2 (VD)
+
+
+###### Article L863-2
+
+Les services spécialisés de renseignement mentionnés à l'article L. 811-2 et les services désignés par le décret en Conseil
+d'Etat prévu à l'article L. 811-4 peuvent échanger toutes les informations utiles à l'accomplissement de leurs missions
+définies au titre Ier du présent livre. 
+
+Les autorités administratives mentionnées à l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux
+échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives peuvent
+transmettre aux services mentionnés au premier alinéa du présent article, de leur propre initiative ou sur requête de ces
+derniers, des informations utiles à l'accomplissement des missions de ces derniers. 
+
+Les modalités et les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+
+
+### TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES
+
+###### Article L871-1
+
+Les personnes physiques ou morales qui fournissent des prestations de cryptologie visant à assurer une fonction de
+confidentialité sont tenues de remettre dans un délai de soixante-douze heures aux agents autorisés dans les conditions
+prévues à l'article L. 821-4, sur leur demande, les conventions permettant le déchiffrement des données transformées au moyen
+des prestations qu'elles ont fournies. Les agents autorisés peuvent demander aux fournisseurs de prestations susmentionnés de
+mettre eux-mêmes en œuvre dans un délai de soixante-douze heures ces conventions, sauf si ceux-ci démontrent qu'ils ne sont
+pas en mesure de satisfaire à ces réquisitions. 
+
+Un décret en Conseil d'Etat précise les procédures suivant lesquelles cette obligation est mise en œuvre ainsi que les
+conditions dans lesquelles la prise en charge financière de cette mise en œuvre est assurée par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 12
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L244-1 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L881-2 (V)
+	  - Code de la sécurité intérieure - art. L895-1 (M)
+	  - Code de la sécurité intérieure - art. L896-1 (M)
+	  - Code de la sécurité intérieure - art. R871-3 (V)
+	  - Code de la sécurité intérieure - art. R871-4 (V)
+	  - Code de la sécurité intérieure - art. R871-5 (V)
+
+
+###### Article L871-2
+
+Les juridictions compétentes pour ordonner des interceptions en application du code de procédure pénale ainsi que le Premier
+ministre ou, en ce qui concerne l'exécution des mesures prévues à l'article L. 811-5, le ministre de la défense ou le
+ministre de l'intérieur peuvent requérir, auprès des personnes physiques ou morales exploitant des réseaux de communications
+électroniques ou fournisseurs de services de communications électroniques, les informations ou documents qui leur sont
+nécessaires, chacun en ce qui le concerne, pour la réalisation et l'exploitation des interceptions autorisées par la loi. 
+
+La fourniture des informations ou documents visés à l'alinéa précédent ne constitue pas un détournement de leur finalité au
+sens de l'article 226-21 du code pénal. 
+
+Les personnes physiques ou morales mentionnées au premier alinéa du présent article sont tenues de répondre, dans les
+meilleurs délais, aux demandes formulées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 12
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L244-2 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-5 (VD)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L881-2 (V)
+
+
+###### Article L871-3
+
+Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques,
+le ministre chargé des communications électroniques veille notamment à ce que l'exploitant public, les autres exploitants de
+réseaux publics de communications électroniques et les autres fournisseurs de services de communications électroniques
+autorisés prennent les mesures nécessaires pour assurer l'application, dans le respect du secret de la défense nationale, des
+dispositions du présent livre et de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale
+relatives aux interceptions de correspondances émises par la voie des télécommunications ordonnées par l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 12
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L244-3 (T)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L898-1 (M)
+
+
+###### Article L871-4
+
+Les opérateurs de communications électroniques mentionnés à l'article L. 34-1 du code des postes et des communications
+électroniques ainsi que les personnes mentionnées aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour
+la confiance dans l'économie numérique sont tenus d'autoriser, à des fins de contrôle, les membres et les agents de la
+Commission nationale de contrôle des techniques de renseignement, mandatés à cet effet par le président de la commission, à
+entrer dans les locaux de ces opérateurs ou de ces personnes dans lesquels sont mises en œuvre des techniques de recueil de
+renseignement autorisées en application du titre V du présent livre. 
+
+Ils communiquent, dans les mêmes conditions, toutes les informations sollicitées par la commission ayant trait à ces
+opérations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+	  - Code des postes et des communications électroniques - art. L34-1
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 12
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L881-2 (V)
+	  - Code de la sécurité intérieure - art. L895-1 (M)
+	  - Code de la sécurité intérieure - art. L896-1 (M)
+
+
+###### Article L871-5
+
+Les exigences essentielles définies au 12° de l'article L. 32 du code des postes et communications électroniques et le secret
+des correspondances mentionné à l'article L. 32-3 du même code ne sont opposables ni aux juridictions compétentes pour
+ordonner des interceptions en application de l'article 100 du code de procédure pénale, ni au ministre chargé des
+communications électroniques dans l'exercice des prérogatives qui leur sont dévolues par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+	  - Code des postes et des communications électroniques - art. L32-3
+	  - Code de procédure pénale - art. 100
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L241-4 (T)
+
+
+###### Article L871-6
+
+Les opérations matérielles nécessaires à la mise en place des techniques de recueil de renseignement mentionnées aux articles
+L. 851-1 à L. 851-4 et L. 852-1 dans les locaux et installations des services ou organismes placés sous l'autorité ou la
+tutelle du ministre chargé des communications électroniques ou des exploitants de réseaux ou fournisseurs de services de
+télécommunications ne peuvent être effectuées que sur ordre du Premier ministre ou sur ordre de la personne spécialement
+déléguée par lui, par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations
+respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 11
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L242-9 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L851-1
+	  - Code de la sécurité intérieure - art. L852-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L851-3 (V)
+	  - Code de la sécurité intérieure - art. L854-7 (V)
+	  - Code de la sécurité intérieure - art. L895-1 (M)
+	  - Code de la sécurité intérieure - art. L895-2 (V)
+	  - Code de la sécurité intérieure - art. L896-1 (M)
+	  - Code de la sécurité intérieure - art. L896-2 (V)
+	  - Code de la sécurité intérieure - art. L897-2 (V)
+
+
+###### Article L871-7
+
+Les surcoûts identifiables et spécifiques éventuellement exposés par les opérateurs et personnes mentionnées à l'article L.
+851-1 pour répondre à la mise en œuvre des techniques de recueil de renseignement mentionnées aux articles L. 851-1, L. 851-2
+à L. 851-4 et L. 852-1 font l'objet d'une compensation financière de la part de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L246-5 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L851-1 (V)
+	  - Code de la sécurité intérieure - art. L851-2
+	  - Code de la sécurité intérieure - art. L852-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L854-7 (V)
+
+
+### TITRE VIII : DISPOSITIONS PENALES
+
+###### Article L881-1
+
+Le fait par une personne concourant, dans les cas prévus par la loi, à l'exécution d'une technique de recueil de
+renseignement, de révéler l'existence de la mise en œuvre de cette technique est puni des peines mentionnées aux articles
+226-13, 226-14 et 226-31 du code pénal.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-31
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L245-1 (T)
+
+
+###### Article L881-2
+
+Le fait de ne pas déférer, dans les conditions prévues au premier alinéa de l'article L. 871-1 et à l'article L. 871-4, aux
+demandes des autorités habilitées est puni de deux ans d'emprisonnement et de 150 000 euros d'amende. 
+
+Est puni des mêmes peines le fait pour une personne exploitant un réseau de communications électroniques ou fournissant des
+services de communications électroniques de refuser, en violation du titre V du présent livre et du premier alinéa de
+l'article L. 871-2, de communiquer les informations ou documents ou le fait de communiquer des renseignements erronés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 13
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. L245-2 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+	  - Code de la sécurité intérieure - art. L871-2
+	  - Code de la sécurité intérieure - art. L871-4
+
+
+### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+
+#### Chapitre V : Dispositions applicables en Polynésie française
+
+
+###### Article L895-1
+
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
+renseignement, les dispositions suivantes du présent livre VIII : 
+
+1° Les titres Ier à VI ; 
+
+2° Au titre VII : les articles L. 871-1, L. 871-2, L. 871-4, 
+L. 871-6 et L. 871-7 ; 
+
+3° Le titre VIII.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+	  - Code de la sécurité intérieure - art. L871-4
+	  - Code de la sécurité intérieure - art. L871-6
+
+
+###### Article L895-2
+
+Pour son application en Polynésie française, l'article L. 871-6 est ainsi modifié : 
+
+1° Les mots : “ services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services ” sont remplacés par les mots : “ organismes chargés
+de l'exploitation d'un service public ” ; 
+
+2° A la fin, les mots : “ services, organismes, exploitants ou fournisseurs dans leurs installations respectives ” sont
+remplacés par le mot : “ organismes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-6
+
+
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
+
+###### Article L896-1
+
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
+renseignement, les dispositions suivantes du présent livre VIII : 
+
+1° Les titres Ier à VI ; 
+
+2° Au titre VII : les articles L. 871-1, L. 871-2, 
+L. 871-4, 
+L. 871-6 et L. 871-7 ; 
+
+3° Le titre VIII.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+	  - Code de la sécurité intérieure - art. L871-4
+	  - Code de la sécurité intérieure - art. L871-6
+
+
+###### Article L896-2
+
+Pour son application en Nouvelle-Calédonie, l'article L. 871-6 est ainsi modifié : 
+
+1° Les mots : “ services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services ” sont remplacés par les mots : “ organismes chargés
+de l'exploitation d'un service public ” ; 
+
+2° A la fin, les mots : “ services, organismes, exploitants ou fournisseurs dans leurs installations respectives ” sont
+remplacés par le mot : “ organismes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-6
+
+
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
+
+###### Article L897-1
+
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
+renseignement, les titres Ier à VIII du présent livre VIII.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+
+###### Article L897-2
+
+Pour son application à Wallis-et-Futuna, l'article L. 871-6 est ainsi modifié : 
+
+1° Les mots : “ services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications
+électroniques ou des exploitants de réseaux ou fournisseurs de services ” sont remplacés par les mots : “ organismes chargés
+de l'exploitation d'un service public ” ; 
+
+2° A la fin, les mots : “ services, organismes, exploitants ou fournisseurs dans leurs installations respectives ” sont
+remplacés par le mot : “ organismes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-6
+
+
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises
+
+
+
+###### Article L898-1
+
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations
+suivantes : 
+
+1° Au début de l'article L. 871-3, les mots : “ Dans le cadre des attributions qui lui sont conférées par le livre II du code
+des postes et des communications électroniques, ” sont supprimés ; 
+
+2° L'article L. 871-5 est ainsi rédigé : 
+
+“ Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
+électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel
+ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de
+procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont
+dévolues au présent titre. ˮ
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+	  - Code de procédure pénale - art. 100 (V)
+	  - Code de la sécurité intérieure - art. L871-3
 
 
 # Partie réglementaire
@@ -77287,6 +79238,188 @@ Gouvernement ".
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R768-2 (VD)
+
+
+## LIVRE VIII : DU RENSEIGNEMENT
+
+### TITRE IER : DISPOSITIONS GÉNÉRALES
+
+###### Article R811-1
+
+Les services spécialisés de renseignement sont la direction générale de la sécurité extérieure, la direction de la protection
+et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la sécurité intérieure, le
+service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes douanières ” et le service à
+compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers clandestins ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1122-8-1 (V)
+	  - Code de la sécurité intérieure - art. R895-1 (V)
+	  - Code de la sécurité intérieure - art. R896-1 (V)
+	  - Code de la sécurité intérieure - art. R897-1 (V)
+	  - Code de la sécurité intérieure - art. R898-1 (V)
+
+
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION 
+
+
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques 
+
+
+
+###### Article R853-1
+
+Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser les dispositifs techniques mentionnés au I de l'article L. 853-1 sont la direction générale de la sécurité
+extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
+direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
+renseignement et des enquêtes douanières ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+	  - Code de la sécurité intérieure - art. R811-2 (V)
+	  - Code de la sécurité intérieure - art. R895-1 (V)
+	  - Code de la sécurité intérieure - art. R896-1 (V)
+	  - Code de la sécurité intérieure - art. R897-1 (V)
+	  - Code de la sécurité intérieure - art. R898-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L853-1
+
+
+###### Article R853-2
+
+Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser les dispositifs techniques mentionnés au I de l'article L. 853-2 sont la direction générale de la sécurité
+extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
+direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
+renseignement et des enquêtes douanières ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L853-2
+
+
+###### Article R853-3
+
+Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+s'introduire dans un véhicule ou dans un lieu privé dans les conditions prévues à l'article L. 853-3 sont la direction
+générale de la sécurité extérieure, la direction de la protection et de la sécurité de la défense, la direction générale de
+la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes
+douanières ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L853-3
+
+
+### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER 
+
+
+
+#### Chapitre V : Dispositions applicables en Polynésie française 
+
+
+
+
+
+
+###### Article R895-1
+
+Sont applicables en Polynésie française, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
+désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie 
+
+
+
+###### Article R896-1
+
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
+désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
+
+###### Article R897-1
+
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
+désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+
+
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises 
+
+
+
+###### Article R898-1
+
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant du décret n° 2015-1185
+du 28 septembre 2015 portant désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
 
 
 ## Annexes
