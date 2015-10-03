@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-10-03
+Version Consolidée au 2015-10-04
 
 # Partie législative
 
@@ -25590,150 +25590,154 @@ associations agréées par l'institut.
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Paragraphe 2 : Observatoire national de la délinquance  et des réponses pénales
+##### Paragraphe 2 : L'Observatoire national de la délinquance et des réponses pénales
 
 ###### Article D123-9
 
-Le responsable de l'observatoire est désigné par le directeur de l'institut.
+Le responsable de l'observatoire est désigné par le directeur de l'institut pour une durée de trois ans renouvelable, après
+avis rendu public du conseil d'orientation de l'observatoire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 9 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ###### Article D123-12
 
-Le président et le vice-président du conseil d'orientation sont nommés par arrêté du Premier ministre pour un mandat de trois
-ans renouvelable une fois.
+Le président du conseil d'orientation est nommé par arrêté du Premier ministre, après avis rendu public du président de
+l'Autorité de la statistique publique, pour un mandat de trois ans renouvelable une fois. 
 
-Le conseil d'orientation se réunit au moins deux fois par an. Il ne peut valablement délibérer que si la moitié au moins de
-ses membres est présente ou représentée. Si ce quorum n'est pas atteint, il est à nouveau convoqué sur le même ordre du jour
-dans un délai de quinze jours. Il peut alors valablement délibérer quel que soit le nombre de membres présents.
+Les membres du conseil d'orientation mentionnés aux 1° à 3° de l'article R. 123-11 sont nommés pour un mandat de trois ans
+renouvelable une fois. A l'exception de ceux mentionnés au 1° de cet article, ils sont nommés par arrêté du Premier ministre.
+Le mandat ne donne lieu à aucune rémunération. En cas de vacance d'un siège, le remplaçant achève la période restant à courir
+du mandat de son prédécesseur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 12 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ###### Article D123-13
 
-Le vice-président du conseil d'orientation remplace le président en cas d'absence ou d'empêchement.
+Le conseil d'orientation se réunit au moins deux fois par an. Il ne peut valablement délibérer que si la moitié au moins de
+ses membres sont présents ou représentés. Si ce quorum n'est pas atteint, il est à nouveau convoqué sur le même ordre du jour
+dans un délai de quinze jours. Il peut alors valablement délibérer quel que soit le nombre de membres présents. 
+
+En fonction de l'ordre du jour, le président du conseil d'orientation peut inviter les experts de son choix à participer aux
+travaux avec voix consultative.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 13 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ###### Article D123-14
 
-En cas de renouvellement d'un ou de plusieurs membres du conseil d'orientation en cours de mandat, le remplaçant est désigné
-pour la durée restant jusqu'au renouvellement général du conseil.
+Les représentants de l'enseignement supérieur et de la recherche au sein du conseil d'orientation réalisent chaque année un
+rapport sur les études produites et sur les travaux statistiques engagés par l'observatoire. Ce rapport écrit, pouvant
+contenir des préconisations, est discuté lors d'une séance spécifique du conseil d'orientation et annexé au procès-verbal de
+la séance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 14 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
+
+
+###### Article D123-14-1
+
+Le bilan d'activité de l'observatoire fait l'objet d'une transmission annuelle aux commissions chargées des lois
+constitutionnelles de l'Assemblée nationale et du Sénat.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ###### Article R123-8
 
-L'Observatoire national de la délinquance et des réponses pénales est chargé de :
+L'Observatoire national de la délinquance et des réponses pénales est chargé des missions suivantes : 
 
-1° Recueillir les données statistiques relatives à la délinquance et à la criminalité auprès de tous les départements
-ministériels et organismes publics ou privés ayant à connaître directement ou indirectement de faits ou de situations
-d'atteinte aux personnes, aux biens ou à l'ordre public ;
+1° Centraliser les données statistiques relatives à la délinquance et à la criminalité après les avoir recueillies auprès des
+services statistiques ministériels qui les produisent ou auprès des départements ministériels ainsi qu'auprès des organismes
+publics ou privés ayant à connaître directement ou indirectement de faits ou de situations d'atteinte aux personnes, aux
+biens ou à l'ordre public ; 
 
-2° Centraliser les données relatives au prononcé, à la mise à exécution et à l'application des mesures et sanctions pénales :
-données juridiques, données statistiques et analyses des questions soulevées dans le cadre des différentes disciplines
-concernées (données produites en France, mais aussi dans les autres Etats membres de l'Union européenne, du Conseil de
-l'Europe et dans les pays d'autres continents) ;
+2° Recueillir les données statistiques relatives au prononcé, à la mise à exécution et à l'application des mesures et des
+sanctions pénales, produites par les services statistiques ministériels ou par les départements ministériels compétents ainsi
+que les analyses et études relevant des différentes disciplines concernées par ces questions, produites en France ou dans
+tout autre pays ; 
 
-3° Exploiter les données recueillies mentionnées au 1° et au 2° pour réaliser des études et analyses globales ou spécifiques
-sur les phénomènes criminels constatés par les services de police et les unités de gendarmerie, sur les infractions révélées
-par les enquêtes de victimation, sur l'activité des services de sécurité et sur les réponses pénales apportées par les
-autorités judiciaires ou administratives ;
+3° Assurer la mise en cohérence des indicateurs et des méthodes de collecte et d'analyse des données, afin de disposer
+d'analyses sur le fonctionnement de l'ensemble de la procédure pénale à ses différents stades, et proposer, le cas échéant,
+la construction de nouveaux indicateurs agrégés aux mêmes fins ; 
 
-4° Assurer la mise en cohérence des indicateurs, de la collecte et de l'analyse des données afin de disposer d'analyses sur
-le fonctionnement de l'ensemble de la chaîne pénale ;
+4° Exploiter les données recueillies mentionnées aux 1° et 2° ainsi que les indicateurs mentionnés au 3° pour réaliser des
+études et analyses globales ou spécifiques sur les phénomènes criminels constatés par les services de police et les unités de
+gendarmerie, sur les infractions révélées par les enquêtes de victimation, sur l'activité des services de sécurité et sur les
+réponses apportées par les autorités judiciaires ou administratives ; 
 
-5° Contribuer au développement d'outils pédagogiques permettant de synthétiser les informations les plus importantes et
-mettre sa production à la disposition des responsables de formation initiale et continue dans les établissements
-d'enseignement supérieur et les conseiller quant à leur exploitation ;
+5° Assurer conjointement avec l'Institut national de la statistique et des études économiques la maîtrise d'ouvrage de
+l'enquête nationale de victimation " cadre de vie et sécurité ", le cas échéant en lien avec les services statistiques
+ministériels associés à sa réalisation, et en exploiter les résultats en vue de la production d'études annuelles sur la
+victimation ; 
 
-6° Assurer une fonction de veille sur les phénomènes criminels actuels ou émergents, sur leur perception par les citoyens
-ainsi que sur l'ensemble des politiques publiques, françaises ou étrangères, visant à mieux connaître la délinquance et la
-criminalité et les réponses qui y sont apportées en vue de les prévenir ou de les réprimer ;
+6° Organiser la diffusion de publications et de propositions : 
 
-7° Coopérer avec l'ensemble des producteurs de données, publics ou privés, en vue de l'élaboration d'instruments statistiques
-innovants ayant vocation à fournir des statistiques régulières ;
+a) En publiant dans un rapport annuel les analyses et les études mentionnées aux 4° et 5°, accompagnées le cas échéant des
+observations des administrations et des commentaires des partenaires de l'observatoire ; 
 
-8° Faciliter les échanges avec d'autres organismes d'observation ou de recherche ainsi que la coopération avec l'ensemble de
-nos partenaires européens ou extra-européens afin de favoriser une meilleure connaissance des phénomènes criminels, des
-systèmes juridiques, des pratiques et des résultats du traitement des infractions pénales par le développement de méthodes de
-comparaison adaptées ;
+b) En organisant, par des publications régulières et leur mise en ligne sur un site internet, la communication à l'ensemble
+des citoyens des indicateurs élaborés et des analyses statistiques réalisées ainsi que des données pouvant faire l'objet
+d'une mise à disposition du public sous un format ouvert ; 
 
-9° Organiser la communication à l'ensemble des citoyens de ces données à travers des publications régulières et leur mise en
-ligne sur un site internet, dans le cadre des protocoles passés entre l'institut et les ministères concernés ;
+c) En formulant toutes propositions utiles au développement de la connaissance scientifique des phénomènes criminels, de
+l'activité des services de sécurité ou des réponses pénales et à l'amélioration des performances des politiques publiques en
+matière de prévention, de réinsertion et de lutte contre la récidive ; 
 
-10° Communiquer les conclusions qu'inspirent ces analyses aux autorités concernées et aux partenaires de l'observatoire à
-travers la publication annuelle d'un rapport rendu public ;
+d) En développant des outils pédagogiques et en conseillant les responsables de formation ; 
 
-11° Formuler toutes propositions utiles au développement de la connaissance scientifique des phénomènes criminels, de
-l'activité des services de sécurité ou des réponses pénales, et à l'amélioration des performances des politiques publiques en
-matière de prévention, de réinsertion et de lutte contre la récidive.
+7° Assurer une fonction de veille sur les phénomènes criminels actuels ou émergents, sur leur perception par les citoyens
+ainsi que sur l'ensemble des politiques publiques françaises ou étrangères visant à mieux connaître la délinquance et la
+criminalité et les réponses apportées en vue de les prévenir ou de les réprimer ; 
+
+8° Faciliter les échanges avec d'autres organismes d'observation ou de recherche ainsi que la coopération avec l'ensemble des
+acteurs nationaux et internationaux dans les domaines de la délinquance et des réponses pénales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 8 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -25742,113 +25746,115 @@ matière de prévention, de réinsertion et de lutte contre la récidive.
 
 ###### Article R123-10
 
-L'Observatoire national de la délinquance et des réponses pénales est doté d'un conseil d'orientation. Ce dernier a notamment
-pour mission de définir une méthodologie garantissant la fiabilité et la pertinence des données statistiques en matière de
-sécurité.
+L'Observatoire national de la délinquance et des réponses pénales est doté d'un conseil d'orientation. 
+
+Le conseil d'orientation définit chaque année le programme de travail de l'observatoire. 
+
+Le conseil d'orientation veille à la mise en œuvre des programmes statistiques et de recherches de l'observatoire. Il
+présente les programmes statistiques chaque année au Conseil national de l'information statistique. 
+
+Le conseil d'orientation peut être saisi d'une demande d'étude statistique par le Premier ministre, par les ministres
+représentés au conseil d'orientation ou par les présidents des commissions chargées des lois constitutionnelles de
+l'Assemblée nationale et du Sénat. 
+
+Le conseil d'orientation peut examiner toute question relative aux statistiques en matière de délinquance, de criminalité et
+de réponse pénale. 
+
+Le conseil d'orientation se dote d'un règlement intérieur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 10 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ###### Article R123-11
 
-Le conseil d'orientation de l'Observatoire national de la délinquance et des réponses pénales est composé :
+Le conseil d'orientation est composé, outre son président : 
 
-1° D'élus nationaux ou locaux et de personnalités issues de l'enseignement supérieur et de la recherche ainsi que des
-secteurs d'activités économiques, sociales et judiciaires :
+1° D'élus nationaux ou locaux : 
 
-a) Deux députés et deux sénateurs ;
+a) Deux députés et deux sénateurs ; 
 
-b) Deux maires proposés par l'Association des maires de France ;
+b) Deux maires choisis par l'Association des maires de France ; 
 
-c) Un professeur des universités proposé par le ministre chargé de l'enseignement supérieur et un directeur de recherche
-proposé par le ministre chargé de la recherche ;
+2° De personnalités issues des secteurs privés et associatifs intervenant dans les domaines de la sécurité, de la prévention
+et de la lutte contre la délinquance ainsi que de la mise en œuvre des réponses pénales : 
 
-d) Un maître de conférences proposé par le ministre chargé de l'enseignement supérieur et un chargé de recherche proposé par
-le ministre chargé de la recherche ;
+a) Un membre du barreau, désigné sur proposition du Conseil national des barreaux ; 
 
-e) Un membre du barreau proposé par le Conseil national des barreaux ;
+b) Un représentant des entreprises de sécurité, désigné sur proposition du conseil d'administration du Conseil national des
+activités privées de sécurité ; 
 
-f) Un journaliste de la presse écrite et un journaliste de l'audiovisuel, spécialistes des questions de délinquance ou des
-questions pénales, proposés par le conseil d'administration de l'Institut national des hautes études de la sécurité et de la
-justice ;
+c) Un représentant d'une association d'aide aux victimes, désigné sur proposition de l'Institut national d'aide aux victimes
+et de médiation ; 
 
-g) Trois personnalités qualifiées proposées respectivement par le ministre de la justice, le ministre chargé du logement et
-le ministre chargé des transports ;
+d) Un représentant d'une association nationale de réinsertion des personnes placées sous main de justice, désigné sur
+proposition du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale ; 
 
-h) Une personnalité qualifiée proposée alternativement par la Fédération française des sociétés d'assurances et par le
-Groupement des entreprises mutuelles d'assurances ;
+3° De représentants de l'enseignement supérieur et de la recherche : 
 
-i) Un représentant des entreprises de sécurité proposé par le conseil d'administration de l'Institut national des hautes
-études de la sécurité et de la justice ;
+a) Quatre personnalités extérieures à l'observatoire, dont au moins une personnalité étrangère, choisies en raison de leur
+compétence dans les domaines de la délinquance et des réponses pénales ou dans des disciplines connexes et désignées sur
+proposition du président de la commission permanente du Conseil national des universités ; 
 
-j) Un représentant des sociétés de conseil et d'audit en matière de sécurité proposé par le conseil d'administration de
-l'Institut national des hautes études de la sécurité et de la justice ;
+b) Quatre personnalités extérieures à l'observatoire, dont au moins une personnalité étrangère, choisies en raison de leur
+compétence dans les domaines de la délinquance et des réponses pénales ou dans des disciplines connexes et désignées sur
+proposition du président du Centre national de la recherche scientifique ; 
 
-k) Un représentant du groupement d'intérêt public dénommé « Conseil supérieur de la formation et de la recherche
-stratégiques » ;
+4° De représentants d'autres observatoires : 
 
-2° De représentants des administrations :
+a) Le directeur de l'Observatoire français des drogues et des toxicomanies ou son représentant ; 
 
-a) Le directeur général de la police nationale ou son représentant ;
+b) Le président de l'Observatoire national de la politique de la ville ou son représentant ; 
 
-b) Le directeur général de la gendarmerie nationale ou son représentant ;
+5° Du directeur général de l'Institut national de la statistique et des études économiques ou de son représentant ; 
 
-c) Le directeur des affaires criminelles et des grâces ou son représentant ;
+6° De représentants des administrations : 
 
-d) Le directeur de l'administration pénitentiaire ou son représentant ;
+a) Le directeur général de la police nationale ou son représentant ; 
 
-e) Le directeur de la protection judiciaire de la jeunesse ou son représentant ;
+b) Le directeur général de la gendarmerie nationale ou son représentant ; 
 
-f) Le directeur général des douanes et droits indirects ou son représentant ;
+c) Le responsable du service statistique ministériel de la sécurité intérieure ou son représentant ; 
 
-g) Le secrétaire général du ministère de la justice ou son représentant ;
+d) Le directeur des affaires criminelles et des grâces ou son représentant ; 
 
-h) Un membre proposé par chacun des ministres suivants :
+e) Le directeur de l'administration pénitentiaire ou son représentant ; 
 
-― le ministre chargé de l'éducation ;
+f) Le sous-directeur de la statistique et des études du ministère de la justice ou son représentant ; 
 
-― le ministre chargé des transports ;
+g) Un représentant de chacun des ministres suivants : 
 
-― le ministre chargé de la recherche ;
+- le ministre chargé des finances ; 
 
-― le ministre chargé de la ville ;
+- le ministre chargé de l'éducation ; 
 
-i) Un représentant de l'Institut national de la statistique et des études économiques ;
+- le ministre chargé des transports ; 
 
-j) Le délégué interministériel à la sécurité routière ou son représentant.
+- le ministre chargé des droits des femmes ; 
 
-Le directeur de l'Institut national des hautes études de la sécurité et de la justice assiste avec voix consultative aux
-travaux du conseil.
+- le ministre chargé de la ville. 
 
-Les membres du conseil d'orientation mentionnés aux b à k du 1° et aux h et i du 2° sont nommés par arrêté du Premier
-ministre pour une durée de trois ans. Le mandat des membres autres que ceux mentionnés au a du 1° et aux a à g et au j du 2°
-est renouvelable. Il ne donne lieu à aucune rémunération.
+Le délégué interministériel à la sécurité routière, le délégué aux coopérations de sécurité placé auprès du ministre de
+l'intérieur, le secrétaire général du comité interministériel de prévention de la délinquance, le président du Conseil
+national de l'information statistique, le directeur de l'Institut national des hautes études de la sécurité et de la justice
+assistent avec voix consultative aux travaux du conseil d'orientation. Ils peuvent se faire représenter.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 11 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
 ##### Sous-section 2 : Organisation administrative
@@ -26274,65 +26280,57 @@ recrutés par contrat au titre de l'institut ;
 orienter les études et les recherches ;
 
 13° Organise la mutualisation des moyens avec d'autres organismes chargés de la diffusion des savoirs en matière de défense
-et de sécurité.
+et de sécurité, en particulier par la signature d'une convention avec l'Institut des hautes études de la défense nationale.
 
 Le directeur peut déléguer sa signature.
 
-Il assiste aux séances du comité scientifique.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 28 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 2
 
 
 ###### Article D123-29
 
-L'institut comprend en son sein un comité scientifique, composé de quatre collèges, compétents en matière de formation,
-d'études, de recherche, de veille et d'analyse stratégique et concernant les questions :
+L'institut comprend en son sein un comité scientifique. 
 
-1° De sécurité du territoire, incluant la sécurité intérieure et la sécurité civile, sanitaire et environnementale ;
+Le comité scientifique de l'institut est l'instance de réflexion, d'évaluation et de proposition en matière de politique de
+formation et de recherche dans les domaines mentionnés à l'article R. 123-2. Il émet notamment un avis sur les programmes de
+formation et de recherche de l'institut, à l'exception de ceux de l'Observatoire national de la délinquance et des réponses
+pénales, ainsi que sur la création, la fermeture ou la modification de ses structures. Le président du conseil
+d'administration ou le directeur de l'institut peuvent le saisir de toute question ayant trait à la formation ou à la
+recherche. 
 
-2° De sécurité économique ;
+Le comité scientifique comprend douze personnalités extérieures à l'institut, compétentes sur les questions de sécurité du
+territoire, incluant la sécurité intérieure, sanitaire et environnementale, ainsi que sur les questions de sécurité
+économique, de gestion de crise, de justice et de droit. Les membres sont nommés pour un mandat de quatre ans par arrêté du
+Premier ministre sur proposition du conseil d'administration de l'institut. Le mandat est renouvelable une fois. Il ne donne
+lieu à aucune rémunération. En cas de vacance d'un siège, il est pourvu au remplacement pour la durée restant à courir du
+mandat concerné. 
 
-3° De gestion de crise ;
+Le comité scientifique élit en son sein son président lors de sa première séance. 
 
-4° De justice et de droit.
+Le comité scientifique se réunit au moins deux fois par an, sur convocation de son président. Le président convoque le comité
+scientifique de sa propre initiative, ainsi que sur demande des deux tiers des membres de ce comité ou du directeur de
+l'institut. Il fixe l'ordre du jour. 
 
-Chaque collège est composé de neuf personnalités nommées par arrêté du Premier ministre, sur proposition du conseil
-d'administration de l'institut, pour une durée de cinq ans : experts du monde universitaire et de la recherche et
-personnalités qualifiées, dont des représentants des professions intéressées.
-
-Le comité scientifique est réuni au moins deux fois par an. Il élit en son sein son président, chargé notamment de la
-coordination des travaux des collèges.
-
-Le comité scientifique assiste le conseil d'administration et le directeur dans la définition des orientations générales de
-la politique de formation et de recherche. Il peut associer à ses travaux tout expert dont la présence serait jugée utile.
-
-Le conseil d'administration de l'institut et son directeur sont destinataires des travaux du comité scientifique.
+Le directeur et les directeurs adjoints de l'institut peuvent assister aux réunions du comité scientifique. Le président peut
+inviter à participer aux séances avec voix consultative toute personne dont il estime la présence utile.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2009-1321 du 28 octobre 2009 - art. 29 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 2
 
 
 ##### Sous-section 3 : Personnel
@@ -26493,6 +26491,37 @@ régisseurs sont désignés par le directeur avec l'agrément de l'agent comptab
 	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+
+
+###### Article R123-31-1
+
+Par dérogation à l'
+article 188 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique, l'Institut national des hautes études de la sécurité et de la justice
+et l'Institut des hautes études de la défense nationale peuvent constituer un groupement comptable, après accord de leurs
+conseils d'administration, dans les conditions prévues au présent article. 
+
+Une convention entre les deux établissements précise les modalités de fonctionnement et le siège du groupement comptable. 
+
+Un poste comptable unique est créé dans l'établissement siège du groupement. L'agent comptable de cet établissement, agent
+comptable du groupement, est chargé de tenir la comptabilité de chacun des deux établissements membres du groupement. 
+
+L'agent comptable du groupement est personnellement et pécuniairement responsable des opérations comptables effectuées par le
+personnel commun aux deux établissements et placé sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 188
+
+	**Créé par**:
+
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1132-33-3 (V)
 
 
 ### TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE
@@ -27762,90 +27791,125 @@ présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans
 droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 123-3 à D. 123-7, D. 123.9 et D. 123-12 à D. 123-35 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td>
+
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
 
 </td>
-        <td align="center">
+      <td>
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-1 à D. 132-4 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre III 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-7 à D. 132-10 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 132-1 à D. 132-4 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-13 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 132-7 à D. 132-10
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 132-13 
 
 </td>
-        <td align="center">
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 141-2 à 141-10 
+    </tr>
+    <tr>
+      <td align="center">Au titre IV 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 141-2 à 141-10
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -27853,9 +27917,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 	**Cité par**:
 
@@ -28051,126 +28115,154 @@ dispositions du présent livre mentionnées dans la colonne de gauche du tableau
 colonne de droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
+    </tr>
+    <tr>
+      <td align="center">R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-2, sauf le k du 1° et les n et o du 4°
-
-</td>
-        <td>
-
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-3 à R. 114-5 
-
-</td>
-        <td>
+      <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4°
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 114-6
 
 </td>
-        <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
-n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
-dispositions concernant la défense et la sécurité nationale </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+      <td>
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
+concernant la défense et la sécurité nationale 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">Au titre II 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 122-17 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1, R. 123-2, R.
-123-8, R. 123-10 et R. 123-11 
+      <td align="center">
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 123-8, R. 123-10, R. 123-11 et
+
+R. 123-31-1
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 131-1 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td align="center">Au titre III 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+      <td align="center">
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">R. 131-1 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 141-1 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td align="center">Au titre IV 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 141-1 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -28180,7 +28272,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 	**Cité par**:
 
@@ -28338,72 +28430,97 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 après, dans leur rédaction résultant du texte indiqué dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre II
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 123-3 à D. 123-7, D. 123.9 et D. 123-12 à D. 123-35
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III
+    </tr>
+    <tr>
+      <td>
+
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
 
 </td>
-        <td align="center">
+      <td>
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-1 à D. 132-4
+    </tr>
+    <tr>
+      <td align="center">Au titre III
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV
+    </tr>
+    <tr>
+      <td align="center">D. 132-1 à D. 132-4
 
 </td>
-        <td align="center">
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 141-2 à D. 141-10
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="center">D. 141-2 à D. 141-10
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -28411,9 +28528,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 
 ###### Article D156-4
@@ -28677,113 +28794,135 @@ dispositions du présent livre mentionnées dans la colonne de gauche du tableau
 colonne de droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
+    </tr>
+    <tr>
+      <td align="center">R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-2, sauf le k du 1° et les n et o du 4° 
-
-</td>
-        <td>
-
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-3 à R. 114-5 
-
-</td>
-        <td>
+      <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 114-6
 
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
 concernant la défense et la sécurité nationale 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 122-17 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1, R. 123-2, R.
-123-8, R. 123-10 et R. 123-11 
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 123-8, R. 123-10, R. 123-11 et
+
+R. 123-31-1 
 
 </td>
-        <td align="center">
+      <td valign="top" align="left">
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 141-1 
+    </tr>
+    <tr>
+      <td align="center">Au titre IV 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="center">R. 141-1 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -28793,7 +28932,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 	**Cité par**:
 
@@ -28942,72 +29081,93 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II
+    </tr>
+    <tr>
+      <td align="center">Au titre II
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 123-3 à D. 123-7, D. 123.9 et D. 123-12 à D. 123-35
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III
+    </tr>
+    <tr>
+      <td>
+
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
 
 </td>
-        <td align="center">
+      <td>Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité
+et de la justice</td>
+    </tr>
+    <tr>
+      <td align="center">Au titre III
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-1 à D. 132-4
+      <td align="center">
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 132-1 à D. 132-4
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">Au titre IV
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 141-2 à D. 141-10
+      <td align="center">
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+D. 141-2 à D. 141-10
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -29015,9 +29175,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 
 ###### Article D157-4
@@ -29168,113 +29328,139 @@ dispositions du présent livre mentionnées dans la colonne de gauche du tableau
 colonne de droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-2, sauf le k du 1° et les n et o du 4° 
-
-</td>
-        <td>
-
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-3 à R. 114-5 
-
-</td>
-        <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 114-3 à R. 114-5 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 R. 114-6 
 
 </td>
-        <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
 concernant la défense et la sécurité nationale 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 122-17 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1, R. 123-2, R.
-123-8, R. 123-10 et R. 123-11 
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et
+
+R. 123-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
 </td>
-        <td align="center">
+      <td valign="top" align="left">
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 141-1 
+    </tr>
+    <tr>
+      <td align="center">Au titre IV 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 141-1 
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -29284,7 +29470,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 	**Cité par**:
 
@@ -29389,72 +29575,93 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II
+    </tr>
+    <tr>
+      <td align="center">Au titre II
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 123-3 à D. 123-7, D. 123.9 et D. 123-12 à D. 123-35
+    </tr>
+    <tr>
+      <td align="center">D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 </td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td>
+
+D. 123-9, D. 123-12 à D. 123-14,
+
+D. 123-28 et D. 123-29
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III
+      <td>
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">Au titre III
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 132-1 à D. 132-4
+      <td align="center">
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td align="center">D. 132-1 à D. 132-4
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">Au titre IV
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">D. 140-2 à D. 140-10
+      <td align="center">
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+D. 140-2 à D. 140-10
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -29462,9 +29669,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 
 ###### Article R*158-1
@@ -29552,129 +29759,135 @@ Sont applicables dans les Terres australes et antarctiques françaises, sous ré
 indiquée dans la colonne de droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
-R. 113-1 à R. 113-2, R. 114-1 
+R. 113-1 à R. 113-2,
 
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-2, sauf le k du 1° et les n et o du 4° 
+R. 114-1 
 
 </td>
-        <td>
-
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 114-3 à R. 114-5 
-
-</td>
-        <td>
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 114-3 à R. 114-5 
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 R. 114-6
 
 </td>
-        <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
 concernant la défense et la sécurité nationale 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">Au titre II </td>
+      <td align="center">
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">R. 122-17 à R. 122-37, R. 123-1 et R. 123-2 </td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 122-17 à R. 122-37 
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left" valign="top">
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
+justice 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 123-1, R. 123-2, R. 123-8, R. 123-10 et R. 123-11 
+    </tr>
+    <tr>
+      <td align="center">R. 141-1 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">R. 141-1 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -29684,7 +29897,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
 
 	**Cite**:
 
