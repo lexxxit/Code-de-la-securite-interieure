@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-10-04
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -1384,19 +1384,21 @@ par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 mise en œuvre des moyens de secours dans le cadre des textes législatifs et réglementaires applicables en matière de sécurité
 civile. 
 
-" L'Etat est garant de la cohérence de la sécurité civile en Polynésie française. Il en définit la doctrine et coordonne tous
-les moyens. 
+En application du 6° de l'article 14 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
+Polynésie française, les autorités de l'Etat sont compétentes pour la préparation des mesures de sauvegarde, l'élaboration et
+la mise en œuvre des plans opérationnels et des moyens de secours nécessaires pour faire face aux risques majeurs et aux
+catastrophes, ainsi que pour la coordination et la réquisition des moyens concourant à la sécurité civile. A ce titre, les
+autorités de l'Etat évaluent en permanence l'état de préparation aux risques et veillent à la mise en œuvre des mesures
+d'information et d'alerte des populations.
 
-" Avec le concours de la Polynésie française dans le cadre de ses compétences ainsi que des communes, il évalue en permanence
-l'état de préparation aux risques et veille à la mise en œuvre des mesures d'information et d'alerte des populations. 
+Les autorités de la Polynésie française concourent également à la prévision des risques de sécurité civile dans le cadre des
+compétences qui leur sont dévolues, notamment en matière d'urbanisme, de protection de l'environnement, d'aménagement du
+territoire et de prévention des risques naturels.
 
-" La Polynésie française concourt à la prévision des risques de sécurité civile dans le cadre des compétences qui lui sont
-dévolues notamment en matière d'urbanisme, de protection de l'environnement, d'aménagement du territoire et de prévention des
-risques naturels. 
-
-" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes
-applicables en Polynésie française, le haut-commissaire de la République en Polynésie française coordonne les opérations de
-secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ; 
+" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code général des
+collectivités territoriales  applicables en Polynésie française, le haut-commissaire de la République en Polynésie française
+coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune.
+" ; 
 
 5° A l'article L. 122-1 : 
 
@@ -1448,10 +1450,10 @@ prévention de la délinquance, " sont supprimés.
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1
 	  - Code général des collectivités territoriales - art. L2122-18
-	  - Code de la sécurité intérieure - art. L122-1 (V)
-	  - Code de la sécurité intérieure - art. L131-1 (V)
-	  - Code de la sécurité intérieure - art. L132-16 (VD)
-	  - Code de la sécurité intérieure - art. L132-9 (V)
+	  - Code de la sécurité intérieure - art. L122-1
+	  - Code de la sécurité intérieure - art. L131-1
+	  - Code de la sécurité intérieure - art. L132-16
+	  - Code de la sécurité intérieure - art. L132-9
 
 	**Codifié par**:
 
@@ -1463,7 +1465,7 @@ prévention de la délinquance, " sont supprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 55
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 49
 
 
 #### Chapitre VI : Dispositions applicables  en Nouvelle-Calédonie
@@ -9527,6 +9529,28 @@ remplacés par les mots : " dispositions applicables localement ” ;
 	  - Code de la sécurité intérieure - art. L345-1
 
 
+###### Article L345-2-1
+
+Un  décret en Conseil d'Etat fixe le nombre maximal d'armes relevant de la  catégorie C et du 1° de la catégorie D qu'une
+même personne physique  peut détenir simultanément.
+
+Lorsque le nombre total d'armes de ce type  détenues par une personne physique lors de l'entrée en vigueur du décret  pris en
+application du premier alinéa excède le maximum fixé par ce  décret :
+
+1° Celles acquises après le 7 novembre 2013  sont remises, cédées ou détruites, à concurrence de l'excédent, dans un  délai
+de trois mois au plus fixé par le décret et dont le point de  départ est la publication de ce décret ;
+
+2° Si, nonobstant l'application du 1°, le  nombre de ces armes détenues par une même personne physique excède  encore le
+maximum, cette personne dispose de deux ans, à compter de la  publication de ce décret, pour les remettre, les céder ou les
+détruire, à  concurrence de l'excédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 52
+
+
 ###### Article L345-3
 
 Les dérogations aux dispositions des           articles L. 322-1, L. 322-2 et L. 322-2-1, prévues aux articles L. 322-3 à L.
@@ -9598,12 +9622,13 @@ infractions prévues à l'alinéa précédent encourent les peines fixées par l
 
 ###### Article L346-1
 
-Les dispositions suivantes sont applicables dans les îles Wallis et Futuna : 
+Les dispositions suivantes du présent livre sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
+la loi n° 2015-1268 du 14 octobre 2015 d'actualisation du droit des outre-mer :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
-2° Au titre II : les articles L. 322-1 à L. 322-3, L. 322-7, L. 323-1 à L. 324-1, les premier et deuxième alinéas de
-l'article L. 324-2, et les articles L. 324-3 à L. 324-9.
+2° Au titre II : l'article L. 321-3, les articles L. 322-1 à L. 322-4, L. 322-7, L. 323-1 à L. 324-1, les deux premiers
+alinéas de l'article L. 324-2 et les articles L. 324-3 à L. 324-9.
 
 **Liens relatifs à cet article**
 
@@ -9611,22 +9636,18 @@ l'article L. 324-2, et les articles L. 324-3 à L. 324-9.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+	**Cite**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015
+
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 53
 
 	**Cité par**:
 
 	  - Décret n°2017-914 du 9 mai 2017 (V)
 	  - Code de la sécurité intérieure - art. L346-2 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L322-1
-	  - Code de la sécurité intérieure - art. L322-7
-	  - Code de la sécurité intérieure - art. L323-1
-	  - Code de la sécurité intérieure - art. L324-2
-	  - Code de la sécurité intérieure - art. L324-3
 
 
 ###### Article L346-2
@@ -9653,9 +9674,17 @@ fédération sportive territoriale, en application des dispositions applicables 
 remplacés par les mots : " dispositions applicables localement ” ;
 
 4° A l'article L. 322-3, les mots : "le maire de la commune" sont remplacés par les mots : "l'administrateur supérieur des
-îles Wallis et Futuna" ;  
+îles Wallis et Futuna" ; 
 
-5° Le 2° de l'article L. 324-4est supprimé.
+4° bis Le premier alinéa de l'article L. 321-3 est ainsi rédigé :
+
+"Par dérogation à l'article L. 324-1 et aux deux premiers alinéas de l'article L. 324-2, il peut être accordé aux casinos
+installés à bord des navires de commerce transporteurs de passagers n'assurant pas de lignes régulières et immatriculés au
+registre des îles Wallis et Futuna, pour des croisières de plus de quarante-huit heures, l'autorisation temporaire d'ouvrir
+au public des locaux spéciaux, distincts et séparés, où sont pratiqués certains jeux de hasard dans des conditions fixées par
+décret en Conseil d'Etat." ;
+
+5° Le 2° de l'article L. 324-4 est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -9665,7 +9694,7 @@ remplacés par les mots : " dispositions applicables localement ” ;
 
 	**Modifié par**:
 
-	  - Loi n°2015-177 du 16 février 2015 - art. 15 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 53
 
 	**Cité par**:
 
@@ -9674,7 +9703,7 @@ remplacés par les mots : " dispositions applicables localement ” ;
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L324-4
-	  - Code de la sécurité intérieure - art. L346-1
+	  - Code de la sécurité intérieure - art. L346-1 (M)
 
 
 #### Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises
@@ -12047,8 +12076,7 @@ la République en Polynésie française et par le procureur de la République.
 ###### Article L546-1
 
 Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, 
-L. 512-3, L. 512-4, L. 512-6 à L. 513-1, L. 514-1 et L. 515-1 sont applicables en Nouvelle-Calédonie, sous réserve des
-dispositions suivantes : 
+L. 512-3, L. 512-4 et L. 512-6 à L. 513-1 sont applicables en Nouvelle-Calédonie, sous réserve des dispositions suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Nouvelle-Calédonie ; 
@@ -12059,6 +12087,9 @@ a) Au deuxième alinéa, les mots : " contraventions aux dispositions du code de
 contraventions aux dispositions du code de la route de la Nouvelle-Calédonie ” ; 
 
 b) Les troisième et quatrième alinéas sont supprimés ; 
+
+2° bis A la fin de la première phrase du dernier alinéa de l'article L. 511-2, les mots : "ou du président de l'établissement
+public de coopération intercommunale" sont supprimés ; 
 
 3° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
@@ -12073,7 +12104,9 @@ tenant ” sont supprimés ;
 coopération intercommunale dans les conditions prévues au premier alinéa de l'article L. 512-2, ” et les mots : ", le
 président de l'établissement public de coopération intercommunale le cas échéant, ” sont supprimés ; 
 
-7° A l'article L. 512-6, le deuxième alinéa est supprimé.
+7° A l'article L. 512-6, le deuxième alinéa est supprimé ;
+
+8° A l'article L. 513-1, les mots : "et après avis de la commission consultative des polices municipales," sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -12083,17 +12116,15 @@ président de l'établissement public de coopération intercommunale le cas éch
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 134
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 54
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 55
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L511-1
-	  - Code de la sécurité intérieure - art. L511-4 (V)
-	  - Code de la sécurité intérieure - art. L512-1 (V)
-	  - Code de la sécurité intérieure - art. L512-3 (V)
-	  - Code de la sécurité intérieure - art. L512-6
-	  - Code de la sécurité intérieure - art. L514-1
-	  - Code de la sécurité intérieure - art. L515-1
+	  - Code de la sécurité intérieure - art. L511-4
+	  - Code de la sécurité intérieure - art. L512-1
+	  - Code de la sécurité intérieure - art. L512-3
 
 	**Cité par**:
 
@@ -12102,21 +12133,18 @@ président de l'établissement public de coopération intercommunale le cas éch
 
 ###### Article L546-1-1
 
-Les agents de la police municipale nommés par le maire doivent être agréés par le procureur de la République.
+Les agents de la police municipale nommés par le maire doivent être agréés par le haut-commissaire de la République en
+Nouvelle-Calédonie et par le procureur de la République.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la sécurité intérieure - art. L546-1 (T)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 55
 
 
 ###### Article L546-2
@@ -17000,7 +17028,7 @@ dans le Département de Mayotte ;
 
 2° Les références au département sont remplacées par la référence au Département de Mayotte ; 
 
-3° Les mots : " registre du commerce et des sociétés " sont remplacés par les mots : " répertoire local des entreprises " ; 
+3° (Abrogé)
 
 4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les mots : " code du travail " sont remplacés par les mots :
 " code du travail applicable à Mayotte " ; 
@@ -17023,9 +17051,16 @@ L. 620-3 du code du travail applicable à Mayotte ".
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 56
+
 	**Cite**:
 
-	  - Ordonnance n°2000-373 du 26 avril 2000
 	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
@@ -17039,14 +17074,6 @@ L. 620-3 du code du travail applicable à Mayotte ".
 	  - Code de la sécurité intérieure - art. L622-19
 	  - Code de la sécurité intérieure - art. L623-1
 	  - Code de la sécurité intérieure - art. L634-3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 31
 
 
 #### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin
@@ -17158,8 +17185,12 @@ République en Polynésie française ;
 3° En Polynésie française, la commission régionale d'agrément et de contrôle est dénommée " commission locale d'agrément et
 de contrôle " ; 
 
-3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " l'Office des postes et des
-télécommunications de Polynésie française ” ; 
+3° bis Le 2° de l'article L. 611-1 est ainsi rédigé :
+
+"2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux, à l'exception des perles et des bijoux
+montés avec des perles, représentant une valeur d'au moins 100 000 €, des fonds, sauf, pour les employés de l'office des
+postes et des télécommunications de Polynésie française ou des établissements de crédit habilités par leur employeur, lorsque
+leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; "
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
@@ -17192,7 +17223,7 @@ dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés
 applicables localement " ; 
 
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
 
 9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ; 
 
@@ -17230,9 +17261,9 @@ locale.
 	  - Code de la sécurité intérieure - art. L611-1
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
-	  - Code de la sécurité intérieure - art. L612-11 (V)
+	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2 (V)
+	  - Code de la sécurité intérieure - art. L612-2
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
@@ -17246,7 +17277,7 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-994 du 17 août 2015 - art. 40
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 57
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -26771,6 +26802,47 @@ Le préfet de département consulte les vice-présidents avant d'arrêter la com
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. D132-5 (VD)
+
+
+###### Article R132-6-1
+
+I.-L'état-major de sécurité mentionné au premier alinéa de l'article L. 132-10-1 est composé du préfet, du procureur de la
+République ou de leurs représentants. 
+
+Dans les zones de sécurité prioritaire, la cellule de coordination opérationnelle des forces de sécurité intérieure est
+coprésidée par le préfet et le procureur de la République. Elle associe les représentants de la police nationale, de la
+gendarmerie nationale et de la direction des douanes intervenants dans la zone de sécurité prioritaire en cause. Sur
+proposition du préfet et du procureur de la République, elle peut en outre, en tant que de besoin, associer les maires des
+communes concernées, les représentants, des services pénitentiaires d'insertion et de probation, de la protection judiciaire
+de la jeunesse, ou d'autres administrations de l'Etat. 
+
+II.-Pour l'application du 1° du I de l'article L. 132-10-1, le procureur de la République communique à l'état-major de
+sécurité et à la cellule de coordination opérationnelle des forces de sécurité intérieure, une synthèse de son rapport annuel
+de politique pénale dans le mois qui suit sa communication au procureur général. 
+
+III.-Le procureur de la République désigne, après avis favorable du juge de l'application des peines, les personnes
+condamnées mentionnées au 3° de l'article L. 132-10-1. L'état-major de sécurité et la cellule de coordination opérationnelle
+des forces de sécurité intérieure, organisent les modalités du suivi et du contrôle, par les services et personnes publiques
+ou privées mentionnées au premier alinéa du même article, des obligations et interdictions imposées par la juridiction de
+jugement ou le juge de l'application des peines à ces personnes en milieu ouvert. 
+
+Pour l'application du 4° du I de l'article L. 132-10-1, le procureur de la République est destinataire des informations
+adressées par l'état-major de sécurité et la cellule de coordination opérationnelle des forces de sécurité intérieure et leur
+adresse les informations que les juridictions de l'application des peines et le service pénitentiaire d'insertion et de
+probation jugent utiles pour le déroulement de leur action. 
+
+L'échange d'informations confidentielles prévue au II de l'article L. 132-10-1 ne peut donner lieu à la transmission des
+pièces d'une procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1272 du 13 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L132-10-1
 
 
 ##### Section 3 : Conseil local de sécurité et de prévention  de la délinquance
