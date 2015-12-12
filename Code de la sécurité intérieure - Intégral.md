@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-02
+Version Consolidée au 2015-12-13
 
 # Partie législative
 
@@ -3531,890 +3531,6 @@ des engagements prévus au présent article.
 
 
 ### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
-
-#### Chapitre Ier : Dispositions générales
-
-###### Article L241-1
-
-Le secret des correspondances émises par la voie des communications électroniques est garanti par la loi.
-
-Il ne peut être porté atteinte à ce secret que par l'autorité publique, dans les seuls cas de nécessité d'intérêt public
-prévus par la loi et dans les limites fixées par celle-ci.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 114 (V)
-	  - Décret n°2016-1860 du 23 décembre 2016 (V)
-	  - Décret n°2016-1861 du 23 décembre 2016 (V)
-	  - Décret n°2016-1861 du 23 décembre 2016 - art. 1 (V)
-	  - Décret n°2016-1861 du 23 décembre 2016 - art. 3 (V)
-	  - Décret n°2016-1861 du 23 décembre 2016 - art. 4 (V)
-	  - Décret n°2016-1861 du 23 décembre 2016 - art. 5 (V)
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 211 (V)
-	  - Code de la sécurité intérieure - art. L285-1 (V)
-	  - Code de la sécurité intérieure - art. L286-1 (M)
-	  - Code de la sécurité intérieure - art. L287-1 (M)
-	  - Code de la sécurité intérieure - art. R241-1 (V)
-	  - Code de la sécurité intérieure - art. R241-2 (V)
-
-
-###### Article L241-2
-
-Peuvent être autorisées, à titre exceptionnel, dans les conditions prévues par l'article L. 242-1, les interceptions de
-correspondances émises par la voie des communications électroniques ayant pour objet de rechercher des renseignements
-intéressant la sécurité nationale, la sauvegarde des éléments essentiels du potentiel scientifique et économique de la
-France, ou la prévention du terrorisme, de la criminalité et de la délinquance organisées et de la reconstitution ou du
-maintien de groupements dissous en application de l'article L. 212-1.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L212-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L242-1 (Ab)
-	  - Code de la sécurité intérieure - art. L242-3 (Ab)
-	  - Code de la sécurité intérieure - art. L242-5 (Ab)
-	  - Code de la sécurité intérieure - art. L242-7 (Ab)
-	  - Code de la sécurité intérieure - art. L242-8 (Ab)
-	  - Code de la sécurité intérieure - art. L246-1 (T)
-	  - Code de la sécurité intérieure - art. L246-2 (VT)
-	  - Code de la sécurité intérieure - art. L246-3 (T)
-	  - Code de la sécurité intérieure - art. R246-4 (Ab)
-	  - Code de la sécurité intérieure - art. R246-7 (Ab)
-
-
-#### Chapitre II : Conditions des interceptions
-
-###### Article L242-1
-
-L'autorisation prévue à l'article L. 241-2 est accordée par décision écrite et motivée du Premier ministre ou de l'une des
-deux personnes spécialement déléguées par lui. Elle est donnée sur proposition écrite et motivée du ministre de la défense,
-du ministre de l'intérieur ou du ministre chargé des douanes, ou de l'une des deux personnes que chacun d'eux aura
-spécialement déléguées. 
-
-Le Premier ministre organise la centralisation de l'exécution des interceptions autorisées.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L241-2 (Ab)
-	  - Code de la sécurité intérieure - art. L242-2 (Ab)
-	  - Code de la sécurité intérieure - art. L243-8 (Ab)
-	  - Code de la sécurité intérieure - art. L244-1 (T)
-	  - Code de la sécurité intérieure - art. L285-1 (V)
-	  - Code de la sécurité intérieure - art. L285-2 (V)
-	  - Code de la sécurité intérieure - art. L286-1 (M)
-	  - Code de la sécurité intérieure - art. L286-2 (V)
-	  - Code de la sécurité intérieure - art. L287-1 (V)
-	  - Code de la sécurité intérieure - art. L287-2 (V)
-	  - Code de la sécurité intérieure - art. R242-2 (Ab)
-	  - Code de la sécurité intérieure - art. R244-1 (T)
-
-
-###### Article L242-2
-
-Le nombre maximum des interceptions susceptibles d'être pratiquées simultanément en application de l'article L. 242-1 est
-arrêté par le Premier ministre. 
-
-La décision fixant ce contingent et sa répartition entre les ministères mentionnés à l'article L. 242-1 est portée sans délai
-à la connaissance de la Commission nationale de contrôle des interceptions de sécurité.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-8 (Ab)
-
-
-###### Article L242-3
-
-L'autorisation mentionnée à l'article L. 241-2 est donnée pour une durée maximum de quatre mois. Elle cesse de plein droit de
-produire effet à l'expiration de ce délai. Elle ne peut être renouvelée que dans les mêmes conditions de forme et de durée.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-
-
-###### Article L242-4
-
-Il est établi, sous l'autorité du Premier ministre, un relevé de chacune des opérations d'interception et d'enregistrement.
-Ce relevé mentionne la date et l'heure auxquelles elle a commencé et celles auxquelles elle s'est terminée.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-2 (Ab)
-
-
-###### Article L242-5
-
-Dans les correspondances interceptées, seuls les renseignements en relation avec l'un des objectifs énumérés à l'article L.
-241-2 peuvent faire l'objet d'une transcription. 
-
-Cette transcription est effectuée par les personnels habilités.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-
-
-###### Article L242-6
-
-L'enregistrement est détruit sous l'autorité du Premier ministre, à l'expiration d'un délai de dix jours au plus tard à
-compter de la date à laquelle il a été effectué.
-
-Il est dressé procès-verbal de cette opération.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-2 (Ab)
-
-
-###### Article L242-7
-
-Les transcriptions d'interceptions doivent être détruites dès que leur conservation n'est plus indispensable à la réalisation
-des fins mentionnées à l'article L. 241-2. 
-
-Il est dressé procès-verbal de l'opération de destruction. 
-
-Les opérations mentionnées aux alinéas précédents sont effectuées sous l'autorité du Premier ministre.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-
-
-###### Article L242-8
-
-Sans préjudice de l'application du deuxième alinéa de l'article 40 du code de procédure pénale, les renseignements recueillis
-ne peuvent servir à d'autres fins que celles mentionnées à l'article L. 241-2.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 40
-	  - Code de la sécurité intérieure - art. L241-2
-
-
-#### Chapitre III : Commission nationale de contrôle  des interceptions de sécurité
-
-##### Section 1 : Composition et fonctionnement
-
-###### Article L243-1
-
-La Commission nationale de contrôle des interceptions de sécurité est une autorité administrative indépendante chargée de
-veiller au respect des dispositions du présent titre.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L285-1 (V)
-	  - Code de la sécurité intérieure - art. L286-1 (M)
-	  - Code de la sécurité intérieure - art. L287-1 (V)
-
-
-###### Article L243-2
-
-La Commission nationale de contrôle des interceptions de sécurité est présidée par une personnalité désignée, pour une durée
-de six ans, par le Président de la République, sur une liste de quatre noms établie conjointement par le vice-président du
-Conseil d'Etat et le premier président de la Cour de cassation.
-
-Elle comprend, en outre, un député désigné pour la durée de la législature par le président de l'Assemblée nationale et un
-sénateur désigné après chaque renouvellement partiel du Sénat par le président du Sénat.
-
-La qualité de membre de la commission est incompatible avec celle de membre du Gouvernement.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-###### Article L243-3
-
-Sauf démission, il ne peut être mis fin aux fonctions de membre de la commission qu'en cas d'empêchement constaté par celle-
-ci.
-
-Le mandat des membres de la commission n'est pas renouvelable.
-
-Les membres de la commission désignés en remplacement de ceux dont les fonctions ont pris fin avant leur terme normal
-achèvent le mandat de ceux qu'ils remplacent. A l'expiration de ce mandat, par dérogation au précédent alinéa, ils peuvent
-être nommés comme membre de la commission s'ils ont occupé ces fonctions de remplacement pendant moins de deux ans.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-###### Article L243-4
-
-Les membres de la commission sont astreints au respect des secrets protégés par les articles 413-10, 226-13 et 226-14 du code
-pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code pénal - art. 413-10
-
-
-###### Article L243-5
-
-La commission établit son règlement intérieur.
-
-En cas de partage des voix, la voix du président est prépondérante.
-
-Les agents de la commission sont nommés par le président.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-###### Article L243-6
-
-La commission dispose des crédits nécessaires à l'accomplissement de sa mission dans les conditions fixées par la loi de
-finances.
-
-Le président est ordonnateur des dépenses de la commission.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-###### Article L243-7
-
-La commission remet chaque année au Premier ministre un rapport sur les conditions d'exercice et les résultats de son
-activité, qui précise notamment le nombre de recommandations qu'elle a adressées au Premier ministre en application 
-des articles L. 243-8, 
-L. 246-3 et L. 246-4, ainsi que les suites qui leur ont été données. Ce rapport est rendu public. 
-
-La commission adresse, à tout moment, au Premier ministre les observations qu'elle juge utiles.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6
-	  - Code des postes et des communications électroniques - art. L34-1-1
-	  - Code de la sécurité intérieure - art. L243-8 (Ab)
-	  - Code de la sécurité intérieure - art. L246-3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-##### Section 2 : Missions
-
-###### Article L243-8
-
-La décision motivée du Premier ministre mentionnée à l'article L. 242-1 est communiquée dans un délai de quarante-huit heures
-au plus tard au président de la Commission nationale de contrôle des interceptions de sécurité. 
-
-Si celui-ci estime que la légalité de cette décision au regard des dispositions du présent titre n'est pas certaine, il
-réunit la commission, qui statue dans les sept jours suivant la réception par son président de la communication mentionnée au
-premier alinéa. 
-
-Au cas où la commission estime qu'une interception de sécurité a été autorisée en méconnaissance des dispositions du présent
-titre, elle adresse au Premier ministre une recommandation tendant à ce que cette interception soit interrompue. 
-
-Elle porte également cette recommandation à la connaissance du ministre ayant proposé l'interception et du ministre chargé
-des communications électroniques. 
-
-La commission peut adresser au Premier ministre une recommandation relative au contingent et à sa répartition mentionnés à
-l'article L. 242-2. 
-
-Le Premier ministre informe sans délai la commission des suites données à ses recommandations.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L242-2
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-7 (Ab)
-	  - Code de la sécurité intérieure - art. L243-9 (Ab)
-
-
-###### Article L243-9
-
-De sa propre initiative ou sur réclamation de toute personne y ayant un intérêt direct et personnel, la commission peut
-procéder au contrôle de toute interception de sécurité en vue de vérifier si elle est effectuée dans le respect des
-dispositions du présent titre. 
-
-Si la commission estime qu'une interception de sécurité est effectuée en violation des dispositions du présent titre, elle
-adresse au Premier ministre une recommandation tendant à ce que cette interception soit interrompue. 
-
-Il est alors procédé ainsi qu'il est indiqué aux quatrième et sixième alinéas de l'article L. 243-8.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L243-11 (Ab)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L243-8
-
-
-###### Article L243-10
-
-Les ministres, les autorités publiques, les agents publics doivent prendre toutes mesures utiles pour faciliter l'action de
-la commission.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-
-###### Article L243-11
-
-Lorsque la commission a exercé son contrôle à la suite d'une réclamation, il est notifié à l'auteur de la réclamation qu'il a
-été procédé aux vérifications nécessaires. 
-
-Conformément au deuxième alinéa de l'article 40 du code de procédure pénale, la commission donne avis sans délai au procureur
-de la République de toute infraction aux dispositions du présent titre dont elle a pu avoir connaissance à l'occasion du
-contrôle effectué en application de l'article L. 243-9.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 40
-	  - Code de la sécurité intérieure - art. L243-9 (Ab)
-
-
-#### Chapitre V : Dispositions pénales
-
-###### Article L245-3
-
-Le fait par une personne exploitant un réseau de communications électroniques ou fournissant des services de communications
-électroniques de refuser, en violation des articles L. 246-1 à L. 246-3 et du premier alinéa de l'article L. 244-2, de
-communiquer les informations ou documents ou de communiquer des renseignements erronés est puni de six mois d'emprisonnement
-et de 7 500 euros d'amende.
-
-**Nota:**
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-Le décret n° 2015-1639 du 11 décembre 2015 a été publié le 12 décembre 2015.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-2
-	  - Code de la sécurité intérieure - art. L246-1
-
 
 #### Chapitre VI : Accès administratif aux données de connexion
 
@@ -79869,26 +78985,628 @@ compétence nationale dénommé “ traitement du renseignement et action contre
 	  - Code de la sécurité intérieure - art. R898-1 (V)
 
 
-### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION 
+###### Article R811-2
 
+I.-Les services du ministère de l'intérieur, autres que les services spécialisés de renseignement, mentionnés à l'article L.
+811-4 sont, sous réserve des dispositions des articles R. 851-1 à R. 851-4, R. 852-1, R. 852-2 et R. 853-1 à R. 853-3, les
+suivants : 
 
-#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques 
+1° Sous l'autorité du directeur général de la police nationale : 
 
+a) L'unité de coordination de la lutte antiterroriste au titre des finalités mentionnées aux 4° et a et b du 5° de l'article
+L. 811-3 ; 
 
+b) A la direction centrale de la police judiciaire :
 
-###### Article R853-1
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
-utiliser les dispositifs techniques mentionnés au I de l'article L. 853-1 sont la direction générale de la sécurité
-extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
-direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
-renseignement et des enquêtes douanières ”.
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+d) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+2° Sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+3° Sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+II.-Les services placés sous l'autorité d'emploi du ministère de la défense, autres que les services spécialisés de
+renseignement, mentionnés à l'article L. 811-4 sont, sous réserve des dispositions des articles R. 851-1 à R. 851-4, R.
+852-1, R. 852-2 et R. 853-1 à R. 853-3, les suivants : les sections de recherches de la gendarmerie maritime, de la
+gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L.
+811-3.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+	  - Code de la sécurité intérieure - art. R895-1 (V)
+	  - Code de la sécurité intérieure - art. R896-1 (V)
+	  - Code de la sécurité intérieure - art. R897-1 (V)
+	  - Code de la sécurité intérieure - art. R898-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+
+
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION 
+
+
+#### Chapitre Ier : Des accès administratifs aux données de connexion 
+
+
+
+###### Article R851-1
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée à l'article L. 851-1 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) L'unité de coordination de la lutte antiterroriste au titre des finalités mentionnées aux 4° et a et b du 5° de l'article
+L. 811-3 ; 
+
+b) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+d) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+	  - Code de la sécurité intérieure - art. R811-2 (V)
+	  - Code de la sécurité intérieure - art. R895-1 (M)
+	  - Code de la sécurité intérieure - art. R896-1 (M)
+	  - Code de la sécurité intérieure - art. R897-1 (M)
+	  - Code de la sécurité intérieure - art. R898-1 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L851-1
+
+
+###### Article R851-2
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée à l'article L. 851-4 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L851-4
+
+
+###### Article R851-3
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée à l'article L. 851-5 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services ou unités mentionnés au 1° du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du présent article,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
+exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du présent
+article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent
+pas exploiter les renseignements ainsi collectés ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents du centre opérationnel des ressources techniques de la direction opérationnelle des services techniques et
+logistiques individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au c du 3° du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
+exploiter les renseignements ainsi collectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L851-5
+
+
+###### Article R851-4
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée à l'article L. 851-6 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire et les services régionaux de police judiciaire au titre
+des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au 1° du présent article,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent pas
+exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du présent article,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
+exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du présent
+article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent
+pas exploiter les renseignements ainsi collectés ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
+exploiter les renseignements ainsi collectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L851-6
+
+
+#### Chapitre II : Des interceptions de sécurité 
+
+
+
+###### Article R852-1
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée au I de l'article L. 852-1 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 4
 
 	**Cité par**:
 
@@ -79901,22 +79619,270 @@ renseignement et des enquêtes douanières ”.
 
 	**Cite**:
 
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L852-1
+
+
+###### Article R852-2
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée au II de l'article L. 852-1 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre de
+la finalité mentionnée au 4° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au 1° du présent article,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent pas
+exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1° et 4° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité de la sous-direction mentionnée au 2° du présent
+article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne
+peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre de la finalité mentionnée au 4° de l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la brigade de recherche et d'intervention de la sous-direction des brigades centrales au titre de la finalité mentionnée au
+4° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité du service de cette direction régionale mentionné à
+l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L852-1
+
+
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques 
+
+
+
+###### Article R853-1
+
+I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser les dispositifs techniques mentionnés au I de l'article L. 853-1 sont la direction générale de la sécurité
+extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
+direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
+renseignement et des enquêtes douanières ”. 
+
+II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
+à utiliser la technique mentionnée au I de l'article L. 853-1 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité des services et unités mentionnés au 1° du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du II du présent
+article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne
+peuvent pas exploiter les renseignements ainsi collectés. 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
+exploiter les renseignements ainsi collectés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2017-36 du 16 janvier 2017 (V)
+	  - Code de la sécurité intérieure - art. R811-2 (V)
+	  - Code de la sécurité intérieure - art. R895-1 (V)
+	  - Code de la sécurité intérieure - art. R896-1 (V)
+	  - Code de la sécurité intérieure - art. R897-1 (V)
+	  - Code de la sécurité intérieure - art. R898-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
 	  - Code de la sécurité intérieure - art. L853-1
 
 
 ###### Article R853-2
 
-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
 utiliser les dispositifs techniques mentionnés au I de l'article L. 853-2 sont la direction générale de la sécurité
 extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
 direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
-renseignement et des enquêtes douanières ”.
+renseignement et des enquêtes douanières ”. 
+
+II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
+à utiliser la technique mentionnée au I de l'article L. 853-2 sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
+de la direction centrale de la police judiciaire individuellement désignés et habilités peuvent, sous la responsabilité des
+services et unités mentionnés au 1° du II du présent article, apporter leur concours dans la mise en œuvre de la technique
+mentionnée au présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance et du
+service central du renseignement criminel individuellement désignés et habilités peuvent, sous la responsabilité d'une des
+unités mentionnées au a du 2° du II du présent article, apporter leur concours dans la mise en œuvre de la technique
+mentionnée au présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la section antiterroriste de la brigade criminelle au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la brigade de la protection des mineurs de la sous-direction des brigades centrales au titre de la finalité mentionnée au
+6° de l'article L. 811-3 ;
+
+- la brigade d'enquêtes sur les fraudes aux technologies de l'information de la sous-direction des affaires économiques et
+financières au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
+peuvent pas exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
 
 	**Cité par**:
 
@@ -79924,22 +79890,445 @@ renseignement et des enquêtes douanières ”.
 
 	**Cite**:
 
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
 	  - Code de la sécurité intérieure - art. L853-2
 
 
 ###### Article R853-3
 
-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
+I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
 s'introduire dans un véhicule ou dans un lieu privé dans les conditions prévues à l'article L. 853-3 sont la direction
 générale de la sécurité extérieure, la direction de la protection et de la sécurité de la défense, la direction générale de
 la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes
-douanières ”.
+douanières ”. 
+
+II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
+à s'introduire dans un véhicule ou dans un lieu privé dans les conditions prévues à l'article L. 853-3 sont les suivants : 
+
+A.-Pour mettre en place, utiliser ou retirer le dispositif technique mentionné à l'article L. 851-5 dans un véhicule ou dans
+un lieu privé ne constituant pas un lieu d'habitation : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire, les services régionaux de police judiciaire et les
+antennes de police judiciaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- les unités en charge de la police judiciaire au sein des directions déconcentrées de la police aux frontières et des
+directions de la police aux frontières d'Orly et de Roissy au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- les brigades mobiles de recherche zonales au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- l'unité judiciaire du service national de la police ferroviaire au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- les services du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article
+L. 811-3 ;
+
+- les sûretés départementales au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité des services et unités mentionnés au 1° du A du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces
+agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du A du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces
+militaires ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du A du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces
+agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+c) A la direction de la sécurité de proximité de l'agglomération de Paris :
+
+- les sûretés territoriales au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents du centre opérationnel des ressources techniques de la direction opérationnelle des services techniques et
+logistiques individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au c du 3° du
+A du II du présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent
+article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces militaires ne
+peuvent pas exploiter les renseignements ainsi collectés. 
+
+B.-Pour mettre en place, utiliser ou retirer le dispositif technique mentionné à l'article L. 853-1 dans un véhicule ou dans
+un lieu privé ne constituant pas un lieu d'habitation : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
+mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ;
+
+- les directions interrégionales et régionales de police judiciaire au titre des finalités mentionnées aux 4° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
+individuellement désignés et habilités peuvent, sous la responsabilité des services et unités mentionnés au 1° du B du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du présent article. Ces
+agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+
+b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du B du II du
+présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du présent article. Ces
+militaires ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la sous-direction des brigades centrales au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
+
+- la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
+
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services de cette direction régionale
+mentionnés aux alinéas précédents, apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du
+présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+4° Services placés sous l'autorité d'emploi du ministère de la défense :
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
+individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
+apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du présent article. Ces militaires ne
+peuvent pas exploiter les renseignements ainsi collectés. 
+
+C.-Pour mettre en place, utiliser ou retirer les dispositifs techniques mentionnés au 2° du I de l'article L. 853-2 dans un
+véhicule ou dans un lieu privé ne constituant pas un lieu d'habitation : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
+de la direction centrale de la police judiciaire individuellement désignés et habilités peuvent, sous la responsabilité des
+services et unités mentionnés au 1° du C du II du présent article, apporter leur concours dans la mise en œuvre de la
+technique mentionnée au C du II du présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance et du
+service central du renseignement criminel individuellement désignés et habilités peuvent, sous la responsabilité d'une des
+unités mentionnées au 2° du C du II du présent article, apporter leur concours dans la mise en œuvre de la technique
+mentionnée au C du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ;
+
+- la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la section antiterroriste de la brigade criminelle de la sous-direction des brigades centrales au titre de la finalité
+mentionnée au 4° de l'article L. 811-3 ;
+
+- la brigade de protection des mineurs de la sous-direction des brigades centrales au titre de la finalité mentionnée au 6°
+de l'article L. 811-3 ;
+
+- la brigade d'enquêtes sur les fraudes aux technologies de l'information de la sous-direction des affaires économiques et
+financières au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services de cette direction régionale
+mentionnés aux alinéas précédents, apporter leur concours dans la mise en œuvre de la technique mentionnée au C du II du
+présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
+
+D.-Pour mettre en place, utiliser ou retirer les dispositifs techniques mentionnés aux articles L. 851-5 et L. 853-1 et au 2°
+du I de l'article L. 853-2 dans un lieu d'habitation et pour la seule finalité mentionnée au 4° de l'article L. 811-3 : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la sécurité publique :
+
+- l'unité nationale de recherche et d'appui du service central du renseignement territorial au titre de la finalité
+mentionnée au 4° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
+de la direction centrale de la police judiciaire individuellement désignés et habilités peuvent, sous la responsabilité des
+services et unités mentionnés au 1° du D du II du présent article, apporter leur concours dans la mise en œuvre de la
+technique mentionnée au D du II du présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre de la finalité mentionnée au 4° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance et du
+service central de renseignement criminel individuellement désignés et habilités peuvent, sous la responsabilité d'une des
+unités de la gendarmerie nationale mentionnées au 2° du D du II du présent article, apporter leur concours dans la mise en
+œuvre de la technique mentionnée au D du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements
+ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre de la finalité mentionnée au 4° de l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la section antiterroriste de la brigade criminelle et, pour les seuls dispositifs techniques mentionnés aux articles L.
+851-5 et L. 853-1, la brigade de recherche et d'intervention de la sous-direction des brigades centrales au titre de la
+finalité mentionnée au 4° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services de cette direction régionale
+mentionnés à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au D du II du
+présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
+
+E.-Pour l'utilisation de la technique mentionnée au 1° du I de l'article L. 853-2 hors lieu d'habitation : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre des finalités mentionnées aux 4° et 6° de l'article L.
+811-3 ; 
+
+b) A la direction centrale de la police aux frontières :
+
+- l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+
+c) A la direction centrale de la sécurité publique :
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
+de la direction centrale de la police judiciaire individuellement désignés et habilités peuvent, sous la responsabilité des
+services et unités mentionnés au 1° du E du II du présent article, apporter leur concours dans la mise en œuvre de la
+technique mentionnée au E du II du présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
+l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance et du
+service central de renseignement criminel individuellement désignés et habilités peuvent, sous la responsabilité d'une des
+unités mentionnées au 2° du E du II du présent article, apporter leur concours dans la mise en œuvre de la technique
+mentionnée au E du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
+l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la section antiterroriste de la brigade criminelle de la sous-direction des brigades centrales au titre de la finalité
+mentionnée au 4° de l'article L. 811-3 ;
+
+- la brigade de protection des mineurs de la sous-direction des brigades centrales au titre de la finalité mentionnée au 6°
+de l'article L. 811-3 ;
+
+- la brigade d'enquêtes sur les fraudes aux technologies de l'information de la sous-direction des affaires économiques et
+financières au titre de la finalité mentionnée au 6° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité d'un des services de cette direction régionale
+mentionnés aux alinéas précédents, apporter leur concours dans la mise en œuvre de la technique mentionnée au E du II du
+présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
+
+F.-Pour l'utilisation de la technique mentionnée au 1° du I de l'article L. 853-2 dans un lieu d'habitation et pour la seule
+finalité mentionnée au 4° de l'article L. 811-3 : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire :
+
+- la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la lutte contre la cybercriminalité au titre de la finalité mentionnée au 4° de l'article L. 811-3 ; 
+
+b) A la direction centrale de la sécurité publique :
+
+- l'unité nationale de recherche et d'appui du service central du renseignement territorial au titre de la finalité
+mentionnée au 4° de l'article L. 811-3. 
+
+Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
+de la direction centrale de la police judiciaire individuellement désignés et habilités peuvent, sous la responsabilité des
+services et unités mentionnés au 1° du F du II du présent article, apporter leur concours dans la mise en œuvre de la
+technique mentionnée au F du II du présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi :
+
+- la sous-direction de l'anticipation opérationnelle au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
+
+- la sous-direction de la police judiciaire au titre de la finalité mentionnée au 4° de l'article L. 811-3. 
+
+Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance et du
+service central de renseignement criminel individuellement désignés et habilités peuvent, sous la responsabilité d'une des
+unités de la gendarmerie nationale mentionnées au 2° du F du II du présent article, apporter leur concours dans la mise en
+œuvre de la technique mentionnée au F du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements
+ainsi collectés ; 
+
+3° Services placés sous l'autorité du préfet de police : 
+
+a) A la direction du renseignement :
+
+- la sous-direction de la sécurité intérieure au titre de la finalité mentionnée au 4° de l'article L. 811-3 ; 
+
+b) A la direction régionale de la police judiciaire de Paris :
+
+- la section antiterroriste de la brigade criminelle de la sous-direction des brigades centrales au titre de la finalité
+mentionnée au 4° de l'article L. 811-3. 
+
+Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
+individuellement désignés et habilités peuvent, sous la responsabilité du service de cette direction régionale mentionné à
+l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au F du II du présent article.
+Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
 
 	**Cité par**:
 
@@ -79947,6 +80336,11 @@ douanières ”.
 
 	**Cite**:
 
+	  - Code de la sécurité intérieure - art. L811-3
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L851-5
+	  - Code de la sécurité intérieure - art. L853-1
+	  - Code de la sécurité intérieure - art. L853-2
 	  - Code de la sécurité intérieure - art. L853-3
 
 
@@ -79963,20 +80357,139 @@ douanières ”.
 
 ###### Article R895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
-désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
-**Nota:**
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
-publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
-24 juillet 2015 relative au renseignement.
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre Ier 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 811-1 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 811-2 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre V 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 851-1 à R. 851-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 852-1 et R. 852-2 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1185 du 28 septembre 2015
+	  - Décret n°2015-1639 du 11 décembre 2015
+	  - Code de la sécurité intérieure
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. R811-1
+	  - Code de la sécurité intérieure - art. R811-2
+	  - Code de la sécurité intérieure - art. R851-1
+	  - Code de la sécurité intérieure - art. R852-1
+	  - Code de la sécurité intérieure - art. R853-1
+
+	**Modifié par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 6
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie 
@@ -79985,28 +80498,278 @@ publication au Journal officiel de la République française du décret mentionn
 
 ###### Article R896-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
-désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre Ier 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 811-1 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 811-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre V 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 851-1 à R. 851-4 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 852-1 et R. 852-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1185 du 28 septembre 2015
+	  - Décret n°2015-1639 du 11 décembre 2015
+	  - Code de la sécurité intérieure
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. R811-1
+	  - Code de la sécurité intérieure - art. R811-2
+	  - Code de la sécurité intérieure - art. R851-1
+	  - Code de la sécurité intérieure - art. R852-1
+	  - Code de la sécurité intérieure - art. R853-1
+
+	**Modifié par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 7
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
 
 ###### Article R897-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant du décret n° 2015-1185 du 28 septembre 2015 portant
-désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+Sont applicables à Wallis-et-Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre Ier 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 811-1 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 811-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre V 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 851-1 à R. 851-4 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 852-1 et R. 852-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1185 du 28 septembre 2015
+	  - Décret n°2015-1639 du 11 décembre 2015
+	  - Code de la sécurité intérieure
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. R811-1
+	  - Code de la sécurité intérieure - art. R811-2
+	  - Code de la sécurité intérieure - art. R851-1
+	  - Code de la sécurité intérieure - art. R852-1
+	  - Code de la sécurité intérieure - art. R853-1
+
+	**Modifié par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 8
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises 
@@ -80015,14 +80778,139 @@ désignation des services spécialisés de renseignement, les titres Ier à VIII
 
 ###### Article R898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant du décret n° 2015-1185
-du 28 septembre 2015 portant désignation des services spécialisés de renseignement, les titres Ier à VIII du présent livre.
+Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre Ier 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 811-1 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 811-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Au titre V 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+R. 851-1 à R. 851-4 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+R. 852-1 et R. 852-2 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
+spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+	  - Décret n°2015-1185 du 28 septembre 2015
+	  - Décret n°2015-1639 du 11 décembre 2015
+	  - Code de la sécurité intérieure
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. R811-1
+	  - Code de la sécurité intérieure - art. R811-2
+	  - Code de la sécurité intérieure - art. R851-1
+	  - Code de la sécurité intérieure - art. R852-1
+	  - Code de la sécurité intérieure - art. R853-1
+
+	**Modifié par**:
+
+	  - Décret n°2015-1639 du 11 décembre 2015 - art. 9
 
 
 ## Annexes
