@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-13
+Version Consolidée au 2015-12-14
 
 # Partie législative
 
@@ -74573,7 +74573,7 @@ f) Une unité de production de matières radioactives à usage militaire ;
 g) Une unité de fabrication, d'assemblage ou de mise en œuvre d'éléments intégrant des matières radioactives à usage
 militaire ; 
 
-2° Les installations classées définies par le décret prévu au IV de l'article L. 515-8 du code de l'environnement ; 
+2° Les installations classées définies par le décret prévu à l'article L. 515-36 du code de l'environnement ; 
 
 3° Les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, ou de produits chimiques à
 destination industrielle visés à l'article L. 211-2 du code minier ; 
@@ -74592,13 +74592,16 @@ que les établissements utilisant des micro-organismes ou toxines mentionnés au
 code de la santé publique ; 
 
 7° Les installations de gestion des déchets de l'industrie extractive classés dans la catégorie A conformément aux critères
-définis à l'annexe III de la directive 2006/21/ CE du Parlement européen et du Conseil du 15 mars 2006.
+définis à l'annexe III de la directive 2006/21/ CE du Parlement européen et du Conseil du 15 mars 2006. 
+
+Le plan particulier d'intervention est élaboré dans un délai de deux ans à compter de la transmission par l'exploitant des
+informations nécessaires à l'élaboration du plan.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2005-1158 du 13 septembre 2005 - art. 1 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -74616,21 +74619,18 @@ définis à l'annexe III de la directive 2006/21/ CE du Parlement européen et d
 	  - Code de la sécurité intérieure - art. R741-32 (VD)
 	  - Code de la sécurité intérieure - art. R741-33 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-1652 du 11 décembre 2015 - art. 2
+	  - Décret n°2015-1652 du 11 décembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L5139-1 (M)
-	  - Code de la santé publique - art. R5139-25 (M)
-	  - Code de l'environnement - art. L515-8 (M)
-	  - Code de l'environnement - art. L551-2 (M)
-	  - Code minier (nouveau) - art. L211-2 (V)
+	  - Code de la santé publique - art. L5139-1
+	  - Code de la santé publique - art. R5139-25 (V)
+	  - Code de l'environnement - art. L515-36 (V)
+	  - Code de l'environnement - art. L551-2
+	  - Code minier (nouveau) - art. L211-2
 
 
 ###### Article R741-19
@@ -75001,30 +75001,25 @@ cas définis à l'article R. 741-24, il est adressé aux autorités de l'Etat vo
 
 ###### Article R741-29
 
-Les dispositions des articles R. 741-25 à R. 741-28 s'appliquent lors de la révision du plan particulier d'intervention au
-moins tous les cinq ans prévue à l'article L. 741-5, et selon les modalités définies à la section 1 du présent chapitre, à
-l'exception des plans exigés au titre des 2° ou 3° de l'article R. 741-18 pour lesquels la périodicité de révision du plan
-est de trois ans.
+Le plan particulier d'intervention est révisé au moins tous les cinq ans, à l'exception des plans exigés au titre des 2° ou
+3° de l'article R. 741-18 pour lesquels la périodicité de révision du plan est de trois ans. Les dispositions des articles R.
+741-25 à R. 741-27 s'appliquent en cas de modification substantielle du plan particulier d'intervention ou d'évolution
+significative des risques.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1158 du 13 septembre 2005 - art. 8, V (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-1652 du 11 décembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L741-5 (V)
-	  - Code de la sécurité intérieure - art. R741-18 (VD)
-	  - Code de la sécurité intérieure - art. R741-25 (VD)
+	  - Code de la sécurité intérieure - art. R741-18 (V)
+	  - Code de la sécurité intérieure - art. R741-25 (V)
 
 
 ###### Article R741-30
@@ -75046,7 +75041,8 @@ distribution de la brochure à toutes les personnes résidant dans cette zone ou
 situation d'urgence, sans que ces personnes aient à en faire la demande, et procèdent à l'affichage prévu à l'article R.
 125-12 du code de l'environnement. 
 
-Ces documents sont également placés dans les lieux publics mentionnés au premier alinéa du présent article. 
+Ces documents sont également placés dans les lieux publics mentionnés au premier alinéa du présent article et mis à la
+disposition du public par voie électronique par le préfet. 
 
 La brochure est mise à jour régulièrement, et en tout état de cause lors des modifications apportées aux installations en
 cause ou à leur mode d'utilisation, de nature à entraîner un changement notable des risques, et lors de la révision du plan
@@ -75065,9 +75061,9 @@ l'information devant y figurer.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2005-1158 du 13 septembre 2005 - art. 9 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -75075,19 +75071,15 @@ l'information devant y figurer.
 	  - Arrêté du 10 mars 2006 - art. 2 (V)
 	  - Code de la sécurité intérieure - art. R741-31 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2015-1652 du 11 décembre 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L125-2 (M)
-	  - Code de l'environnement - art. R125-12 (V)
-	  - Code de la sécurité intérieure - art. R741-18 (VD)
+	  - Code de l'environnement - art. L125-2 (V)
+	  - Code de l'environnement - art. R125-12
+	  - Code de la sécurité intérieure - art. R741-18
 
 
 ###### Article R741-31
