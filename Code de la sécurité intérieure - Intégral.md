@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-14
+Version Consolidée au 2015-12-23
 
 # Partie législative
 
@@ -16067,6 +16067,29 @@ copie est remise immédiatement au responsable de l'entreprise.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
+###### Article L634-3-1
+
+Les dispositions applicables aux échanges d'informations entre les agents habilités par le directeur du Conseil national des
+activités privées de sécurité et les agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail sont définies à
+l'article L. 8271-6-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+
+	**Cite**:
+
+	  - Code du travail - art. L8271-1-2 (V)
+	  - Code du travail - art. L8271-6-3 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L645-1 (M)
+	  - Code de la sécurité intérieure - art. L647-1 (M)
+
+
 ##### Section 2 : Sanctions disciplinaires
 
 ###### Article L634-4
@@ -16162,7 +16185,10 @@ par les mots : " à l'article L. 620-3 du code du travail applicable à Mayotte 
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " à l'article L. 610-8 du code du travail applicable à
 Mayotte " ; 
 
-8° A l'article L. 634-3, les mots : " à l'article L. 1221-13 du code du travail " sont remplacés par les mots : " à l'article
+7° bis A l'article L. 634-3-1, les mots : "à l'article L. 8271-1-2 du code du travail" sont remplacés par les mots : "aux
+articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15 du code du travail applicable à Mayotte" ; 
+
+8° A l'article L. 634-3, les mots : "à l'article L. 1221-13 du code du travail " sont remplacés par les mots : " à l'article
 L. 620-3 du code du travail applicable à Mayotte ".
 
 **Liens relatifs à cet article**
@@ -16173,7 +16199,7 @@ L. 620-3 du code du travail applicable à Mayotte ".
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 56
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
 
 	**Cite**:
 
@@ -16301,12 +16327,12 @@ République en Polynésie française ;
 3° En Polynésie française, la commission régionale d'agrément et de contrôle est dénommée " commission locale d'agrément et
 de contrôle " ; 
 
-3° bis Le 2° de l'article L. 611-1 est ainsi rédigé :
+3° bis Le 2° de l'article L. 611-1 est ainsi rédigé : 
 
-"2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux, à l'exception des perles et des bijoux
+" 2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux, à l'exception des perles et des bijoux
 montés avec des perles, représentant une valeur d'au moins 100 000 €, des fonds, sauf, pour les employés de l'office des
 postes et des télécommunications de Polynésie française ou des établissements de crédit habilités par leur employeur, lorsque
-leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; "
+leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; " 
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
@@ -16339,7 +16365,7 @@ dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés
 applicables localement " ; 
 
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
 
 9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ; 
 
@@ -16349,6 +16375,10 @@ les mots : " conformément aux dispositions applicables localement " et les mots
 localement " ; 
 
 11° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
+
+11° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
+remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
+localement " ; 
 
 12° A l'article L. 634-2 : 
 
@@ -16370,22 +16400,26 @@ locale.
 	**Cite**:
 
 	  - Ordonnance n°2000-372 du 26 avril 2000
-	  - Code de procédure civile - art. 493
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-1 (V)
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
 	  - Code de la sécurité intérieure - art. L612-2
 	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-21 (V)
+	  - Code de la sécurité intérieure - art. L612-24 (V)
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L614-1 (V)
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
+	  - Code de la sécurité intérieure - art. L634-3 (V)
+	  - Code de la sécurité intérieure - art. L634-3-1 (V)
 
 	**Codifié par**:
 
@@ -16393,7 +16427,7 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 57
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
@@ -16456,6 +16490,10 @@ localement " ;
 
 12° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
 
+12° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
+remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
+localement " ; 
+
 13° A l'article L. 634-2 : 
 
 a) Au premier alinéa, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première
@@ -16483,13 +16521,14 @@ locale.
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2 (V)
+	  - Code de la sécurité intérieure - art. L612-2
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L614-1 (V)
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 	  - Code de la sécurité intérieure - art. L634-3
@@ -16500,7 +16539,7 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-994 du 17 août 2015 - art. 40
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -16525,10 +16564,10 @@ télécommunications de Wallis-et-Futuna ” ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ;
+supprimés ; 
 
-4° bis Au premier alinéa de l'article L. 612-2, la référence : "à L. 613-11" est remplacée par la référence : "et L.
-613-9" ; 
+4° bis Au premier alinéa de l'article L. 612-2, la référence : " à L. 613-11 " est remplacée par la référence : " et L. 613-9
+" ; 
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
@@ -16563,6 +16602,10 @@ localement " ;
 
 11° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
 
+11° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
+remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
+localement " ; 
+
 12° Au premier alinéa de l'article L. 634-2, les mots : " tribunal de grande instance " sont remplacés par les mots : "
 tribunal de première instance " ; 
 
@@ -16580,28 +16623,31 @@ monnaie locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-994 du 17 août 2015 - art. 40
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
 
 	**Cite**:
 
 	  - Code rural - art. L214-2
-	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
+	  - Code de la sécurité intérieure - art. L611-1 (V)
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-2 (V)
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
+	  - Code de la sécurité intérieure - art. L614-1 (V)
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 	  - Code de la sécurité intérieure - art. L634-3
+	  - Code de la sécurité intérieure - art. L634-3-1 (V)
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises
