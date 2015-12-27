@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-23
+Version Consolidée au 2015-12-28
 
 # Partie législative
 
@@ -57662,6 +57662,105 @@ de la formation des agents de la fonction publique communale en Polynésie fran�
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
+
+###### Article D546-1-1
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 546-2-1, les dispositions du
+présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
+droite du même tableau :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td>
+
+Au titre Ier 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 511-3 à D. 511-10 
+
+</td>
+      <td>
+
+Résultant du 
+décret n° 2015-1773 du 24 décembre 2015
+pris pour l'application de l'
+article L. 511-4 du code de la sécurité intérieure
+en Nouvelle-Calédonie 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1773 du 24 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-4
+
+
+###### Article D546-2-1
+
+Pour l'application des dispositions énumérées à l'article D. 546-1-1 : 
+
+1° L'article D. 511-3 est ainsi rédigé : 
+
+" Art. D. 511-3.-Dans les communes employant des agents de police municipale, la carte professionnelle prévue à l'article L.
+511-4 est remise à chaque agent par le maire. 
+
+" La carte professionnelle comporte les mentions et les éléments définis par un arrêté du haut-commissaire de la République
+en Nouvelle-Calédonie. " ;  
+
+2° Aux articles D. 511-4 et D. 511-5, les mots : " ou au président de l'établissement public de coopération intercommunale "
+sont supprimés ; 
+
+3° Aux articles D. 511-6 et D. 511-9, les mots : " arrêté du ministre de l'intérieur pris après avis de la commission
+consultative des polices municipales " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
+
+4° Aux articles D. 511-6 et D. 511-9, les mots : ", pour toutes les polices municipales, " sont supprimés ; 
+
+5° L'article D. 511-7 est ainsi rédigé : 
+
+" Art. D. 511-7.-Chaque commune ayant recruté et mis à disposition sur le territoire d'une autre commune un ou plusieurs
+agents de police municipale en application de l'article L. 512-1 doit, quand ces agents appartiennent à des brigades
+spécialisées ou exercent des missions autres que de service général, les doter des tenues mentionnées au 2° de l'article D.
+511-6. " 
+
+6° A l'article D. 511-8, les mots : " ou, quand, les agents de police municipale ont été recrutés par un établissement public
+de coopération intercommunale, par le président de cet établissement. " sont supprimés ; 
+
+7° A l'article D. 511-10, la référence au chapitre III du titre Ier du livre III du code de la route est remplacée par la
+référence aux articles du code de la route de la Nouvelle-Calédonie ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1773 du 24 décembre 2015 - art. 1
+
 
 ###### Article R546-1
 
