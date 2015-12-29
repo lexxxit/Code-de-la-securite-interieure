@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-28
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -79228,6 +79228,60 @@ gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités 
 	  - Code de la sécurité intérieure - art. L811-4
 
 
+### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT 
+
+
+
+
+
+
+###### Article R841-2
+
+Relèvent des dispositions de l'article L. 841-2 du présent code les  traitements ou parties de traitements automatisés de
+données à caractère  personnel intéressant la sûreté de l'Etat autorisés par les actes  réglementaires ou dispositions
+suivants : 
+
+1°  Décret portant création au profit de la direction générale de la  sécurité intérieure d'un traitement automatisé de
+données à caractère  personnel dénommé CRISTINA ; 
+
+2° Décret portant  application des dispositions de l'article 31 de la loi n° 78-17 du 6  janvier 1978 aux fichiers
+d'informations nominatives mis en œuvre par la  direction générale de la sécurité extérieure ; 
+
+3° Décret autorisant la mise en œuvre par la direction de la protection  et de la sécurité de la défense d'un traitement
+automatisé de données à  caractère personnel dénommé SIREX ; 
+
+4° Décret  portant application des dispositions de l'article 31 de la loi n° 78-17  du 6 janvier 1978 au fichier
+d'informations nominatives mis en œuvre par  la direction du renseignement militaire ; 
+
+5° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé FSPRT ; 
+
+6° Décret n° 2010-569 du 28 mai 2010 portant création du fichier des  personnes recherchées, pour les seules données
+intéressant la sûreté de  l'Etat mentionnées au 8° du III de l'article 2 de ce décret ; 
+
+7° Article R. 231-4 du code de la sécurité intérieure, pour les seules  données mentionnées au 2° de l'article R. 231-7 du
+même code ; 
+
+8° Arrêté relatif à la création d'un système de traitement automatisé  de données à caractère personnel dénommé STARTRAC mis
+en œuvre par le  service à compétence nationale TRACFIN, pour les seules données  intéressant la sûreté de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 31
+	  - Décret n°2010-569 du 28 mai 2010
+	  - Code de la sécurité intérieure
+
+	**Cité par**:
+
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 88 (V)
+	  - Décret n°2016-725 du 1er juin 2016 (V)
+
+	**Créé par**:
+
+	  - Décret n°2015-1808 du 28 décembre 2015 - art. 1
+
+
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION 
 
 
@@ -80517,8 +80571,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80546,13 +80600,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  
+
+</td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80626,7 +80692,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 6
+	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie 
@@ -80658,8 +80724,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80687,13 +80753,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80767,7 +80845,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 7
+	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -80797,8 +80875,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80826,13 +80904,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80906,7 +80996,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 8
+	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises 
@@ -80938,8 +81028,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80967,13 +81057,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV 
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -81047,7 +81149,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 9
+	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
 ## Annexes
