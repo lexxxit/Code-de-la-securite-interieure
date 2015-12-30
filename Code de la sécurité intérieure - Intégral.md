@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2015-12-31
 
 # Partie législative
 
@@ -31245,7 +31245,7 @@ c) A la direction générale de la gendarmerie nationale :
 - à la direction des opérations et de l'emploi : la sous-direction de la police judiciaire ; la sous-direction de
 l'anticipation opérationnelle ;
 
-- au pôle judiciaire : le service technique de recherches judiciaires et de documentation ;
+- au pôle judiciaire : le       service central de renseignement criminel de la gendarmerie nationale  ;
 
 - les sections de recherches ; 
 
@@ -31286,18 +31286,18 @@ en tant qu'elles concernent les services mentionnés à l'article R. 811-2 du co
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
+	  - Décret n°2015-1805 du 28 décembre 2015 - art. 5 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 10 (V)
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L246-1 (V)
-	  - Code de la sécurité intérieure - art. L246-2 (V)
+	  - Code de la sécurité intérieure - art. L246-1
+	  - Code de la sécurité intérieure - art. L246-2
 
 
 ###### Article R246-3
@@ -32922,40 +32922,40 @@ Les agents de la police nationale, de la direction générale de la sécurité i
 nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
 des services ci-après : 
 
-a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
-- les services de la direction générale de la sécurité intérieure ; 
+- les services de la direction générale de la sécurité intérieure ;
 
-- l'unité de coordination de la lutte antiterroriste ; 
+- l'unité de coordination de la lutte antiterroriste ;
 
-- l'état-major de la direction centrale de la police judiciaire ; 
+- l'état-major de la direction centrale de la police judiciaire ;
 
-- la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+- la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
 - la sous-direction chargée de la lutte contre le terrorisme et les extrémismes à potentialités violentes de la direction du
-renseignement de la préfecture de police ; 
+renseignement de la préfecture de police ;
 
-- l'état-major de la direction régionale de la police judiciaire de Paris ; 
+- l'état-major de la direction régionale de la police judiciaire de Paris ;
 
-- la section antiterroriste de la brigade criminelle de la police judiciaire de Paris ; 
+- la section antiterroriste de la brigade criminelle de la police judiciaire de Paris ;
 
 - le bureau de la lutte antiterroriste de la sous-direction de la police judiciaire de la direction générale de la
 gendarmerie nationale ; 
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
-aéroportuaires : 
+aéroportuaires :
 
-- les services et office centraux de la direction centrale de la police aux frontières ; 
+- les services et office centraux de la direction centrale de la police aux frontières ;
 
-- les directions et services de la police aux frontières des aéroports ; 
+- les directions et services de la police aux frontières des aéroports ;
 
 - les permanences des directions départementales de la sécurité publique sur le territoire desquelles existe une plate-forme
-aéroportuaire sur laquelle elles exercent l'autorité de police générale en aérogare ; 
+aéroportuaire sur laquelle elles exercent l'autorité de police générale en aérogare ;
 
 - les centres opérationnels et de renseignement des groupements de gendarmerie sur le territoire desquels existe une plate-
-forme aéroportuaire sur laquelle la gendarmerie exerce l'autorité de police générale en aérogare ; 
+forme aéroportuaire sur laquelle la gendarmerie exerce l'autorité de police générale en aérogare ;
 
-- le centre de renseignement opérationnel de la gendarmerie ; 
+- le centre de renseignement opérationnel de la gendarmerie ;
 
 - les unités de la gendarmerie des transports aériens. 
 
@@ -32964,13 +32964,13 @@ II.-Au titre de la prévention des actes de terrorisme :
 1° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
 au sein des services ci-après : 
 
-a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
 - la cellule chargée de la lutte antiterroriste au sein de la direction nationale du renseignement et des enquêtes
 douanières ; 
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
-aéroportuaires : 
+aéroportuaires :
 
 - les services centraux et territoriaux de la direction générale des douanes et droits indirects chargés de la lutte contre
 la fraude dans les transports internationaux ; 
@@ -32988,77 +32988,77 @@ pénale, du rassemblement des preuves de ces infractions et de la recherche de l
 nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
 des services ci-après : 
 
-a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
-- les services de la direction générale de la sécurité intérieure ; 
+- les services de la direction générale de la sécurité intérieure ;
 
-- l'état-major de la direction centrale de la police judiciaire ; 
+- l'état-major de la direction centrale de la police judiciaire ;
 
-- les services et offices centraux de la direction centrale de la police judiciaire ; 
+- les services et offices centraux de la direction centrale de la police judiciaire ;
 
-- les directions interrégionales et régionales de la direction centrale de la police judiciaire ; 
+- les directions interrégionales et régionales de la direction centrale de la police judiciaire ;
 
-- les services et office centraux de la direction centrale de la police aux frontières ; 
+- les services et office centraux de la direction centrale de la police aux frontières ;
 
-- l'état-major de la direction centrale de la sécurité publique ; 
+- l'état-major de la direction centrale de la sécurité publique ;
 
-- le centre de veille opérationnelle de la direction de la coopération internationale ; 
+- le centre de veille opérationnelle de la direction de la coopération internationale ;
 
-- la direction régionale de la police judiciaire de Paris ; 
+- la direction régionale de la police judiciaire de Paris ;
 
-- l'état-major de la direction de la sécurité de proximité de l'agglomération parisienne ; 
+- l'état-major de la direction de la sécurité de proximité de l'agglomération parisienne ;
 
-- la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ; 
+- la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ;
 
-- le service technique de recherches judiciaires et de documentation de la gendarmerie nationale ; 
+- le       service central de renseignement criminel de la gendarmerie nationale ;
 
-- les sections de recherches de la gendarmerie nationale ; 
+- les sections de recherches de la gendarmerie nationale ;
 
-- l'état-major de la gendarmerie des transports aériens ; 
+- l'état-major de la gendarmerie des transports aériens ;
 
 - les services territoriaux de premier niveau de la police nationale et de la gendarmerie nationale, pour le seul exercice
 des missions de police judiciaire dont ils sont saisis au titre de la répression des infractions mentionnées à l'article
-695-23 du code de procédure pénale ; 
+695-23 du code de procédure pénale ;
 
-- aux seules fins de prévention, les services du renseignement territorial ;  
+- aux seules fins de prévention, les services du renseignement territorial ; 
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
-aéroportuaires : 
+aéroportuaires :
 
 - les services visés au b du I du présent article ; 
 
 2° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
 au sein des services ci-après désignés : 
 
-a) Services habilités à formuler des requêtes à l'UIP et à en recevoir les réponses : 
+a) Services habilités à formuler des requêtes à l'UIP et à en recevoir les réponses :
 
-- les services centraux de la direction générale des douanes et droits indirects ; 
+- les services centraux de la direction générale des douanes et droits indirects ;
 
 - les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
-en métropole et outre-mer : 
+en métropole et outre-mer :
 
-- la direction nationale du renseignement et des enquêtes douanières ; 
+- la direction nationale du renseignement et des enquêtes douanières ;
 
-- les services chargés de l'orientation des contrôles au sein des directions des douanes ; 
+- les services chargés de l'orientation des contrôles au sein des directions des douanes ;
 
-- les cellules de ciblage ; 
+- les cellules de ciblage ;
 
 - les brigades des douanes chargées de la lutte contre l'immigration irrégulière et de la sûreté dans les transports
-internationaux ; 
+internationaux ;
 
-- les brigades des douanes chargées de la lutte contre la fraude dans les aéroports internationaux ; 
+- les brigades des douanes chargées de la lutte contre la fraude dans les aéroports internationaux ;
 
 - le service national de la douane judiciaire ; 
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
-aéroportuaires : 
+aéroportuaires :
 
-- les services centraux de la direction générale des douanes et droits indirects ; 
+- les services centraux de la direction générale des douanes et droits indirects ;
 
 - les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
-en métropole et outre-mer : 
+en métropole et outre-mer :
 
-- les centres de liaison interservices ; 
+- les centres de liaison interservices ;
 
 - les cellules de coordination des aéroports ; 
 
@@ -33074,32 +33074,32 @@ au sein de cette direction.
 V.-Au titre de la prévention des actes terroristes et des atteintes aux intérêts fondamentaux de la Nation : 
 
 1° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités
-affectés au sein : 
+affectés au sein :
 
-- de la direction du renseignement ; 
+- de la direction du renseignement ;
 
-- de la direction des opérations ; 
+- de la direction des opérations ;
 
-- de la direction technique ; 
+- de la direction technique ;
 
 - des services directement rattachés au directeur général ; 
 
 2° Les agents de la direction de la protection et de la sécurité de la défense, individuellement désignés et spécialement
-habilités, affectés au sein : 
+habilités, affectés au sein :
 
-- de la sous-direction de la contre-ingérence ; 
+- de la sous-direction de la contre-ingérence ;
 
-- de la sous-direction des centres nationaux d'expertises ; 
+- de la sous-direction des centres nationaux d'expertises ;
 
-- des directions zonales de protection et de sécurité de la défense ; 
+- des directions zonales de protection et de sécurité de la défense ;
 
 - de la direction de la sécurité économique en zone de défense et de sécurité de Paris ; 
 
-3° Les agents de la direction du renseignement militaire individuellement désignés et spécialement habilités : 
+3° Les agents de la direction du renseignement militaire individuellement désignés et spécialement habilités :
 
-- de la sous-direction des opérations ; 
+- de la sous-direction des opérations ;
 
-- de la sous-direction de l'exploitation ; 
+- de la sous-direction de l'exploitation ;
 
 - des unités rattachées au directeur du renseignement militaire. 
 
@@ -33108,51 +33108,51 @@ atteintes aux intérêts fondamentaux de la Nation, le directeur de l'Unité Inf
 individuellement désigné et spécialement habilité peut autoriser, après demande motivée et vérification que les conditions de
 la visualisation sont respectées, les agents individuellement désignés et spécialement habilités par le directeur général
 dont ils relèvent et affectés au sein des services ci-après, à être destinataires, pendant une durée maximale de sept jours,
-de l'ensemble des données collectées au sein du traitement dénommé " API-PNR France " : 
+de l'ensemble des données collectées au sein du traitement dénommé " API-PNR France " :
 
-- la direction générale de la sécurité extérieure ; 
+- la direction générale de la sécurité extérieure ;
 
 - la direction générale de la sécurité intérieure. 
 
 VII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés,
 pour les besoins de la prévention des seuls crimes et délits suivants et mentionnés à l'article 695-23 du code de procédure
-pénale : 
+pénale :
 
-- participation à une organisation criminelle ; 
+- participation à une organisation criminelle ;
 
-- terrorisme ; 
+- terrorisme ;
 
-- traite des êtres humains ; 
+- traite des êtres humains ;
 
-- exploitation sexuelle des enfants et pornographie infantile ; 
+- exploitation sexuelle des enfants et pornographie infantile ;
 
-- trafic illicite de stupéfiants et de substances psychotropes ; 
+- trafic illicite de stupéfiants et de substances psychotropes ;
 
-- trafic illicite d'armes, de munitions et d'explosifs ; 
+- trafic illicite d'armes, de munitions et d'explosifs ;
 
 - fraude y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du
-26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ; 
+26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ;
 
-- blanchiment du produit du crime ou du délit ; 
+- blanchiment du produit du crime ou du délit ;
 
-- faux monnayage, y compris la contrefaçon de l'euro ; 
+- faux monnayage, y compris la contrefaçon de l'euro ;
 
 - crimes et délits contre l'environnement, y compris le trafic illicite d'espèces animales menacées et le trafic illicite
-d'espèces et d'essences végétales menacées ; 
+d'espèces et d'essences végétales menacées ;
 
-- aide à l'entrée et au séjour irrégulier ; 
+- aide à l'entrée et au séjour irrégulier ;
 
-- trafic illicite d'organes et de tissus humains ; 
+- trafic illicite d'organes et de tissus humains ;
 
-- trafic illicite de biens culturels, y compris antiquités et œuvres d'art ; 
+- trafic illicite de biens culturels, y compris antiquités et œuvres d'art ;
 
-- contrefaçon et piratage de produits ; 
+- contrefaçon et piratage de produits ;
 
-- falsification de documents administratifs et trafic de faux ; 
+- falsification de documents administratifs et trafic de faux ;
 
-- falsification de moyens de paiement ; 
+- falsification de moyens de paiement ;
 
-- trafic illicite de substances hormonales et autres facteurs de croissance ; 
+- trafic illicite de substances hormonales et autres facteurs de croissance ;
 
 - trafic illicite de matières nucléaires et radioactives. 
 
@@ -33160,42 +33160,42 @@ Sont destinataires, selon les modalités prévues au VI, pendant une période ma
 destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
 
 Les agents de la police nationale et les militaires de la gendarmerie nationale, individuellement désignés et spécialement
-habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein : 
+habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein :
 
-- des services et office centraux de la direction centrale de la police aux frontières ; 
+- des services et office centraux de la direction centrale de la police aux frontières ;
 
-- des services et offices centraux de la direction centrale de la police judiciaire ; 
+- des services et offices centraux de la direction centrale de la police judiciaire ;
 
-- de la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+- de la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
-- du service technique de recherches judiciaires et de documentation de la gendarmerie nationale. 
+- du       service central de renseignement criminel de la gendarmerie nationale. 
 
 VIII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés
-pour les besoins de la prévention des seuls crimes et délits suivants : 
+pour les besoins de la prévention des seuls crimes et délits suivants :
 
-- trafic illicite de stupéfiants et de substances psychotropes ; 
+- trafic illicite de stupéfiants et de substances psychotropes ;
 
-- trafic illicite d'armes, de munitions et d'explosifs ; 
+- trafic illicite d'armes, de munitions et d'explosifs ;
 
 - fraude y compris fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26
-juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ; 
+juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ;
 
-- blanchiment du produit du crime ou du délit ; 
+- blanchiment du produit du crime ou du délit ;
 
 - crimes et délits contre l'environnement, y compris le trafic illicite d'espèces animales menacées et le trafic illicite
-d'espèces et d'essences végétales menacées ; 
+d'espèces et d'essences végétales menacées ;
 
-- trafic illicite d'organes et de tissus humains ; 
+- trafic illicite d'organes et de tissus humains ;
 
-- trafic illicite de biens culturels, y compris antiquités et œuvres d'art : 
+- trafic illicite de biens culturels, y compris antiquités et œuvres d'art :
 
-- contrefaçon et piratage de produits ; 
+- contrefaçon et piratage de produits ;
 
-- falsification de moyens de paiement ; 
+- falsification de moyens de paiement ;
 
-- trafic illicite de substances hormonales et autres facteurs de croissance ; 
+- trafic illicite de substances hormonales et autres facteurs de croissance ;
 
-- trafic illicite de matières nucléaires et radioactives ; et 
+- trafic illicite de matières nucléaires et radioactives ; et
 
 - délits douaniers connexes aux délits mentionnés par l'article 695-23 du code de procédure pénale. 
 
@@ -33203,13 +33203,13 @@ Sont destinataires, selon les modalités prévues au VI, pendant une période ma
 destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
 
 Les agents des douanes, individuellement désignés et spécialement habilités par le directeur général des douanes affectés au
-sein : 
+sein :
 
-- de la direction du renseignement douanier ; 
+- de la direction du renseignement douanier ;
 
-- des services territoriaux chargés de l'orientation des contrôles ; 
+- des services territoriaux chargés de l'orientation des contrôles ;
 
-- des brigades réalisant des opérations de ciblage aérien ; 
+- des brigades réalisant des opérations de ciblage aérien ;
 
 - des cellules de ciblage aérien.
 
@@ -33219,7 +33219,6 @@ sein :
 
 	  - Décret n°2010-569 du 28 mai 2010 - art. 11 (V)
 	  - Décret n°2016-1523 du 10 novembre 2016 - art. 1
-	  - Code de la sécurité intérieure - art. R232-14 (V)
 	  - Code de la sécurité intérieure - art. R285-1 (V)
 	  - Code de la sécurité intérieure - art. R286-1 (V)
 	  - Code de la sécurité intérieure - art. R287-1 (V)
@@ -33227,7 +33226,7 @@ sein :
 
 	**Modifié par**:
 
-	  - Décret n°2015-1328 du 21 octobre 2015 - art. 3
+	  - Décret n°2015-1805 du 28 décembre 2015 - art. 5 (V)
 
 	**Cite**:
 
@@ -33406,6 +33405,125 @@ clandestins ".
 
 	  - Code de procédure pénale - art. 230-6 (V)
 	  - Code de la sécurité intérieure - art. L234-2 (V)
+
+
+###### Article R234-3
+
+I.-Peuvent avoir accès aux traitements automatisés de données à  caractère personnel mentionnés à l'article 230-6 du code de
+procédure  pénale dans les conditions prévues à l'article L. 234-4 du présent code  les agents individuellement désignés et
+habilités des services  mentionnés aux articles L. 811-2 et L. 811-4 suivants : 
+
+1° Pour les besoins liés à la protection des intérêts mentionnés au 1° de l'article L. 811-3 : 
+
+a) La direction générale de la sécurité extérieure ; 
+
+b) La direction de la protection et de la sécurité de la défense ; 
+
+c) La direction du renseignement militaire ; 
+
+d) La direction générale de la sécurité intérieure ; 
+
+e) Le service à compétence nationale dénommé “ traitement du  renseignement et action contre les circuits financiers
+clandestins ” ; 
+
+f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+
+g) Les services du renseignement territorial de la direction centrale  de la sécurité publique placés sous l'autorité du
+directeur général de  la police nationale ; 
+
+h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+
+- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+
+- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+
+2° Pour les besoins liés à la protection des intérêts mentionnés au 4° de l'article L. 811-3 : 
+
+a) La direction générale de la sécurité extérieure ; 
+
+b) La direction de la protection et de la sécurité de la défense ; 
+
+c) La direction du renseignement militaire ; 
+
+d) La direction générale de la sécurité intérieure ; 
+
+e) Le service à compétence nationale dénommé “ traitement du  renseignement et action contre les circuits financiers
+clandestins ” ; 
+
+f) La direction nationale du renseignement et des enquêtes douanières ; 
+
+g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+
+- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+
+h) Les services suivants placés sous l'autorité du directeur général de la police nationale : 
+
+- les services du renseignement territorial de la direction centrale de la sécurité publique ; 
+
+- l'office  central de lutte contre la criminalité liée aux technologies de  l'information et de la communication de la
+direction centrale de la  police judiciaire ; 
+
+- la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+
+- l'unité de coordination de la lutte antiterroriste ; 
+
+i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+
+- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+
+- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+
+- les sections de recherches de la gendarmerie nationale ; 
+
+j) Les services suivants placés sous l'autorité du préfet de police : 
+
+- la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+
+- la sous-direction du renseignement territorial de la direction du renseignement ; 
+
+- la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ; 
+
+3° Pour les besoins liés à la protection des intérêts mentionnés au 5° de l'article L. 811-3 : 
+
+a) La direction générale de la sécurité extérieure ; 
+
+b) La direction de la protection et de la sécurité de la défense ; 
+
+c) La direction générale de la sécurité intérieure ; 
+
+d) Les services du renseignement territorial de la direction centrale  de la sécurité publique placés sous l'autorité du
+directeur général de  la police nationale ; 
+
+e) La sous-direction de  l'anticipation opérationnelle de la direction des opérations et de  l'emploi placée sous l'autorité
+du directeur général de la gendarmerie  nationale ; 
+
+f) Les services suivants placés sous l'autorité du préfet de police : 
+
+- la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+
+- la sous-direction du renseignement territorial de la direction du renseignement. 
+
+II.-Seuls peuvent avoir accès aux traitements automatisés de données à  caractère personnel mentionnés à l'article 230-6 du
+code de procédure  pénale sur la base de l'article L. 234-4 du présent code les agents des  services mentionnés au I
+individuellement désignés et habilités par le  directeur dont ils relèvent. 
+
+L'accès des services  aux traitements est limité à la consultation et ne peut donner lieu à  aucune interconnexion avec
+d'autres traitements. 
+
+Les dispositions de l'article R. 40-30 du code de procédure pénale sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1807 du 28 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 230-6
+	  - Code de procédure pénale - art. R40-30
 
 
 #### Chapitre VI : Autres traitements automatisés de données personnelles
@@ -36940,6 +37058,12 @@ R. 234-2
 dispositions concernant la défense et la sécurité nationale</td>
     </tr>
     <tr>
+      <td align="center">R. 234-3 </td>
+      <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
+agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
+l'article L. 234-4 du code de la sécurité intérieure </td>
+    </tr>
+    <tr>
       <td>
 
 R. 236-1 à R. 236-45
@@ -37072,7 +37196,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
+	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
 
 	**Cité par**:
 
@@ -37380,6 +37504,12 @@ R. 234-2
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
+      <td align="center"> R. 234-3</td>
+      <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
+agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
+l'article L. 234-4 du code de la sécurité intérieure </td>
+    </tr>
+    <tr>
       <td>
 
 R. 236-1 à R. 236-45
@@ -37489,7 +37619,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
+	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
 
 	**Cite**:
 
@@ -37745,8 +37875,8 @@ ressortissants français projetant de participer à des activités terroristes �
 Au titre III 
 
 </td>
-      <td align="center">
-    </td></tr>
+      <td align="center"> </td>
+    </tr>
     <tr>
       <td align="center">
 R. 232-1 à R. 232-5-1 
@@ -37814,6 +37944,12 @@ R. 234-2
       <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale </td>
+    </tr>
+    <tr>
+      <td align="center"> R. 234-3</td>
+      <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
+agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
+l'article L. 234-4 du code de la sécurité intérieure </td>
     </tr>
     <tr>
       <td>
@@ -37923,7 +38059,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
+	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
 
 	**Cite**:
 
@@ -38239,6 +38375,12 @@ ressortissants français projetant de participer à des activités terroristes �
 </td>
     </tr>
     <tr>
+      <td align="center">R. 234-3 </td>
+      <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
+agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
+l'article L. 234-4 du code de la sécurité intérieure </td>
+    </tr>
+    <tr>
       <td align="center">
 R. 236-1 à R. 236-45 
 
@@ -38256,8 +38398,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 Au titre IV 
 
 </td>
-      <td align="center">
-    </td></tr>
+      <td align="center"> </td>
+    </tr>
     <tr>
       <td align="center">
 R. 241-1 et R. 241-2 
@@ -38345,7 +38487,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
+	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
 
 	**Cité par**:
 
