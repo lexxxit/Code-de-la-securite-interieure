@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-28
 
 # Partie législative
 
@@ -17785,16 +17785,18 @@ Par ailleurs, elles peuvent assurer des actions d'enseignement et de formation e
 
 Dans les conditions déterminées au préalable par une convention signée, après information du comité départemental de l'aide
 médicale urgente, de la permanence des soins et des transports sanitaires, avec le centre hospitalier siège du service d'aide
-médicale urgente et le service départemental d'incendie et de secours, les équipes secouristes des associations agréées au
-titre de l'article L. 725-1 du présent code et de l'article L. 6312-2 du code de la santé publique peuvent, dans le cadre des
-dispositifs prévisionnels de secours et après accord du médecin régulateur du service d'aide médicale urgente, apporter leur
-concours aux missions de secours d'urgence aux personnes.
+médicale urgente et le service d'incendie et de secours, les équipes secouristes des associations agréées au titre de
+l'article L. 725-1 du présent code peuvent, dans le cadre des dispositifs prévisionnels de secours et après accord du médecin
+régulateur du service d'aide médicale urgente, apporter leur concours aux missions de secours d'urgence aux personnes.
+
+Cette convention peut également prévoir que ces associations agréées effectuent des évacuations d'urgence de victimes dans le
+prolongement des dispositifs prévisionnels de secours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2004-811 du 13 août 2004 - art. 37 (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -17805,35 +17807,39 @@ concours aux missions de secours d'urgence aux personnes.
 	  - Code de la sécurité intérieure - art. L766-2 (V)
 	  - Code de la sécurité intérieure - art. R725-13 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 215
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L6312-2
-	  - Code de la sécurité intérieure - art. L725-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L725-1
 
 
 ###### Article L725-5
 
 Pour l'exercice des compétences énumérées à l'article L. 725-3, les associations agréées dans les conditions prévues à
-l'article L. 725-1 peuvent conclure avec l'Etat, le service départemental d'incendie et de secours ou la commune une
-convention précisant les missions qui peuvent leur être confiées, les moyens en personnel et en matériel qu'elles mettent en
-œuvre, les conditions d'engagement et d'encadrement de leurs équipes, les délais d'engagement et les durées d'intervention.
-La convention précise également, le cas échéant, les modalités financières de la participation de l'association. 
+l'article L. 725-1 peuvent conclure avec l'Etat, le service d'incendie et de secours ou la commune une convention précisant
+les missions qui peuvent leur être confiées, les moyens en personnel et en matériel qu'elles mettent en œuvre, les conditions
+d'engagement et d'encadrement de leurs équipes, les délais d'engagement et les durées d'intervention. La convention précise
+également, le cas échéant, les modalités financières de la participation de l'association. 
 
 Les conventions mentionnées au précédent alinéa sont conclues annuellement. Elles sont reconductibles.
 
+Dans le ressort de la brigade des sapeurs-pompiers de Paris et du bataillon de marins-pompiers de Marseille, une convention
+identique à celle mentionnée au premier alinéa du présent article peut prévoir que ces associations réalisent des évacuations
+d'urgence de victimes lorsqu'elles participent aux opérations de secours mentionnées à l'article L. 725-3.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2004-811 du 13 août 2004 - art. 38 (Ab)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 215
 
 	**Cité par**:
 
@@ -17844,16 +17850,8 @@ Les conventions mentionnées au précédent alinéa sont conclues annuellement. 
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L725-1 (V)
-	  - Code de la sécurité intérieure - art. L725-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L725-1
+	  - Code de la sécurité intérieure - art. L725-3
 
 
 ###### Article L725-6
