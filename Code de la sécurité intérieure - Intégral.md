@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-02-01
 
 # Partie législative
 
@@ -30678,826 +30678,6 @@ géographiques où ces moyens seront employés.
 	  - Code pénal - art. R431-5, III (VT)
 
 
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
-
-#### Chapitre Ier : Dispositions générales
-
-###### Article R241-1
-
-Le groupement interministériel de contrôle est un service du Premier ministre chargé des interceptions de sécurité et de
-l'accès administratif aux données de connexion dans les conditions fixées aux chapitres II et VI du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R241-6 (V)
-	  - Code de la sécurité intérieure - art. R241-7 (V)
-	  - Code de la sécurité intérieure - art. R285-1 (M)
-	  - Code de la sécurité intérieure - art. R286-1 (M)
-	  - Code de la sécurité intérieure - art. R287-1 (M)
-	  - Code de la sécurité intérieure - art. R288-1 (M)
-
-
-###### Article R241-2
-
-Le directeur du groupement interministériel de contrôle est nommé par arrêté du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R241-3 (V)
-	  - Code de la sécurité intérieure - art. R241-4 (V)
-
-
-#### Chapitre II : Conditions des interceptions
-
-##### Section 1 : Groupement interministériel de contrôle
-
-###### Article R242-2
-
-Le groupement interministériel de contrôle a pour missions : 
-
-1° De soumettre au Premier ministre les propositions d'interception présentées dans les conditions fixées par l'article L.
-242-1 ; 
-
-2° D'assurer la centralisation de l'exécution des interceptions de sécurité autorisées ; 
-
-3° De veiller à l'établissement du relevé d'opération prévu par l'article L. 242-4, ainsi qu'à la destruction des
-enregistrements effectués, dans les conditions fixées par l'article L. 242-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-497 du 12 avril 2002 - art. 2 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L242-4
-	  - Code de la sécurité intérieure - art. L242-6
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R285-1 (M)
-	  - Code de la sécurité intérieure - art. R286-1 (M)
-	  - Code de la sécurité intérieure - art. R287-1 (M)
-	  - Code de la sécurité intérieure - art. R288-1 (M)
-
-
-##### Section 2 : Réalisation des opérations matérielles  nécessaires à la mise en place des interceptions
-
-###### Article R242-4
-
-Ne peuvent être tenus pour qualifiés, pour répondre à l'ordre du ministre chargé des communications électroniques prévu par
-l'article L. 242-9, que les agents techniquement compétents qui : 
-
-1° Sont employés depuis au moins deux ans chez le même opérateur de communications électroniques ; 
-
-2° N'ont fait l'objet d'aucune condamnation pénale inscrite au bulletin n° 2 de leur casier judiciaire. 
-
-La liste des agents ne relevant pas du statut de la fonction publique pressentis est adressée au procureur de la République,
-qui indique ceux des agents qui satisfont à cette dernière condition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-119 du 28 janvier 1993 - art. 1, sauf ecqc les réquisitions judiciaires (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-9
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-5 (Ab)
-	  - Code de la sécurité intérieure - art. R242-7 (Ab)
-
-
-###### Article R242-5
-
-L'ordre du ministre chargé des communications électroniques prévu par l'article L. 242-9 est adressé par écrit au responsable
-spécialement désigné par l'opérateur de communications électroniques, figurant sur la liste prévue à l'article R. 242-6. 
-
-L'ordre doit indiquer tous les éléments d'identification de la liaison à intercepter ainsi que la durée de l'interception. 
-
-Le responsable intimé désigne par écrit l'un des agents mentionnés à l'article R. 242-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-119 du 28 janvier 1993 - art. 2, sauf ecqc les réquisitions judiciaires (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-9
-	  - Code de la sécurité intérieure - art. R242-4
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-6 (Ab)
-	  - Code de la sécurité intérieure - art. R242-7 (Ab)
-	  - Code de la sécurité intérieure - art. R242-8 (Ab)
-
-
-###### Article R242-6
-
-Le ministre chargé des communications électroniques établit la liste des responsables compétents pour recevoir l'ordre prévu
-par l'article L. 242-9, en application de l'article R. 242-5. 
-
-Ne peuvent être retenus que des responsables : 
-
-1° Employés depuis au moins deux ans chez le même opérateur de communications électroniques ; 
-
-2° Qui n'ont fait l'objet d'aucune condamnation pénale inscrite au bulletin n° 2 de leur casier judiciaire. 
-
-La liste des responsables pressentis par l'opérateur de communications électroniques est adressée au procureur de la
-République, qui indique ceux des agents qui satisfont à cette dernière condition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-119 du 28 janvier 1993 - art. 3, sauf ecqc les réquisitions judiciaires (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-9
-	  - Code de la sécurité intérieure - art. R242-5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R242-7 (Ab)
-	  - Code de la sécurité intérieure - art. R242-8 (Ab)
-
-
-###### Article R242-7
-
-Le responsable figurant sur la liste prévue à l'article R. 242-6 assure la confidentialité des informations relatives à
-l'identité des agents mentionnés à l'article R. 242-4 et désignés en application du dernier alinéa de l'article R. 242-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-119 du 28 janvier 1993 - art. 4, sauf ecqc les réquisitions judiciaires (V)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R242-4 (Ab)
-	  - Code de la sécurité intérieure - art. R242-5
-	  - Code de la sécurité intérieure - art. R242-6
-
-
-###### Article R242-8
-
-Le responsable figurant sur la liste prévue à l'article R. 242-6 rappelle à l'agent, lorsqu'il le désigne en application du
-dernier alinéa de l'article R. 242-5, les obligations découlant de l'article L. 245-1 du présent code et de l'article 432-9
-du code pénal ainsi que les peines encourues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-119 du 28 janvier 1993 - art. 5, sauf ecqc les réquisitions judiciaires (V)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code pénal - art. 432-9
-	  - Code de la sécurité intérieure - art. L245-1
-	  - Code de la sécurité intérieure - art. R242-5 (Ab)
-	  - Code de la sécurité intérieure - art. R242-6 (Ab)
-
-
-#### Chapitre IV : Obligations des opérateurs et prestataires de services
-
-###### Article R244-1
-
-L'obligation mise à la charge des fournisseurs de prestations de cryptologie par l'article L. 244-1 résulte d'une décision
-écrite et motivée émanant du Premier ministre ou de l'une des deux personnes spécialement déléguées par lui en application
-des dispositions de l'article L. 242-1. 
-
-La décision qui suspend cette obligation est prise dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-67 du 29 janvier 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L244-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R244-2 (T)
-	  - Code de la sécurité intérieure - art. R244-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R871-1 (V)
-
-
-###### Article R244-2
-
-Les décisions prises en application de l'article R. 244-1 sont notifiées au fournisseur de prestations de cryptologie et
-communiquées sans délai au président de la Commission nationale de contrôle des interceptions de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 2 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-67 du 29 janvier 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R244-1
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R871-2 (V)
-
-
-###### Article R244-3
-
-Les conventions mentionnées à l'article L. 244-1 s'entendent des clés cryptographiques ainsi que de tout moyen logiciel ou de
-toute autre information permettant la mise au clair de ces données.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 3 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-67 du 29 janvier 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R871-3 (V)
-
-
-###### Article R244-4
-
-La décision mentionnée au premier alinéa de l'article R. 244-1 : 
-
-1° Indique la qualité des agents habilités à demander au fournisseur de prestations de cryptologie la mise en œuvre ou la
-remise des conventions mentionnées à l'article L. 244-1, ainsi que les modalités selon lesquelles les données à déchiffrer
-lui sont, le cas échéant, transmises ; 
-
-2° Fixe le délai dans lequel les opérations doivent être réalisées, les modalités selon lesquelles, dès leur achèvement, le
-fournisseur remet aux agents mentionnés au 1° du présent article les résultats obtenus ainsi que les pièces qui lui ont été
-éventuellement transmises ; 
-
-3° Prévoit, dès qu'il apparaît que les opérations sont techniquement impossibles, que le fournisseur remet aux agents
-mentionnés au 1° les pièces qui lui ont été éventuellement transmises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 4 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-67 du 29 janvier 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1
-	  - Code de la sécurité intérieure - art. R244-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R871-4 (V)
-
-
-###### Article R244-5
-
-Les fournisseurs prennent toutes dispositions, notamment d'ordre contractuel, afin que soit respectée la confidentialité des
-informations dont ils ont connaissance relativement à la mise en œuvre ou à la remise des conventions mentionnées à l'article
-L. 244-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 5 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-67 du 29 janvier 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R871-5 (V)
-
-
-###### Article R244-6
-
-L'intégralité des frais liés à la mise en œuvre de l'obligation prévue par l'article L. 244-1 est prise en charge, sur la
-base des frais réellement exposés par le fournisseur et dûment justifiés par celui-ci, par le budget des services du Premier
-ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-997 du 16 juillet 2002 - art. 6 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L244-1
-
-
-#### Chapitre VI : Accès administratif aux données de connexion
-
-###### Article R246-1
-
-Pour l'application de l'article L. 246-1, les informations et les documents pouvant faire, à l'exclusion de tout autre,
-l'objet d'une demande de recueil sont ceux énumérés aux articles R. 10-13 et R. 10-14 du code des postes et des
-communications électroniques et à l'article 1er du décret n° 2011-219 du 25 février 2011 modifié relatif à la conservation et
-à la communication des données permettant d'identifier toute personne ayant contribué à la création d'un contenu mis en
-ligne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2011-219 du 25 février 2011 - art. 1
-	  - Code des postes et des communications électroniques - art. R10-13
-	  - Code de la sécurité intérieure - art. L246-1
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R285-1 (M)
-	  - Code de la sécurité intérieure - art. R286-1 (M)
-	  - Code de la sécurité intérieure - art. R287-1 (M)
-	  - Code de la sécurité intérieure - art. R288-1 (M)
-
-
-###### Article R246-2
-
-I.-Pour l'application du I de l'article L. 246-2, les services relevant des ministres chargés de la sécurité intérieure, de
-la défense, de l'économie et du budget dont les agents peuvent solliciter les informations et les documents mentionnés à
-l'article L. 246-1 sont : 
-
-1° Au ministère de l'intérieur : 
-
-a) La direction générale de la sécurité intérieure ; 
-
-b) A la direction générale de la police nationale :
-
-- l'unité de coordination de la lutte antiterroriste ;
-
-- la direction centrale de la police judiciaire ;
-
-- à la direction centrale de la sécurité publique : le service central du renseignement territorial ; les services
-départementaux du renseignement territorial et les sûretés départementales au sein des directions départementales de la
-sécurité publique ;
-
-- à la direction centrale de la police aux frontières : l'office central pour la répression de l'immigration irrégulière et
-de l'emploi d'étrangers sans titre au sein de la sous-direction de l'immigration irrégulière et des services territoriaux ; 
-
-c) A la direction générale de la gendarmerie nationale :
-
-- à la direction des opérations et de l'emploi : la sous-direction de la police judiciaire ; la sous-direction de
-l'anticipation opérationnelle ;
-
-- au pôle judiciaire : le       service central de renseignement criminel de la gendarmerie nationale  ;
-
-- les sections de recherches ; 
-
-d) A la préfecture de police :
-
-- la direction du renseignement ;
-
-- la direction régionale de la police judiciaire ;
-
-- à la direction de la sécurité de proximité de l'agglomération parisienne : le service transversal d'agglomération des
-événements au sein de la sous-direction des services spécialisés de l'agglomération ; la cellule de suivi du plan de lutte
-contre les bandes au sein de la sous-direction de la police d'investigation territoriale ; la sûreté régionale des transports
-au sein de la sous-direction régionale de la police des transports ; les sûretés territoriales au sein des directions
-territoriales de sécurité de proximité ; 
-
-2° Au ministère de la défense : 
-
-a) La direction générale de la sécurité extérieure ; 
-
-b) La direction de la protection et de la sécurité de la défense ; 
-
-c) La direction du renseignement militaire ; 
-
-3° Au ministère des finances et des comptes publics : 
-
-a) Le service à compétence nationale dénommé direction nationale du renseignement et des enquêtes douanières ; 
-
-b) Le service à compétence nationale dénommé traitement du renseignement et action contre les circuits financiers
-clandestins. 
-
-II.-Seuls peuvent solliciter ces informations et ces documents les agents individuellement désignés et dûment habilités par
-le directeur dont ils relèvent.
-
-**Nota:**
-
-Aux termes de l'article 10 du décret n° 2015-1639 du 11 décembre 2015, les dispositions de l'article R. 246-2 sont abrogées
-en tant qu'elles concernent les services mentionnés à l'article R. 811-2 du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-1805 du 28 décembre 2015 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-1
-	  - Code de la sécurité intérieure - art. L246-2
-
-
-###### Article R246-3
-
-Afin de permettre la désignation de la personnalité qualifiée mentionnée au II de l'article L. 246-2 et de ses adjoints, le
-Premier ministre transmet à la Commission nationale de contrôle des interceptions de sécurité, pour chaque poste à pourvoir,
-une liste d'au moins trois personnes choisies en raison de leur compétence et de leur impartialité. Ces propositions sont
-motivées. Elles sont adressées à la commission au moins trois mois avant le terme du mandat de la personnalité qualifiée et
-de ses adjoints. La commission désigne, au sein des listes, la personnalité qualifiée et ses adjoints deux mois au plus tard
-après avoir reçu les propositions. 
-
-Toute décision désignant la personnalité qualifiée et ses adjoints est notifiée sans délai au Premier ministre par la
-commission et publiée au Journal officiel de la République française. 
-
-Les adjoints de la personnalité qualifiée sont au maximum au nombre de quatre.
-
-**Nota:**
-
-Ces dispositions entrent en vigueur le 1er janvier 2015. Toutefois, les délais mentionnés à l'article R. 246-3 du code de la
-sécurité intérieure ne sont pas applicables à la première désignation, après l'entrée en vigueur du décret n° 2014-1576 du 24
-décembre 2014, de la personnalité qualifiée et de ses adjoints mentionnés au II de l'article L. 246-2 du même code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-2
-
-
-###### Article R246-4
-
-Les demandes de recueil d'informations ou de documents prévues à l'article L. 246-2 comportent : 
-
-a) Le nom, le prénom et la qualité du demandeur ainsi que son service d'affectation et l'adresse de celui-ci ; 
-
-b) La nature précise des informations ou des documents dont le recueil est demandé et, le cas échéant, la période
-concernée ; 
-
-c) La date de la demande et sa motivation au regard des finalités mentionnées à l'article L. 241-2.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-	  - Code de la sécurité intérieure - art. L246-2
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R246-6 (Ab)
-
-
-###### Article R246-5
-
-Le Premier ministre enregistre et conserve pendant une durée maximale de trois ans, dans un traitement automatisé qu'il met
-en œuvre, les demandes des agents et les décisions de la personnalité qualifiée ou de ses adjoints. 
-
-Ces demandes et ces décisions sont automatiquement effacées du traitement, sous l'autorité du Premier ministre, à
-l'expiration de la durée de conservation. Le directeur du groupement interministériel de contrôle adresse chaque année à la
-Commission nationale de contrôle des interceptions de sécurité un procès-verbal certifiant que l'effacement a été effectué.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R246-6 (Ab)
-	  - Code de la sécurité intérieure - art. R246-7 (Ab)
-	  - Code de la sécurité intérieure - art. R246-8 (Ab)
-
-
-###### Article R246-6
-
-Les demandes approuvées par la personnalité qualifiée ou par ses adjoints sont adressées par le groupement interministériel
-de contrôle, sans les éléments mentionnés aux a et c de l'article R. 246-4, aux opérateurs et aux personnes mentionnés à
-l'article L. 246-1. Ces derniers transmettent sans délai les informations ou les documents demandés au groupement
-interministériel de contrôle, qui les met à disposition de l'auteur de la demande pour exploitation. 
-
-La transmission des informations ou des documents par les opérateurs et les personnes mentionnés à l'article L. 246-1 au
-groupement interministériel de contrôle est effectuée selon des modalités assurant leur sécurité, leur intégrité et leur
-suivi. 
-
-Le Premier ministre enregistre et conserve pendant une durée maximale de trois ans, dans un traitement automatisé qu'il met
-en œuvre, les informations ou les documents transmis par les opérateurs et les personnes mentionnés à l'article L. 246-1. Ces
-informations ou ces documents sont automatiquement effacés du traitement dans les conditions prévues à l'article R. 246-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-1
-	  - Code de la sécurité intérieure - art. R246-4 (Ab)
-	  - Code de la sécurité intérieure - art. R246-5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R246-7 (Ab)
-
-
-###### Article R246-7
-
-Les demandes de recueil d'informations ou de documents, impliquant sollicitation du réseau et transmission en temps réel,
-prévues à l'article L. 246-3 comportent, outre leur date et leur motivation au regard des finalités mentionnées à l'article
-L. 241-2, la nature précise des informations ou des documents dont le recueil est demandé et la durée de ce recueil. 
-
-Les demandes des ministres ou des personnes spécialement désignées par eux et les décisions du Premier ministre ou des
-personnes spécialement désignées par lui sont enregistrées, conservées et effacées dans les conditions prévues à l'article R.
-246-5. 
-
-Les demandes approuvées par le Premier ministre ou par les personnes spécialement désignées par lui sont adressées par le
-groupement interministériel de contrôle, sans leur motivation, aux opérateurs et aux personnes mentionnés à l'article L.
-246-1. 
-
-La sollicitation du réseau prévue à l'article L. 246-3 est effectuée par l'opérateur qui exploite le réseau. Les informations
-ou les documents demandés sont transmis, enregistrés, conservés et effacés dans les conditions prévues à l'article R. 246-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-	  - Code de la sécurité intérieure - art. L246-3
-	  - Code de la sécurité intérieure - art. R246-5
-	  - Code de la sécurité intérieure - art. R246-6 (Ab)
-
-
-###### Article R246-8
-
-La Commission nationale de contrôle des interceptions de sécurité dispose d'un accès permanent aux traitements automatisés
-mentionnés aux articles R. 246-5, R. 246-6 et R. 246-7. 
-
-L'autorité ayant approuvé une demande de recueil d'informations ou de documents fournit à la commission tous éclaircissements
-que celle-ci sollicite sur cette demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R246-5 (Ab)
-
-
-###### Article R246-9
-
-Les coûts identifiables et spécifiques supportés par les opérateurs et les personnes mentionnés à l'article L. 246-1 pour la
-transmission des informations ou des documents font l'objet d'un remboursement par l'Etat par référence aux tarifs et selon
-des modalités fixés par un arrêté des ministres chargés de la sécurité intérieure, de la défense, de l'économie, du budget et
-des communications électroniques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1576 du 24 décembre 2014 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-1
-
-
 ### TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION
 
 #### Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés
@@ -37067,45 +36247,6 @@ code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simple
     <tr>
       <td align="center">
 
-Au titre IV 
-
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-R. 241-1 et R. 241-2 
-</td>
-      <td align="center">
-
-Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
-
-</td>
-      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
-code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 246-1 à R. 246-9 
-
-</td>
-      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
-    </tr>
-    <tr>
-      <td align="center">
-
 Au titre V 
 
 </td>
@@ -37186,7 +36327,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cité par**:
 
@@ -37494,7 +36635,7 @@ R. 234-2
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
-      <td align="center"> R. 234-3</td>
+      <td align="center">R. 234-3</td>
       <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
 agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
 l'article L. 234-4 du code de la sécurité intérieure </td>
@@ -37509,45 +36650,6 @@ R. 236-1 à R. 236-45
 code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Au titre IV 
-
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-R. 241-1 et R. 241-2 
-</td>
-      <td align="center">
-
-Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
-
-</td>
-      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
-code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 246-1 à R. 246-9
-
-</td>
-      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -37609,7 +36711,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cite**:
 
@@ -37865,8 +36967,8 @@ ressortissants français projetant de participer à des activités terroristes �
 Au titre III 
 
 </td>
-      <td align="center"> </td>
-    </tr>
+      <td align="center">
+    </td></tr>
     <tr>
       <td align="center">
 R. 232-1 à R. 232-5-1 
@@ -37936,7 +37038,7 @@ R. 234-2
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
-      <td align="center"> R. 234-3</td>
+      <td align="center">R. 234-3</td>
       <td>Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des
 agents des services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de
 l'article L. 234-4 du code de la sécurité intérieure </td>
@@ -37949,45 +37051,6 @@ R. 236-1 à R. 236-45
 </td>
       <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
 code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Au titre IV 
-
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-R. 241-1 et R. 241-2 
-</td>
-      <td align="center">
-
-Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 242-2, R. 242-4 à R. 242-8 et R. 244-1 à R. 244-6 
-
-</td>
-      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
-code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 246-1 à R. 246-9
-
-</td>
-      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
     </tr>
     <tr>
       <td align="center">
@@ -38049,7 +37112,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cite**:
 
@@ -38385,43 +37448,6 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="center">
 
-Au titre IV 
-
-</td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="center">
-R. 241-1 et R. 241-2 
-</td>
-      <td align="center">
-
-Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 242-2 
-
-</td>
-      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
-code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 246-1 à R. 246-9 
-
-</td>
-      <td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion </td>
-    </tr>
-    <tr>
-      <td align="center">
-
 Au titre V 
 
 </td>
@@ -38477,7 +37503,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1807 du 28 décembre 2015 - art. 2
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 5
 
 	**Cité par**:
 
@@ -79360,6 +78386,69 @@ gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités 
 	  - Code de la sécurité intérieure - art. L811-4
 
 
+### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION 
+
+
+
+#### Chapitre Ier : De l'autorisation de mise en œuvre
+
+###### Article R821-1
+
+Seuls peuvent mettre en œuvre les techniques de recueil de renseignement mentionnées au titre V du présent livre les agents
+individuellement désignés et habilités par le ministre ou, par délégation, par le directeur dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 1
+
+
+#### Chapitre III : Des organes compétents
+
+###### Article R823-1
+
+Le groupement interministériel de contrôle est un service du Premier ministre chargé de : 
+
+1° Enregistrer les demandes de mise en œuvre des techniques de recueil de renseignement mentionnées à l'article L. 821-2 et
+aux II et III de l'article L. 854-2 ; 
+
+2° Enregistrer les autorisations de mise en œuvre des techniques de recueil de renseignement mentionnées à l'article L. 821-4
+et aux I, II et III de l'article L. 854-2 ; 
+
+3° Recueillir et conserver les informations ou documents mentionnés à l'article L. 851-1 dans les conditions fixées au
+chapitre Ier du titre V du présent livre ; 
+
+4° Centraliser l'exécution des interceptions de sécurité autorisées en application du I de l'article L. 852-1 et de l'article
+L. 854-8 ainsi que les opérations de transcription et d'extraction des communications interceptées ; 
+
+5° Contribuer à la centralisation des renseignements collectés lors de la mise en œuvre des techniques de recueil de
+renseignement autres que celles mentionnées aux 3° et 4° ; 
+
+6° Concourir à la traçabilité de l'exécution des techniques de recueil de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. D823-3 (V)
+
+
+###### Article R823-2
+
+Le directeur du groupement interministériel de contrôle est nommé par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 1
+
+
 ### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT 
 
 
@@ -79420,6 +78509,8 @@ en œuvre par le  service à compétence nationale TRACFIN, pour les seules donn
 #### Chapitre Ier : Des accès administratifs aux données de connexion 
 
 
+
+##### Section 1 : Services autres que les services spécialisés de renseignement pouvant être autorisés à accéder aux données de connexion
 
 ###### Article R851-1
 
@@ -79507,9 +78598,9 @@ titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+	  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 	**Cité par**:
 
@@ -79525,6 +78616,60 @@ titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 	  - Code de la sécurité intérieure - art. L811-3
 	  - Code de la sécurité intérieure - art. L811-4
 	  - Code de la sécurité intérieure - art. L851-1
+
+
+###### Article R851-1-1
+
+Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
+utiliser la technique mentionnée à l'article L. 851-2 au titre de la prévention du terrorisme sont les suivants : 
+
+1° Services placés sous l'autorité du directeur général de la police nationale : 
+
+a) A la direction centrale de la police judiciaire : 
+
+- la sous-direction antiterroriste ; 
+
+- la sous-direction de la lutte contre la cybercriminalité ; 
+
+- les unités de lutte antiterroriste des directions interrégionales et régionales de police judiciaire ; 
+
+b) A la direction centrale de la sécurité publique : 
+
+- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial ; 
+
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+
+a) A la direction des opérations et de l'emploi : 
+
+- la sous-direction de l'anticipation opérationnelle ; 
+
+- la sous-direction de la police judiciaire ; 
+
+b) Les groupes d'appui et de renseignement des sections de recherches de la gendarmerie nationale ; 
+
+3° Services placés sous l'autorité du préfet de police de Paris : 
+
+a) A la direction du renseignement : 
+
+- la sous-direction de la sécurité intérieure ; 
+
+- la sous-direction du renseignement territorial ; 
+
+b) A la direction régionale de la police judiciaire de Paris : 
+
+- la section antiterroriste de la brigade criminelle et la brigade de recherche et d'intervention de la sous-direction des
+brigades centrales ; 
+
+4° Services placés sous l'autorité d'emploi du ministre de la défense : 
+
+- les groupes d'appui et de renseignement des sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air
+et de la gendarmerie de l'armement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 
 ###### Article R851-2
@@ -79610,9 +78755,9 @@ titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+	  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 	**Cite**:
 
@@ -79729,9 +78874,9 @@ exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+	  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 	**Cite**:
 
@@ -79829,15 +78974,169 @@ exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
+	  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L811-3
 	  - Code de la sécurité intérieure - art. L811-4
 	  - Code de la sécurité intérieure - art. L851-6
+
+
+##### Section 2 : Données de connexion susceptibles d'être recueillies
+
+###### Article R851-5
+
+I.-Les informations ou documents mentionnés à l'article L. 851-1 sont, à l'exclusion du contenu des correspondances échangées
+ou des informations consultées : 
+
+1° Ceux énumérés aux articles R. 10-13 et R. 10-14 du code des postes et des communications électroniques et à l'article 1er
+du décret n° 2011-219 du 25 février 2011 modifié relatif à la conservation et à la communication des données permettant
+d'identifier toute personne ayant contribué à la création d'un contenu mis en ligne ; 
+
+2° Les données techniques autres que celles mentionnées au 1° : 
+
+a) Permettant de localiser les équipements terminaux ; 
+
+b) Relatives à l'accès des équipements terminaux aux réseaux ou aux services de communication au public en ligne ; 
+
+c) Relatives à l'acheminement des communications électroniques par les réseaux ; 
+
+d) Relatives à l'identification et à l'authentification d'un utilisateur, d'une connexion, d'un réseau ou d'un service de
+communication au public en ligne ; 
+
+e) Relatives aux caractéristiques des équipements terminaux et aux données de configuration de leurs logiciels. 
+
+II.-Seuls les informations et documents mentionnés au 1° du I peuvent être recueillis en application de l'article L. 851-1.
+Ce recueil a lieu en temps différé. 
+
+Les informations énumérées au 2° du I ne peuvent être recueillies qu'en application des articles L. 851-2 et L. 851-3 dans
+les conditions et limites prévues par ces articles et sous réserve de l'application de l'article R. 851-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
+
+
+##### Section 3 : Conditions d'accès aux données de connexion
+
+###### Article R851-6
+
+I.-Les demandes tendant au recueil mentionné à l'article L. 851-1 comportent, outre les éléments énumérés à l'article L.
+821-2, la nature précise des informations ou documents dont le recueil est demandé et, le cas échéant, la période concernée. 
+
+Seuls peuvent solliciter les informations et documents mentionnés au deuxième alinéa de l'article L. 851-1 les agents
+individuellement désignés et habilités par le directeur dont ils relèvent. La demande comporte alors également le nom, le
+prénom et la qualité du demandeur ainsi que son service d'affectation et l'adresse de celui-ci. A défaut, lorsque l'anonymat
+de l'agent concerné doit être préservé, la demande comporte toute indication permettant à la Commission nationale de contrôle
+des techniques de renseignement et au Premier ministre ou à ses délégués de vérifier l'identité du demandeur. 
+
+II.-Le groupement interministériel de contrôle enregistre et conserve dans les mêmes conditions de durée que celles prévues à
+l'article L. 822-2 pour les renseignements collectés, dans un traitement automatisé qu'il met en œuvre, les demandes tendant
+au recueil mentionné à l'article L. 851-1 ainsi que les décisions du Premier ministre ou de ses délégués relatives à ces
+demandes. 
+
+Les demandes et les décisions sont automatiquement effacées du traitement, sous l'autorité du Premier ministre, à
+l'expiration de la durée de conservation. Le directeur du groupement interministériel de contrôle adresse chaque année à la
+Commission nationale de contrôle des techniques de renseignement un procès-verbal certifiant que l'effacement a été
+effectué. 
+
+III.-Lorsqu'une demande tendant au recueil mentionné à l'article L. 851-1 a été approuvée par le Premier ministre ou ses
+délégués, le groupement interministériel de contrôle adresse aux opérateurs et aux personnes mentionnés à l'article L. 851-1
+l'ordre de procéder au recueil, qui ne peut faire état des éléments prévus aux 2° à 4° de l'article L. 821-2 et au second
+alinéa du I du présent article. 
+
+Les opérateurs et les personnes mentionnés à l'article L. 851-1 transmettent sans délai les informations ou documents
+demandés au groupement interministériel de contrôle, selon des modalités assurant leur sécurité, leur intégrité et leur
+suivi. 
+
+IV.-Le groupement interministériel de contrôle enregistre et conserve dans les conditions prévues à l'article L. 822-2, dans
+un traitement automatisé qu'il met en œuvre, les informations ou documents transmis et les met à disposition des demandeurs
+pour exploitation. Ces informations ou documents sont automatiquement effacés du traitement dans les conditions prévues au
+second alinéa du II du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
+
+
+###### Article R851-7
+
+I.-Les demandes tendant au recueil mentionné à l'article L. 851-2 comportent, outre les éléments énumérés à l'article L.
+821-2, la nature précise des informations ou documents dont le recueil est demandé. 
+
+II.-Le groupement interministériel de contrôle enregistre, conserve et efface, dans les conditions prévues au II de l'article
+R. 851-6, les demandes tendant au recueil mentionné à l'article L. 851-2 ainsi que les décisions du Premier ministre ou de
+ses délégués relatives à ces demandes. 
+
+III.-Lorsqu'une demande tendant au recueil mentionné à l'article L. 851-2 a été présentée par un service mentionné à
+l'article R. 851-1-1 et approuvée par le Premier ministre ou l'un de ses délégués, le groupement interministériel de contrôle
+recueille en temps réel, sur les réseaux des opérateurs et des personnes mentionnés à l'article L. 851-1, les informations ou
+documents demandés. 
+
+IV.-Lorsque les informations ou documents demandés ont été recueillis en application du III du présent article, le groupement
+interministériel de contrôle les enregistre, conserve et efface, dans les conditions prévues au IV de l'article R. 851-6, et
+les met à disposition des demandeurs pour exploitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
+
+
+###### Article R851-8
+
+I.-Le groupement interministériel de contrôle enregistre, conserve et efface, dans les conditions prévues au II de l'article
+R. 851-6, les demandes tendant au recueil mentionné à l'article L. 851-4 ainsi que les décisions du Premier ministre ou de
+ses délégués relatives à ces demandes. 
+
+II.-Lorsqu'une demande tendant au recueil mentionné à l'article L. 851-4 a été approuvée par le Premier ministre ou ses
+délégués, il est procédé comme au III de l'article R. 851-6. La transmission des données techniques demandées intervient en
+temps réel sur sollicitation du réseau par l'opérateur qui l'exploite. 
+
+III.-Le groupement interministériel de contrôle enregistre, conserve et efface, dans les conditions prévues au IV de
+l'article R. 851-6, les données techniques transmises et les met à disposition des demandeurs pour exploitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
+
+
+###### Article R851-9
+
+Les informations ou documents recueillis en application du présent chapitre ne peuvent, sans l'autorisation prévue à
+l'article L. 852-1 ou à l'article L. 853-2, être exploités aux fins d'accéder au contenu de correspondances échangées ou
+d'informations consultées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
+
+
+###### Article R851-10
+
+La Commission nationale de contrôle des techniques de renseignement dispose d'un accès permanent, complet, direct et immédiat
+aux traitements automatisés prévus aux articles R. 851-6 à R. 851-8. 
+
+Le Premier ministre ou ses délégués fournissent à la commission tous éclaircissements qu'elle sollicite sur les demandes
+qu'ils ont approuvées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 
 #### Chapitre II : Des interceptions de sécurité 
@@ -80667,6 +79966,247 @@ Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 	  - Code de la sécurité intérieure - art. L853-3
 
 
+### TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES 
+
+
+
+#### Chapitre Ier : Obligations en matière de cryptologie
+
+###### Article R871-1
+
+L'obligation mise à la charge des fournisseurs de prestations de cryptologie par l'article L. 871-1 résulte d'une décision
+écrite et motivée émanant du Premier ministre ou de l'une des personnes spécialement déléguées par lui en application des
+dispositions de l'article L. 821-4. 
+
+La décision qui suspend cette obligation est prise dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L821-4
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. R244-1 (T)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R871-2 (V)
+
+
+###### Article R871-2
+
+Les décisions prises en application de l'article R. 871-1 sont notifiées au fournisseur de prestations de cryptologie et
+communiquées sans délai au président de la Commission nationale de contrôle des techniques de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. R244-2 (T)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R871-1
+
+
+###### Article R871-3
+
+Les conventions mentionnées à l'article L. 871-1 s'entendent des clés cryptographiques ainsi que de tout moyen logiciel ou de
+toute autre information permettant la mise au clair de ces données.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. R244-3 (T)
+
+
+###### Article R871-4
+
+La décision mentionnée au premier alinéa de l'article R. 871-1 : 
+
+1° Indique la qualité des agents habilités à demander au fournisseur de prestations de cryptologie la mise en œuvre ou la
+remise des conventions mentionnées à l'article L. 871-1, ainsi que les modalités selon lesquelles les données à déchiffrer
+lui sont, le cas échéant, transmises ; 
+
+2° Fixe le délai dans lequel les opérations doivent être réalisées, les modalités selon lesquelles, dès leur achèvement, le
+fournisseur remet aux agents mentionnés au 1° du présent article les résultats obtenus ainsi que les pièces qui lui ont été
+éventuellement transmises ; 
+
+3° Prévoit, dès qu'il apparaît que les opérations sont techniquement impossibles, que le fournisseur remet aux agents
+mentionnés au 1° les pièces qui lui ont été éventuellement transmises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. R244-4 (T)
+
+
+###### Article R871-5
+
+Les fournisseurs prennent toutes dispositions, notamment d'ordre contractuel, afin que soit respectée la confidentialité des
+informations dont ils ont connaissance relativement à la mise en œuvre ou à la remise des conventions mentionnées à l'article
+L. 871-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L871-1
+
+	**Anciens textes**:
+
+	  - Code de la sécurité intérieure - art. R244-5 (T)
+
+
+#### Chapitre II : Obligations liées à la mise en place des techniques de renseignement
+
+###### Article R872-1
+
+Ne peuvent être tenus pour qualifiés, pour répondre à l'ordre du Premier ministre prévu par l'article L. 871-6, que les
+agents techniquement compétents qui : 
+
+1° Ont été habilités, s'il y a lieu, à connaître d'éléments couverts par le secret de la défense nationale ; 
+
+2° N'ont fait l'objet d'aucune condamnation pénale inscrite au bulletin n° 2 de leur casier judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R872-2
+
+L'ordre du Premier ministre est adressé par tout moyen sécurisé au responsable spécialement désigné par l'opérateur ou la
+personne mentionnés à l'article L. 871-4, figurant sur la liste prévue à l'article R. 872-3. 
+
+L'ordre doit indiquer tous les éléments d'identification permettant de mettre en œuvre les techniques de renseignement
+conformément à l'autorisation accordée par le Premier ministre. 
+
+Le responsable intimé désigne par écrit l'un des agents mentionnés à l'article R. 872-1 et assure la traçabilité des
+opérations effectuées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R872-3
+
+Le ministre chargé des communications électroniques établit la liste des responsables compétents pour recevoir l'ordre prévu
+par l'article L. 871-6, en application de l'article R. 872-2. 
+
+Ne peuvent être retenus que des responsables satisfaisant les conditions fixées à l'article R. 872-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R872-4
+
+Le responsable figurant sur la liste prévue à l'article R. 872-3 assure la confidentialité des informations relatives à
+l'identité des agents mentionnés à l'article R. 872-1 et désignés en application du dernier alinéa de l'article R. 872-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R872-5
+
+Le responsable figurant sur la liste prévue à l'article R. 872-3 rappelle à l'agent, lorsqu'il le désigne en application du
+dernier alinéa de l'article R. 872-2, les obligations découlant de l'article L. 881-1 du présent code et des articles 432-9
+et, le cas échéant, 413-9 à 413-11 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R872-6
+
+L'opérateur ou la personne mentionnés à l'article L. 871-4 désignent, le cas échéant, un officier de sécurité assurant le
+respect de la réglementation relative au secret de la défense nationale, notamment concernant l'habilitation des agents et
+des responsables prévue aux articles R. 872-1 et R. 872-3, la gestion des informations ou supports classifiés et la sécurité
+des locaux abritant de telles informations ou de tels supports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+#### Chapitre III : Compensations financières
+
+###### Article R873-1
+
+L'intégralité des frais liés à la mise en œuvre de l'obligation prévue par l'article L. 871-1 est prise en charge, sur la
+base des frais réellement exposés par le fournisseur et dûment justifiés par celui-ci, par le budget des services du Premier
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
+###### Article R873-2
+
+Les coûts identifiables et spécifiques supportés par les opérateurs et personnes mentionnés à l'article L. 851-1 pour que
+soient mises en œuvre les techniques de recueil de renseignement mentionnées aux articles L. 851-1 à L. 851-4 et L. 852-1
+sont remboursés par l'Etat selon des tarifs et des modalités fixés par un arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 3
+
+
 ### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER 
 
 
@@ -80703,8 +80243,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
@@ -80732,16 +80272,32 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td>Au titre IV  </td>
+        <td> Au titre II </td>
         <td> </td>
       </tr>
       <tr>
-        <td>R. 841-2  
+        <td> R. 821-1 
+
+</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 823-1 et R. 823-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
+
+</td>
+      </tr>
+      <tr>
+        <td>Au titre IV </td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 841-2 
 
 </td>
         <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
 requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
       </tr>
       <tr>
         <td align="left">
@@ -80749,21 +80305,37 @@ l'Etat, pris en application de l'article L. 841-2 du code de la sécurité inté
 Au titre V 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
-R. 851-1 à R. 851-4 
+R. 851-1 
 
 </td>
         <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
 
 </td>
+      </tr>
+      <tr>
+        <td> R. 851-1-1</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 851-2 à R. 851-4</td>
+        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
+sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td> R. 851-5 à R. 851-10</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -80805,6 +80377,22 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 </td>
       </tr>
+      <tr>
+        <td> Au titre VII </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> R. 871-1 à R. 871-5</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 872-1 à R. 872-6</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 873-1 et R. 873-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      </tr>
     </tbody>
   </table>
 
@@ -80824,7 +80412,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 4
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie 
@@ -80856,15 +80444,15 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
 R. 811-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -80876,7 +80464,7 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 R. 811-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -80885,16 +80473,30 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td>Au titre IV  
-
-</td>
+        <td> Au titre II </td>
         <td> </td>
       </tr>
       <tr>
-        <td>R. 841-2  </td>
+        <td> R. 821-1 
+
+</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 823-1 et R. 823-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td>Au titre IV 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 841-2 </td>
         <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
 requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
       </tr>
       <tr>
         <td align="left">
@@ -80902,21 +80504,37 @@ l'Etat, pris en application de l'article L. 841-2 du code de la sécurité inté
 Au titre V 
 
 </td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
         <td align="left">
-
-R. 851-1 à R. 851-4 
+      </td></tr>
+      <tr>
+        <td align="left">R. 851-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
 
 </td>
+      </tr>
+      <tr>
+        <td> R. 851-1-1</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 851-2 à R. 851-4 
+
+</td>
+        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
+sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td> R. 851-5 à R. 851-10 </td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -80924,7 +80542,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 R. 852-1 et R. 852-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -80938,7 +80556,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 I des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -80950,13 +80568,29 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 II des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
 intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
 
 </td>
+      </tr>
+      <tr>
+        <td> Au titre VII </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> R. 871-1 à R. 871-5 </td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 872-1 à R. 872-6</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 873-1 et R. 873-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
     </tbody>
   </table>
@@ -80977,7 +80611,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 4
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -81007,15 +80641,15 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
 R. 811-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -81027,7 +80661,7 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 R. 811-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -81036,16 +80670,30 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td>Au titre IV  
-
-</td>
+        <td> Au titre II </td>
         <td> </td>
       </tr>
       <tr>
-        <td>R. 841-2  </td>
+        <td> R. 821-1 
+
+</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 823-1 et R. 823-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td>Au titre IV 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 841-2 </td>
         <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
 requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
       </tr>
       <tr>
         <td align="left">
@@ -81053,19 +80701,41 @@ l'Etat, pris en application de l'article L. 841-2 du code de la sécurité inté
 Au titre V 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
-R. 851-1 à R. 851-4 
+R. 851-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td> R. 851-1-1</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 851-2 à R. 851-4 
+
+</td>
+        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
+sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td> R. 851-5 à R. 851-10 
+
+</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
 
 </td>
       </tr>
@@ -81075,7 +80745,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 R. 852-1 et R. 852-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -81089,7 +80759,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 I des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -81101,13 +80771,29 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 II des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
 intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
 
 </td>
+      </tr>
+      <tr>
+        <td> Au titre VII </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> R. 871-1 à R. 871-5</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 872-1 à R. 872-6</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 873-1 et R. 873-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
     </tbody>
   </table>
@@ -81128,7 +80814,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 4
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises 
@@ -81160,15 +80846,15 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
 R. 811-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -81180,7 +80866,7 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 R. 811-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -81189,16 +80875,30 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td>Au titre IV 
-
-</td>
+        <td> Au titre II </td>
         <td> </td>
       </tr>
       <tr>
-        <td>R. 841-2  </td>
+        <td> R. 821-1 
+
+</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 823-1 et R. 823-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td>Au titre IV 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 841-2 </td>
         <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
 requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
       </tr>
       <tr>
         <td align="left">
@@ -81206,21 +80906,39 @@ l'Etat, pris en application de l'article L. 841-2 du code de la sécurité inté
 Au titre V 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="left">
 
-R. 851-1 à R. 851-4 
+R. 851-1 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
 
 </td>
+      </tr>
+      <tr>
+        <td> R. 851-1-1</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 851-2 à R. 851-4 
+
+</td>
+        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
+sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+
+</td>
+      </tr>
+      <tr>
+        <td>  R. 851-5 à R. 851-10</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -81228,7 +80946,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 R. 852-1 et R. 852-2 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
@@ -81242,7 +80960,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 I des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
 
@@ -81254,13 +80972,29 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 II des articles R. 853-1, R. 853-2 et R. 853-3 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
 intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
 
 </td>
+      </tr>
+      <tr>
+        <td> Au titre VII </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> R. 871-1 à R. 871-5</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 872-1 à R. 872-6</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+      </tr>
+      <tr>
+        <td> R. 873-1 et R. 873-2</td>
+        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
     </tbody>
   </table>
@@ -81281,7 +81015,7 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 4
 
 
 ## Annexes
