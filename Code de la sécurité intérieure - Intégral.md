@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-02-18
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -32519,8 +32519,8 @@ informées de ce que cette enquête donne lieu à la consultation des traitement
 à l'article 230-6 du code de procédure pénale. 
 
 Lorsque l'enquête administrative qui donne lieu à la consultation fait suite à une demande de décision de l'intéressé, celui-
-ci en est informé dans l'accusé de réception de sa demande prévu à l'article 19 de la loi n° 2000-321 du 12 avril 2000
-relative aux droits des citoyens dans leurs relations avec les administrations. 
+ci en est informé dans l'accusé de réception de sa demande prévu aux articles L. 112-3 et L. 112-6 du code des relations
+entre le public et l'administration. 
 
 Dans les autres cas, l'intéressé est informé lors de la notification de la décision administrative le concernant.
 
@@ -32528,21 +32528,10 @@ Dans les autres cas, l'intéressé est informé lors de la notification de la d�
 
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 19 (V)
 	  - Code de procédure pénale - art. 230-6 (V)
 	  - Code de la sécurité intérieure - art. R114-1 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1124 du 6 septembre 2005 - art. 2 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Code des relations entre le public et l'adminis... - art. L112-3 (V)
+	  - Code des relations entre le public et l'adminis... - art. L112-6 (V)
 
 	**Cité par**:
 
@@ -34334,35 +34323,27 @@ la commission.
 ###### Article R251-3
 
 Le secrétariat de la commission est assuré par les services du ministre de l'intérieur. La commission délibère dans les
-conditions prévues par les articles 9 à 14 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au
-fonctionnement de commissions administratives à caractère consultatif. Ses avis sont rendus dans tous les cas dans les
-conditions prévues par l'article 15 du même décret. 
+conditions prévues par les articles R. 133-8 à R. 133-13 du code des relations entre le public et l'administration. Ses avis
+sont rendus dans tous les cas dans les conditions prévues par l'article R. 133-14 du même code. 
 
 Elle établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 9 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2011-877 du 25 juillet 2011 - art. 3 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R285-1 (M)
 	  - Code de la sécurité intérieure - art. R286-1 (M)
 	  - Code de la sécurité intérieure - art. R287-1 (M)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. R*133-14 (V)
+	  - Code des relations entre le public et l'adminis... - art. R133-8 (V)
 
 
 ###### Article R251-4
