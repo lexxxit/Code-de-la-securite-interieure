@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-23
 
 # Partie législative
 
@@ -221,6 +221,52 @@ ou morales intéressées n'est pas incompatible avec l'exercice des fonctions ou
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L114-2
+
+Les décisions de recrutement et d'affectation concernant les emplois en lien direct avec la sécurité des personnes et des
+biens au sein d'une entreprise de transport public de personnes ou d'une entreprise de transport de marchandises dangereuses
+soumise à l'obligation d'adopter un plan de sûreté peuvent être précédées d'enquêtes administratives destinées à vérifier que
+le comportement des personnes intéressées n'est pas incompatible avec l'exercice des fonctions ou des missions envisagées. 
+
+Si le comportement d'une personne occupant un emploi mentionné au premier alinéa laisse apparaître des doutes sur la
+compatibilité avec l'exercice des missions pour lesquelles elle a été recrutée ou affectée, une enquête administrative peut
+être menée à la demande de l'employeur ou à l'initiative de l'autorité administrative. 
+
+L'autorité administrative avise sans délai l'employeur du résultat de l'enquête. 
+
+La personne qui postule pour une fonction mentionnée au même premier alinéa est informée qu'elle est susceptible, dans ce
+cadre, de faire l'objet d'une enquête administrative dans les conditions du présent article. 
+
+L'enquête précise si le comportement de cette personne donne des raisons sérieuses de penser qu'elle est susceptible, à
+l'occasion de ses fonctions, de commettre un acte portant gravement atteinte à la sécurité ou à l'ordre publics. 
+
+L'enquête peut donner lieu à la consultation du bulletin n° 2 du casier judiciaire et de traitements automatisés de données à
+caractère personnel relevant de l'
+article 26 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+Un décret en Conseil d'Etat fixe la liste des fonctions concernées et détermine les modalités d'application du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2017-757 du 3 mai 2017 (V)
+	  - Code de la sécurité intérieure - art. R114-10 (V)
+	  - Code de la sécurité intérieure - art. R114-7 (V)
+	  - Code de la sécurité intérieure - art. R114-8 (V)
+	  - Code de la sécurité intérieure - art. R114-9 (V)
 
 
 ### TITRE II : ORGANISATION ADMINISTRATIVE
@@ -10078,15 +10124,27 @@ Ils exercent leurs fonctions sur le territoire communal, dans les conditions pr�
 procédure pénale. 
 
 Affectés sur décision du maire à la sécurité d'une manifestation sportive, récréative ou culturelle mentionnée à l'article L.
-613-3, ils peuvent procéder à l'inspection visuelle des bagages à main et, avec le consentement de leur propriétaire, à leur
-fouille.
+613-3, ils peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur
+fouille. 
+
+Affectés par le maire à des missions de maintien du bon ordre au sein des transports publics de voyageurs, les agents de
+police municipale peuvent constater par procès-verbaux les infractions mentionnées à l'article L. 2241-1 du code des
+transports sur le territoire de la commune ou des communes formant un ensemble d'un seul tenant dans les conditions définies
+à l'article L. 512-1-1 du présent code, sans pouvoir excéder le ressort du tribunal auprès duquel ils ont prêté serment. 
+
+A cette fin, les communes contiguës desservies par un ou plusieurs réseaux de transports publics peuvent conclure entre elles
+une convention locale de sûreté des transports collectifs afin de permettre à leurs polices municipales d'exercer
+indistinctement leurs compétences sur les parties de réseaux qui les traversent. Cette convention est conclue sous l'autorité
+du représentant de l'Etat dans le département dans le respect des conventions de coordination des interventions de la police
+municipale et des forces de sécurité de l'Etat prévues à la section 2 du chapitre II du présent titre et dans le respect du
+contrat d'objectif départemental de sûreté dans les transports collectifs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2 ecqc les agents de police municipale (VT)
-	  - Code général des collectivités territoriales - art. L2212-5, al. 1 à 4 (T)
+	  - Loi n°2016-339 du 22 mars 2016 - art. 1
+	  - Loi n°2016-339 du 22 mars 2016 - art. 20
 
 	**Cité par**:
 
@@ -10110,14 +10168,11 @@ fouille.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 21
-	  - Code de la construction et de l'habitation. - art. L126-3 (V)
-	  - Code de la sécurité intérieure - art. L613-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L126-3
+	  - Code des transports - art. L2241-1 (M)
+	  - Code de la sécurité intérieure - art. L613-3
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -10385,6 +10440,28 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L512-1-1
+
+Pour l'exercice des missions mentionnées à l'avant-dernier alinéa de l'article L. 511-1, les communes formant un ensemble
+d'un seul tenant peuvent autoriser un ou plusieurs agents de police municipale à intervenir sur le territoire de chacune
+d'entre elles, dans les conditions prévues par la convention prévue au dernier alinéa du même article L. 511-1. 
+
+Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ces agents sont placés sous l'autorité du maire de
+cette commune. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 20
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L511-1 (V)
 
 
 ###### Article L512-2
@@ -10948,15 +11025,14 @@ alinéa, dans les conditions prévues à l'article 78-6 du code de procédure p�
 L'article L. 1312-1 du code de la santé publique est applicable aux inspecteurs de salubrité de la ville de Paris. 
 
 Affectés sur décision du maire à la sécurité d'une manifestation sportive, récréative ou culturelle mentionnée à l'article L.
-613-3, ils peuvent procéder à l'inspection visuelle des bagages à main et, avec le consentement de leur propriétaire, à leur
+613-3, ils peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur
 fouille.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2 ecqc les agents de la ville de Paris (VT)
-	  - Code général des collectivités territoriales - art. L2512-16 (VT)
+	  - Loi n°2016-339 du 22 mars 2016 - art. 1
 
 	**Cité par**:
 
@@ -10980,13 +11056,9 @@ fouille.
 	  - Code général des collectivités territoriales - art. L2512-13
 	  - Code de procédure pénale - art. 78-6
 	  - Code de la santé publique - art. L1312-1
-	  - Code de la sécurité intérieure - art. L613-3 (VD)
+	  - Code de la sécurité intérieure - art. L613-3
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -11429,8 +11501,8 @@ Sont soumises aux dispositions du présent titre, dès lors qu'elles ne sont pas
 les activités qui consistent : 
 
 1° A fournir des services ayant pour objet la surveillance humaine ou la surveillance par des systèmes électroniques de
-sécurité ou le gardiennage de biens meubles ou immeubles ainsi que la sécurité des personnes se trouvant dans ces
-immeubles ; 
+sécurité ou le gardiennage de biens meubles ou immeubles ainsi que la sécurité des personnes se trouvant dans ces immeubles
+ou dans les véhicules de transport public de personnes ; 
 
 2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux représentant une valeur d'au moins 100 000
 euros, des fonds, sauf, pour les employés de La Poste ou des établissements de crédit habilités par leur employeur, lorsque
@@ -11463,7 +11535,7 @@ français, en application de l'article L. 5441-1 du code des transports.
 	  - Arrêté du 27 février 2017 - art. 4 (V)
 	  - Arrêté du 27 février 2017 - art. 6 (V)
 	  - Code de la sécurité intérieure - art. L611-2 (V)
-	  - Code de la sécurité intérieure - art. L612-1 (V)
+	  - Code de la sécurité intérieure - art. L612-1 (VD)
 	  - Code de la sécurité intérieure - art. L612-10 (V)
 	  - Code de la sécurité intérieure - art. L612-11 (Ab)
 	  - Code de la sécurité intérieure - art. L612-12 (VD)
@@ -11479,7 +11551,7 @@ français, en application de l'article L. 5441-1 du code des transports.
 	  - Code de la sécurité intérieure - art. L612-9 (V)
 	  - Code de la sécurité intérieure - art. L613-1 (VD)
 	  - Code de la sécurité intérieure - art. L613-12 (V)
-	  - Code de la sécurité intérieure - art. L613-2 (VD)
+	  - Code de la sécurité intérieure - art. L613-2 (V)
 	  - Code de la sécurité intérieure - art. L613-3 (V)
 	  - Code de la sécurité intérieure - art. L613-4 (VD)
 	  - Code de la sécurité intérieure - art. L613-5 (VD)
@@ -11545,7 +11617,7 @@ français, en application de l'article L. 5441-1 du code des transports.
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 2
+	  - Loi n°2016-339 du 22 mars 2016 - art. 12
 
 	**Cite**:
 
@@ -12699,7 +12771,7 @@ dégradations et effractions visant les biens dont ils ont la garde.
 ###### Article L613-2
 
 Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 peuvent procéder à l'inspection visuelle
-des bagages à main et, avec le consentement de leur propriétaire, à leur fouille. 
+des bagages et, avec le consentement de leur propriétaire, à leur fouille. 
 
 Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1, spécialement habilitées à cet effet et
 agréées par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police dans les conditions prévues
@@ -12712,9 +12784,9 @@ arrêté est communiqué au procureur de la République.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-1 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -12723,18 +12795,15 @@ arrêté est communiqué au procureur de la République.
 	  - Décret n°2016-1281 du 28 septembre 2016 - art. 7
 	  - Code de la sécurité intérieure - art. R114-2 (V)
 	  - Code de la sécurité intérieure - art. R613-6 (V)
+	  - Code des transports - art. L2251-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L611-1 (M)
 
 
 ###### Article L613-3
@@ -12748,14 +12817,9 @@ commission régionale d'agrément et de contrôle, peuvent procéder, sous le co
 le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une
 personne de même sexe que la personne qui en fait l'objet. 
 
-Elles peuvent procéder à l'inspection visuelle des bagages à main et, avec le consentement de leur propriétaire, à leur
-fouille.
+Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2, sauf ecqc les agents de police municipale et les agents de la ville de Paris (VT)
 
 	**Cité par**:
 
@@ -12767,18 +12831,14 @@ fouille.
 	  - Code de la sécurité intérieure - art. R613-6 (V)
 	  - Code de la sécurité intérieure - art. R633-4 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 1
+
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L211-11 (VD)
 	  - Code de la sécurité intérieure - art. L611-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Sous-section 2 : Tenue
