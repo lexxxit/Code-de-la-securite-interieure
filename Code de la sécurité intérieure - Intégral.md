@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-03-23
+Version Consolidée au 2016-03-31
 
 # Partie législative
 
@@ -3574,105 +3574,6 @@ des engagements prévus au présent article.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-### TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION
-
-#### Chapitre VI : Accès administratif aux données de connexion
-
-###### Article L246-2
-
-I. ― Les informations ou documents mentionnés à l'article L. 246-1 sont sollicités par les agents individuellement désignés
-et dûment habilités des services relevant des ministres chargés de la sécurité intérieure, de la défense, de l'économie et du
-budget, chargés des missions prévues à l'article L. 241-2. 
-
-II. ― Les demandes des agents sont motivées et soumises à la décision d'une personnalité qualifiée placée auprès du Premier
-ministre. Cette personnalité est désignée pour une durée de trois ans renouvelable par la Commission nationale de contrôle
-des interceptions de sécurité, sur proposition du Premier ministre qui lui présente une liste d'au moins trois noms. Des
-adjoints pouvant la suppléer sont désignés dans les mêmes conditions. La personnalité qualifiée établit un rapport d'activité
-annuel adressé à la Commission nationale de contrôle des interceptions de sécurité. Ces décisions, accompagnées de leur
-motif, font l'objet d'un enregistrement et sont communiquées à la Commission nationale de contrôle des interceptions de
-sécurité.
-
-**Nota:**
-
-En application du II de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services mentionnés aux articles L. 811-2 et R. 811-1
-du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L. 851-1 du même code et au plus
-tard jusqu'au 31 mars 2016. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce
-les compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Cité par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 21 (V)
-	  - Code de la sécurité intérieure - art. R246-2 (Ab)
-	  - Code de la sécurité intérieure - art. R246-3 (Ab)
-	  - Code de la sécurité intérieure - art. R246-4 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L241-2
-	  - Code de la sécurité intérieure - art. L246-1
-
-
-###### Article L246-4
-
-La Commission nationale de contrôle des interceptions de sécurité dispose d'un accès permanent au dispositif de recueil des
-informations ou documents mis en œuvre en vertu du présent chapitre, afin de procéder à des contrôles visant à s'assurer du
-respect des conditions fixées aux articles L. 246-1 à L. 246-3. En cas de manquement, elle adresse une recommandation au
-Premier ministre. Celui-ci fait connaître à la commission, dans un délai de quinze jours, les mesures prises pour remédier au
-manquement constaté. 
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la Commission
-nationale de l'informatique et des libertés et de la Commission nationale de contrôle des interceptions de sécurité, qui
-précise notamment la procédure de suivi des demandes et les conditions et durée de conservation des informations ou documents
-transmis.
-
-**Nota:**
-
-En application du II de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services mentionnés aux articles L. 811-2 et R. 811-1
-du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L. 851-1 du même code et au plus
-tard jusqu'au 31 mars 2016. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce
-les compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité. 
-
-En application du III de l'article 26 de la loi n° 2015-912 du 24 juillet 2015 relative au renseignement, le présent article,
-abrogé par le I de l'article 23 de la même loi, demeure applicable aux services relevant du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes, autres que ceux mentionnés aux
-articles L. 811-2 et R. 811-1 du code de la sécurité intérieure, jusqu'à l'entrée en vigueur du décret prévu à l'article L.
-811-4 du même code. Jusqu'à cette date, la Commission nationale de contrôle des techniques de renseignement exerce les
-compétences confiées par le présent titre à la Commission nationale de contrôle des interceptions de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L246-1
 
 
 ### TITRE V : VIDÉOPROTECTION
