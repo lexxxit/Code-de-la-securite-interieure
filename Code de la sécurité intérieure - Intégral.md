@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-03-31
+Version Consolidée au 2016-04-09
 
 # Partie législative
 
@@ -31680,7 +31680,7 @@ documents permettant aux personnes de s'inscrire et de bénéficier des modalit�
 Les catégories de données à caractère personnel enregistrées dans le traitement mentionné à l'article R. 232-6 sont les
 suivantes : 
 
-1° Les minuties des empreintes digitales de huit doigts posés à plat de la personne inscrite au programme ; 
+1° Les minuties des empreintes digitales de deux doigts posés à plat de la personne inscrite au programme ; 
 
 2° Les données suivantes relatives au passager : 
 
@@ -31702,22 +31702,17 @@ c) Type, numéro et limite de validité du titre ou document figurant sur la lis
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2010-1274 du 25 octobre 2010 - art. (VT)
-	  - Décret n°2010-1274 du 25 octobre 2010 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-414 du 6 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R232-6 (V)
+	  - Code de la sécurité intérieure - art. R232-6
 
 
 ###### Article R232-8
@@ -31826,6 +31821,8 @@ Etats membres. Dans un tel cas :
 
 a) Les minuties des empreintes digitales de deux doigts posés à plat du porteur du passeport ; 
 
+a bis) L'image numérisée du visage dans les sas désignés par décision du ministre de l'intérieur ;
+
 b) Le nom, le prénom, la date de naissance et la nationalité de l'intéressé, le numéro et la limite de validité du
 passeport ; 
 
@@ -31840,22 +31837,18 @@ l'article 26 du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux 
 
 	**Cite**:
 
-	  - Décret n°2005-1726 du 30 décembre 2005 - art. 26 (V)
-	  - Code de la sécurité intérieure - art. R232-10 (VD)
-	  - Code de la sécurité intérieure - art. R232-6 (VD)
-	  - Code de la sécurité intérieure - art. R232-9 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°2010-1274 du 25 octobre 2010 - art. 7 (VT)
+	  - Décret n°2005-1726 du 30 décembre 2005 - art. 26
+	  - Code de la sécurité intérieure - art. R232-10
+	  - Code de la sécurité intérieure - art. R232-6
+	  - Code de la sécurité intérieure - art. R232-9
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-414 du 6 avril 2016 - art. 1
 
 
 ##### Section 4 : Le traitement de données à caractère personnel "système API-PNR France"
