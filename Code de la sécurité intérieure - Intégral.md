@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-04-09
+Version Consolidée au 2016-04-29
 
 # Partie législative
 
@@ -11830,7 +11830,7 @@ exercent effectivement les activités mentionnées à l'article L. 611-1 et, lor
 ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7. 
 
 L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par
-des agents des commissions nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de
+des agents          du Conseil national des activités privées de sécurité spécialement habilités par le représentant de
 l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par
 les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier
 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
@@ -11843,13 +11843,13 @@ l'exercice des fonctions susmentionnées.
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-6 (VD)
-	  - Code de la sécurité intérieure - art. L613-7 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-6
+	  - Code de la sécurité intérieure - art. L613-7
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 5 al. 2 à 10 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -11857,7 +11857,7 @@ l'exercice des fonctions susmentionnées.
 	  - Décret n°2011-1919 du 22 décembre 2011 - art. 22 (VT)
 	  - Arrêté du 7 janvier 2015 (V)
 	  - Code de la sécurité intérieure - art. L612-16 (VD)
-	  - Code de la sécurité intérieure - art. L612-8 (VD)
+	  - Code de la sécurité intérieure - art. L612-8 (V)
 	  - Code de la sécurité intérieure - art. L613-7-2 (V)
 	  - Code de la sécurité intérieure - art. L643-2 (V)
 	  - Code de la sécurité intérieure - art. L644-1 (V)
@@ -11869,45 +11869,37 @@ l'exercice des fonctions susmentionnées.
 	  - Code de la sécurité intérieure - art. R625-10 (VD)
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Décret n°2016-515 du 26 avril 2016 - art. 3
 
 
 ###### Article L612-8
 
 L'agrément peut être retiré lorsque son titulaire cesse de remplir l'une des conditions prévues à l'article L. 612-7. 
 
-En cas d'urgence, le président de la commission régionale d'agrément et de contrôle peut suspendre l'agrément. En outre, le
-représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut suspendre l'agrément en cas de nécessité
-tenant à l'ordre public.
+En cas d'urgence, le président de la       commission d'agrément et de contrôle territorialement compétente peut suspendre
+l'agrément. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut suspendre
+l'agrément en cas de nécessité tenant à l'ordre public.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 5 al. 11 (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-7 (VD)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L633-1 (M)
-	  - Code de la sécurité intérieure - art. R612-4 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-7 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L633-1 (M)
+	  - Code de la sécurité intérieure - art. R612-4 (V)
 
 
 ##### Section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales
@@ -11965,94 +11957,6 @@ certification, selon les modalités définies à l'article L. 616-1.
 	  - Code de la sécurité intérieure - art. L611-1
 
 
-###### Article L612-10
-
-Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne physique mentionnée au 1° de l'article
-L. 612-1, la demande d'autorisation est faite, sauf pour l'activité mentionnée au 4° du même article L. 611-1, auprès de la
-commission régionale d'agrément et de contrôle dans le ressort de laquelle cette personne est immatriculée au registre du
-commerce et des sociétés. Lorsque l'activité doit être exercée par une personne morale mentionnée au 1° de l'article L.
-612-1, la demande est présentée par le dirigeant ayant le pouvoir d'engager cette personne et déposée, sauf pour l'activité
-mentionnée au 4° de l'article L. 611-1, auprès de la commission régionale d'agrément et de contrôle dans le ressort de
-laquelle celle-ci a son établissement principal ou secondaire. 
-
-La demande mentionne le numéro d'immatriculation au registre du commerce et des sociétés. Pour une personne physique, elle
-indique l'adresse de celle-ci. Pour une personne morale, elle comporte la dénomination, l'adresse du siège social et, s'ils
-sont distincts, de l'établissement principal et de l'établissement secondaire, les statuts, la liste nominative des
-fondateurs, administrateurs, directeurs ou gérants et des membres du personnel employé ainsi que la répartition du capital
-social et les participations financières détenues dans d'autres sociétés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 10
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L612-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L612-13 (Ab)
-	  - Code de la sécurité intérieure - art. L613-7-1 (V)
-	  - Code de la sécurité intérieure - art. R612-6 (V)
-
-
-###### Article L612-11
-
-Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne mentionnée au 2° de l'article L. 612-1,
-la demande d'autorisation est déposée, sauf pour l'activité mentionnée au 4° du même article L. 611-1, auprès de la
-commission régionale d'agrément et de contrôle d'Ile-de-France. 
-
-Pour une personne physique, la demande indique l'adresse de celle-ci. Pour une personne morale, elle comporte la
-dénomination, l'adresse du siège social et, le cas échéant, celle de l'établissement que cette personne envisage de créer en
-France, les statuts, la liste nominative des fondateurs, administrateurs, directeurs ou gérants et des membres du personnel
-employé ainsi que la répartition du capital social et les participations financières détenues dans d'autres sociétés. Elle
-est accompagnée, le cas échéant, de l'autorisation d'exercice délivrée dans l'Etat membre de l'Union européenne ou l'Etat
-partie à l'accord sur l'Espace économique européen dans lequel la personne est établie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L612-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L633-1 (M)
-	  - Code de la sécurité intérieure - art. L643-2 (V)
-	  - Code de la sécurité intérieure - art. L644-1 (V)
-	  - Code de la sécurité intérieure - art. L645-1 (M)
-	  - Code de la sécurité intérieure - art. L646-1 (M)
-	  - Code de la sécurité intérieure - art. L647-1 (M)
-	  - Code de la sécurité intérieure - art. L648-1 (V)
-	  - Code de la sécurité intérieure - art. R612-12 (V)
-	  - Code de la sécurité intérieure - art. R612-19 (V)
-	  - Code de la sécurité intérieure - art. R612-6 (V)
-
-
 ###### Article L612-12
 
 L'autorisation prévue à l'article L. 612-9 est refusée si l'exercice d'une activité mentionnée à l'article L. 611-1 par la
@@ -12072,39 +11976,6 @@ personne intéressée est de nature à causer un trouble à l'ordre public.
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L612-13
-
-Toute modification, suppression ou adjonction affectant l'un des renseignements mentionnés aux articles L. 612-10 et L.
-612-11 et tout changement substantiel dans la répartition du capital de la personne morale font l'objet d'une déclaration
-dans un délai d'un mois auprès de la commission régionale d'agrément et de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 7 IV (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-10 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L617-5 (VD)
 
 	**Créé par**:
 
@@ -12234,27 +12105,23 @@ Dans les cas prévus aux 1° à 4° de l'article L. 612-16, l'autorisation peut 
 
 L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne
 morale titulaire de l'autorisation prévue à l'article L. 612-9 fait l'objet de poursuites pénales. Il est mis fin à la
-suspension dès que l'autorité administrative ou la commission régionale d'agrément et de contrôle a connaissance d'une
-décision de l'autorité judiciaire intervenue sur le fond.
+suspension dès que l'autorité administrative ou la       commission d'agrément et de contrôle territorialement compétente a
+connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 12 II (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-16 (VD)
-	  - Code de la sécurité intérieure - art. L612-9 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-16
+	  - Code de la sécurité intérieure - art. L612-9
 
 
 ###### Article L612-18
@@ -12316,8 +12183,8 @@ Nul ne peut être employé ou affecté pour participer à une activité mentionn
 casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
 l'exercice des fonctions ; 
 
-2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents des commissions
-nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de l'Etat territorialement
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents          du
+Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement
 compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et
 de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses
@@ -12330,9 +12197,9 @@ exécutée ;
 
 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de
-l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents des commissions
-nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de l'Etat territorialement
-compétent et individuellement désignés ; 
+l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents          du Conseil
+national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
+individuellement désignés ; 
 
 5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat et, s'il
 utilise un chien dans le cadre de son emploi ou de son affectation, de l'obtention d'une qualification définie en application
@@ -12340,9 +12207,6 @@ de l'article L. 613-7.
 
 Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies
 par décret en Conseil d'Etat. 
-
-Si son titulaire utilise un chien dans le cadre de son activité, la carte professionnelle comporte le numéro d'identification
-du chien. 
 
 La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et
 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et
@@ -12352,8 +12216,9 @@ Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du prés
 article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L.
 616-2. 
 
-En cas d'urgence, le président de la commission régionale d'agrément et de contrôle peut retirer la carte professionnelle. En
-outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte
+professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à
+l'ordre public.
 
 **Liens relatifs à cet article**
 
@@ -12403,7 +12268,9 @@ outre, le représentant de l'Etat peut retirer la carte professionnelle en cas d
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 9
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 3
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
 
 
 ###### Article L612-20-1
@@ -12542,12 +12409,12 @@ dans la limite maximale d'un mois, à défaut de stipulation particulière d'une
 ###### Article L612-24
 
 Pour l'application des dispositions des articles L. 612-6 à L. 612-8 et L. 612-9 à L. 612-13 à l'une des personnes
-mentionnées au 2° de l'article L. 612-1 ou des dispositions de l'article L. 612-20 à l'un de leurs agents, la commission
-régionale d'agrément et de contrôle délivre l'autorisation, l'agrément ou la carte professionnelle au vu des conditions et
-garanties exigées, pour l'exercice des mêmes activités, par la législation et la réglementation de l'Etat membre de l'Union
-européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans lequel cette personne est établie, dès lors
-que les justifications produites en vertu de cette législation et de cette réglementation sont regardées comme équivalentes à
-celles qui sont exigées en vertu du présent titre. 
+mentionnées au 2° de l'article L. 612-1 ou des dispositions de l'article L. 612-20 à l'un de leurs agents, la
+commission d'agrément et de contrôle territorialement compétente délivre l'autorisation, l'agrément ou la carte
+professionnelle au vu des conditions et garanties exigées, pour l'exercice des mêmes activités, par la législation et la
+réglementation de l'Etat membre de l'Union européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans
+lequel cette personne est établie, dès lors que les justifications produites en vertu de cette législation et de cette
+réglementation sont regardées comme équivalentes à celles qui sont exigées en vertu du présent titre. 
 
 Lorsqu'il est fondé sur la méconnaissance des conditions et garanties visées à l'alinéa précédent, le retrait de
 l'autorisation ou de l'agrément prononcé par les autorités de l'Etat membre de l'Union européenne ou de l'Etat partie à
@@ -12556,16 +12423,20 @@ l'agrément accordé sur le fondement du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 9-1 (VT)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-1 (VD)
-	  - Code de la sécurité intérieure - art. L612-20 (VD)
-	  - Code de la sécurité intérieure - art. L612-6 (VD)
-	  - Code de la sécurité intérieure - art. L612-9 (VD)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-6
+	  - Code de la sécurité intérieure - art. L612-9
 
 	**Cité par**:
 
@@ -12575,14 +12446,6 @@ l'agrément accordé sur le fondement du présent titre.
 	  - Code de la sécurité intérieure - art. L646-1 (M)
 	  - Code de la sécurité intérieure - art. L647-1 (M)
 	  - Code de la sécurité intérieure - art. L648-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L612-25
@@ -12711,16 +12574,20 @@ arrêté est communiqué au procureur de la République.
 
 Pour l'accès aux enceintes dans lesquelles est organisée une manifestation sportive, récréative ou culturelle rassemblant
 plus de 300 spectateurs, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1, agréées par la
-commission régionale d'agrément et de contrôle dans les conditions prévues par décret en Conseil d'Etat, ainsi que celles,
-membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive, récréative ou culturelle en
-application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par l'Etat et agréées par la
-commission régionale d'agrément et de contrôle, peuvent procéder, sous le contrôle d'un officier de police judiciaire et avec
-le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une
-personne de même sexe que la personne qui en fait l'objet. 
+commission d'agrément et de contrôle territorialement compétente dans les conditions prévues par décret en Conseil d'Etat,
+ainsi que celles, membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive,
+récréative ou culturelle en application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par
+l'Etat et agréées par la       commission d'agrément et de contrôle territorialement compétente, peuvent procéder, sous le
+contrôle d'un officier de police judiciaire et avec le consentement exprès des personnes, à des palpations de sécurité. Dans
+ce cas, la palpation doit être effectuée par une personne de même sexe que la personne qui en fait l'objet. 
 
 Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -12734,12 +12601,12 @@ Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consent
 
 	**Modifié par**:
 
-	  - Loi n°2016-339 du 22 mars 2016 - art. 1
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L211-11 (VD)
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
+	  - Code de la sécurité intérieure - art. L211-11
+	  - Code de la sécurité intérieure - art. L611-1
 
 
 ##### Sous-section 2 : Tenue
@@ -14292,21 +14159,17 @@ assurance couvrant leur responsabilité professionnelle, préalablement à leur 
 ###### Article L622-6
 
 Nul ne peut exercer à titre individuel l'activité mentionnée à l'article L. 621-1, ni diriger, gérer ou être l'associé d'une
-personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré par la commission régionale d'agrément et
-de contrôle selon des modalités définies par décret en Conseil d'Etat.
+personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré par la       commission d'agrément et de
+contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 22 al 1 (VT)
 
 	**Cité par**:
 
 	  - Décret n°2011-1919 du 22 décembre 2011 - art. 15 (VT)
 	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
 	  - Code de la sécurité intérieure - art. L622-14 (VD)
-	  - Code de la sécurité intérieure - art. L622-23 (VD)
+	  - Code de la sécurité intérieure - art. L622-23 (V)
 	  - Code de la sécurité intérieure - art. L622-7 (V)
 	  - Code de la sécurité intérieure - art. L624-4 (VD)
 	  - Code de la sécurité intérieure - art. L633-1 (M)
@@ -14315,15 +14178,15 @@ de contrôle selon des modalités définies par décret en Conseil d'Etat.
 	  - Code de la sécurité intérieure - art. R622-29 (VD)
 	  - Code de la sécurité intérieure - art. R633-4 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (VD)
+	  - Code de la sécurité intérieure - art. L621-1
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -14352,7 +14215,7 @@ européen ;
 6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat. 
 
 L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par
-des agents des commissions nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de
+des agents          du Conseil national des activités privées de sécurité spécialement habilités par le représentant de
 l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à
 caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26
 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers
@@ -14365,28 +14228,24 @@ incompatibles avec l'exercice des fonctions susmentionnées.
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
-	  - Code de la sécurité intérieure - art. L622-6 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 22 al 2 à 10 (VT)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L622-6
 
 	**Cité par**:
 
 	  - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
 	  - Décret n°2011-1919 du 22 décembre 2011 - art. 22 (VT)
 	  - Code de la sécurité intérieure - art. L622-14 (VD)
-	  - Code de la sécurité intérieure - art. L622-8 (VD)
+	  - Code de la sécurité intérieure - art. L622-8 (V)
 	  - Code de la sécurité intérieure - art. R622-5 (V)
 	  - Code de la sécurité intérieure - art. R625-10 (VD)
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 3
+
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -14394,29 +14253,25 @@ incompatibles avec l'exercice des fonctions susmentionnées.
 ###### Article L622-8
 
 L'agrément peut être retiré lorsque son titulaire cesse de remplir l'une des conditions prévues à l'article L. 622-7. En cas
-d'urgence, le président de la commission régionale d'agrément et de contrôle peut retirer la carte professionnelle. En outre,
-le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle en cas
-de nécessité tenant à l'ordre public.
+d'urgence, le président de la       commission d'agrément et de contrôle territorialement compétente peut retirer la carte
+professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la
+carte professionnelle en cas de nécessité tenant à l'ordre public.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 22 al 11 (VT)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L622-7 (VD)
+	  - Code de la sécurité intérieure - art. L622-7 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L633-1 (M)
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -14459,92 +14314,6 @@ principal et pour chaque établissement secondaire.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-###### Article L622-10
-
-Lorsque l'activité doit être exercée par une personne physique mentionnée au 1° de l'article L. 622-1, la demande
-d'autorisation est faite auprès de la commission régionale d'agrément et de contrôle dans le ressort de laquelle cette
-personne est immatriculée auprès de l'organisme visé par le deuxième alinéa de l'article 2 de la loi n° 94-126 du 11 février
-1994 relative à l'initiative ou à l'entreprise individuelle. Lorsque l'activité doit être exercée par une personne morale
-mentionnée au 1° de l'article L. 622-1, la demande d'autorisation est déposée par le dirigeant ayant le pouvoir d'engager
-cette personne auprès de la commission régionale d'agrément et de contrôle dans le ressort de laquelle celle-ci a son
-établissement principal ou secondaire. 
-
-La demande mentionne le numéro d'immatriculation auprès de l'organisme visé par le deuxième alinéa de l'article 2 de la loi
-n° 94-126 du 11 février 1994 précitée. Pour une personne physique, elle indique l'adresse de celle-ci. Pour une personne
-morale, elle comporte la dénomination, l'adresse du siège social de l'entreprise et, s'ils sont distincts, de l'établissement
-principal et de l'établissement secondaire et le statut, la liste nominative des fondateurs, administrateurs, directeurs ou
-gérants et des membres du personnel employé ainsi que la répartition du capital social et les participations financières
-détenues dans d'autres sociétés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 25 I (VT)
-
-	**Cite**:
-
-	  - Loi n°94-126 du 11 février 1994 - art. 2
-	  - Code de la sécurité intérieure - art. L622-1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L622-13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L622-11
-
-Lorsque l'activité doit être exercée par une personne mentionnée au 2° de l'article L. 622-1, la demande d'autorisation est
-déposée auprès de la commission régionale d'agrément et de contrôle d'Ile-de-France. 
-
-Pour une personne physique, la demande indique l'adresse de celle-ci. Pour une personne morale, elle comporte la
-dénomination, l'adresse du siège social et, le cas échéant, celle de l'établissement que cette personne envisage de créer en
-France, les statuts, la liste nominative des fondateurs, administrateurs, directeurs ou gérants et des membres du personnel
-employé ainsi que la répartition du capital social et les participations financières détenues dans d'autres sociétés. Elle
-est accompagnée, le cas échéant, de l'autorisation d'exercice délivrée dans l'Etat membre de l'Union européenne dans lequel
-la personne est établie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 25 II (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L622-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R622-10 (V)
-	  - Code de la sécurité intérieure - art. R622-17 (V)
-	  - Code de la sécurité intérieure - art. R622-5 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 ###### Article L622-12
 
 L'autorisation est refusée si l'exercice de l'activité mentionnée à l'article L. 621-1 par la personne intéressée est de
@@ -14559,39 +14328,6 @@ nature à causer un trouble à l'ordre public.
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L621-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L622-13
-
-Toute modification, suppression ou adjonction affectant l'un des renseignements mentionnés aux articles L. 622-10 et L.
-622-11 et tout changement substantiel dans la répartition du capital de la personne morale font l'objet d'une déclaration
-dans un délai d'un mois auprès de la commission régionale d'agrément et de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 25 IV (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L622-10 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L624-6 (VD)
 
 	**Codifié par**:
 
@@ -14659,25 +14395,21 @@ Dans les cas prévus aux 1° à 5° de l'article L. 622-14, l'autorisation peut 
 
 L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne
 morale titulaire de l'autorisation prévue à l'article L. 622-9 fait l'objet de poursuites pénales. Il est mis fin à la
-suspension dès que l'autorité administrative ou la commission régionale d'agrément et de contrôle a connaissance d'une
-décision de l'autorité judiciaire intervenue sur le fond.
+suspension dès que l'autorité administrative ou la       commission d'agrément et de contrôle territorialement compétente a
+connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 26 II (VT)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L622-14 (VD)
-	  - Code de la sécurité intérieure - art. L622-9 (VD)
+	  - Code de la sécurité intérieure - art. L622-14
+	  - Code de la sécurité intérieure - art. L622-9
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -14768,15 +14500,15 @@ l'exercice des fonctions ;
 
 2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de
-l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents des commissions
-nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de l'Etat territorialement
-compétent et individuellement désignés ; 
+l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents          du Conseil
+national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
+individuellement désignés ; 
 
 3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
 exécutée ; 
 
-4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents des commissions
-nationale et régionales d'agrément et de contrôle spécialement habilités par le représentant de l'Etat dans le département,
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents          du
+Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département,
 ou, à Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés
 par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
@@ -14786,25 +14518,21 @@ l'exercice des fonctions susmentionnées ;
 
 5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat. 
 
-Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission régionale
-d'agrément et de contrôle selon des modalités définies par décret en Conseil d'Etat. La carte professionnelle peut être
-retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°. 
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément
+et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte
+professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°. 
 
-En cas d'urgence, le président de la commission régionale d'agrément et de contrôle peut retirer la carte professionnelle. En
-outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle
-en cas de nécessité tenant à l'ordre public.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte
+professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la
+carte professionnelle en cas de nécessité tenant à l'ordre public.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
-	  - Code de la sécurité intérieure - art. L621-1 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 23 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
+	  - Code de la sécurité intérieure - art. L621-1
 
 	**Cité par**:
 
@@ -14825,11 +14553,12 @@ en cas de nécessité tenant à l'ordre public.
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 	  - Code de la sécurité intérieure - art. R633-4 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 3
+
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -14970,11 +14699,11 @@ collectifs étendus.
 ###### Article L622-23
 
 Pour l'application des dispositions des articles L. 622-6 à L. 622-13 à l'une des personnes mentionnées au 2° de l'article L.
-622-1, la commission régionale d'agrément et de contrôle délivre l'autorisation ou l'agrément au vu des conditions et
-garanties exigées, pour l'exercice de la même activité, par la législation et la réglementation de l'Etat membre de l'Union
-européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans lequel cette personne est établie, dès lors
-que les justifications produites en vertu de cette législation et de cette réglementation sont regardées comme équivalentes à
-celles qui sont exigées en vertu du présent titre. 
+622-1, la       commission d'agrément et de contrôle territorialement compétente délivre l'autorisation ou l'agrément au vu
+des conditions et garanties exigées, pour l'exercice de la même activité, par la législation et la réglementation de l'Etat
+membre de l'Union européenne ou de l'Etat partie à l'accord sur l'Espace économique européen dans lequel cette personne est
+établie, dès lors que les justifications produites en vertu de cette législation et de cette réglementation sont regardées
+comme équivalentes à celles qui sont exigées en vertu du présent titre. 
 
 Lorsqu'il est fondé sur la méconnaissance des conditions et garanties mentionnées à l'alinéa précédent, le retrait de
 l'autorisation ou de l'agrément prononcé par les autorités de l'Etat membre de l'Union européenne ou de l'Etat partie à
@@ -14983,20 +14712,16 @@ l'agrément accordé sur le fondement du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 28 (VT)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L622-1 (VD)
-	  - Code de la sécurité intérieure - art. L622-6 (VD)
+	  - Code de la sécurité intérieure - art. L622-1
+	  - Code de la sécurité intérieure - art. L622-6 (V)
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -15051,14 +14776,10 @@ moment lorsque l'exercice de cette activité est en cours. Ils ne peuvent accéd
 domicile. 
 
 Un compte rendu de visite est établi, dont copie est remise immédiatement au responsable de l'entreprise, et adressé au
-représentant de l'Etat dans le département ou, à Paris, au préfet de police, ainsi qu'à la commission régionale d'agrément et
-de contrôle.
+représentant de l'Etat dans le département ou, à Paris, au préfet de police, ainsi qu'à la       commission d'agrément et de
+contrôle territorialement compétente.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 30 (VT)
 
 	**Cité par**:
 
@@ -15066,19 +14787,19 @@ de contrôle.
 	  - Code de la sécurité intérieure - art. L624-12 (V)
 	  - Code de la sécurité intérieure - art. L642-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+
 	**Cite**:
 
 	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L3171-3 (V)
-	  - Code du travail - art. L8113-4 (V)
-	  - Code de la sécurité intérieure - art. L621-1 (VD)
-	  - Code de la sécurité intérieure - art. L634-1 (VD)
+	  - Code du travail - art. L3171-3
+	  - Code du travail - art. L8113-4
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. L634-1
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -15816,12 +15537,12 @@ Les membres et le personnel du Conseil national des activités privées de sécu
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Commissions régionales ou interrégionales  d'agrément et de contrôle
+#### Chapitre III : Commissions d'agrément et de contrôle
 
 ###### Article L633-1
 
-Dans chaque région, une commission régionale d'agrément et de contrôle est chargée, au nom du Conseil national des activités
-privées de sécurité : 
+Les commissions d'agrément et de contrôle territorialement compétentes sont chargées, au nom du Conseil national des
+activités privées de sécurité : 
 
 1° De délivrer les autorisations, agréments et cartes professionnelles prévus au présent livre ; 
 
@@ -15830,11 +15551,11 @@ les conditions prévues au présent livre ;
 
 3° De prononcer les sanctions disciplinaires prévues à l'article L. 634-4. 
 
-Elle est composée selon les mêmes modalités que la commission nationale d'agrément et de contrôle. Elle élit son président
-parmi les représentants de l'Etat, les magistrats de l'ordre judiciaire ou les membres des juridictions administratives. Son
-président exerce les décisions qu'appelle l'urgence. 
+Elles sont composées  selon les mêmes modalités que la commission nationale d'agrément et de contrôle. Elles élisent leur
+président  parmi les représentants de l'Etat, les magistrats de l'ordre judiciaire ou les membres des juridictions
+administratives. Le président exerce les décisions qu'appelle l'urgence. 
 
-Ses membres sont soumis aux mêmes obligations que les membres du Conseil national des activités privées de sécurité.
+Leurs membres sont soumis aux mêmes obligations que les membres du Conseil national des activités privées de sécurité.
 
 **Liens relatifs à cet article**
 
@@ -15849,47 +15570,20 @@ Ses membres sont soumis aux mêmes obligations que les membres du Conseil nation
 
 	**Modifié par**:
 
-	  - Loi n°2015-994 du 17 août 2015 - art. 40
+	  - Décret n°2016-515 du 26 avril 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L634-4 (M)
-
-
-###### Article L633-2
-
-Les commissions régionales d'agrément et de contrôle peuvent être regroupées en commissions interrégionales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-5 al. 6 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code de la sécurité intérieure - art. L634-4
 
 
 ###### Article L633-3
 
-Tout recours contentieux formé par une personne physique ou morale à l'encontre d'actes pris par une commission régionale
-d'agrément et de contrôle est précédé d'un recours administratif préalable devant la Commission nationale d'agrément et de
-contrôle, à peine d'irrecevabilité du recours contentieux.
+Tout recours contentieux formé par une personne physique ou morale à l'encontre d'actes pris par une commission d'agrément et
+de contrôle est précédé d'un recours administratif préalable devant la Commission nationale d'agrément et de contrôle, à
+peine d'irrecevabilité du recours contentieux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-7 (Ab)
 
 	**Cité par**:
 
@@ -15898,11 +15592,11 @@ contrôle, à peine d'irrecevabilité du recours contentieux.
 	  - Code de la sécurité intérieure - art. R632-11 (VD)
 	  - Code de la sécurité intérieure - art. R633-9 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -15914,11 +15608,11 @@ contrôle, à peine d'irrecevabilité du recours contentieux.
 ###### Article L634-1
 
 Les membres et les agents du Conseil national des activités privées de sécurité ainsi que les membres des commissions
-régionales d'agrément et de contrôle assurent le contrôle des personnes exerçant les activités mentionnées aux titres Ier, II
-et II bis. Ils peuvent, pour l'exercice de leurs missions, accéder aux locaux à usage professionnel de l'employeur, du
-donneur d'ordres ou du prestataire de formation, à l'exclusion des locaux affectés au domicile privé, ainsi qu'à tout site
-d'intervention des agents exerçant les activités mentionnées aux mêmes titres Ier et II, en présence de l'occupant des lieux
-ou de son représentant. Le procureur de la République territorialement compétent en est préalablement informé.
+d'agrément et de contrôle assurent le contrôle des personnes exerçant les activités mentionnées aux titres Ier, II et II bis.
+Ils peuvent, pour l'exercice de leurs missions, accéder aux locaux à usage professionnel de l'employeur, du donneur d'ordres
+ou du prestataire de formation, à l'exclusion des locaux affectés au domicile privé, ainsi qu'à tout site d'intervention des
+agents exerçant les activités mentionnées aux mêmes titres Ier et II, en présence de l'occupant des lieux ou de son
+représentant. Le procureur de la République territorialement compétent en est préalablement informé.
 
 **Liens relatifs à cet article**
 
@@ -15942,30 +15636,30 @@ ou de son représentant. Le procureur de la République territorialement compét
 
 	**Modifié par**:
 
-	  - Loi n°2015-994 du 17 août 2015 - art. 40
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 
 ###### Article L634-2
 
 En cas d'opposition du responsable des lieux ou de son représentant, la visite ne peut se dérouler qu'avec l'autorisation du
 juge des libertés et de la détention statuant au siège du tribunal de grande instance dans le ressort duquel sont situés les
-locaux à visiter.
+locaux à visiter. 
 
-Ce magistrat est saisi à la requête du président de la Commission nationale ou de la commission régionale d'agrément et de
-contrôle. Il statue par une ordonnance motivée, conformément aux dispositions des articles 493 à 498 du code de procédure
-civile. La procédure est sans représentation obligatoire.
+Ce magistrat est saisi à la requête du président de la Commission nationale ou de la       commission d'agrément et de
+contrôle territorialement compétente. Il statue par une ordonnance motivée, conformément aux dispositions des articles 493 à
+498 du code de procédure civile. La procédure est sans représentation obligatoire. 
 
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les locaux durant
-l'intervention. A tout moment, il peut décider de l'arrêt ou de la suspension de la visite.
+l'intervention. A tout moment, il peut décider de l'arrêt ou de la suspension de la visite. 
 
 Le responsable des lieux ou son représentant est informé de la faculté de refuser cette visite et du fait qu'en ce cas elle
 ne peut intervenir qu'avec l'autorisation du juge des libertés et de la détention.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-8 II (Ab)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
@@ -15981,26 +15675,22 @@ ne peut intervenir qu'avec l'autorisation du juge des libertés et de la détent
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L634-3
 
-Les membres et les agents des commissions nationale et régionales d'agrément et de contrôle peuvent demander communication de
-tout document nécessaire à l'accomplissement de leur mission, quel qu'en soit le support, et en prendre copie ; ils peuvent
-recueillir, sur place ou sur convocation, tout renseignement et toute justification utiles. Ils peuvent consulter le registre
-unique du personnel prévu à l'article L. 1221-13 du code du travail. Ils peuvent, à la demande du président de la Commission
-nationale ou de la commission régionale d'agrément et de contrôle, être assistés par des experts désignés par l'autorité dont
-ceux-ci dépendent. Il est dressé contradictoirement un compte rendu de visite en application du présent article dont une
-copie est remise immédiatement au responsable de l'entreprise.
+Les membres et les agents de la commission nationale ou des commissions d'agrément et de contrôle peuvent demander
+communication de tout document nécessaire à l'accomplissement de leur mission, quel qu'en soit le support, et en prendre
+copie ; ils peuvent recueillir, sur place ou sur convocation, tout renseignement et toute justification utiles. Ils peuvent
+consulter le registre unique du personnel prévu à l'article L. 1221-13 du code du travail. Ils peuvent, à la demande du
+président de la Commission nationale ou de la       commission d'agrément et de contrôle territorialement compétente, être
+assistés par des experts désignés par l'autorité dont ceux-ci dépendent. Il est dressé contradictoirement un compte rendu de
+visite en application du présent article dont une copie est remise immédiatement au responsable de l'entreprise.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 33-8 III (Ab)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
 
 	**Cite**:
 
@@ -16016,10 +15706,6 @@ copie est remise immédiatement au responsable de l'entreprise.
 	  - Code des transports - art. L5442-10 (V)
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -16207,24 +15893,23 @@ l'Espace économique européen " sont supprimés ;
 2° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
 sont supprimés ; 
 
-3° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
-économique européen " sont supprimés ; 
+3° (Supprimé) ; 
 
 4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
 européen " sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-7
 
 
 #### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon
@@ -16245,8 +15930,7 @@ l'Espace économique européen " sont supprimés ;
 4° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
 sont supprimés ; 
 
-5° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
-économique européen " sont supprimés ; 
+5° (Supprimé) ; 
 
 6° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
 européen " sont supprimés.
@@ -16259,30 +15943,31 @@ européen " sont supprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-7
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française
 
 ###### Article L645-1
 
-Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III sont applicables en Polynésie française
-sous réserve des adaptations suivantes : 
+Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III, dans leur rédaction résultant du décret
+n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des
+activités privées de sécurité, sont applicables en Polynésie française sous réserve des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence à la Polynésie française ; 
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ; 
 
-3° En Polynésie française, la commission régionale d'agrément et de contrôle est dénommée " commission locale d'agrément et
-de contrôle " ; 
+3° En Polynésie française, la commission d'agrément et de contrôle territorialement compétente est dénommée " commission
+locale d'agrément et de contrôle " ; 
 
 3° bis Le 2° de l'article L. 611-1 est ainsi rédigé : 
 
@@ -16293,7 +15978,6 @@ leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à a
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
-européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
 supprimés ; 
 
@@ -16357,26 +16041,27 @@ locale.
 	**Cite**:
 
 	  - Ordonnance n°2000-372 du 26 avril 2000
+	  - Décret n°2016-515 du 26 avril 2016 (V)
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L611-1
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
 	  - Code de la sécurité intérieure - art. L612-11
 	  - Code de la sécurité intérieure - art. L612-16
 	  - Code de la sécurité intérieure - art. L612-2
 	  - Code de la sécurité intérieure - art. L612-20
-	  - Code de la sécurité intérieure - art. L612-21 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
+	  - Code de la sécurité intérieure - art. L612-21
+	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1 (V)
+	  - Code de la sécurité intérieure - art. L614-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
-	  - Code de la sécurité intérieure - art. L634-3 (V)
-	  - Code de la sécurité intérieure - art. L634-3-1 (V)
+	  - Code de la sécurité intérieure - art. L634-3
+	  - Code de la sécurité intérieure - art. L634-3-1
 
 	**Codifié par**:
 
@@ -16384,30 +16069,32 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 57
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
 
 ###### Article L646-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III sont applicables en
-Nouvelle-Calédonie sous réserve des adaptations suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, dans leur rédaction
+résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité, sont applicables en Nouvelle-Calédonie sous réserve des adaptations
+suivantes : 
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Nouvelle-Calédonie ; 
 
-3° En Nouvelle-Calédonie, la commission régionale d'agrément et de contrôle est dénommée " commission locale d'agrément et de
-contrôle " ; 
+3° En Nouvelle-Calédonie, la commission d'agrément et de contrôle territorialement compétente est dénommée " commission
+locale d'agrément et de contrôle " ; 
 
 4° A l'article L. 611-1, les mots : " La Poste " sont remplacés par les mots : " l'Office des postes et des
 télécommunications de Nouvelle-Calédonie " ; 
 
 5° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
-européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
 supprimés ; 
 
@@ -16471,6 +16158,7 @@ locale.
 	**Cite**:
 
 	  - Ordonnance n°2002-388 du 20 mars 2002
+	  - Décret n°2016-515 du 26 avril 2016 (V)
 	  - Code du travail - art. L1221-13
 	  - Code du travail - art. L1234-9
 	  - Code de la sécurité intérieure - art. L611-1
@@ -16481,13 +16169,13 @@ locale.
 	  - Code de la sécurité intérieure - art. L612-2
 	  - Code de la sécurité intérieure - art. L612-20
 	  - Code de la sécurité intérieure - art. L612-21
-	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-24 (V)
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1 (V)
+	  - Code de la sécurité intérieure - art. L614-1
 	  - Code de la sécurité intérieure - art. L617-16
-	  - Code de la sécurité intérieure - art. L634-2
+	  - Code de la sécurité intérieure - art. L634-2 (V)
 	  - Code de la sécurité intérieure - art. L634-3
 
 	**Codifié par**:
@@ -16496,30 +16184,32 @@ locale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 57
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
 
 ###### Article L647-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III sont applicables dans les
-îles Wallis et Futuna sous réserve des adaptations suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, dans leur rédaction
+résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité, sont applicables dans les îles Wallis et Futuna sous réserve des
+adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence à l'administrateur supérieur des
 îles Wallis et Futuna ; 
 
-3° Dans les îles Wallis et Futuna, la commission régionale d'agrément et de contrôle est dénommée " commission locale
-d'agrément et de contrôle " ; 
+3° Dans les îles Wallis et Futuna, la commission d'agrément et de contrôle territorialement compétente est dénommée "
+commission locale d'agrément et de contrôle " ; 
 
 3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " le service des postes et des
 télécommunications de Wallis-et-Futuna ” ; 
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
-européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
 supprimés ; 
 
@@ -16578,33 +16268,35 @@ monnaie locale.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Modifié par**:
-
-	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
-
 	**Cite**:
 
+	  - Décret n°2016-515 du 26 avril 2016 (V)
 	  - Code rural - art. L214-2
 	  - Code du travail - art. L1234-9
 	  - Code du travail - art. L3171-3
 	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L611-1
 	  - Code de la sécurité intérieure - art. L611-2
 	  - Code de la sécurité intérieure - art. L612-1
-	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-11 (Ab)
 	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2 (V)
-	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-2
+	  - Code de la sécurité intérieure - art. L612-20 (V)
 	  - Code de la sécurité intérieure - art. L612-21
 	  - Code de la sécurité intérieure - art. L612-24
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L613-10
 	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1 (V)
+	  - Code de la sécurité intérieure - art. L614-1
 	  - Code de la sécurité intérieure - art. L617-16
 	  - Code de la sécurité intérieure - art. L634-2
 	  - Code de la sécurité intérieure - art. L634-3
-	  - Code de la sécurité intérieure - art. L634-3-1 (V)
+	  - Code de la sécurité intérieure - art. L634-3-1
+
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 57
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises
@@ -16620,24 +16312,23 @@ l'Espace économique européen " sont supprimés ;
 2° A la fin du 1° du même article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen "
 sont supprimés ; 
 
-3° A la dernière phrase du second alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace
-économique européen " sont supprimés ; 
+3° (Supprimé) ; 
 
 4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
 européen " sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 36
+	  - Décret n°2016-515 du 26 avril 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-24
+	  - Code de la sécurité intérieure - art. L612-7
 
 
 ## LIVRE VII : SÉCURITÉ CIVILE
@@ -27600,8 +27291,8 @@ R. 114-2, sauf le k du 1° et les n et o du 4°
 </td>
       <td>
 
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité
 
 </td>
     </tr>
@@ -27646,7 +27337,7 @@ concernant la défense et la sécurité nationale
 R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -27717,7 +27408,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 58
 
 	**Cité par**:
 
@@ -28274,13 +27965,13 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td>
 
-R. 114-2, sauf le k du 1° et les n et o du 4° 
+R. 114-2, sauf le k du 1° et les n et o du 4°
 
 </td>
       <td>
 
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité
 
 </td>
     </tr>
@@ -28325,7 +28016,7 @@ concernant la défense et la sécurité nationale
 R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -28377,7 +28068,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 58
 
 	**Cité par**:
 
@@ -28808,15 +28499,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 114-2, sauf le k du 1° et les n et o du 4° 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité 
 
 </td>
     </tr>
@@ -28863,7 +28554,7 @@ R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-
 R. 123-2 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -28915,7 +28606,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 58
 
 	**Cité par**:
 
@@ -29235,7 +28926,7 @@ R. 113-1 à R. 113-2,
 R. 114-1 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -29243,15 +28934,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-R. 114-2, sauf le k du 1° et les n et o du 4° 
+R. 114-2, sauf le k du 1° et les n et o du 4°
 
 </td>
       <td valign="top" align="left">
 
-Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
-nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité
 
 </td>
     </tr>
@@ -29269,12 +28960,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 114-6
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -29342,7 +29033,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 58
 
 	**Cite**:
 
@@ -41409,13 +41100,8 @@ mentionnés aux alinéas précédents ;
 
 3° Pour les ressortissants d'un Etat membre de l'Union européenne autre que la France ou d'un autre Etat partie à l'accord
 sur l'Espace économique européen, à défaut de produire un document mentionné au 2°, un document établissant la capacité
-professionnelle de l'intéressé consistant en la copie :
-
-a) Si l'activité d'armurier est réglementée dans l'Etat d'origine du demandeur, de l'agrément ou du titre équivalent délivré
-par l'autorité administrative de cet Etat et justifiant la capacité à exercer la profession d'armurier ;
-
-b) Si l'activité d'armurier n'est pas réglementée dans l'Etat d'origine du demandeur, de toute pièce justificative
-établissant qu'il a exercé cette activité à temps complet pendant au moins trois ans au cours des dix dernières années ;
+professionnelle de l'intéressé consistant en la copie de l'agrément ou du titre équivalent délivré par l'autorité
+administrative de cet Etat et justifiant la capacité à exercer la profession d'armurier. 
 
 4° Un ou des documents établissant l'honorabilité du demandeur et consistant en :
 
@@ -41428,17 +41114,13 @@ Tout document rédigé dans une langue étrangère est accompagné de sa traduct
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 92 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 56
 
 	**Cité par**:
 
@@ -46087,7 +45769,7 @@ DANS LEUR RÉDACTION
 </th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Au titre Ier 
 
@@ -46105,7 +45787,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions 
 réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 312-1 à R. 312-76
 
@@ -46118,7 +45800,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 312-77, R. 312-78
 
@@ -46136,7 +45818,7 @@ d'armes
 R. 312-79
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -46157,7 +45839,7 @@ d'armes
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 312-82, R. 312-83
 
@@ -46172,15 +45854,23 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     <tr>
       <td>
 
-R. 313-1 à R. 313-26 
+R. 313-1 et R. 313-2 
 
 </td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
+    </tr>
+    <tr>
+      <td>R. 313-3 </td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 313-4 à R. 313-26 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
       <td>
@@ -46222,14 +45912,14 @@ réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td colspan="2" valign="middle" align="center">
+      <td align="center" valign="middle" colspan="2">
 
 Au titre III 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 332-1 et R. 333-1 
 
@@ -46265,11 +45955,7 @@ réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2016-156 du 15 février 2016 - art. 7
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R344-3 (M)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 59
 
 
 ###### Article R344-2
@@ -48132,7 +47818,7 @@ DANS LEUR RÉDACTION
 </th>
       </tr>
       <tr>
-        <td colspan="2" align="center">
+        <td align="center" colspan="2">
 
 Au titre Ier 
 
@@ -48157,7 +47843,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 R. 312-1 à R. 312-48
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -48165,12 +47851,12 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 R. 312-50 à R. 312-76
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -48183,7 +47869,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 R. 312-77, R. 312-78
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
 d'armes 
@@ -48196,7 +47882,7 @@ d'armes
 R. 312-79
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -48209,7 +47895,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 R. 312-80, R. 312-81
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
 d'armes 
@@ -48217,7 +47903,7 @@ d'armes
 </td>
       </tr>
       <tr>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 R. 312-82, R. 312-83
 
@@ -48230,17 +47916,23 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
       </tr>
       <tr>
-        <td>
-
-R. 313-1 à R. 313-26 
+        <td>R. 313-1 et R. 313-2
 
 </td>
-        <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
+      </tr>
+      <tr>
+        <td>R. 313-3 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 313-4 à R. 313-26 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
         <td>
@@ -48312,7 +48004,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2016-156 du 15 février 2016 - art. 7
+	  - Décret n°2016-515 du 26 avril 2016 - art. 59
 
 	**Cite**:
 
@@ -48328,7 +48020,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R345-3 (V)
-	  - Code de la sécurité intérieure - art. R345-4 (M)
+	  - Code de la sécurité intérieure - art. R345-4 (VD)
 
 
 ###### Article R345-2
@@ -57370,29 +57062,25 @@ activités remplissent les conditions légales et réglementaires requises pour 
 
 ###### Article R612-1
 
-L'agrément prévu par l'article L. 612-6 est délivré par la commission régionale ou interrégionale d'agrément et de contrôle
-dans le ressort de laquelle l'entreprise a son établissement principal. Lorsqu'il est demandé par une des personnes
-mentionnées au 2° de l'article R. 612-2, l'agrément est délivré par la commission régionale d'agrément et de contrôle
-comportant Paris dans son ressort.
+L'agrément prévu par l'article L. 612-6 est délivré par la commission locale d'agrément et de contrôle dans le ressort de
+laquelle l'entreprise a son établissement principal. Lorsqu'il est demandé par une des personnes mentionnées au 2° de
+l'article R. 612-2, l'agrément est délivré par la commission locale d'agrément et de contrôle comportant Paris dans son
+ressort.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 7-1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-6 (V)
-	  - Code de la sécurité intérieure - art. R612-2 (VD)
+	  - Code de la sécurité intérieure - art. L612-6
+	  - Code de la sécurité intérieure - art. R612-2 (V)
 
 	**Cité par**:
 
@@ -57416,10 +57104,7 @@ copie de leur titre de séjour ;
 
 3° La justification d'aptitude prévue à l'article R. 612-24 ; 
 
-4° Pour les personnes exerçant l'une des activités mentionnées à l'article L. 611-1 dans un pays membre de l'Union européenne
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen où cette activité n'est pas spécifiquement
-réglementée, toute pièce indiquant le nombre d'années pendant lesquelles l'intéressé a exercé cette activité à temps complet
-au cours des dix dernières années ; 
+4° (Supprimé) ; 
 
 5° Une déclaration sur l'honneur de n'exercer aucune des activités mentionnées à l'article R. 611-1. 
 
@@ -57427,27 +57112,23 @@ Tout document rédigé dans une langue étrangère est accompagné d'une traduct
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 7-2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 27
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. R611-1 (VD)
-	  - Code de la sécurité intérieure - art. R612-24 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. R611-1
+	  - Code de la sécurité intérieure - art. R612-24 (VT)
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. R612-1 (VD)
+	  - Code de la sécurité intérieure - art. R612-1 (V)
 	  - Code de la sécurité intérieure - art. R645-3 (V)
 	  - Code de la sécurité intérieure - art. R646-3 (V)
 	  - Code de la sécurité intérieure - art. R647-3 (V)
@@ -57477,17 +57158,43 @@ L'exploitant individuel, le dirigeant ou le gérant qui exerce effectivement l'u
 	  - Code de la sécurité intérieure - art. L611-1 (V)
 
 
+###### Article R612-3-1
+
+L'agrément a une durée de validité de cinq ans à compter de sa date de délivrance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 28
+
+
+###### Article R612-3-2
+
+La  demande de renouvellement de l'agrément est présentée, trois mois au  moins avant sa date d'expiration, dans les mêmes
+conditions que celles  prévues par la présente section. Lorsque la demande est complète, le  Conseil national des activités
+privées de sécurité en délivre récépissé.  
+
+Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 28
+
+
 ###### Article R612-4
 
 Est compétent pour suspendre l'agrément en cas de nécessité tenant à l'ordre public, en vertu du second alinéa de l'article
 L. 612-8, le préfet du département sur le territoire duquel cette nécessité se manifeste ou, respectivement, le préfet de
 police ou le préfet de police des Bouches-du-Rhône lorsque cette nécessité se manifeste à Paris ou dans le département des
-Bouches-du-Rhône  
+Bouches-du-Rhône 
 
 Lorsqu'il a suspendu l'agrément en application du deuxième alinéa de l'article L. 612-8, le préfet de département, à Paris,
 le préfet de police, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône ou le président de la
-commission régionale ou interrégionale d'agrément et de contrôle demande à la commission, au plus tard trois mois après le
-début de la suspension, de mettre fin à celle-ci ou de retirer l'agrément dans les conditions prévues au même article.
+commission  locale d'agrément et de contrôle demande à la commission, au plus tard trois mois après le début de la
+suspension, de mettre fin à celle-ci ou de retirer l'agrément dans les conditions prévues au même article.
 
 **Liens relatifs à cet article**
 
@@ -57497,7 +57204,7 @@ début de la suspension, de mettre fin à celle-ci ou de retirer l'agrément dan
 
 	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 2
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
@@ -57513,26 +57220,34 @@ début de la suspension, de mettre fin à celle-ci ou de retirer l'agrément dan
 
 ###### Article R612-5
 
-L'autorisation administrative prévue par l'article L. 612-9 est délivrée par la commission régionale ou interrégionale
-d'agrément et de contrôle compétente dans le département du siège de l'entreprise ou du lieu d'implantation de
-l'établissement.
+Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne physique mentionnée au 1° de l'article
+L. 612-1, la demande d'autorisation prévue à l'article L. 612-9 est faite, sauf pour l'activité mentionnée au 4° du même
+article L. 611-1, auprès de la commission locale d'agrément et de contrôle dans le ressort de laquelle cette personne est
+immatriculée au registre du commerce et des sociétés. Lorsque l'activité doit être exercée par une personne morale mentionnée
+au 1° de l'article L. 612-1, la demande est présentée par le dirigeant ayant le pouvoir d'engager cette personne et déposée,
+sauf pour l'activité mentionnée au 4° de l'article L. 611-1, auprès de la commission locale d'agrément et de contrôle dans le
+ressort de laquelle celle-ci a son établissement principal ou secondaire. 
+
+La demande mentionne le numéro d'immatriculation au registre du commerce et des sociétés. Pour une personne physique, elle
+indique l'adresse de celle-ci. Pour une personne morale, elle comporte la dénomination, l'adresse du siège social et, s'ils
+sont distincts, de l'établissement principal et de l'établissement secondaire, les statuts, la liste nominative des
+fondateurs, administrateurs, directeurs ou gérants ainsi que la répartition du capital social et les participations
+financières détenues dans d'autres sociétés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 1, ecqc le titre I (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 8
 
 	**Cite**:
 
+	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L612-1 (V)
 	  - Code de la sécurité intérieure - art. L612-9 (V)
 
 	**Cité par**:
@@ -57542,10 +57257,41 @@ l'établissement.
 	  - Code de la sécurité intérieure - art. R646-1 (M)
 
 
+###### Article R612-5-1
+
+Lorsque l'activité mentionnée à l'article L. 611-1 doit être exercée par une personne mentionnée au 2° de l'article L. 612-1,
+la demande d'autorisation est déposée, sauf pour l'activité mentionnée au 4° du même article L. 611-1, auprès de la
+commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
+
+Pour une personne physique, la demande indique l'adresse de celle-ci. Pour une personne morale, elle comporte la
+dénomination, l'adresse du siège social et, le cas échéant, celle de l'établissement que cette personne envisage de créer en
+France, les statuts, la liste nominative des fondateurs, administrateurs, directeurs ou gérants ainsi que la répartition du
+capital social et les participations financières détenues dans d'autres sociétés. Elle est accompagnée, le cas échéant, de
+l'autorisation d'exercice délivrée dans l'Etat membre de l'Union européenne ou l'Etat partie à l'accord sur l'Espace
+économique européen dans lequel la personne est établie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L612-1 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R612-10-1 (V)
+
+
 ###### Article R612-6
 
 Le dossier de la demande d'autorisation administrative présentée par les entreprises exerçant les activités mentionnées aux
-articles L. 611-1 et L. 613-13 comprend les justifications requises par les articles L. 612-7, L. 612-10 et L. 612-11. 
+articles L. 611-1 et L. 613-13 comprend      
+
+également les justifications requises par l'article L. 612-7. 
 
 Pour les dirigeants étrangers, la demande est accompagnée d'un bulletin n° 3 du casier judiciaire ou, à défaut, d'un document
 équivalent délivré par une autorité judiciaire ou administrative compétente de leur pays d'origine ou de provenance. 
@@ -57555,25 +57301,21 @@ sont rédigées dans une langue étrangère, elles sont accompagnées d'une trad
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 2, ecqc le titre I (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 10
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L612-10 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
-	  - Code de la sécurité intérieure - art. L613-13 (V)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-10
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-7
+	  - Code de la sécurité intérieure - art. L613-13
 
 	**Cité par**:
 
@@ -57680,33 +57422,48 @@ Les décisions d'octroi, de refus, de suspension et de retrait d'autorisation so
 administratifs du département. 
 
 Les décisions d'octroi ou de refus d'autorisation concernant les entreprises exerçant les activités mentionnées aux articles
-L. 611-1 et L. 613-13 sont transmises par la commission régionale ou interrégionale d'agrément et de contrôle au greffier qui
-a procédé à leur immatriculation au registre du commerce et des sociétés.
+L. 611-1 et L. 613-13 sont transmises par la commission  locale d'agrément et de contrôle au greffier qui a procédé à leur
+immatriculation au registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 6, ecqc le titre I (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L613-13 (V)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L613-13
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R645-3 (V)
 	  - Code de la sécurité intérieure - art. R646-3 (V)
 	  - Code de la sécurité intérieure - art. R647-3 (V)
+
+
+###### Article R612-10-1
+
+Toute modification, suppression ou adjonction affectant l'un des renseignements mentionnés aux articles R. 612-5, R. 612-5-1
+et R. 612-6 ainsi que tout changement substantiel dans la répartition du capital de la personne morale font l'objet d'une
+déclaration dans un délai d'un mois auprès de la commission locale d'agrément et de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 11
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R612-5 (V)
+	  - Code de la sécurité intérieure - art. R612-5-1 (V)
+	  - Code de la sécurité intérieure - art. R612-6 (V)
 
 
 ###### Article R612-11
@@ -57737,36 +57494,35 @@ défense nationale.
 ###### Article R612-12
 
 La carte professionnelle mentionnée à l'article L. 612-20 est délivrée, sous la forme dématérialisée d'un numéro
-d'enregistrement, par la commission régionale ou interrégionale d'agrément et de contrôle dans le ressort de laquelle le
-demandeur a son domicile. 
+d'enregistrement, par la commission locale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son
+domicile. 
 
 Pour les employés des personnes morales mentionnées au 2° de l'article L. 612-1 et à l'article L. 612-11, la carte
-professionnelle est délivrée par la commission régionale ou interrégionale d'agrément et de contrôle comportant Paris dans
-son ressort. 
+professionnelle est délivrée par la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
-Un arrêté du ministre de l'intérieur précise les conditions dans lesquelles l'employeur, auquel la personne titulaire de la
-carte professionnelle a communiqué le numéro d'enregistrement, a accès aux informations mentionnées à l'article R. 612-16.
+L'employeur, auquel la personne titulaire de la carte professionnelle a communiqué le numéro d'enregistrement, a accès aux
+informations mentionnées à l'article R. 612-16 par le biais d'un téléservice mis en œuvre par le Conseil national des
+activités privées de sécurité dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2009-137 du 9 février 2009 - art. 1, ecqc le titre I (VT)
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. R612-16
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. R612-16 (VD)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 29
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ###### Article R612-13
@@ -57907,23 +57663,19 @@ autorisée.
 La demande de renouvellement de la carte professionnelle est présentée, trois mois au moins avant sa date d'expiration, dans
 les mêmes conditions que celles prévues par la présente sous-section pour une demande de délivrance de la carte à
 l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 612-15. Lorsque la
-demande est complète, la commission régionale ou interrégionale d'agrément et de contrôle en délivre récépissé. 
+demande est complète,          le Conseil national des activités privées de sécurité en délivre récépissé. 
 
 Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2009-137 du 9 février 2009 - art. 6, ecqc le titre I (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 12
 
 	**Cité par**:
 
@@ -57933,14 +57685,14 @@ Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une po
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R612-15 (VD)
+	  - Code de la sécurité intérieure - art. R612-15
 
 
 ###### Article R612-18
 
 Tout candidat à l'emploi pour exercer des activités privées de sécurité définies aux articles L. 611-1 et L. 613-13 ou tout
 employé participant à l'exercice de ces activités communique à l'employeur le numéro de la carte professionnelle qui lui a
-été délivrée par la commission régionale ou interrégionale d'agrément et de contrôle. 
+été délivrée par la commission  locale d'agrément et de contrôle. 
 
 L'employeur remet à l'employé une carte professionnelle propre à l'entreprise. Cette carte, qui comporte une photographie
 récente de son titulaire, mentionne : 
@@ -57952,30 +57704,26 @@ récente de son titulaire, mentionne :
 3° Le nom, la raison sociale et l'adresse de l'employeur ainsi que l'autorisation administrative prévue aux articles L. 612-9
 et L. 613-13 ; 
 
-4° Le numéro de carte professionnelle délivrée par la commission régionale ou interrégionale d'agrément et de contrôle. 
+4° Le numéro de carte professionnelle délivrée par la commission  locale d'agrément et de contrôle. 
 
 La carte professionnelle remise à l'employé par son employeur doit être présentée à toute réquisition d'un agent de
 l'autorité publique et restituée à l'employeur à l'expiration du contrat de travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-1099 du 10 octobre 1986 - art. 5, ecqc le titre I (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L612-9 (V)
-	  - Code de la sécurité intérieure - art. L613-13 (V)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-9
+	  - Code de la sécurité intérieure - art. L613-13
 
 	**Cité par**:
 
@@ -58011,35 +57759,34 @@ manifestent à Paris ou dans le département des Bouches-du-Rhône.
 
 L'autorisation préalable d'accès à la formation professionnelle et l'autorisation provisoire d'exercice, mentionnées aux
 articles L. 612-22 et L. 612-23 sont délivrées, sous la forme dématérialisée d'un numéro d'enregistrement, par la commission
-régionale ou interrégionale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son domicile. 
+locale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son domicile. 
 
 Pour les employés des personnes morales mentionnées au 2° de l'article L. 612-1 et à l'article L. 612-11, l'autorisation
-provisoire est délivrée par la commission régionale d'agrément et de contrôle comportant Paris dans son ressort. 
+provisoire est délivrée par la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
-Un arrêté du ministre de l'intérieur précise les conditions dans lesquelles l'organisme ou l'employeur qui assure la
-formation, auquel la personne titulaire de l'autorisation préalable ou de l'autorisation provisoire a communiqué le numéro
-d'enregistrement, a accès aux informations mentionnées à l'article R. 612-23.
+L'organisme ou l'employeur qui assure la formation, auquel la personne titulaire de l'autorisation préalable ou de
+l'autorisation provisoire a communiqué le numéro d'enregistrement, a accès aux informations mentionnées à l'article R. 612-23
+par le biais d'un téléservice mis en œuvre par le Conseil national des activités privées de sécurité dans le respect des
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2009-137 du 9 février 2009 - art. 7, ecqc le titre I (VT)
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la sécurité intérieure - art. L612-1
+	  - Code de la sécurité intérieure - art. L612-11
+	  - Code de la sécurité intérieure - art. L612-22
+	  - Code de la sécurité intérieure - art. R612-23
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L612-1 (V)
-	  - Code de la sécurité intérieure - art. L612-11 (V)
-	  - Code de la sécurité intérieure - art. L612-22 (V)
-	  - Code de la sécurité intérieure - art. R612-23 (VD)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 29
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cité par**:
 
@@ -58203,21 +57950,24 @@ agréé par arrêté du ministre de l'intérieur ou, s'agissant des activités v
 mentionnées à l'article L. 6341-2 du code des transports, par arrêté conjoint du ministre de l'intérieur et du ministre
 chargé des transports ; 
 
-3° Soit d'un titre reconnu par un Etat membre de l'Union européenne ou par un des Etats parties à l'accord sur l'Espace
-économique européen, se rapportant à l'activité exercée.
+3° Soit d'un titre de formation ou d'une attestation de compétences se rapportant à l'activité concernée, qui est requis par
+un Etat membre de l'Union européenne ou par un des Etats parties à l'accord sur l'Espace économique européen pour accéder à
+cette même activité sur son territoire ou l'y exercer. Si l'activité en cause n'est pas spécifiquement réglementée dans cet
+Etat, l'intéressé fournit toute pièce établissant qu'il a exercé cette activité dans un ou plusieurs Etats membres pendant
+une année au moins, à temps plein ou à temps partiel pendant une durée totale équivalente, au cours des dix dernières années.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 1 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 3 août 2007 - art. 1 (V)
 	  - Arrêté du 2 décembre 2015 - art. 7 (V)
 	  - Arrêté du 27 février 2017 (V)
-	  - Code de la sécurité intérieure - art. R612-2 (VD)
+	  - Code de la sécurité intérieure - art. R612-2 (V)
 	  - Code de la sécurité intérieure - art. R612-24-1 (V)
 	  - Code de la sécurité intérieure - art. R612-25 (V)
 	  - Code de la sécurité intérieure - art. R612-32 (V)
@@ -58227,17 +57977,90 @@ chargé des transports ;
 	  - Code de la sécurité intérieure - art. R646-3 (V)
 	  - Code de la sécurité intérieure - art. R647-3 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 30
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (M)
+	  - Code des transports - art. L6341-2
+	  - Code de la sécurité intérieure - art. L611-1
+
+
+###### Article R612-24-1
+
+Lorsque la demande d'agrément prévu à l'article L. 612-6 ou de carte professionnelle prévue à l'article L. 612-20 émane d'un
+ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+dont la formation, attestée par le titre ou l'attestation mentionnés au 3° de l'article R. 612-24, porte sur des matières
+substantiellement différentes de celles couvertes par les titres mentionnés aux 1° et 2° du même article, la commission
+compétente vérifie que les connaissances, aptitudes, compétences acquises par le demandeur au cours de son expérience
+professionnelle ou de l'apprentissage tout au long de la vie et ayant fait l'objet, à cette fin, d'une validation en bonne et
+due forme par un organisme compétent, ne sont pas de nature à couvrir, en tout ou partie, ces différences. 
+
+A l'issue de cette vérification, la commission peut prescrire, le cas échéant, à l'intéressé de passer, à son choix, soit une
+épreuve d'aptitude organisée par un organisme agréé en vue de la délivrance d'une certification professionnelle ou d'un
+certificat de qualification professionnelle, soit un stage d'adaptation d'une durée comprise entre six mois et trois ans. 
+
+La décision imposant un stage d'adaptation, dont elle fixe les modalités et la durée, ou une épreuve d'aptitude est dûment
+justifiée. En particulier, le demandeur reçoit les informations suivantes : 
+
+1° Le niveau de qualification professionnelle requis en France et le niveau de la qualification professionnelle qui lui est
+reconnu ; 
+
+2° Les différences substantielles visées au premier aliéna, et les raisons pour lesquelles ces différences ne peuvent être
+comblées par les connaissances, aptitudes et compétences acquises au cours de l'expérience professionnelle ou de
+l'apprentissage tout au long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un
+organisme compétent. 
+
+La commission se prononce sur le respect par l'intéressé des obligations prescrites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 31
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. L612-6 (V)
+	  - Code de la sécurité intérieure - art. R612-24 (VT)
+
+
+###### Article R612-24-2
+
+La commission d'agrément et de contrôle comprenant Paris dans son ressort accorde, au cas par cas, à un ressortissant d'un
+Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui en fait la demande,
+l'accès partiel à une activité privée de sécurité lorsque toutes les conditions suivantes sont remplies : 
+
+1° Le demandeur est pleinement qualifié pour exercer dans son Etat d'origine l'activité professionnelle pour laquelle il
+sollicite l'accès partiel en France ; 
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat membre d'origine et les activités
+professionnelles mentionnées aux 1° à 3° de l'article L. 611-1 sont si importantes que l'application de mesures de
+compensation reviendrait à imposer au demandeur de suivre le programme complet de formation requis pour avoir pleinement
+accès à la profession en France ; 
+
+3° L'activité professionnelle peut objectivement être séparée d'autres activités professionnelles mentionnées aux 1° à 3° de
+l'article L. 611-1. 
+
+Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
+prestation de services temporaire et occasionnelle de la profession concernée. 
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt. 
+
+Les professionnels qui bénéficient d'un accès partiel indiquent clairement aux destinataires des services le champ de leurs
+activités professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 31
+
+	**Cite**:
+
 	  - Code de la sécurité intérieure - art. L611-1 (V)
 
 
@@ -58246,7 +58069,7 @@ chargé des transports ;
 Lorsqu'une personne exerçant une activité mentionnée à l'article L. 611-1 en qualité de travailleur indépendant ou d'employé,
 dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, se
 propose de se rendre en France pour la première fois en vue d'y exercer cette activité à titre occasionnel, il en fait la
-déclaration à la commission régionale d'agrément et de contrôle comportant Paris dans son ressort. 
+déclaration à la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
 La déclaration est accompagnée des documents suivants : 
 
@@ -58261,20 +58084,27 @@ n'y encourt aucune interdiction d'exercice ;
 judiciaire incompatible avec l'exercice de cette activité ; 
 
 5° Si l'activité en cause n'est pas spécifiquement réglementée dans l'Etat membre d'établissement, toute pièce établissant
-que l'intéressé y a exercé cette activité à temps complet pendant deux ans au moins au cours des dix dernières années. 
+que l'intéressé a exercé cette activité dans un ou plusieurs Etats membres pendant une année au moins, à temps plein ou à
+temps partiel pendant une durée totale équivalente, au cours des dix dernières années. 
 
-Dans le délai d'un mois à compter de la réception de la déclaration, la commission régionale d'agrément et de contrôle
-comportant Paris dans son ressort fait savoir à l'intéressé si elle décide de vérifier ou non ses qualifications
-professionnelles, eu égard à l'existence de différences substantielles entre les qualifications déclarées et celles requises
-pour la délivrance des titres mentionnés aux 1° et 2° de l'article R. 612-24. Ce délai peut être renouvelé une fois si la
-commission demande à l'intéressé de compléter sa déclaration. 
+Dans le délai d'un mois à compter de la réception de la déclaration, la commission locale d'agrément et de contrôle
+comportant Paris dans son ressort fait savoir à l'intéressé si, le cas échéant après vérification de ses qualifications
+professionnelles, elle permet la prestation de services, ou si elle décide de le soumettre à une épreuve d'aptitude au regard
+de la différence substantielle constatée entre ses qualifications professionnelles et la formation exigée en France, dans la
+mesure où cette différence est de nature à nuire à la sécurité publique et où elle ne peut être compensée par l'expérience
+professionnelle de l'intéressé ou par les connaissances, aptitudes et compétences acquises lors d'un apprentissage tout au
+long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un organisme compétent. 
 
-Si elle décide une vérification, la commission régionale d'agrément et de contrôle comportant Paris dans son ressort offre à
-l'intéressé la possibilité de démontrer qu'il a acquis les connaissances ou compétences manquantes en se soumettant, dans le
-délai d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat
-de qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai. 
+En cas de difficulté susceptible de provoquer un retard dans la prise de décision prévue à l'alinéa précédent, la commission
+informe l'intéressé dans le même délai des raisons du retard. La difficulté est résolue dans le mois qui suit cette
+information et la décision est prise dans un délai de deux mois suivant la résolution de la difficulté. 
 
-Dans le silence de la commission régionale d'agrément et de contrôle comportant Paris dans son ressort, à l'issue des délais
+Lorsque la commission locale d'agrément et de contrôle comportant Paris dans son ressort a décidé d'offrir à l'intéressé la
+possibilité de démontrer qu'il a acquis les connaissances, aptitudes ou compétences manquantes, elle le soumet, dans le délai
+d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat de
+qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai. 
+
+Dans le silence de la commission locale d'agrément et de contrôle comportant Paris dans son ressort, à l'issue des délais
 mentionnés ci-dessus, ou si les résultats de la vérification sont favorables, l'intéressé est réputé remplir les conditions
 d'exercice imposées par la présente section. 
 
@@ -58285,22 +58115,19 @@ incompatible avec lui.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 1-1 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 32
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. R612-24 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. R612-24
 
 	**Cité par**:
 
@@ -58453,25 +58280,23 @@ avec ce chien.
 ###### Article R612-30
 
 Pour l'application de l'article R. 335-19 du code de l'éducation, la demande d'enregistrement au répertoire national des
-certifications professionnelles est accompagnée de l'avis du ministre de l'intérieur.
+certifications professionnelles est accompagnée de l'avis conforme du ministre de l'intérieur pris au regard du cahier des
+charges mentionné à l'article R. 612-31.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 33
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R335-19 (M)
+	  - Code de l'éducation - art. R335-19
+	  - Code de la sécurité intérieure - art. R612-31 (VT)
 
 
 ###### Article R612-31
@@ -58482,17 +58307,12 @@ la sûreté des vols mentionnées à l'article L. 6341-2 du code des transports,
 et du ministre chargé des transports. Il peut être retiré dans les mêmes conditions en cas de non-respect du cahier des
 charges.
 
+Les arrêtés mentionnés à l'alinéa précédent peuvent également prévoir les cas dans lesquels une personne peut être dispensée
+du suivi d'un module de formation dès lors qu'elle justifie avoir déjà suivi un module équivalent.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 3-1 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -58505,9 +58325,13 @@ charges.
 	  - Code de la sécurité intérieure - art. R646-1 (M)
 	  - Code de la sécurité intérieure - art. R647-1 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 34
+
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (M)
+	  - Code des transports - art. L6341-2
 
 
 ###### Article R612-32
@@ -58526,25 +58350,26 @@ Il est tenu compte :
 2° De la commission éventuelle d'actes contraires à l'honneur, à la probité ou aux bonnes mœurs ou de nature à porter
 atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat. 
 
-Au vu de cette enquête, la commission régionale ou interrégionale d'agrément et de contrôle autorise le stage.
+Au vu de cette enquête, la commission régionale ou interrégionale d'agrément et de contrôle autorise le stage. 
+
+Les dispositions du présent article ne sont pas applicables lorsque le stagiaire est titulaire d'une autorisation préalable
+d'accès à la formation professionnelle ou d'une autorisation provisoire d'exercice mentionnées aux articles L. 612-22 et L.
+612-23.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 4 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 35
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R612-24 (VD)
+	  - Code de la sécurité intérieure - art. L612-22 (V)
+	  - Code de la sécurité intérieure - art. R612-24
 
 	**Cité par**:
 
@@ -58610,42 +58435,6 @@ trois ans.
 
 	  - Code de la sécurité intérieure - art. L612-6 (V)
 	  - Code de la sécurité intérieure - art. R612-24 (VD)
-
-
-###### Article R612-35
-
-Les exploitants individuels, les dirigeants et les gérants peuvent justifier auprès de la commission régionale ou
-interrégionale d'agrément et de contrôle territorialement compétente de leur aptitude professionnelle par la preuve de
-l'exercice continu, pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre 2008 inclus, d'une
-activité de surveillance et de gardiennage, de transport de fonds ou de protection physique des personnes, à titre
-individuel, ou en tant que dirigeant ou gérant d'une personne morale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 7, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 37
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R645-1 (M)
-	  - Code de la sécurité intérieure - art. R645-3 (V)
-	  - Code de la sécurité intérieure - art. R646-1 (VD)
-	  - Code de la sécurité intérieure - art. R646-3 (V)
-	  - Code de la sécurité intérieure - art. R647-1 (M)
-	  - Code de la sécurité intérieure - art. R647-3 (V)
 
 
 ###### Article R612-36
@@ -58742,113 +58531,6 @@ c) Sur la protection des déplacements des personnes physiques.
 	  - Code de la sécurité intérieure - art. R612-26 (VD)
 
 
-###### Article R612-38
-
-Les employés peuvent justifier auprès de leur employeur de leur aptitude professionnelle par la preuve de l'exercice d'une
-activité mentionnée à l'article L. 611-1 : 
-
-1° Soit de manière continue entre le 10 septembre 2004 et le 9 septembre 2005 inclus ; 
-
-2° Soit pendant 1 607 heures durant une période de dix-huit mois comprise entre le 10 septembre 2004 et le 9 septembre 2008
-inclus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 11, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 37
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R612-40 (Ab)
-	  - Code de la sécurité intérieure - art. R645-3 (V)
-	  - Code de la sécurité intérieure - art. R646-3 (V)
-	  - Code de la sécurité intérieure - art. R647-3 (V)
-
-
-###### Article R612-39
-
-Les employés se prévalant de l'exercice continu de leur profession en justifient par tout moyen auprès de leur employeur qui
-leur délivre une attestation à cet effet. 
-
-Lorsque, dans l'exercice de leur activité, ces employés utilisent un chien dangereux au sens des articles L. 211-11 et L.
-211-12 du code rural et de la pêche maritime, ils doivent justifier de la possession du permis de détention prévu à l'article
-L. 211-14 du même code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 12 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 37
-
-	**Cite**:
-
-	  - Code rural - art. L211-11
-	  - Code rural - art. L211-14
-
-
-###### Article R612-40
-
-Pour l'application des articles R. 612-38 et R. 612-39 du présent code aux employés utilisant, dans l'exercice d'une activité
-mentionnée à l'article L. 611-1 du même code, un chien dangereux au sens des articles L. 211-11 et L. 211-12 du code rural et
-de la pêche maritime, la justification de l'aptitude est apportée par la possession du permis de détention mentionné à
-l'article L. 211-14 du même code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1122 du 6 septembre 2005 - art. 12-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 37
-
-	**Cite**:
-
-	  - Code rural - art. L211-11
-	  - Code rural - art. L211-12
-	  - Code rural - art. L211-14
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. R612-38 (Ab)
-
-
 ###### Article R612-41
 
 Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale ayant la qualité d'officier de police
@@ -58914,26 +58596,22 @@ Les employés des entreprises de surveillance, gardiennage et transport de fonds
 sécurité mentionnés à l'article L. 612-25 sont, dans l'exercice de leurs fonctions, revêtus d'une tenue qui ne doit pas
 prêter à confusion avec les uniformes définis par les textes réglementaires. 
 
-Cette tenue comporte au moins deux insignes reproduisant la dénomination ou le sigle de l'entreprise ou, le cas échéant, du
-service interne de sécurité et placés de telle sorte qu'ils restent apparents en toutes circonstances.
+Cette tenue comporte au moins un insigne reproduisant la dénomination ou le sigle de l'entreprise ou, le cas échéant, du
+service interne de sécurité et placés de telle sorte qu'il reste apparent et lisible  en toutes circonstances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1099 du 10 octobre 1986 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 36
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-25 (V)
+	  - Code de la sécurité intérieure - art. L612-25
 
 	**Cité par**:
 
@@ -59073,28 +58751,24 @@ L. 613-2.
 
 Pour procéder aux palpations de sécurité ainsi qu'à l'inspection visuelle des bagages à main et à leur fouille dans les
 conditions prévues à l'article L. 613-3, ces employés doivent avoir été habilités par leur employeur et agréés par la
-commission régionale ou interrégionale d'agrément et de contrôle.
+commission  locale d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-329 du 8 mars 2002 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L612-25 (V)
-	  - Code de la sécurité intérieure - art. L613-2 (V)
-	  - Code de la sécurité intérieure - art. L613-3 (V)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L612-25
+	  - Code de la sécurité intérieure - art. L613-2
+	  - Code de la sécurité intérieure - art. L613-3
 
 
 ###### Article R613-7
@@ -59206,9 +58880,8 @@ l'inspection visuelle et à la fouille des bagages à main dans les conditions p
 
 ###### Article R613-11
 
-L'organisateur adresse à la commission régionale ou interrégionale d'agrément et de contrôle un dossier décrivant les
-modalités de la formation de ses préposés aux missions mentionnées à l'article R. 613-10 et comprenant les renseignements
-suivants : 
+L'organisateur adresse à la commission  locale d'agrément et de contrôle un dossier décrivant les modalités de la formation
+de ses préposés aux missions mentionnées à l'article R. 613-10 et comprenant les renseignements suivants : 
 
 1° La dénomination de l'organisme ou l'identité de la personne dispensant la formation ; 
 
@@ -59217,30 +58890,26 @@ suivants :
 3° Le mode d'évaluation des compétences acquises à l'issue de la formation. 
 
 Si elle estime que ce dispositif est de nature à garantir le bon accomplissement des missions mentionnées à l'article R.
-613-10, la commission régionale ou interrégionale d'agrément et de contrôle approuve le contenu et les modalités de la
-formation décrits dans le dossier de l'organisateur.
+613-10, la commission  locale d'agrément et de contrôle approuve le contenu et les modalités de la formation décrits dans le
+dossier de l'organisateur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-307 du 24 mars 2005 - art. 5 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R613-10 (VD)
+	  - Code de la sécurité intérieure - art. R613-10
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. R613-12 (VD)
+	  - Code de la sécurité intérieure - art. R613-12 (V)
 	  - Code de la sécurité intérieure - art. R613-14 (VD)
 
 
@@ -59250,49 +58919,42 @@ La demande de l'agrément mentionné à l'article R. 613-10 est présentée par 
 
 1° L'identité et le domicile de la personne dont l'agrément est demandé ainsi que la justification de sa qualification ; 
 
-2° La décision de la commission régionale ou interrégionale d'agrément et de contrôle mentionnée à l'article R. 613-11
-approuvant le contenu et les modalités de la formation.
+2° La décision de la commission  locale d'agrément et de contrôle mentionnée à l'article R. 613-11 approuvant le contenu et
+les modalités de la formation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-307 du 24 mars 2005 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R613-10 (VD)
-	  - Code de la sécurité intérieure - art. R613-11 (VD)
+	  - Code de la sécurité intérieure - art. R613-10
+	  - Code de la sécurité intérieure - art. R613-11 (V)
 
 
 ###### Article R613-13
 
-L'agrément est délivré par la commission régionale ou interrégionale d'agrément et de contrôle compétente dans la région où
-l'organisateur qui emploie le membre du service d'ordre a son siège.
+L'agrément est délivré par la commission locale d'agrément et de contrôle compétente dans le département où l'organisateur
+qui emploie le membre du service d'ordre a son siège. 
 
 L'agrément est accordé pour une durée de trois ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-307 du 24 mars 2005 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 13
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ###### Article R613-14
@@ -60237,7 +59899,7 @@ Le dossier de demande comporte :
 
 2° Le justificatif de l'aptitude professionnelle ; 
 
-3° Le numéro de carte professionnelle attribuée par la commission régionale d'agrément et de contrôle ; 
+3° Le numéro de carte professionnelle attribuée par la commission locale d'agrément et de contrôle ; 
 
 4° Un certificat médical datant de moins d'un mois, placé sous pli fermé et attestant que l'état de santé physique et
 psychique du convoyeur n'est pas incompatible avec le port d'une arme. 
@@ -60249,21 +59911,17 @@ préfet de cette nouvelle situation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2000-376 du 28 avril 2000 - art. 10 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R613-41 (VD)
+	  - Code de la sécurité intérieure - art. R613-41
 
 	**Cité par**:
 
@@ -62678,29 +62336,25 @@ réglementaires requises pour l'exercice de leurs fonctions.
 
 ###### Article R622-1
 
-L'agrément prévu par l'article L. 622-6 est délivré par la commission régionale ou interrégionale d'agrément et de contrôle
-dans le ressort de laquelle l'entreprise a son établissement principal. Lorsqu'il est demandé par une des personnes
-mentionnées au 2° de l'article R. 622-2, l'agrément est délivré par la commission régionale d'agrément et de contrôle
-comportant Paris dans son ressort.
+L'agrément prévu par l'article L. 622-6 est délivré par la commission locale d'agrément et de contrôle dans le ressort de
+laquelle l'entreprise a son établissement principal. Lorsqu'il est demandé par une des personnes mentionnées au 2° de
+l'article R. 622-2, l'agrément est délivré par la commission locale d'agrément et de contrôle comportant Paris dans son
+ressort.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 7-1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L622-6 (V)
-	  - Code de la sécurité intérieure - art. R622-2 (VD)
+	  - Code de la sécurité intérieure - art. L622-6
+	  - Code de la sécurité intérieure - art. R622-2 (V)
 
 
 ###### Article R622-2
@@ -62714,37 +62368,28 @@ Sans préjudice des autres dispositions de la présente section, la demande d'ag
 un accord bilatéral avec la France leur permettant d'exercer la profession de dirigeant d'agence de recherches privées, la
 copie de leur titre de séjour ; 
 
-3° La justification d'aptitude prévue à l'article R. 622-22 ; 
-
-4° Pour les personnes exerçant l'activité mentionnée à l'article L. 621-1 dans un pays membre de l'Union européenne ou dans
-un autre Etat partie à l'accord sur l'Espace économique européen où cette activité n'est pas spécifiquement réglementée,
-toute pièce indiquant le nombre d'années pendant lesquelles l'intéressé a exercé cette activité à temps complet au cours des
-dix dernières années. 
+3° La justification d'aptitude prévue à l'article R. 622-22 .
 
 Tout document rédigé dans une langue étrangère est accompagné d'une traduction en français.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 7-2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 39
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
-	  - Code de la sécurité intérieure - art. R622-22 (VD)
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. R622-22
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. R622-1 (VD)
+	  - Code de la sécurité intérieure - art. R622-1 (V)
 
 
 ###### Article R622-3
@@ -62767,31 +62412,93 @@ justifier d'une aptitude professionnelle correspondant à cette activité dans l
 	  - Code de la sécurité intérieure - art. L621-1 (V)
 
 
+###### Article R622-3-1
+
+L'agrément a une durée de validité de cinq ans à compter de sa date de délivrance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 40
+
+
+###### Article R622-3-2
+
+La  demande de renouvellement de l'agrément est présentée, trois mois au  moins avant sa date d'expiration, dans les mêmes
+conditions que celles  prévues par la présente section. Lorsque la demande est complète, le  Conseil national des activités
+privées de sécurité en délivre récépissé.  
+
+Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 40
+
+
 ##### Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales
 
 ###### Article R622-4
 
-L'autorisation administrative prévue par l'article L. 622-9 est délivrée par la commission régionale ou interrégionale
-d'agrément et de contrôle compétente dans le département du siège de l'entreprise ou du lieu d'implantation de
-l'établissement.
+Lorsque l'activité doit être exercée par une personne physique mentionnée au 1° de l'article L. 622-1, la demande
+d'autorisation est faite auprès de la commission locale d'agrément et de contrôle dans le ressort de laquelle cette personne
+est immatriculée auprès de l'organisme visé par le deuxième alinéa de l'article 2 de la loi n° 94-126 du 11 février 1994
+relative à l'initiative ou à l'entreprise individuelle. Lorsque l'activité doit être exercée par une personne morale
+mentionnée au 1° de l'article L. 622-1, la demande d'autorisation est déposée par le dirigeant ayant le pouvoir d'engager
+cette personne auprès de la commission locale d'agrément et de contrôle dans le ressort de laquelle celle-ci a son
+établissement principal ou secondaire. 
+
+La demande mentionne le numéro d'immatriculation auprès de l'organisme visé par le deuxième alinéa de l'article 2 de la loi
+n° 94-126 du 11 février 1994 précitée. 
+
+Pour une personne physique, elle indique l'adresse de celle-ci. Pour une personne morale, elle comporte la dénomination,
+l'adresse du siège social de l'entreprise et, s'ils sont distincts, de l'établissement principal et de l'établissement
+secondaire et le statut, la liste nominative des fondateurs, administrateurs, directeurs ou gérants ainsi que la répartition
+du capital social et les participations financières détenues dans d'autres sociétés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 1, ecqc le titre II (VT)
+	  - Loi n°94-126 du 11 février 1994 - art. 2 (M)
+	  - Code de la sécurité intérieure - art. L622-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 14
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R622-8-1 (V)
+
+
+###### Article R622-4-1
+
+Lorsque l'activité doit être exercée par une personne mentionnée au 2° de l'article L. 622-1, la demande d'autorisation est
+déposée auprès de la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
+
+Pour une personne physique, la demande indique l'adresse de celle-ci. Pour une personne morale, elle comporte la
+dénomination, l'adresse du siège social et, le cas échéant, celle de l'établissement que cette personne envisage de créer en
+France, les statuts, la liste nominative des fondateurs, administrateurs, directeurs ou gérants et des membres du personnel
+employé ainsi que la répartition du capital social et les participations financières détenues dans d'autres sociétés. Elle
+est accompagnée, le cas échéant, de l'autorisation d'exercice délivrée dans l'Etat membre de l'Union européenne dans lequel
+la personne est établie.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 15
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L622-9 (V)
+	  - Code de la sécurité intérieure - art. L622-1 (V)
 
 	**Cité par**:
 
@@ -62801,7 +62508,7 @@ l'établissement.
 ###### Article R622-5
 
 Le dossier de la demande d'autorisation administrative présentée par les entreprises exerçant l'activité mentionnée à
-l'article L. 621-1 comprend les justifications requises par les articles L. 622-7, L. 622-10 et L. 622-11. 
+l'article L. 621-1 comprend également les justifications requises par l'article L. 622-7. 
 
 Pour les dirigeants étrangers, la demande doit être accompagnée d'un bulletin n° 3 du casier judiciaire ou, à défaut, d'un
 document équivalent délivré par une autorité judiciaire ou administrative compétente de leur pays d'origine ou de
@@ -62812,22 +62519,18 @@ sont rédigées dans une langue étrangère, elles sont accompagnées d'une trad
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 2, ecqc le titre II (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 16
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
-	  - Code de la sécurité intérieure - art. L622-11 (V)
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. L622-11
 	  - Code de la sécurité intérieure - art. L622-7 (V)
 
 	**Cité par**:
@@ -62894,26 +62597,41 @@ Les décisions d'octroi, de refus, de suspension et de retrait d'autorisation so
 administratifs du département. 
 
 Les décisions d'octroi ou de refus d'autorisation concernant les entreprises exerçant l'activité mentionnée à l'article L.
-621-1 sont transmises par la commission régionale ou interrégionale d'agrément et de contrôle au greffier qui a procédé à
-leur immatriculation au registre du commerce et des sociétés.
+621-1 sont transmises par la commission  locale d'agrément et de contrôle au greffier qui a procédé à leur immatriculation au
+registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1058 du 26 septembre 1986 - art. 6, ecqc le titre II (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L621-1
+
+
+###### Article R622-8-1
+
+Toute modification, suppression ou adjonction affectant l'un des renseignements mentionnés aux articles R. 622-4, R. 622-4-1
+et R. 622-5 ainsi que tout changement substantiel dans la répartition du capital de la personne morale font l'objet d'une
+déclaration dans un délai d'un mois auprès de la commission locale d'agrément et de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 17
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R622-4 (V)
+	  - Code de la sécurité intérieure - art. R622-4-1 (V)
+	  - Code de la sécurité intérieure - art. R622-5 (V)
 
 
 ###### Article R622-9
@@ -62944,36 +62662,35 @@ défense nationale.
 ###### Article R622-10
 
 La carte professionnelle mentionnée à l'article L. 622-19 est délivrée, sous la forme dématérialisée d'un numéro
-d'enregistrement, par la commission régionale ou interrégionale d'agrément et de contrôle dans le ressort de laquelle le
-demandeur a son domicile. 
+d'enregistrement, par la commission locale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son
+domicile. 
 
 Pour les employés des personnes morales mentionnées au 2° de l'article L. 622-1 et à l'article L. 622-11, la carte
-professionnelle est délivrée par la commission régionale ou interrégionale d'agrément et de contrôle comportant Paris dans
-son ressort. 
+professionnelle est délivrée par la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
-Un arrêté du ministre de l'intérieur précise les conditions dans lesquelles l'employeur, auquel la personne titulaire de la
-carte professionnelle a communiqué le numéro d'enregistrement, a accès aux informations mentionnées à l'article R. 622-14.
+L'employeur, auquel la personne titulaire de la carte professionnelle a communiqué le numéro d'enregistrement, a accès aux
+informations mentionnées à l'article R. 622-14 par le biais d'un téléservice mis en œuvre par le Conseil national des
+activités privées de sécurité dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2009-137 du 9 février 2009 - art. 1, ecqc le titre II (VT)
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la sécurité intérieure - art. L622-1
+	  - Code de la sécurité intérieure - art. L622-11
+	  - Code de la sécurité intérieure - art. L622-19
+	  - Code de la sécurité intérieure - art. R622-14
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L622-1 (V)
-	  - Code de la sécurité intérieure - art. L622-11 (V)
-	  - Code de la sécurité intérieure - art. L622-19 (V)
-	  - Code de la sécurité intérieure - art. R622-14 (VD)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 41
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ###### Article R622-11
@@ -63088,34 +62805,30 @@ La décision de délivrance de la carte professionnelle est notifiée au demande
 La demande de renouvellement de la carte professionnelle est présentée, trois mois au moins avant sa date d'expiration, dans
 les mêmes conditions que celles prévues par la présente sous-section pour une demande de délivrance de la carte à
 l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 622-13. Lorsque la
-demande est complète, la commission régionale ou interrégionale d'agrément et de contrôle en délivre récépissé. 
+demande est complète,          le Conseil national des activités privées de sécurité en délivre récépissé. 
 
 Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2009-137 du 9 février 2009 - art. 6, ecqc le titre II (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 18
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R622-13 (VD)
+	  - Code de la sécurité intérieure - art. R622-13
 
 
 ###### Article R622-16
 
 Tout candidat à l'emploi pour exercer l'activité privée de sécurité définie à l'article L. 621-1 ou tout employé participant
 à l'exercice de cette activité communique à l'employeur le numéro de la carte professionnelle qui lui a été délivrée par la
-commission régionale ou interrégionale d'agrément et de contrôle. 
+commission  locale d'agrément et de contrôle. 
 
 L'employeur remet à l'employé une carte professionnelle propre à l'entreprise. Cette carte, qui comporte une photographie
 récente de son titulaire, mentionne : 
@@ -63125,29 +62838,25 @@ récente de son titulaire, mentionne :
 2° Le nom, la raison sociale et l'adresse de l'employeur ainsi que l'autorisation administrative prévue à l'article L.
 622-9 ; 
 
-3° Le numéro de carte professionnelle délivrée par la commission régionale ou interrégionale d'agrément et de contrôle. 
+3° Le numéro de carte professionnelle délivrée par la commission  locale d'agrément et de contrôle. 
 
 La carte professionnelle remise à l'employé par son employeur doit être présentée à toute réquisition d'un agent de
 l'autorité publique et restituée à l'employeur à l'expiration du contrat de travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-1099 du 10 octobre 1986 - art. 5, ecqc le titre II (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
-	  - Code de la sécurité intérieure - art. L622-9 (V)
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. L622-9
 
 	**Cité par**:
 
@@ -63160,35 +62869,34 @@ l'autorité publique et restituée à l'employeur à l'expiration du contrat de 
 
 L'autorisation préalable d'accès à la formation professionnelle et l'autorisation provisoire d'exercice, mentionnées aux
 articles L. 622-21 et L. 622-22, sont délivrées sous la forme dématérialisée d'un numéro d'enregistrement par la commission
-régionale ou interrégionale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son domicile. 
+locale d'agrément et de contrôle dans le ressort de laquelle le demandeur a son domicile. 
 
 Pour les employés des personnes morales mentionnées au 2° de l'article L. 622-1 et à l'article L. 622-11, l'autorisation
-provisoire est délivrée par la commission régionale d'agrément et de contrôle comportant Paris dans son ressort. 
+provisoire est délivrée par la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
-Un arrêté du ministre de l'intérieur précise les conditions dans lesquelles l'organisme ou l'employeur qui assure la
-formation, auquel la personne titulaire de l'autorisation préalable ou de l'autorisation provisoire a communiqué le numéro
-d'enregistrement, a accès aux informations mentionnées à l'article R. 622-21.
+L'organisme ou l'employeur qui assure la formation, auquel la personne titulaire de l'autorisation préalable ou de
+l'autorisation provisoire a communiqué le numéro d'enregistrement, a accès aux informations mentionnées à l'article R. 622-21
+par le biais d'un téléservice mis en œuvre par le Conseil national des activités privées de sécurité dans le respect des
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2009-137 du 9 février 2009 - art. 7, ecqc le titre II (VT)
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la sécurité intérieure - art. L622-1
+	  - Code de la sécurité intérieure - art. L622-11
+	  - Code de la sécurité intérieure - art. L622-21
+	  - Code de la sécurité intérieure - art. R622-21
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L622-1 (V)
-	  - Code de la sécurité intérieure - art. L622-11 (V)
-	  - Code de la sécurité intérieure - art. L622-21 (V)
-	  - Code de la sécurité intérieure - art. R622-21 (VD)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 41
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ###### Article R622-18
@@ -63321,34 +63029,109 @@ rapportant à l'activité de recherches privées ;
 2° Soit d'un certificat de qualification professionnelle élaboré par la branche professionnelle de l'activité concernée,
 agréé par arrêté du ministre de l'intérieur ; 
 
-3° Soit d'un titre reconnu par un Etat membre de l'Union européenne, ou par un des Etats parties à l'accord sur l'Espace
-économique européen, se rapportant à l'activité d'agence de recherches privées.
+3° Soit d'un titre de formation ou d'une attestation de compétences se rapportant à l'activité concernée, qui est requis par
+un Etat membre de l'Union européenne ou par un des Etats parties à l'accord sur l'Espace économique européen, pour accéder à
+cette même activité sur son territoire ou l'y exercer. Si l'activité en cause n'est pas spécifiquement réglementée dans cet
+Etat, l'intéressé fournit toute pièce établissant qu'il a exercé cette activité dans un ou plusieurs Etats membres pendant
+une année au moins, à temps plein ou à temps partiel pendant une durée totale équivalente, au cours des dix dernières années.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 42
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L621-1
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R622-2 (V)
 	  - Code de la sécurité intérieure - art. R622-22-1 (V)
-	  - Code de la sécurité intérieure - art. R622-23 (VD)
+	  - Code de la sécurité intérieure - art. R622-23 (V)
 	  - Code de la sécurité intérieure - art. R622-29 (VD)
 	  - Code de la sécurité intérieure - art. R625-11 (VD)
+
+
+###### Article R622-22-1
+
+Lorsque la demande d'agrément prévu à l'article L. 622-6 ou de carte professionnelle prévue à l'article L. 622-19 émane d'un
+ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+dont la formation, attestée par le titre ou l'attestation mentionnés au 3° de l'article R. 622-22, porte sur des matières
+substantiellement différentes de celles couvertes par les titres mentionnés aux 1° et 2° du même article, la commission
+compétente vérifie que les connaissances, aptitudes, compétences acquises par le demandeur au cours de son expérience
+professionnelle ou de l'apprentissage tout au long de la vie et ayant fait l'objet, à cette fin, d'une validation en bonne et
+due forme par un organisme compétent, ne sont pas de nature à couvrir, en tout ou partie, ces différences. 
+
+A l'issue de cette vérification, la commission propose, le cas échéant, à l'intéressé de passer, à son choix, soit une
+épreuve d'aptitude organisée par un organisme agréé en vue de la délivrance d'une certification professionnelle ou d'un
+certificat de qualification professionnelle, soit un stage d'adaptation d'une durée comprise entre six mois et trois ans. 
+
+La décision imposant un stage d'adaptation, dont elle fixe les modalités et la durée, ou une épreuve d'aptitude est dûment
+justifiée. En particulier, le demandeur reçoit les informations suivantes : 
+
+1° Le niveau de qualification professionnelle requis en France et le niveau de la qualification professionnelle qui lui est
+reconnu ; 
+
+2° Les différences substantielles visées au premier aliéna, et les raisons pour lesquelles ces différences ne peuvent être
+comblées par les connaissances, aptitudes et compétences acquises au cours de l'expérience professionnelle ou de
+l'apprentissage tout au long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un
+organisme compétent. 
+
+La commission se prononce sur le respect par l'intéressé des obligations prescrites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 43
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L622-19 (V)
+	  - Code de la sécurité intérieure - art. L622-6 (V)
+	  - Code de la sécurité intérieure - art. R622-22 (V)
+
+
+###### Article R622-22-2
+
+La commission d'agrément et de contrôle comprenant Paris dans son ressort accorde, au cas par cas, à un ressortissant d'un
+Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui en fait la demande,
+l'accès partiel à une activité privée de sécurité lorsque toutes les conditions suivantes sont remplies : 
+
+1° Le demandeur est pleinement qualifié pour exercer dans son Etat d'origine l'activité professionnelle pour laquelle il
+sollicite l'accès partiel en France ; 
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat membre d'origine et l'activité mentionnée
+à l'article L. 622-1 sont si importantes que l'application de mesures de compensation reviendrait à imposer au demandeur de
+suivre le programme complet de formation requis pour avoir pleinement accès à la profession en France ; 
+
+3° L'activité professionnelle peut objectivement être séparée de l'activité professionnelle mentionnée à l'article L. 621-1. 
+
+Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
+prestation de services temporaire et occasionnelle de la profession concernée. 
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt. 
+
+Les professionnels qui bénéficient d'un accès partiel indiquent clairement aux destinataires des services le champ de leurs
+activités professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 43
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L622-1 (V)
 
 
 ###### Article R622-23
@@ -63356,7 +63139,7 @@ agréé par arrêté du ministre de l'intérieur ;
 Lorsqu'une personne exerçant l'activité définie à l'article L. 621-1 en qualité de travailleur indépendant ou de salarié,
 dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, se
 propose de se rendre en France pour la première fois en vue d'y exercer cette activité à titre occasionnel, il en fait la
-déclaration à la commission régionale d'agrément et de contrôle comportant Paris dans son ressort. 
+déclaration à la commission locale d'agrément et de contrôle comportant Paris dans son ressort. 
 
 La déclaration est accompagnée des documents suivants : 
 
@@ -63371,20 +63154,27 @@ n'y encourt aucune interdiction d'exercice ;
 judiciaire pour un motif incompatible avec l'exercice de cette activité ; 
 
 5° Si l'activité en cause n'est pas spécifiquement réglementée dans l'Etat membre d'établissement, toute pièce établissant
-que l'intéressé y a exercé cette activité à temps complet pendant deux ans au moins au cours des dix dernières années. 
+que l'intéressé a exercé cette activité dans un ou plusieurs Etats membres pendant une année au moins, à temps plein ou à
+temps partiel pendant une durée totale équivalente, au cours des dix dernières années.
 
-Dans le délai d'un mois à compter de la réception de la déclaration, la commission régionale d'agrément et de contrôle
-comportant Paris dans son ressort fait savoir à l'intéressé si elle décide de vérifier ou non ses qualifications
-professionnelles, eu égard à l'existence de différences substantielles entre les qualifications déclarées et celles requises
-pour la délivrance des titres mentionnés aux 1° et 2° de l'article R. 622-22. Ce délai peut être renouvelé une fois si la
-commission demande à l'intéressé de compléter sa déclaration. 
+Dans le délai d'un mois à compter de la réception de la déclaration, la commission locale d'agrément et de contrôle
+comportant Paris dans son ressort fait savoir à l'intéressé si, le cas échéant après vérification de ses qualifications
+professionnelles, elle permet la prestation de services, ou si elle décide de le soumettre à une épreuve d'aptitude au regard
+de la différence substantielle constatée entre ses qualifications professionnelles et la formation exigée en France, dans la
+mesure où cette différence est de nature à nuire à la sécurité publique et où elle ne peut être compensée par l'expérience
+professionnelle de l'intéressé ou par les connaissances, aptitudes et compétences acquises lors d'un apprentissage tout au
+long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un organisme compétent.
 
-Si elle décide une vérification, la commission régionale d'agrément et de contrôle comportant Paris dans son ressort offre à
-l'intéressé la possibilité de démontrer qu'il a acquis les connaissances ou compétences manquantes en se soumettant, dans le
-délai d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat
-de qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai. 
+En cas de difficulté susceptible de provoquer un retard dans la prise de décision prévue à l'alinéa précédent, la commission
+informe l'intéressé dans le même délai des raisons du retard. La difficulté est résolue dans le mois qui suit cette
+information et la décision est prise dans un délai de deux mois suivant la résolution de la difficulté.
 
-Dans le silence de la commission régionale d'agrément et de contrôle comportant Paris dans son ressort, à l'issue des délais
+Lorsque la commission locale d'agrément et de contrôle comportant Paris dans son ressort a décidé d'offrir à l'intéressé la
+possibilité de démontrer qu'il a acquis les connaissances, aptitudes ou compétences manquantes, elle le soumet, dans le délai
+d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat de
+qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai. 
+
+Dans le silence de la commission locale d'agrément et de contrôle comportant Paris dans son ressort, à l'issue des délais
 mentionnés ci-dessus, ou si les résultats de la vérification sont favorables, l'intéressé est réputé remplir les conditions
 d'exercice imposées par la présente section. 
 
@@ -63395,22 +63185,19 @@ incompatible avec lui.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 1-1 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 44
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L621-1 (V)
-	  - Code de la sécurité intérieure - art. R622-22 (VD)
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. R622-22 (V)
 
 
 ###### Article R622-24
@@ -63463,25 +63250,23 @@ non-assistance à personne en péril, à l'omission d'empêcher un crime ou un d
 ###### Article R622-25
 
 Pour l'application de l'article R. 335-19 du code de l'éducation, la demande d'enregistrement au répertoire national des
-certifications professionnelles est accompagnée de l'avis du ministre de l'intérieur.
+certifications professionnelles est accompagnée de l'avis conforme du ministre de l'intérieur pris au regard du cahier des
+charges mentionné à l'article R. 622-26.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 45
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R335-19 (M)
+	  - Code de l'éducation - art. R335-19
+	  - Code de la sécurité intérieure - art. R622-26 (V)
 
 
 ###### Article R622-26
@@ -63517,31 +63302,35 @@ Il peut être retiré dans les mêmes conditions en cas de non-respect du cahier
 Lorsque pour l'obtention de la certification professionnelle ou du certificat de qualification professionnelle une formation
 comportant un stage en agence de recherches privées est dispensée, le dirigeant de l'agence adresse à la commission régionale
 ou interrégionale d'agrément et de contrôle territorialement compétente, le nom du stagiaire, par lettre recommandée avec
-accusé de réception, deux mois avant le début du stage, pour la réalisation d'une enquête administrative.
+accusé de réception, deux mois avant le début du stage, pour la réalisation d'une enquête administrative. 
 
 Cette enquête porte sur la compatibilité du comportement ou de la moralité du stagiaire avec l'accomplissement du stage
-pratique. Il est tenu compte :
+pratique. Il est tenu compte : 
 
-1° De l'examen du bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, d'un document équivalent ;
+1° De l'examen du bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, d'un document équivalent ; 
 
 2° De la commission éventuelle d'actes contraires à l'honneur, à la probité ou aux bonnes mœurs ou de nature à porter
-atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat.
+atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat. 
 
-Au vu de cette enquête, la commission régionale ou interrégionale d'agrément et de contrôle autorise le stage.
+Au vu de cette enquête, la commission régionale ou interrégionale d'agrément et de contrôle autorise le stage. 
+
+Les dispositions du présent article ne sont pas applicables lorsque le stagiaire est titulaire d'une autorisation préalable
+d'accès à la formation professionnelle ou d'une autorisation provisoire d'exercice mentionnées aux articles L. 622-21 et L.
+622-22.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 4 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 46
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L622-21 (V)
 
 	**Cité par**:
 
@@ -63605,33 +63394,6 @@ trois ans.
 	  - Code de la sécurité intérieure - art. R622-22 (VD)
 
 
-###### Article R622-30
-
-Les exploitants individuels, les dirigeants et les gérants d'agences de recherches privées peuvent justifier auprès de la
-commission régionale ou interrégionale d'agrément et de contrôle territorialement compétente, de leur qualification
-professionnelle par la preuve de l'exercice continu, pendant trois ans dans la période comprise entre le 10 septembre 2002 et
-le 9 septembre 2008 inclus, de la profession d'agent de recherches privées, à titre individuel ou en tant que dirigeant ou
-gérant d'une personne morale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 6 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 47
-
-
 ###### Article R622-31
 
 Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale ayant la qualité d'officier de police
@@ -63657,59 +63419,6 @@ la défense et ayant servi dans les conditions précisées par cet arrêté.
 
 
 ##### Sous-section 3 : Dispositions spécifiques aux employés
-
-###### Article R622-32
-
-Les employés des agences de recherches privées peuvent justifier auprès de leur employeur de leur aptitude professionnelle
-par la preuve de l'exercice de l'activité d'agent de recherches privées :
-
-1° Soit de manière continue entre le 10 septembre 2003 et le 9 septembre 2005 inclus ;
-
-2° Soit pendant 3 214 heures durant une période de trente-six mois comprise entre le 10 septembre 2003 et le 9 septembre 2008
-inclus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 8 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 47
-
-
-###### Article R622-33
-
-Les employés des agences de recherches privées se prévalant de l'exercice continu de leur activité en justifient par tout
-moyen auprès de leur employeur, qui leur délivre une attestation à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1123 du 6 septembre 2005 - art. 9 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 47
-
 
 ###### Article R622-34
 
@@ -64768,9 +64477,9 @@ Le collège du Conseil national des activités privées de sécurité comprend :
 
 1° Onze représentants de l'Etat : 
 
-a) Le délégué aux coopérations de sécurité au ministère de l'intérieur ; 
+a) Le délégué aux coopérations de sécurité au ministère de l'intérieur ou son représentant  ; 
 
-b) Le chef de l'inspection générale de l'administration au ministère de l'intérieur ou son représentant ; 
+b) Le secrétaire général du ministère  de l'intérieur ou son représentant ; 
 
 c) Le directeur général de la police nationale ou son représentant ; 
 
@@ -64787,7 +64496,8 @@ h) Le directeur général de l'aviation civile au ministère chargé des transpo
 i) Le directeur général des infrastructures, des transports et de la mer au ministère chargé des transports ou son
 représentant ; 
 
-j) Le secrétaire général pour l'administration au ministère de la défense ou son représentant ; 
+j) Le directeur de la protection des installations, moyens et activités de la défense  au ministère de la défense ou son
+représentant ; 
 
 k) Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale ou son représentant ; 
 
@@ -64812,29 +64522,25 @@ e) Une au titre des activités des agences de recherches privées ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 21
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L621-1
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R632-3 (VD)
 	  - Code de la sécurité intérieure - art. R632-7 (VD)
 	  - Code de la sécurité intérieure - art. R632-9 (VD)
-	  - Code de la sécurité intérieure - art. R633-2 (VD)
+	  - Code de la sécurité intérieure - art. R633-2 (V)
 	  - Code de la sécurité intérieure - art. R645-4 (VD)
 	  - Code de la sécurité intérieure - art. R646-4 (VD)
 	  - Code de la sécurité intérieure - art. R647-4 (VD)
@@ -64898,7 +64604,10 @@ Le collège délibère sur :
 
 11° Les actions en justice et les transactions ; 
 
-12° Le rapport annuel d'activité. 
+12° Le rapport annuel d'activité ;
+
+13° Le projet de charte de déontologie des membres du collège, des membres de la commission nationale et des commissions
+locales d'agrément et de contrôle et des agents du Conseil national. 
 
 Le collège se prononce en outre sur les questions qui lui sont soumises par son président ou le ministre de l'intérieur. 
 
@@ -64912,22 +64621,18 @@ des délégations qui lui sont ainsi consenties, selon les modalités fixées pa
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 4 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 22
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L632-1 (V)
-	  - Code de la sécurité intérieure - art. R631-1 (VD)
+	  - Code de la sécurité intérieure - art. L632-1
+	  - Code de la sécurité intérieure - art. R631-1
 
 	**Cité par**:
 
@@ -64967,25 +64672,22 @@ Il peut déléguer au directeur certaines de ses attributions en matière de rep
 
 Il peut déléguer sa signature au directeur du Conseil national ainsi qu'aux agents désignés par celui-ci. 
 
-Les actes de délégation du président sont publiés au bulletin officiel du ministère de l'intérieur.
+Les actes de délégation du président sont publiés        sur le site internet du Conseil national des activités privées de
+sécurité.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 5 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 23
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R632-4 (VD)
+	  - Code de la sécurité intérieure - art. R632-4
 
 
 ###### Article R632-7
@@ -65224,66 +64926,67 @@ aux articles L. 634-1 à L. 634-3 ;
 d'agrément et de contrôle ou de leurs présidents, ainsi que ceux qui lui sont délégués par le collège ou par son président ; 
 
 6° Pour la mise en œuvre des missions mentionnées au présent article, le directeur peut déléguer sa signature aux agents
-placés sous son autorité. Les actes de délégation du directeur sont publiés au Bulletin officiel du ministère de l'intérieur.
+placés sous son autorité. Les actes de délégation du directeur sont publiés        sur le site internet du Conseil national
+des activités privées de sécurité.
+
+Le directeur présente chaque année au collège un compte rendu de l'exercice de la politique de contrôle de l'action
+disciplinaire. Il rend compte également des actions entreprises en matière de déontologie.
+
+Le directeur est assisté d'un secrétaire général.
+
+En cas d'absence ou d'empêchement du directeur, le secrétaire général assure les missions dévolues à ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-	  - Code de la sécurité intérieure - art. L634-1 (V)
-	  - Code de la sécurité intérieure - art. L634-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 21 (VT)
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Code de la sécurité intérieure - art. L634-1
+	  - Code de la sécurité intérieure - art. L634-4
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 23
+	  - Décret n°2016-515 du 26 avril 2016 - art. 24
 
 
 ###### Article R632-14
 
-Le directeur transmet au préfet du siège de la commission nationale, régionale ou interrégionale la liste des agents pour
-lesquels il sollicite l'habilitation de consulter, aux fins et dans les conditions fixées par les articles L. 612-7, L.
-612-20, L. 612-22, L. 612-23, L. 622-7, L. 622-19, L. 622-21 et L. 622-22 du présent code, les traitements de données à
-caractère personnel gérés par les services de police et de gendarmerie nationales ou, aux fins et dans les conditions fixées
-par l'article R. 611-5 du code de l'entrée et du séjour des étrangers et du droit d'asile, celui relevant des dispositions de
+Le directeur transmet au préfet du siège de la commission nationale, ou locale  la liste des agents pour lesquels il
+sollicite l'habilitation de consulter, aux fins et dans les conditions fixées par les articles L. 612-7, L. 612-20, L.
+612-22, L. 612-23, L. 622-7, L. 622-19, L. 622-21 et L. 622-22 du présent code, les traitements de données à caractère
+personnel gérés par les services de police et de gendarmerie nationales ou, aux fins et dans les conditions fixées par
+l'article R. 611-5 du code de l'entrée et du séjour des étrangers et du droit d'asile, celui relevant des dispositions de
 l'article R. 611-1 de ce même code.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Décret n°2010-569 du 28 mai 2010 - art. 5 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 22 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (M)
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-23 (V)
-	  - Code de la sécurité intérieure - art. L612-7 (V)
-	  - Code de la sécurité intérieure - art. L622-19 (V)
-	  - Code de la sécurité intérieure - art. L622-22 (V)
-	  - Code de la sécurité intérieure - art. L622-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-5
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-23
+	  - Code de la sécurité intérieure - art. L612-7
+	  - Code de la sécurité intérieure - art. L622-19
+	  - Code de la sécurité intérieure - art. L622-22
+	  - Code de la sécurité intérieure - art. L622-7
 
 
 ###### Article R632-15
@@ -65329,22 +65032,35 @@ du code de la défense.
 
 ###### Article R632-16
 
-Les agents du Conseil national instruisent les dossiers soumis aux commissions régionales, aux commissions interrégionales ou
-à la Commission nationale d'agrément et de contrôle.
+Les agents du Conseil national instruisent les dossiers soumis aux commissions locales  ou à la Commission nationale
+d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 20-1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
+
+
+###### Article R632-16-1
+
+Une  charte définissant les principes déontologiques auxquels sont tenus de  se conformer les membres du collège, les membres
+de la commission  nationale et des commissions locales d'agrément et de contrôle et les  agents du Conseil national des
+activités privées de sécurité est établie  par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 25
+
+	**Cité par**:
+
+	  - Arrêté du 20 avril 2017 - art. (V)
 
 
 ##### Sous-section 4 : Organisation financière
@@ -65530,22 +65246,22 @@ jugent la présence utile.
 
 ###### Article R633-1
 
-Les commissions régionales d'agrément et de contrôle sont instituées au chef-lieu de région. Toutefois, des commissions
-interrégionales peuvent être instituées par un arrêté du ministre de l'intérieur qui en fixe le siège.
+Les commissions locales d'agrément et de contrôle sont instituées par un arrêté du ministre de l'intérieur qui en fixe le
+siège. 
+
+Ces commissions exercent leur compétence à l'échelle d'une région ou d'un ensemble de régions. A titre exceptionnel, lorsque
+le niveau de l'activité le justifie, il peut être créé une commission ayant compétence à l'échelle d'un ensemble de
+départements à l'intérieur d'une même région.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 12 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 19
 
 	**Cité par**:
 
@@ -65556,25 +65272,23 @@ interrégionales peuvent être instituées par un arrêté du ministre de l'int�
 
 ###### Article R633-2
 
-La commission régionale ou interrégionale d'agrément et de contrôle comprend : 
+Les commissions locales d'agrément et de contrôle comprennent :
 
 1° Sept représentants de l'Etat : 
 
 a) Le préfet du département du siège de la commission ou son représentant. Toutefois, au sein de la commission dont le
 ressort comprend Paris, il est remplacé par le préfet de police ou son représentant ; 
 
-b) Deux préfets de département du ressort de la commission, issus d'au moins deux régions différentes en cas de commission
-interrégionale, nommés par le ministre de l'intérieur, ou leurs représentants. Au sein de la commission dont le ressort
-comprend le département des Bouches-du-Rhône, le ministre de l'intérieur peut toutefois nommer le préfet de police des
-Bouches-du-Rhône et un préfet de département issu, en cas de commission interrégionale, d'une région autre que celle qui
-comprend le département des Bouches-du-Rhône ; 
+b) Deux préfets de département du ressort de la commission nommés par le ministre de l'intérieur, ou leurs représentants. Au
+sein de la commission dont le ressort comprend le département des Bouches-du-Rhône, le ministre de l'intérieur peut toutefois
+nommer le préfet de police des Bouches-du-Rhône et un préfet de département ;
 
 c) Le directeur départemental de la sécurité publique du département du siège de la commission ou son représentant ; 
 
 d) Le commandant de la région de gendarmerie du siège de la commission ou son représentant ; 
 
-e) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du siège de la
-commission ou son représentant ; 
+e) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de la région  du
+siège de la commission ou son représentant ; 
 
 f) Le directeur régional des finances publiques de la région du siège de la commission ou son représentant ; 
 
@@ -65588,36 +65302,32 @@ l'article R. 632-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 13 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 20
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1 (V)
-	  - Code de la sécurité intérieure - art. L621-1 (V)
-	  - Code de la sécurité intérieure - art. R632-2 (VD)
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L621-1
+	  - Code de la sécurité intérieure - art. R632-2 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R633-3 (V)
-	  - Code de la sécurité intérieure - art. R633-5 (VD)
+	  - Code de la sécurité intérieure - art. R633-5 (V)
 
 
 ###### Article R633-3
 
-La commission régionale ou interrégionale d'agrément et de contrôle, présidée par son doyen d'âge, élit un président à la
-majorité absolue des voix de ses membres et à bulletins secrets. Si la majorité absolue n'est pas obtenue au premier tour, il
-est procédé à un second tour. Seuls peuvent s'y présenter les deux candidats du premier tour ayant obtenu le plus grand
-nombre des voix. En cas d'égalité de voix, le plus âgé des candidats est élu. 
+La commission  locale d'agrément et de contrôle, présidée par son doyen d'âge, élit un président à la majorité absolue des
+voix de ses membres et à bulletins secrets. Si la majorité absolue n'est pas obtenue au premier tour, il est procédé à un
+second tour. Seuls peuvent s'y présenter les deux candidats du premier tour ayant obtenu le plus grand nombre des voix. En
+cas d'égalité de voix, le plus âgé des candidats est élu. 
 
 Le président est élu pour une durée de trois ans renouvelable une fois parmi les membres de la commission désignés aux 1°, 2°
 et 3° de l'article R. 633-2. En cas d'égalité de voix, le plus âgé des candidats est élu. 
@@ -65629,21 +65339,17 @@ ou d'empêchement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 14 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R633-2 (VD)
+	  - Code de la sécurité intérieure - art. R633-2
 
 	**Cité par**:
 
@@ -65677,41 +65383,37 @@ président la délivrance :
 Le président rend compte à la plus prochaine séance des décisions prises dans le cadre des délégations qui lui sont ainsi
 consenties. 
 
-La commission régionale ou interrégionale rend compte de son activité à la Commission nationale d'agrément et de contrôle.
+La commission  locale rend compte de son activité à la Commission nationale d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 15 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-23 (V)
-	  - Code de la sécurité intérieure - art. L612-6 (V)
-	  - Code de la sécurité intérieure - art. L612-9 (V)
-	  - Code de la sécurité intérieure - art. L613-3 (V)
-	  - Code de la sécurité intérieure - art. L622-19 (V)
-	  - Code de la sécurité intérieure - art. L622-21 (V)
-	  - Code de la sécurité intérieure - art. L622-6 (V)
-	  - Code de la sécurité intérieure - art. L622-9 (V)
-	  - Code de la sécurité intérieure - art. R612-32 (VD)
-	  - Code de la sécurité intérieure - art. R622-27 (VD)
+	  - Code de la sécurité intérieure - art. L612-20
+	  - Code de la sécurité intérieure - art. L612-23
+	  - Code de la sécurité intérieure - art. L612-6
+	  - Code de la sécurité intérieure - art. L612-9
+	  - Code de la sécurité intérieure - art. L613-3
+	  - Code de la sécurité intérieure - art. L622-19
+	  - Code de la sécurité intérieure - art. L622-21
+	  - Code de la sécurité intérieure - art. L622-6
+	  - Code de la sécurité intérieure - art. L622-9
+	  - Code de la sécurité intérieure - art. R612-32 (V)
+	  - Code de la sécurité intérieure - art. R622-27 (V)
 
 
 ###### Article R633-5
 
-La commission régionale ou interrégionale se réunit aussi souvent que nécessaire, sur convocation de son président, qui fixe
-l'ordre du jour et le lieu de la réunion. 
+La commission  locale se réunit aussi souvent que nécessaire, sur convocation de son président, qui fixe l'ordre du jour et
+le lieu de la réunion. 
 
 Elle peut valablement délibérer dès lors que l'une au moins des deux conditions suivantes est remplie : 
 
@@ -65733,27 +65435,23 @@ région où la commission a son siège.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 16 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R633-2 (VD)
+	  - Code de la sécurité intérieure - art. R633-2 (V)
 
 
 ###### Article R633-6
 
-Les dispositions des articles R. 632-20 à R. 632-23 sont applicables aux membres des commissions régionales ou
-interrégionales d'agrément et de contrôle.
+Les dispositions des articles R. 632-20 à R. 632-23 sont applicables aux membres des commissions  locales d'agrément et de
+contrôle.
 
 **Liens relatifs à cet article**
 
@@ -65761,13 +65459,13 @@ interrégionales d'agrément et de contrôle.
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R632-20 (VD)
+	  - Code de la sécurité intérieure - art. R632-20
 
 	**Cité par**:
 
@@ -65776,13 +65474,17 @@ interrégionales d'agrément et de contrôle.
 	  - Code de la sécurité intérieure - art. R647-1 (M)
 
 
-##### Section 2 : Procédures devant les commissions régionales ou interrégionales d'agrément et de contrôle
+#### Chapitre III : Commissions locales d'agrément et de contrôle
+
+##### Section 1 : Organisation administrative et fonctionnement
+
+##### Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle
 
 ###### Article R633-7
 
-Les autorisations, cartes professionnelles et agréments prévus par le présent livre sont délivrés par les commissions
-régionales et interrégionales d'agrément et de contrôle dans les conditions et selon les modalités prévues par le chapitre II
-du titre Ier et le chapitre II du titre II.
+Les autorisations, cartes professionnelles et agréments prévus par le présent livre sont délivrés par les commissions locales
+d'agrément et de contrôle dans les conditions et selon les modalités prévues par le chapitre II du titre Ier et le chapitre
+II du titre II.
 
 **Liens relatifs à cet article**
 
@@ -65790,84 +65492,71 @@ du titre Ier et le chapitre II du titre II.
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ###### Article R633-8
 
 Le règlement intérieur prévu à l'article R. 632-5 fixe les modalités d'enregistrement et d'instruction des demandes
-d'autorisation, de carte professionnelle et d'agrément soumises aux commissions régionales ou interrégionales d'agrément et
-de contrôle ainsi que les modalités de la procédure disciplinaire.
+d'autorisation, de carte professionnelle et d'agrément soumises aux commissions  locales d'agrément et de contrôle ainsi que
+les modalités de la procédure disciplinaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 24 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R632-5 (VD)
+	  - Code de la sécurité intérieure - art. R632-5
 
 
 ###### Article R633-9
 
 Le recours administratif préalable obligatoire devant la Commission nationale d'agrément et de contrôle prévu à l'article L.
-633-3 peut être exercé dans les deux mois de la notification, par la commission régionale ou interrégionale d'agrément et de
-contrôle, de la décision contestée. Cette notification précise les délais et les voies de ce recours. 
+633-3 peut être exercé dans les deux mois de la notification, par la commission  locale d'agrément et de contrôle, de la
+décision contestée. Cette notification précise les délais et les voies de ce recours. 
 
 Toute décision de la Commission nationale d'agrément et de contrôle se substitue à la décision initiale de la commission
-régionale ou interrégionale d'agrément et de contrôle. Une copie en est adressée à la commission régionale ou interrégionale
-d'agrément et de contrôle concernée.
+locale d'agrément et de contrôle. Une copie en est adressée à la commission  locale d'agrément et de contrôle concernée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 29 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L633-3 (V)
+	  - Code de la sécurité intérieure - art. L633-3
 
 
 ###### Article R633-10
 
-Dans un délai de deux mois à compter de la décision prise, y compris en matière disciplinaire, par une commission régionale
-ou interrégionale d'agrément ou de contrôle, le directeur du Conseil national peut en demander le réexamen devant la
-Commission nationale d'agrément et de contrôle.
+Dans un délai de deux mois à compter de la décision prise, y compris en matière disciplinaire, par une commission  locale
+d'agrément ou de contrôle, le directeur du Conseil national peut en demander le réexamen devant la Commission nationale
+d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 29-1 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 #### Chapitre IV : Contrôles
@@ -65876,39 +65565,34 @@ Commission nationale d'agrément et de contrôle.
 
 ###### Article R634-1
 
-Peuvent exercer l'action disciplinaire devant la commission régionale ou interrégionale d'agrément et de contrôle dans le
-ressort de laquelle exerce la personne mise en cause :
+Peuvent exercer l'action disciplinaire devant la commission  locale d'agrément et de contrôle dans le ressort de laquelle
+exerce la personne mise en cause : 
 
 1° Le directeur du Conseil national des activités privées de sécurité, agissant de sa propre initiative ou à la suite d'une
-plainte ;
+plainte ; 
 
-2° Le ministre de l'intérieur ;
+2° Le ministre de l'intérieur ; 
 
 3° Le préfet du département où exerce la personne mise en cause, à Paris, le préfet de police et, dans le département des
-Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, ou le procureur de la République territorialement compétent.
+Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, ou le procureur de la République territorialement compétent. 
 
-Dans le cas où plusieurs procédures peuvent être engagées contre une même personne devant plusieurs commissions régionales ou
-interrégionales d'agrément et de contrôle, le directeur du Conseil national peut saisir la Commission nationale d'agrément et
-de contrôle afin qu'elle désigne la commission régionale ou interrégionale compétente pour statuer sur l'ensemble de ces
-procédures.
+Dans le cas où plusieurs procédures peuvent être engagées contre une même personne devant plusieurs commissions locales
+d'agrément et de contrôle, le directeur du Conseil national peut saisir la Commission nationale d'agrément et de contrôle
+afin qu'elle désigne la commission  locale compétente pour statuer sur l'ensemble de ces procédures. 
 
 Dans le cas où une ou plusieurs procédures peuvent être engagées contre une personne issue des activités privées de sécurité,
-membre d'une commission régionale ou interrégionale d'agrément et de contrôle, le directeur du Conseil national soumet le
-dossier à l'examen d'une autre commission régionale ou interrégionale.
+membre d'une commission  locale d'agrément et de contrôle, le directeur du Conseil national soumet le dossier à l'examen
+d'une autre commission  locale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 26 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cité par**:
 
@@ -65919,10 +65603,10 @@ dossier à l'examen d'une autre commission régionale ou interrégionale.
 
 ###### Article R634-2
 
-En matière disciplinaire, la séance de la commission régionale, interrégionale ou nationale d'agrément et de contrôle est
-publique. Toutefois, le président de la commission peut, d'office ou à la demande de la personne mise en cause, interdire au
-public l'accès de la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public ou lorsque le respect de la
-vie privée ou d'un secret protégé par la loi l'exige.
+En matière disciplinaire, la séance de la commission locale ou nationale d'agrément et de contrôle est publique. Toutefois,
+le président de la commission peut, d'office ou à la demande de la personne mise en cause, interdire au public l'accès de la
+salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou d'un
+secret protégé par la loi l'exige.
 
 La commission délibère à huis clos, hors la présence du rapporteur.
 
@@ -65930,17 +65614,13 @@ La décision de la commission est notifiée à la personne concernée, par lettr
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 20-2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
 ##### Section 2 : Sanctions disciplinaires
@@ -65949,26 +65629,22 @@ La décision de la commission est notifiée à la personne concernée, par lettr
 
 Si les faits reprochés ne sont pas contestés, et après avoir informé la personne intéressée de la sanction envisagée et
 recueilli, dans le cadre d'une procédure contradictoire écrite, son accord sur l'absence de convocation à l'audience, la
-commission régionale ou interrégionale peut prononcer à son encontre la sanction de l'avertissement ou du blâme prévus à
-l'article L. 634-4 assortie, le cas échéant, d'une pénalité financière inférieure à 750 euros.
+commission  locale peut prononcer à son encontre la sanction de l'avertissement ou du blâme prévus à l'article L. 634-4
+assortie, le cas échéant, d'une pénalité financière inférieure à 750 euros.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 20-3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L634-4 (V)
+	  - Code de la sécurité intérieure - art. L634-4
 
 
 ###### Article R634-4
@@ -66003,30 +65679,26 @@ commissions du Conseil national des activités privées de sécurité.
 L'interdiction temporaire d'exercer une activité privée de sécurité prévue à l'article L. 634-4 est notifiée à la personne
 sanctionnée par lettre recommandée avec demande d'avis de réception. Elle est également notifiée, par lettre simple, au
 préfet territorialement compétent, à Paris, au préfet de police et, dans le département des Bouches-du-Rhône, au préfet de
-police des Bouches-du-Rhône, au procureur de la République ainsi qu'à tout autre organisme que la commission régionale ou
-interrégionale d'agrément et de contrôle estime nécessaire d'informer. Les auteurs des plaintes et les autres personnes à
-l'origine de l'action disciplinaire sont également informés. 
+police des Bouches-du-Rhône, au procureur de la République ainsi qu'à tout autre organisme que la commission  locale
+d'agrément et de contrôle estime nécessaire d'informer. Les auteurs des plaintes et les autres personnes à l'origine de
+l'action disciplinaire sont également informés. 
 
 La décision est publiée au recueil des actes administratifs des services de l'Etat du département dans lequel la société ou
 la personne physique sanctionnée a son siège ou son domicile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1919 du 22 décembre 2011 - art. 27 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L634-4 (V)
+	  - Code de la sécurité intérieure - art. L634-4
 
 	**Cité par**:
 
@@ -66094,8 +65766,8 @@ dispositions suivantes :
 protection des navires, ses membres mentionnés au 1° de l'article R. 632-9 sont les membres du collège représentant l'Etat au
 sein du Conseil national des activités privées de sécurité mentionnés aux c, d, f, g, i et j du 1° de l'article R. 632-2 ; 
 
-2° Les attributions mentionnées à l'article L. 633-1 sont exercées par la commission régionale d'agrément et de contrôle dans
-le ressort de laquelle la ville de Paris est située ; cette commission délivre, refuse, retire ou suspend dans les conditions
+2° Les attributions mentionnées à l'article L. 633-1 sont exercées par la commission locale d'agrément et de contrôle dans le
+ressort de laquelle la ville de Paris est située ; cette commission délivre, refuse, retire ou suspend dans les conditions
 prévues au 2° de l'article L. 633-1 l'autorisation d'exercice provisoire et la carte provisoire prévues, respectivement, au
 second alinéa de l'article L. 616-1 et au premier alinéa de l'article L. 616-2. 
 
@@ -66108,9 +65780,9 @@ devant la commission mentionnée au 2° du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 4
+	  - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
@@ -66188,7 +65860,10 @@ Pour l'application du présent livre à Mayotte :
 1° La référence au préfet de département est remplacée par la référence au représentant de l'Etat dans le Département de
 Mayotte ;
 
-2° La référence au département est remplacée par la référence au Département de Mayotte.
+2° La référence au département est remplacée par la référence au Département de Mayotte ;
+
+3° A l'article R. 625-2 du présent code, les mots : "aux articles L. 6351-1 à L. 6351-8 du code du travail" sont remplacés
+par les mots : "aux articles L. 731-2 à L. 731-10 du code du travail applicable à Mayotte".
 
 **Liens relatifs à cet article**
 
@@ -66196,9 +65871,9 @@ Mayotte ;
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 60
 
 
 #### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin
@@ -66425,8 +66100,8 @@ colonne de droite du même tableau :
         <td align="left">Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 R. 611-1 (à l'exception du 1°) et R. 611-2 
@@ -66438,28 +66113,59 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 </td>
       </tr>
       <tr>
-        <td align="left">R. 612-1 à R. 612-3 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+        <td align="left">R. 612-1 et R. 612-2
+
+</td>
+        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité
 
 </td>
       </tr>
       <tr>
-        <td>
-R. 612-4 
-</td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 612-5 à R. 612-18 
+        <td>R. 612-3
 
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 612-3-1 à R. 612-6 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-7 à R. 612-9 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-10 et R. 612-10-1 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-11 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-12 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-13 à R. 612-16 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+      </tr>
+      <tr>
+        <td>R. 612-17 et R. 612-18
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité </td>
       </tr>
       <tr>
         <td>
@@ -66469,23 +66175,88 @@ R. 612-18-1
 protection des navires </td>
       </tr>
       <tr>
-        <td>
-R. 612-19 à R. 612-29, R. 612-31 à R. 612-33, R. 612-35 à R. 612-42 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td>R. 612-19
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
 
 </td>
       </tr>
       <tr>
+        <td>R. 612-20 à R. 612-23 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-24 à R. 612-25 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-26 à R. 612-29 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-31 et R. 612-32 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-33, R. 612-35 à R. 612-42</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
         <td align="left">
-R. 613-1 à R. 613-16, R. 613-19, R. 613-24, R. 613-25, R. 613-29, R. 613-30, R. 613-36 à R. 613-49, R. 613-51, R. 613-57, R.
-613-58 
+
+R. 613-1 
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td align="left">
+
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité 
 
 </td>
+      </tr>
+      <tr>
+        <td>R. 613-2 à R. 613-5
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) et au Conseil national
+des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-7 à R. 613-10
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-11 à R. 613-13
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-14 à R. 613-16, R. 613-19, R. 613-24, R. 613-25, R. 613-29, R. 613-30, R. 613-36 à R. 613-49, R. 613-51,
+R. 613-57, R. 613-58
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
         <td align="left">
@@ -66513,11 +66284,26 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 </td>
       </tr>
       <tr>
+        <td>Titre II bis
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 625-1 à R. 625-12
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
         <td align="left">Au titre III 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 R. 631-1 à R. 631-32 
@@ -66529,32 +66315,130 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 </td>
       </tr>
       <tr>
-        <td align="left">
-R. 632-1 à R. 632-23 
+        <td align="left">R. 632-1
 
 </td>
         <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) 
 
 </td>
       </tr>
       <tr>
-        <td align="left">
-R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10 
+        <td>R. 632-2
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
 
 </td>
       </tr>
       <tr>
-        <td align="left">
-R. 634-1 à R. 634-7 
+        <td>R. 632-3
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-4
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-5
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-7 à R. 632-12
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 632-13 et R. 632-14
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-15
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-16, R. 632-16-1
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-17 à R. 632-23
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td align="left">R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+
+</td>
+        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">R. 634-1 à R. 634-3
+
+</td>
+        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-4
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-5
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-6 et R. 634-7
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
       </tr>
@@ -66563,8 +66447,10 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 R. 635-1
 
 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -66606,7 +66492,7 @@ protection des navires</td>
 
 	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 61
 
 
 ###### Article R645-3
@@ -66618,8 +66504,7 @@ française ;
 
 2° La référence au département est remplacée par la référence à la Polynésie française ; 
 
-3° La référence à la commission régionale ou interrégionale d'agrément et de contrôle est remplacée par la référence à la
-commission locale d'agrément et de contrôle ; 
+3° (Supprimé) ; 
 
 4° Les articles R. 612-2, R 612-22, et R. 612-25 sont applicables, sans préjudice des compétences de la Polynésie française
 en matière d'accès au travail des étrangers ; 
@@ -66627,17 +66512,14 @@ en matière d'accès au travail des étrangers ;
 5° A l'article R. 612-10, les mots : " au recueil des actes administratifs du département " sont remplacés par les mots : "
 au Journal officiel de la Polynésie française " ; 
 
-6° Les  1°, 2° et 3° de l'article R. 612-24 sont remplacés par les dispositions suivantes : 
+6° Les 1° et 2° de l'article R. 612-24 sont remplacés par les dispositions suivantes :
 
-" 1° Soit d'un diplôme délivré par la France ou d'un diplôme ou titre équivalent délivré par un autre Etat membre de l'Union
-européenne ou par un des Etats parties à l'accord sur l'Espace économique européen, se rapportant à l'activité exercée ; 
-
-" 2° Soit d'une certification professionnelle se rapportant à l'activité exercée, définie par le gouvernement de la Polynésie
+"1° Soit d'une certification professionnelle se rapportant à l'activité exercée, définie par le gouvernement de la Polynésie
 française, après avis du haut-commissaire de la République en Polynésie française et enregistrée, le cas échéant, au registre
-de la certification professionnelle de la Polynésie française ; 
+de la certification professionnelle de la Polynésie française ;
 
-" 3° Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'activité
-concernée, agréée par le haut-commissaire de la République en Polynésie française. " ; 
+"2° Soit d'un certificat professionnel élaboré et délivré par la branche professionnelle de l'activité concernée, agréée par
+le haut-commissaire de la République en Polynésie française ;" 
 
 7° A l'article R. 612-35, les mots : " pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre
 2008 inclus " sont remplacés par les mots : " pendant deux ans dans la période comprise entre le 10 juin 2009 et le 1er
@@ -66801,18 +66683,26 @@ b) Les mots : " classés au a du 2° de la catégorie D "  sont supprimés  ;
 c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par  les mots : " mentionnés au 9° de l'article L. 645-1
 " ; 
 
-24° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
+25°. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
 "III. - Les titres de formation professionnelle maritime délivrés par l'autorité localement compétente en Polynésie française
 sont reconnus dans les conditions prévues aux articles R. 373-3 à R. 373-9 du code de l'éducation." 
 
-25° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacé par les mots : " conformément aux
+26° A l'article R. 625-2, les mots : "dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail" sont
+remplacés par les mots : "dans les conditions fixées par les dispositions applicables localement ayant le même objet" ;
+
+27° Aux articles R. 612-24, 625-7, et R. 625-8, la référence au règlement (UE) n° 2015/1998 est remplacée par la référence
+aux règles applicables en métropole en vertu du règlement (UE) n° 2015/1998 ;
+
+28° A l'article R. 625-11, les mots : "et des articles R. 622-22 et suivants" sont supprimés ;
+
+29° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacé par les mots : " conformément aux
 dispositions applicables localement " ; 
 
-26° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacé par la référence à l'article R
+30° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacé par la référence à l'article R
 645-4 ; 
 
-27° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
+31° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
 département dans lequel la société ou la personne physique sanctionnée a son siège ou son domicile " sont remplacés par les
 mots : " au Journal officiel de la Polynésie française ".
 
@@ -66824,7 +66714,7 @@ mots : " au Journal officiel de la Polynésie française ".
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art. 3
+	  - Décret n°2016-515 du 26 avril 2016 - art. 62
 
 	**Cite**:
 
@@ -66972,8 +66862,8 @@ colonne de droite du même tableau :
         <td valign="middle">Au titre Ier 
 
 </td>
-        <td>
-      </td></tr>
+        <td> </td>
+      </tr>
       <tr>
         <td>
 R. 611-1 (à l'exception du 1°) et R. 611-2 
@@ -66982,25 +66872,49 @@ R. 611-1 (à l'exception du 1°) et R. 611-2
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 612-1 à R. 612-3 
-</td>
+        <td>R. 612-1 et R. 612-2 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-3 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-3-1 à R. 612-6 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-7 à R. 612-9 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 612-4 
-</td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
+        <td>R. 612-10 et R. 612-10-1 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
       </tr>
       <tr>
-        <td>
-R. 612-5 à R. 612-18 
-</td>
+        <td>R. 612-11</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-12</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-13 à R. 612-16 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-17 et R. 612-18 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité </td>
       </tr>
       <tr>
         <td>
@@ -67010,16 +66924,88 @@ R. 612-18-1
 protection des navires </td>
       </tr>
       <tr>
-        <td>
-R. 612-19 à R. 612-29, 
-R. 612-31 à R. 612-33, R. 612-35 à R. 612-42 
+        <td>R. 612-19
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 612-20 à R. 612-23
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 613-1 à R. 613-16, R. 613-19, R. 613-41 et R. 613-42 </td>
+        <td>R. 612-24 à R. 612-25
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-26 à R. 612-29
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-31 et R. 612-32
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+      </tr>
+      <tr>
+        <td>R. 612-33, R. 612-35 à R. 612-42
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-1
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-2 à R. 613-5
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-7 à R. 613-10
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-11 à R. 613-13
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-14 à R. 613-16, R. 613-19, R. 613-41 et R. 613-42
+
+</td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
@@ -67045,9 +67031,20 @@ R. 617-1 à R. 617-3
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
+        <td>Au titre II bis </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 625-1 à R. 625-12
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
         <td>Au titre III </td>
-        <td>
-      </td></tr>
+        <td> </td>
+      </tr>
       <tr>
         <td>
 R. 631-1 à R. 631-32 
@@ -67056,32 +67053,135 @@ R. 631-1 à R. 631-32
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 632-1 à R. 632-23 
+        <td>R. 632-1
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-2
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-3
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10 
+        <td>R. 632-4
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-5
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 634-1 à R. 634-7 
+        <td>R. 632-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-7 à R. 632-12
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-13 et R. 632-14
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-15
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-16, R. 632-16-1
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-17 à R. 632-23
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-1 à R. 634-3
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-4
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-5
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-6 et R. 634-7
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
       </tr>
       <tr>
         <td>
 R. 635-1 
 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -67090,34 +67190,34 @@ protection des navires</td>
 
 	**Cite**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-	  - Code de la sécurité intérieure - art. R611-1 (VD)
-	  - Code de la sécurité intérieure - art. R611-2 (VD)
-	  - Code de la sécurité intérieure - art. R612-1 (V)
-	  - Code de la sécurité intérieure - art. R612-18-1 (V)
-	  - Code de la sécurité intérieure - art. R612-19 (V)
-	  - Code de la sécurité intérieure - art. R612-31 (V)
-	  - Code de la sécurité intérieure - art. R612-4 (V)
-	  - Code de la sécurité intérieure - art. R612-5 (V)
-	  - Code de la sécurité intérieure - art. R613-1 (VD)
-	  - Code de la sécurité intérieure - art. R613-19 (VD)
-	  - Code de la sécurité intérieure - art. R613-41 (VD)
-	  - Code de la sécurité intérieure - art. R614-1 (VD)
-	  - Code de la sécurité intérieure - art. R616-1 (V)
-	  - Code de la sécurité intérieure - art. R617-1 (VD)
-	  - Code de la sécurité intérieure - art. R631-1 (VD)
-	  - Code de la sécurité intérieure - art. R632-1 (VD)
-	  - Code de la sécurité intérieure - art. R633-1 (VD)
-	  - Code de la sécurité intérieure - art. R633-3 (VD)
-	  - Code de la sécurité intérieure - art. R633-6 (VD)
-	  - Code de la sécurité intérieure - art. R634-1 (VD)
-	  - Code de la sécurité intérieure - art. R635-1 (V)
-	  - Code de la sécurité intérieure - art. R646-3 (VD)
-	  - Code de la sécurité intérieure - art. R646-4 (VD)
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. R611-1
+	  - Code de la sécurité intérieure - art. R611-2
+	  - Code de la sécurité intérieure - art. R612-1
+	  - Code de la sécurité intérieure - art. R612-18-1
+	  - Code de la sécurité intérieure - art. R612-19
+	  - Code de la sécurité intérieure - art. R612-31
+	  - Code de la sécurité intérieure - art. R612-4
+	  - Code de la sécurité intérieure - art. R612-5
+	  - Code de la sécurité intérieure - art. R613-1
+	  - Code de la sécurité intérieure - art. R613-19
+	  - Code de la sécurité intérieure - art. R613-41
+	  - Code de la sécurité intérieure - art. R614-1
+	  - Code de la sécurité intérieure - art. R616-1
+	  - Code de la sécurité intérieure - art. R617-1
+	  - Code de la sécurité intérieure - art. R631-1
+	  - Code de la sécurité intérieure - art. R632-1
+	  - Code de la sécurité intérieure - art. R633-1
+	  - Code de la sécurité intérieure - art. R633-3
+	  - Code de la sécurité intérieure - art. R633-6
+	  - Code de la sécurité intérieure - art. R634-1
+	  - Code de la sécurité intérieure - art. R635-1
+	  - Code de la sécurité intérieure - art. R646-3 (V)
+	  - Code de la sécurité intérieure - art. R646-4
 
 	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 61
 
 
 ###### Article R646-3
@@ -67129,8 +67229,7 @@ Calédonie ;
 
 2° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
 
-3° La référence à la commission régionale ou interrégionale d'agrément et de contrôle est remplacée par la référence à la
-commission locale d'agrément et de contrôle ; 
+3° (Supprimé)  ; 
 
 4° Les articles R. 612-2, R 612-22, et R. 612-25 sont applicables, sans préjudice des compétences de la Nouvelle-Calédonie en
 matière d'accès au travail des étrangers ; 
@@ -67138,17 +67237,14 @@ matière d'accès au travail des étrangers ;
 5° A l'article R. 612-10, les mots : " au recueil des actes administratifs du département " sont remplacés par les mots : "
 au Journal officiel de la Nouvelle-Calédonie " ; 
 
-6° Les 1°, 2° et 3° de l'article R. 612-24 sont remplacés par les dispositions suivantes : 
+6° Les 1° et 2° de l'article R. 612-24 sont remplacés par les dispositions suivantes :
 
-" 1° Soit d'un diplôme délivré par la France ou d'un diplôme ou titre équivalent délivré par un autre Etat membre de l'Union
-européenne ou par un des Etats parties à l'accord sur l'Espace économique européen, se rapportant à l'activité exercée ; 
+"1° Soit d'une certification professionnelle se rapportant à l'activité exercée, définie par la Nouvelle-Calédonie, avec
+l'avis du haut-commissaire de la République en Nouvelle-Calédonie et délivrée par cette collectivité ;
 
-" 2° Soit d'une certification professionnelle se rapportant à l'activité exercée, définie par la Nouvelle-Calédonie, avec
-l'avis du haut-commissaire de la République en Nouvelle-Calédonie et délivrée par cette collectivité ; 
-
-" 3° Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'activité
-concernée, agréée par le haut-commissaire de la République en Nouvelle-Calédonie et inscrit au répertoire de la certification
-professionnelle de la Nouvelle-Calédonie. " ; 
+"2° Soit d'un certificat professionnel élaboré et délivré par la branche professionnelle de l'activité concernée, agréée par
+le haut-commissaire de la République en Nouvelle-Calédonie et inscrit au répertoire de la certification professionnelle de la
+Nouvelle-Calédonie ;"
 
 7° A l'article R. 612-35, les mots : " pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre
 2008 inclus " sont remplacés par les mots : " pendant deux ans dans la période comprise entre le 10 juin 2009 et le 1er
@@ -67167,18 +67263,26 @@ septembre 2013 " ;
 
 11° (Abrogé)
 
-11° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
+9° - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
 "III. - Les titres de formation professionnelle maritime délivrés par l'autorité localement compétente en Nouvelle-Calédonie
 sont reconnus dans les conditions prévues aux articles R. 374-6 à R. 374-12 du code de l'éducation." 
 
-12° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacés par les mots : " conformément
+10° A l'article R. 625-2, les mots : "dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail" sont
+remplacés par les mots : "dans les conditions fixées par les dispositions applicables localement ayant le même objet" ;
+
+11° Aux articles R. 612-24, 625-7, et R 625-8, la référence au règlement (UE) n° 2015/1998 est remplacée par la référence aux
+règles applicables en métropole en vertu du règlement (UE) n° 2015/1998 ;
+
+12° A l'article R. 625-11, les mots : "et des articles R. 622-22 et suivants" sont supprimés ;
+
+13° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacés par les mots : " conformément
 aux dispositions applicables localement " ; 
 
-13° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacé par la référence à l'article R
+14° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacé par la référence à l'article R
 646-4 ; 
 
-14° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
+15° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
 département dans lequel la société ou la personne physique sanctionnée a son siège ou son domicile " sont remplacés par les
 mots : " au Journal officiel de la Nouvelle-Calédonie ".
 
@@ -67190,7 +67294,7 @@ mots : " au Journal officiel de la Nouvelle-Calédonie ".
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art. 3
+	  - Décret n°2016-515 du 26 avril 2016 - art. 62
 
 	**Cite**:
 
@@ -67355,8 +67459,8 @@ colonne de droite du même tableau :
       </tr>
       <tr>
         <td>Au titre Ier </td>
-        <td>
-      </td></tr>
+        <td> </td>
+      </tr>
       <tr>
         <td>
 R. 611-1 (à l'exception du 1°) 1 et R. 611-2 </td>
@@ -67364,19 +67468,49 @@ R. 611-1 (à l'exception du 1°) 1 et R. 611-2 </td>
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>R. 612-1 à R. 612-3</td>
+        <td>R. 612-1 et R. 612-2 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-3 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-3-1 à R. 612-6 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+      </tr>
+      <tr>
+        <td>R. 612-7 à R. 612-9 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>R. 612-4</td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires</td>
+        <td>R. 612-10 et R. 612-10-1 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
       </tr>
       <tr>
-        <td>R. 612-5 à R. 612-18 </td>
+        <td>R. 612-11 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-12 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-13 à R. 612-16 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-17 et R. 612-18 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité </td>
       </tr>
       <tr>
         <td>R. 612-18-1 </td>
@@ -67384,21 +67518,97 @@ partie réglementaire du code de la sécurité intérieure (Décrets en Conseil 
 protection des navires </td>
       </tr>
       <tr>
-        <td>R. 612-19 à R. 612-29, R. 612-31 à R. 612-33, R. 612-35 à R. 612-42 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+        <td>R. 612-19 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
       </tr>
       <tr>
-        <td>
-R. 613-1 à R. 613-16, R. 613-19 
+        <td>R. 612-20 à R. 612-23
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 614-1 à R. 614-10 
+        <td>R. 612-24 à R. 612-25
+
 </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 612-26 à R. 612-29
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 612-31 et R. 612-32
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 612-33, R. 612-35 à R. 612-42 </td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 613-1 
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 613-2 à R. 613-5
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-7 à R. 613-10
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 613-11 à R. 613-13
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 613-14 à R. 613-16, R. 613-19
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 614-1 à R. 614-10  </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
@@ -67415,9 +67625,22 @@ R. 617-1 à R. 617-3
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
+        <td>Au titre II bis
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 625-1 à R. 625-12
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
         <td>Au titre III </td>
-        <td>
-      </td></tr>
+        <td> </td>
+      </tr>
       <tr>
         <td>
 R. 631-1 à R. 631-32 
@@ -67426,30 +67649,135 @@ R. 631-1 à R. 631-32
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 632-1 à R. 632-23 
+        <td>R. 632-1
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 632-2
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-3
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10 
+        <td>R. 632-4
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-5
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
 partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
       </tr>
       <tr>
-        <td>
-R. 634-1 à R. 634-7
+        <td>R. 632-6
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-7 à R. 632-12
+
 </td>
         <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-13 et R. 632-14
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-15
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 632-16, R. 632-16-1
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+      </tr>
+      <tr>
+        <td>R. 632-17 à R. 632-23
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-1 à R. 634-3
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-4
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-5
+
+</td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 634-6 et R. 634-7
+
+</td>
+        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
       </tr>
       <tr>
         <td>R. 635-1 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
+        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -67458,27 +67786,27 @@ protection des navires </td>
 
 	**Cite**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-	  - Code de la sécurité intérieure - art. R611-1 (VD)
-	  - Code de la sécurité intérieure - art. R612-1 (VD)
-	  - Code de la sécurité intérieure - art. R612-31 (VD)
-	  - Code de la sécurité intérieure - art. R612-35 (VD)
-	  - Code de la sécurité intérieure - art. R613-1 (VD)
-	  - Code de la sécurité intérieure - art. R613-19 (VD)
-	  - Code de la sécurité intérieure - art. R614-1 (VD)
-	  - Code de la sécurité intérieure - art. R617-1 (VD)
-	  - Code de la sécurité intérieure - art. R631-1 (VD)
-	  - Code de la sécurité intérieure - art. R632-1 (VD)
-	  - Code de la sécurité intérieure - art. R633-1 (VD)
-	  - Code de la sécurité intérieure - art. R633-3 (VD)
-	  - Code de la sécurité intérieure - art. R633-6 (VD)
-	  - Code de la sécurité intérieure - art. R634-1 (VD)
-	  - Code de la sécurité intérieure - art. R647-3 (VD)
-	  - Code de la sécurité intérieure - art. R647-4 (VD)
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. R611-1
+	  - Code de la sécurité intérieure - art. R612-1
+	  - Code de la sécurité intérieure - art. R612-31
+	  - Code de la sécurité intérieure - art. R612-35
+	  - Code de la sécurité intérieure - art. R613-1
+	  - Code de la sécurité intérieure - art. R613-19
+	  - Code de la sécurité intérieure - art. R614-1
+	  - Code de la sécurité intérieure - art. R617-1
+	  - Code de la sécurité intérieure - art. R631-1
+	  - Code de la sécurité intérieure - art. R632-1
+	  - Code de la sécurité intérieure - art. R633-1
+	  - Code de la sécurité intérieure - art. R633-3
+	  - Code de la sécurité intérieure - art. R633-6
+	  - Code de la sécurité intérieure - art. R634-1
+	  - Code de la sécurité intérieure - art. R647-3 (V)
+	  - Code de la sécurité intérieure - art. R647-4
 
 	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 61
 
 
 ###### Article R647-3
@@ -67490,8 +67818,7 @@ Futuna ;
 
 2° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
 
-3° La référence à la commission régionale ou interrégionale d'agrément et de contrôle est remplacée par la référence à la
-commission locale d'agrément et de contrôle ; 
+3° (Supprimé) ; 
 
 4° Les articles R. 612-2, R 612-22, et R. 612-25 sont applicables, sans préjudice des compétences des îles Wallis et Futuna
 en matière d'accès au travail des étrangers ; 
@@ -67529,13 +67856,21 @@ b) Les mots : " classés au a du 2° de la catégorie D " sont supprimés ;
 
 c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : " mentionnés au 9° de l'article L. 647-1 " ; 
 
-11° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacé par les mots : " conformément aux
+11° A l'article R. 625-2, les mots : "dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail" sont
+remplacés par les mots : "dans les conditions fixées par les dispositions applicables localement ayant le même objet" ;
+
+12° Aux articles R. 612-24, 625-7, et R. 625-8, la référence au règlement (UE) n° 2015/1998 est remplacée par la référence
+aux règles applicables en métropole en vertu du règlement (UE) n° 2015/1998 ;
+
+13° A l'article R. 625-11, les mots : "et des articles R. 622-22 et suivants" sont supprimés ;
+
+14° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail " sont remplacé par les mots : " conformément aux
 dispositions applicables localement " ; 
 
-12° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacée par la référence à l'article R.
+15° Pour l'application de l'article R 633-3, la référence à l'article R 633-2 est remplacée par la référence à l'article R.
 647-4 ; 
 
-13° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
+16° Au deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes administratifs des services de l'Etat du
 département dans lequel la société ou la personne physique sanctionnée a son siège ou son domicile " sont remplacés par les
 mots : " au Journal officiel des îles Wallis et Futuna ".
 
@@ -67545,25 +67880,25 @@ mots : " au Journal officiel des îles Wallis et Futuna ".
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-515 du 26 avril 2016 - art. 62
 
 	**Cite**:
 
-	  - Code du travail (V)
-	  - Code de la sécurité intérieure - art. R612-10 (VD)
-	  - Code de la sécurité intérieure - art. R612-2 (VD)
-	  - Code de la sécurité intérieure - art. R612-22 (VD)
-	  - Code de la sécurité intérieure - art. R612-24 (VD)
-	  - Code de la sécurité intérieure - art. R612-25 (VD)
-	  - Code de la sécurité intérieure - art. R612-35 (VD)
-	  - Code de la sécurité intérieure - art. R612-38 (VD)
-	  - Code de la sécurité intérieure - art. R613-3 (VD)
-	  - Code de la sécurité intérieure - art. R614-1 (VD)
-	  - Code de la sécurité intérieure - art. R632-15 (VD)
-	  - Code de la sécurité intérieure - art. R633-3 (VD)
-	  - Code de la sécurité intérieure - art. R634-5 (VD)
+	  - Code du travail
+	  - Code de la sécurité intérieure - art. R612-10
+	  - Code de la sécurité intérieure - art. R612-2
+	  - Code de la sécurité intérieure - art. R612-22
+	  - Code de la sécurité intérieure - art. R612-24
+	  - Code de la sécurité intérieure - art. R612-25
+	  - Code de la sécurité intérieure - art. R612-35
+	  - Code de la sécurité intérieure - art. R612-38
+	  - Code de la sécurité intérieure - art. R613-3
+	  - Code de la sécurité intérieure - art. R614-1
+	  - Code de la sécurité intérieure - art. R632-15
+	  - Code de la sécurité intérieure - art. R633-3
+	  - Code de la sécurité intérieure - art. R634-5
 
 	**Cité par**:
 
@@ -67656,41 +67991,63 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 612-1 à R. 612-3 
+      <td>R. 612-1 et R. 612-2 
 
 </td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 612-4 
+      <td>R. 612-3 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td>R. 612-3-1 à R. 612-6 </td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 612-7 à R. 612-9
 
 </td>
-      <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td>R. 612-10 et R. 612-10-1 </td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 612-11 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td>R. 612-12 </td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 612-13 à R. 612-16
 
-Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des
-navires 
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 612-5 à R. 612-18 
+      <td>R. 612-17 et R. 612-18 
 
 </td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité
 
 </td>
     </tr>
@@ -67708,17 +68065,48 @@ navires
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 612-19 à R. 612-29, R. 612-31 à R. 612-33, R. 612-35 à R. 612-45 
+      <td>R. 612-19
 
 </td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
 
 </td>
+    </tr>
+    <tr>
+      <td>R. 612-20 à R. 612-23
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td>R. 612-24 à R. 612-25
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 612-26 à R. 612-29
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td>R. 612-31 et R. 612-32
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité </td>
+    </tr>
+    <tr>
+      <td>R. 612-33, R. 612-35 à R. 612-42
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
       <td>
@@ -67747,41 +68135,148 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 632-1 à R. 632-23 
+      <td>R. 632-1
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 633-1 à R. 633-5, à l'exception de son dernier alinéa, R. 633-6 à R. 633-10 
+      <td>R. 632-2
 
 </td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
 
 </td>
     </tr>
     <tr>
-      <td>
-
-R. 634-1 à R. 634-7 
+      <td>R. 632-3
 
 </td>
-      <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-4
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-5
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-6
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-7 à R. 632-12
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-13 et R. 632-14
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-15
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-16, R. 632-16-1
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 632-17 à R. 632-23
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 634-1 à R. 634-3
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 634-4
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 634-5
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 634-6 et R. 634-7
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
@@ -67793,8 +68288,8 @@ R. 635-1
 </td>
       <td>
 
-Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des
-navires
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
+Conseil national des activités privées de sécurité
 
 </td>
     </tr>
@@ -67803,9 +68298,9 @@ navires
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1415 du 28 novembre 2014 - art. 5
+	  - Décret n°2016-515 du 26 avril 2016 - art. 61
 
 	**Cite**:
 
