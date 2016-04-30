@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-04-29
+Version Consolidée au 2016-05-01
 
 # Partie législative
 
@@ -50471,26 +50471,22 @@ l'école des biens meubles et immeubles nécessaires à son fonctionnement.
 ###### Article R413-27
 
 L'Institut national de police scientifique est un établissement public à caractère administratif. Il comprend les
-laboratoires de police scientifique de Lille, Lyon, Marseille, Paris et Toulouse, le laboratoire de toxicologie de la
-préfecture de police et le service central des laboratoires.
+laboratoires de police scientifique de Lille, Lyon, Marseille, Paris et Toulouse          et le service central des
+laboratoires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 1, alinéa 1 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 17 novembre 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-389 du 30 mars 2016 - art. 1
 
 
 ###### Article R413-28
@@ -50573,36 +50569,31 @@ d'un directeur adjoint et d'un comité de direction. Un conseil scientifique est
 
 ###### Article R413-30
 
-L'Institut national de police scientifique dispose de personnels affectés par le ministre de l'intérieur et d'agents de la
-ville de Paris mis à sa disposition dans les conditions prévues au IV de l'article 58 de la loi n° 2001-1062 du 15 novembre
-2001 relative à la sécurité quotidienne. 
+L'Institut national de police scientifique dispose de personnels affectés par le ministre de l'intérieur.
 
-Peuvent en outre être affectés à l'établissement des personnels détachés ou mis à disposition et des agents contractuels dans
-les limites et conditions fixées aux articles 3, 4 et 6 de la loi n° 84-16 du 11 janvier 1984 portant dispositions
-statutaires relatives à la fonction publique de l'Etat.
+Outre des fonctionnaires, peuvent être affectés à l'établissement des militaires placés dans l'une des positions prévues à
+l'article L. 4138-1 du code de la défense et des agents contractuels dans les conditions fixées aux articles 4 et 6 à 6
+sexies de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de
+l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-16 du 11 janvier 1984 - art. 3 (V)
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 58 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 3 (VT)
-
-	**Cité par**:
-
-	  - Arrêté du 14 mars 2005 - art. 6 (V)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4
+	  - Code de la défense. - art. L4138-1
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Arrêté du 14 mars 2005 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-389 du 30 mars 2016 - art. 2
 
 
 ###### Article R413-31
@@ -50628,63 +50619,62 @@ Le siège de l'Institut national de police scientifique est fixé par arrêté d
 
 ###### Article R413-32
 
-Le conseil d'administration comprend, outre son président, vingt-trois membres :
+Le conseil d'administration comprend, outre son président, seize membres : 
 
-1° Douze représentants de l'Etat, membres de droit :
+1° Neuf représentants de l'Etat, membres de droit : 
 
-a) Le directeur général de la police nationale ;
+a) Le directeur général de la police nationale ; 
 
-b) Le directeur des affaires criminelles et des grâces ;
+b) Le directeur des affaires criminelles et des grâces ; 
 
-c) Le directeur des services judiciaires ;
+c) Le directeur des services judiciaires ; 
 
-d) Le directeur central de la police judiciaire ;
+d) Le directeur général de la gendarmerie nationale ; 
 
-e) Le directeur central de la sécurité publique ;
+e) Le directeur central de la police judiciaire ; 
 
-f) Le préfet de police ;
+f) Le directeur central de la sécurité publique ; 
 
-g) Le directeur de l'administration générale et de l'équipement au ministère de la justice ;
+g) Le directeur des ressources et des compétences de la police nationale ; 
 
-h) Le directeur de la recherche au ministère chargé de la recherche ;
+h) Le directeur de l'évaluation de la performance et des affaires financières et immobilières du ministère de l'intérieur ; 
 
-i) Le directeur de l'administration de la police nationale ;
+i) Le préfet de police ; 
 
-j) Le directeur de la formation de la police nationale ;
+2° Deux personnalités qualifiées : 
 
-k) Le directeur des systèmes d'information et de communication du ministère de l'intérieur ;
+a) Une sur proposition du garde des sceaux, ministre de la justice ; 
 
-l) Le directeur de l'évaluation de la performance, et des affaires financières et immobilières du ministère de l'intérieur ;
+b) Une sur proposition du ministre de l'intérieur ; 
 
-2° Six personnalités qualifiées, choisies en raison de leur compétence en matière scientifique :
+3° Cinq représentants du personnel en fonction à l'institut : 
 
-a) Deux sur proposition du garde des sceaux, ministre de la justice ;
+a) Un représentant des directeurs et directeurs adjoints de laboratoire de police scientifique ; 
 
-b) Deux sur proposition du ministre de l'intérieur ;
+b) Un représentant des personnels actifs de la police nationale ; 
 
-c) Une sur proposition du ministre chargé de la recherche ;
+c) Deux représentants des personnels scientifiques de la police nationale ; 
 
-d) Une sur proposition du ministre chargé de l'enseignement supérieur ;
+d) Un représentant des personnels autres que ceux mentionnés aux a, b et c du 3° du présent article. 
 
-3° Cinq représentants du personnel :
+Le président du conseil d'administration est nommé par décret sur proposition conjointe du garde des sceaux, ministre de la
+justice, et du ministre de l'intérieur pour une durée de trois ans renouvelable une fois. En cas d'empêchement, d'absence ou
+de vacance du poste, sa suppléance est assurée par la personnalité qualifiée proposée par le ministre de l'intérieur et
+mentionnée au b du 2° du présent article.
 
-a) Un représentant des directeurs de laboratoire de police scientifique ;
+**Nota:**
 
-b) Un représentant des personnels actifs de la police nationale en fonction à l'institut ;
-
-c) Un représentant des personnels administratifs et techniques de la police nationale en fonction à l'institut ;
-
-d) Deux représentants des personnels scientifiques de la police nationale en fonction à l'Institut national de police
-scientifique et issus de laboratoires ou de services différents.
-
-Le président du conseil d'administration est nommé, par décret, sur proposition conjointe du garde des sceaux, ministre de la
-justice, et du ministre de l'intérieur pour une durée de trois ans renouvelable une fois.
+Conformément à l'article 11 du décret n° 2016-389 du 30 mars 2016, les présentes dispositions entrent en vigueur le premier
+jour du mois qui suit celui de sa publication. Toutefois, les dispositions du 3° de l'article R. 413-32 du code de la
+sécurité intérieure relatives aux représentants du personnel siégeant au conseil d'administration et au conseil scientifique
+de l'institut entrent en vigueur le premier jour du huitième mois qui suit celui de sa publication. Jusqu'à cette date, les
+représentants des personnels élus restent membres de l'instance à laquelle ils appartiennent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 4 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -50694,65 +50684,54 @@ justice, et du ministre de l'intérieur pour une durée de trois ans renouvelabl
 	  - Arrêté du 5 octobre 2016 - art. 5
 	  - Arrêté du 5 octobre 2016 - art. 6
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 3
 
 
 ###### Article R413-33
 
-Les membres de droit peuvent se faire représenter.
+Les membres de droit peuvent se faire représenter. 
 
-Les personnalités qualifiées sont nommées par arrêté du ministre de l'intérieur pour une durée de trois ans renouvelable.
+Les personnalités qualifiées sont nommées par arrêté du ministre de l'intérieur pour une durée de trois ans renouvelable une
+fois. 
 
 Les représentants des personnels sont élus pour une durée de trois ans, selon les modalités fixées par arrêté du ministre de
-l'intérieur. Ils ont chacun un suppléant élu dans les mêmes conditions.
+l'intérieur. Ils ont chacun un suppléant élu dans les mêmes conditions. 
 
 En cas de vacance survenant plus de six mois avant l'expiration du mandat d'une personnalité qualifiée, il est procédé à son
 remplacement pour la durée restant à courir de son mandat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 5 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 14 mars 2005 - art. 3 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 4
 
 
 ###### Article R413-34
 
-Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président qui fixe l'ordre du jour.
-Il peut également être convoqué, à la demande du ministre de l'intérieur ou de la majorité de ses membres, sur un ordre du
-jour déterminé.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour. Il
+peut également être convoqué, à la demande du ministre de l'intérieur ou de la majorité de ses membres, sur un ordre du jour
+déterminé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 6 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 5
 
 
 ###### Article R413-35
@@ -50781,24 +50760,20 @@ prépondérante.
 
 ###### Article R413-36
 
-Le directeur de l'établissement, le président du conseil scientifique, le contrôleur budgétaire et l'agent comptable
-assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur de l'établissement, le président du conseil scientifique,  l'autorité chargée du contrôle financier et l'agent
+comptable assistent aux séances du conseil d'administration avec voix consultative. 
 
 Le président peut appeler à participer aux séances, à titre d'expert, toute personne dont il juge la présence utile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 8 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 6
 
 
 ###### Article R413-37
@@ -50902,120 +50877,123 @@ par arrêté conjoint du ministre chargé du budget et du ministre de l'intérie
 
 ###### Article R413-40
 
-Le directeur de l'Institut national de police scientifique est nommé par décret sur proposition du ministre de l'intérieur.
+Le directeur de l'Institut national de police scientifique est nommé par décret sur proposition du ministre de l'intérieur. 
 
 Il prépare et met en œuvre les décisions soumises au conseil d'administration. Il rend compte à chaque séance du conseil
 d'administration des décisions qu'il a prises en vertu des délégations qui lui ont été accordées. Il prépare, en liaison avec
 le comité de direction, le règlement intérieur de l'institut. Il est l'ordonnateur des dépenses et des recettes de
 l'institut. Il représente l'institut en justice et dans tous les actes de la vie civile et administrative. Il peut prendre
 toutes mesures conservatoires, notamment accepter à titre provisoire les dons et legs consentis à l'institut, sous réserve de
-leur acceptation définitive par le conseil d'administration.
+leur acceptation définitive par le conseil d'administration. 
 
-Le directeur peut, dans l'intervalle des conseils d'administration, après accord du contrôleur budgétaire et notification au
-ministre de l'intérieur, prendre les décisions modificatives ne comportant pas de variation du montant des recettes ou des
-dépenses, ni de virement de crédits entre la section de fonctionnement et la section des opérations en capital. Il les soumet
-pour ratification au conseil d'administration lors de sa plus prochaine séance.
+Le directeur peut, dans l'intervalle des conseils d'administration, après accord de l'autorité chargée du contrôle financier
+et notification au ministre de l'intérieur, prendre les décisions modificatives ne comportant pas de variation du montant des
+recettes ou des dépenses, ni de virement de crédits entre la section de fonctionnement et la section des opérations en
+capital. Il les soumet pour ratification au conseil d'administration lors de sa plus prochaine séance. 
 
 Le directeur a autorité sur l'ensemble des personnels en fonction ou en formation à l'institut, propose le recrutement des
-personnels contractuels et nomme à toutes les fonctions pour lesquelles aucune autre autorité n'a reçu pouvoir de nomination.
+personnels contractuels et nomme à toutes les fonctions pour lesquelles aucune autre autorité n'a reçu pouvoir de
+nomination. 
 
 Il prépare les projets de programme de recherche appliquée à la police technique et scientifique avec l'assistance du conseil
-scientifique. Il établit chaque année un rapport d'activité scientifique, administratif et financier.
+scientifique. Il établit chaque année un rapport d'activité scientifique, administratif et financier. 
 
 Il peut déléguer sa signature au directeur adjoint, aux directeurs de laboratoires, ainsi qu'à tout fonctionnaire en service
-à l'institut.
+à l'institut. 
 
-Il établit annuellement, sur proposition du comité de direction et après avis du conseil scientifique, la liste des agents
-habilités à réaliser les missions judiciaires confiées à l'institut et la soumet au conseil d'administration pour
+Il établit au moins une fois par an, sur proposition du comité de direction et après avis du conseil scientifique, la liste
+des agents habilités à réaliser les missions judiciaires confiées à l'institut et la soumet au conseil d'administration pour
 approbation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 12 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 7
 
 
 ###### Article R413-41
 
 Le directeur est assisté d'un comité de direction composé des directeurs des laboratoires ou de leur représentant, du
-directeur adjoint et des chefs de service de l'établissement. Ce comité se réunit au moins chaque trimestre.
+directeur adjoint, du secrétaire général et du chef de la division scientifique de l'établissement. Ce comité se réunit au
+moins trois fois par an.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 13 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-389 du 30 mars 2016 - art. 8
 
 
 ##### Sous-section 3 : Conseil scientifique
 
 ###### Article R413-42
 
-Le conseil scientifique est composé, outre son président nommé par arrêté du ministre de l'intérieur sur proposition du
-ministre chargé de la recherche :
+Le conseil scientifique est composé, outre son président :
 
 1° De membres de droit :
 
-a) Le directeur de la technologie au ministère chargé de la recherche ;
+a) Le directeur général de la recherche et de l'innovation au ministère chargé de la recherche ;
 
-b) Les directeurs des laboratoires de l'établissement ou leur représentant ;
+b) Les directeurs des laboratoires de l'établissement ;
 
-c) Le chef du service central de l'identité judiciaire de la sous-direction de la police technique et scientifique de la
-direction centrale de la police judiciaire ou son représentant ;
+c) Le sous-directeur chargé de la police technique et scientifique de la direction centrale de la police judiciaire ;
 
-d) Le conseiller scientifique du sous-directeur chargé de la police technique et scientifique de la direction centrale de la
-police judiciaire ;
+d) Le chef du service central d'identité judiciaire de la sous-direction de la police technique et scientifique de la
+direction centrale de la police judiciaire ;
 
-e) Deux représentants élus des personnels scientifiques de la police nationale en fonctions à l'institut ;
+e) Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ;
+
+f) Le directeur du laboratoire central de la préfecture de police ;
+
+g) Deux représentants des personnels scientifiques et un représentant des autres personnels, en fonction à l'institut et élus
+pour une durée de trois ans ;
+
+Les membres de droit autres que ceux mentionnés au g ci-dessus peuvent se faire représenter ;
+
+Les représentants des personnels sont élus selon les modalités fixées par arrêté du ministre de l'intérieur. Ils ont chacun
+un suppléant élu dans les mêmes conditions ;
 
 2° De personnalités qualifiées :
 
-a) Deux choisies sur proposition du ministre chargé de l'enseignement supérieur en raison de leurs compétences en matière
+a) Une choisie sur proposition du ministre chargé de l'enseignement supérieur en raison de sa compétence en matière
 scientifique ;
 
 b) Une choisie sur proposition du ministre chargé de la recherche en raison de sa compétence en matière scientifique ;
 
-c) Deux choisies sur proposition du ministre chargé de l'industrie en raison de leurs compétences dans le domaine des normes
-et procédures de qualité ;
+c) Une choisie sur proposition du garde des sceaux, ministre de la justice ;
 
-d) Deux choisies sur proposition du ministre chargé de la santé en raison de leurs compétences dans le domaine de la
-toxicologie et de la biologie ;
+d) Une choisie sur proposition du ministre chargé de la santé en raison de sa compétence dans le domaine de la toxicologie ou
+de la biologie ;
 
 e) Une de nationalité étrangère choisie sur proposition du directeur de l'institut après avis du comité de direction, en
 raison de sa compétence en criminalistique ;
 
-f) Une choisie sur proposition du garde des sceaux, ministre de la justice ;
+f) Une choisie sur proposition du ministre chargé de l'industrie en raison de sa compétence dans le domaine des normes et
+procédures de qualité.
 
-3° D'un représentant élu des personnels actifs de la police nationale en fonctions à l'institut.
+Le président du conseil scientifique est nommé par arrêté du ministre de l'intérieur sur proposition du ministre chargé de la
+recherche pour une durée de trois ans renouvelable une fois.
+
+**Nota:**
+
+Conformément à l'article 11 du décret n° 2016-389 du 30 mars 2016, les présentes dispositions entrent en vigueur le premier
+jour du mois qui suit celui de sa publication. Toutefois, les dispositions du g du 1° de l'article R. 413-42 du code de la
+sécurité intérieure relatives aux représentants du personnel siégeant au conseil d'administration et au conseil scientifique
+de l'institut entrent en vigueur le premier jour du huitième mois qui suit celui de sa publication. Jusqu'à cette date, les
+représentants des personnels élus restent membres de l'instance à laquelle ils appartiennent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-1211 du 9 novembre 2004 - art. 14 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
@@ -51024,6 +51002,10 @@ f) Une choisie sur proposition du garde des sceaux, ministre de la justice ;
 	  - Décret n°2016-389 du 30 mars 2016 (V)
 	  - Décret n°2016-389 du 30 mars 2016 - art. 11 (VD)
 	  - Arrêté du 5 octobre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-389 du 30 mars 2016 - art. 9
 
 
 ###### Article R413-43
@@ -65240,7 +65222,7 @@ jugent la présence utile.
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre III : Commissions régionales ou interrégionales d'agrément et de contrôle
+#### Chapitre III : Commissions locales d'agrément et de contrôle
 
 ##### Section 1 : Organisation administrative et fonctionnement
 
@@ -65473,10 +65455,6 @@ contrôle.
 	  - Code de la sécurité intérieure - art. R646-1 (M)
 	  - Code de la sécurité intérieure - art. R647-1 (M)
 
-
-#### Chapitre III : Commissions locales d'agrément et de contrôle
-
-##### Section 1 : Organisation administrative et fonctionnement
 
 ##### Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle
 
@@ -68446,7 +68424,7 @@ a) Un représentant de Météo-France ;
 
 b) Un représentant du Centre de documentation de recherche et d'expérimentation sur les pollutions accidentelles des eaux ;
 
-c) Un représentant de l'Institut de veille sanitaire ;
+c) Deux représentants de l'Agence nationale de santé publique ; 
 
 d) Un représentant de l'Institut de radioprotection et de sûreté nucléaire ;
 
@@ -68460,7 +68438,7 @@ h) Un représentant du Centre national de prévention et de protection ;
 
 i) Un représentant de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ;
 
-j) Un représentant de l'Institut national de prévention et d'éducation pour la santé ;
+j) (supprimé)
 
 k) Un représentant de l'Agence nationale de sécurité du médicament et des produits de santé.
 
@@ -68474,17 +68452,13 @@ l'intéressé a été désigné.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-99 du 8 février 2005 - art. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-523 du 27 avril 2016 - art. 4
 
 
 ###### Article D711-3
