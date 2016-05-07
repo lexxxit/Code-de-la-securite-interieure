@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-05-08
 
 # Partie législative
 
@@ -25646,32 +25646,31 @@ territoriales.
 
 #### Chapitre II : Prévention de la délinquance
 
-##### Section 1 : Comité interministériel de prévention  de la délinquance
+##### Section 1 : Comité interministériel de prévention  de la délinquance et de la radicalisation
 
 ###### Article D132-1
 
-Le comité interministériel de prévention de la délinquance est présidé par le Premier ministre ou, par délégation, par le
-ministre de l'intérieur.
+Le comité interministériel de prévention de la délinquance et de la radicalisation est présidé par le Premier ministre ou,
+par délégation, par le ministre de l'intérieur.
 
-Ce comité comprend le ministre de l'intérieur, le garde des sceaux, ministre de la justice, le ministre de la défense, le
-ministre de l'éducation nationale, le ministre chargé de la santé, le ministre chargé de la cohésion sociale, le ministre
-chargé des transports, le ministre chargé de l'outre-mer et le ministre chargé de la jeunesse.
+Ce comité comprend le ministre de l'intérieur, le garde des sceaux, ministre de la justice, le ministre des affaires
+étrangères, le ministre de l'éducation nationale, le ministre chargé de l'enseignement supérieur, le ministre chargé de la
+recherche, le ministre de la défense, le ministre chargé de la santé, le ministre chargé de la famille, le ministre chargé
+des droits des femmes, le ministre chargé de la cohésion sociale, le ministre chargé du travail, le ministre chargé du
+logement, le ministre chargé des transports, le ministre chargé de la ville, le ministre chargé de la jeunesse, le ministre
+chargé des sports et le ministre chargé de l'outre-mer. 
 
 Le Premier ministre peut inviter d'autres membres du Gouvernement à participer aux travaux du comité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-52 du 17 janvier 2006 - art. 1 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -25680,28 +25679,24 @@ Le Premier ministre peut inviter d'autres membres du Gouvernement à participer 
 
 ###### Article D132-2
 
-Le comité fixe les orientations de la politique gouvernementale en matière de prévention de la délinquance et veille à leur
-mise en œuvre.
+Le comité fixe les orientations de la politique gouvernementale en matière de prévention de la délinquance et de la
+radicalisation et veille à leur mise en œuvre.
 
 Il coordonne l'action des ministères et l'utilisation des moyens budgétaires consacrés à la politique de prévention de la
-délinquance.
+délinquance et de la radicalisation.
 
 Il adopte chaque année un rapport transmis au Parlement retraçant les résultats de la politique de prévention de la
-délinquance et exposant les orientations de l'Etat en ce domaine.
+délinquance et de la radicalisation, et exposant les orientations de l'Etat en ce domaine.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-52 du 17 janvier 2006 - art. 2 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 4
 
 	**Cité par**:
 
@@ -25711,84 +25706,79 @@ délinquance et exposant les orientations de l'Etat en ce domaine.
 ###### Article D132-3
 
 Un secrétaire général, nommé par décret et placé auprès du ministre de l'intérieur, assure le secrétariat du comité
-interministériel de prévention de la délinquance. 
+interministériel de prévention de la délinquance et de la radicalisation. 
 
 Il prépare les travaux et délibérations du comité. 
 
 Il prépare le rapport au Parlement mentionné à l'article D. 132-2.
 
-Il veille à la cohérence de la mise en œuvre des orientations définies par le comité.
+Il veille à la cohérence de la mise en œuvre des orientations définies par le comité et contribue à la coordination des
+ministères et des services déconcentrés de l'Etat en matière de prévention de la délinquance et de la radicalisation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-52 du 17 janvier 2006 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-2 (VD)
+	  - Code de la sécurité intérieure - art. D132-2
 
 
 ###### Article D132-4
 
 Le secrétaire général réunit en tant que de besoin les directeurs d'administration centrale concernés par la prévention de la
-délinquance, notamment ceux placés sous l'autorité des ministres mentionnés à l'article D. 132-1, ou les dirigeants
-d'organismes publics intéressés.
+délinquance et de la radicalisation, notamment ceux placés sous l'autorité des ministres mentionnés à l'article D. 132-1, ou
+les dirigeants d'organismes publics ou privés intéressés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-52 du 17 janvier 2006 - art. 4 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-1 (VD)
+	  - Code de la sécurité intérieure - art. D132-1
 
 
 ##### Section 2 : Conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
 
+##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
+
 ###### Article D132-5
 
-Le conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives
-sectaires et les violences faites aux femmes, placé auprès du préfet de département, concourt à la mise en œuvre, dans le
-département, des politiques publiques dans ces domaines. Sa compétence inclut notamment la prévention des conduites
-d'addiction et la lutte contre l'insécurité routière et, plus généralement, contre les violences et incivilités de toute
-nature. Il est régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du
-nombre et à la simplification de la composition de diverses commissions administratives. 
+Le conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la
+drogue, les dérives sectaires et les violences faites aux femmes, placé auprès du préfet de département, concourt à la mise
+en œuvre, dans le département, des politiques publiques dans ces domaines. Sa compétence inclut notamment la prévention des
+conduites d'addiction et la lutte contre l'insécurité routière et, plus généralement, contre les violences et incivilités de
+toute nature. Il est régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la
+réduction du nombre et à la simplification de la composition de diverses commissions administratives. 
 
 Dans le cadre de ses attributions, le conseil départemental : 
 
 1° Examine chaque année le rapport sur l'état de la délinquance dans le département qui lui est adressé par le comité
 départemental de sécurité ; 
 
-2° Examine et donne son avis sur le projet de plan de prévention de la délinquance dans le département prévu à l'article D.
-132-13 ; 
+2° Examine et donne son avis sur le projet de plan de prévention de la délinquance et de la radicalisation dans le
+département prévu à l'article D. 132-13 ; 
 
-3° Est informé de l'activité des conseils locaux de sécurité et de prévention de la délinquance ; 
+3° Est informé de l'activité des conseils locaux de sécurité et de prévention de la délinquance et de la radicalisation ; 
 
 4° Examine le rapport annuel du préfet de département relatif aux actions financées par le fonds interministériel de
 prévention de la délinquance ; 
 
 5° Fait toutes propositions utiles aux institutions et organismes publics et privés du département intéressés par la
-prévention de la délinquance ; 
+prévention de la délinquance et de la radicalisation ; 
 
 6° Assure la coordination dans le département des actions préventives et répressives des pouvoirs publics à l'encontre des
 agissements contraires à la loi n° 2001-504 du 12 juin 2001 tendant à renforcer la prévention et la répression des mouvements
@@ -25796,8 +25786,8 @@ sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales 
 
 7° Elabore le plan départemental de lutte contre la drogue et de prévention des conduites d'addiction ; 
 
-8° Elabore des programmes de prévention de la délinquance des mineurs et de lutte contre les violences faites aux femmes et
-contre la violence dans le sport ; 
+8° Elabore des programmes de prévention de la délinquance et de la radicalisation des mineurs et de lutte contre les
+violences faites aux femmes et contre la violence dans le sport ; 
 
 9° Concourt à l'élaboration des orientations de la politique de sécurité routière dans le département et approuve le plan des
 actions à mettre en œuvre ; 
@@ -25811,21 +25801,16 @@ travaux d'intérêt général dans le département.
 
 	**Cite**:
 
-	  - Loi n°2001-504 du 12 juin 2001 (V)
-	  - Décret n°2006-665 du 7 juin 2006 - art. 8 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 10, 2°, sauf ecqc Paris (VT)
-	  - Décret n°2006-665 du 7 juin 2006 - art. 12, I (VT)
+	  - Loi n°2001-504 du 12 juin 2001
+	  - Décret n°2006-665 du 7 juin 2006 - art. 8
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 8
 
 	**Cité par**:
 
@@ -25837,9 +25822,9 @@ travaux d'intérêt général dans le département.
 
 ###### Article D132-6
 
-Le conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives
-sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du conseil départemental
-et le procureur de la République en sont les vice-présidents. 
+Le conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la
+drogue, les dérives sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du
+conseil départemental et le procureur de la République en sont les vice-présidents. 
 
 Il comprend en outre : 
 
@@ -25861,11 +25846,11 @@ Le préfet de département consulte les vice-présidents avant d'arrêter la com
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
+	  - Décret n°2016-553 du 6 mai 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-5 (VD)
+	  - Code de la sécurité intérieure - art. D132-5
 
 
 ###### Article R132-6-1
@@ -25924,11 +25909,15 @@ consultation du procureur de la République et avis du conseil, ont estimé que 
 territoire de la commune justifiait sa conclusion. 
 
 Il est consulté sur la définition, la mise en œuvre et l'évaluation des actions de prévention de la délinquance prévues dans
-le cadre de la contractualisation entre l'Etat et les collectivités territoriales en matière de politique de la ville définie
-au dernier alinéa de l'article L. 121-14 du code de l'action sociale et des familles. 
+le cadre de la contractualisation entre l'Etat et les collectivités territoriales en matière de politique de la ville
+définieà l'article 1er de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine.
 
 A défaut des dispositifs contractuels susmentionnés, le conseil local peut proposer des actions de prévention ponctuelles,
 dont il assure le suivi et l'évaluation.
+
+En fonction de la situation locale, les compétences du conseil local de sécurité et de prévention de la délinquance mentionné
+au présent article peuvent s'étendre aux actions de prévention de la radicalisation définies conjointement avec le
+représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -25936,17 +25925,13 @@ dont il assure le suivi et l'évaluation.
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. D2211-1 (VT)
+	  - Décret n°2016-553 du 6 mai 2016 - art. 10
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L121-14 (V)
+	  - Code de l'action sociale et des familles - art. L121-14
 
 	**Cité par**:
 
@@ -26114,7 +26099,7 @@ l'établissement public de coopération intercommunale.
 
 Le plan de prévention de la délinquance dans le département fixe les priorités de l'Etat en matière de prévention de la
 délinquance, dans le respect des orientations nationales définies par le comité interministériel de prévention de la
-délinquance. 
+délinquance et de la radicalisation. 
 
 Il constitue le cadre de référence de l'Etat pour sa participation aux contrats locaux de sécurité. 
 
@@ -26123,8 +26108,8 @@ départemental de prévention de la délinquance, d'aide aux victimes et de lutt
 violences faites aux femmes mentionné à l'article D. 132-5. 
 
 Le préfet de département informe les maires et les présidents des établissements publics de coopération intercommunale
-compétents en matière de prévention de la délinquance des priorités du plan de prévention de la délinquance dans le
-département.
+compétents en matière de prévention de la délinquance des priorités du plan de prévention de la délinquance et de la
+radicalisation dans le département.
 
 **Liens relatifs à cet article**
 
@@ -26132,28 +26117,24 @@ département.
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. D2215-1 (VT)
+	  - Décret n°2016-553 du 6 mai 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-5 (VD)
+	  - Code de la sécurité intérieure - art. D132-5
 
 
 ##### Section 6 : Dispositions particulières à Paris
 
 ###### Article D132-14
 
-A Paris, les attributions du conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la
-drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D. 132-5 et celles du conseil local de
-sécurité et de prévention de la délinquance mentionné à l'article D. 132-7 sont exercées par un conseil parisien de sécurité
-et de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences
-faites aux femmes placé auprès du préfet de police. 
+A Paris, les attributions du conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux
+victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D.
+132-5 et celles du conseil local de sécurité et de prévention de la délinquance mentionné à l'article D. 132-7 sont exercées
+par un conseil parisien de sécurité et de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les
+dérives sectaires et les violences faites aux femmes placé auprès du préfet de police. 
 
 Ce conseil est présidé conjointement par le préfet de police, le maire de Paris et le procureur de la République près le
 tribunal de grande instance de Paris. Le maire et le procureur de la République sont consultés sur sa composition. 
@@ -26165,19 +26146,13 @@ police et du maire de Paris.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 10, 2°, ecqc Paris (VT)
-	  - Décret n°2006-665 du 7 juin 2006 - art. 12, IV (VT)
-	  - Code général des collectivités territoriales - art. D2512-15-13 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-553 du 6 mai 2016 - art. 12
 
 	**Cité par**:
 
@@ -26185,8 +26160,8 @@ police et du maire de Paris.
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-5 (VD)
-	  - Code de la sécurité intérieure - art. D132-7 (VD)
+	  - Code de la sécurité intérieure - art. D132-5
+	  - Code de la sécurité intérieure - art. D132-7
 
 
 ###### Article D132-15
