@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-05-08
+Version Consolidée au 2016-05-29
 
 # Partie législative
 
@@ -25751,8 +25751,6 @@ les dirigeants d'organismes publics ou privés intéressés.
 	  - Code de la sécurité intérieure - art. D132-1
 
 
-##### Section 2 : Conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
-
 ##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
 
 ###### Article D132-5
@@ -48974,11 +48972,7 @@ port du gilet pare-balles individuel sont fixées par arrêté.
 
 ###### Article R411-8
 
-Les adjoints de sécurité sont recrutés, après vérification de leur aptitude physique, et après avoir subi des tests
-psychologiques, des épreuves sportives et eu un entretien de sélection, dans des conditions fixées par un arrêté conjoint du
-ministre de l'intérieur et du ministre chargé de la fonction publique.
-
-Nul ne peut être recruté :
+Nul ne peut être recruté en qualité d'adjoint de sécurité :
 
 1° S'il n'est de nationalité française et ne jouit de ses droits civiques ;
 
@@ -48986,13 +48980,16 @@ Nul ne peut être recruté :
 
 3° Si les mentions portées au bulletin n° 2 de son casier judiciaire sont incompatibles avec l'exercice de ses fonctions ;
 
-4° S'il ne se trouve en position régulière au regard du code du service national .
+4° S'il ne se trouve en position régulière au regard du code du service national ;
+
+5° S'il ne satisfait aux critères d'aptitude physique fixés par un arrêté conjoint du ministre de l'intérieur et du ministre
+chargé de la fonction publique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-800 du 24 août 2000 - art. 4 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -49000,13 +48997,22 @@ Nul ne peut être recruté :
 	  - Arrêté du 24 août 2000 - art. 3 (V)
 	  - Arrêté du 24 août 2000 - art. 4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-684 du 26 mai 2016 - art. 1
+
+
+###### Article R411-8-1
+
+Les adjoints de sécurité sont recrutés après sélection sur entretien et après avoir subi avec succès les tests psychologiques
+ainsi que les épreuves sportives fixées par un arrêté conjoint du ministre de l'intérieur et du ministre chargé de la
+fonction publique.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-684 du 26 mai 2016 - art. 2
 
 
 ###### Article R411-9
@@ -52377,15 +52383,24 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     <tr>
       <td>
 
-R. 411-8 et R. 411-9
+R. 411-8 et R. 411-8-1
 
 </td>
       <td>
 
-Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
-l'administration du ministère de l'intérieur 
+Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des
+adjoints de sécurité 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-9
+
+</td>
+      <td>Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats
+généraux pour l'administration du ministère de l'intérieur</td>
     </tr>
     <tr>
       <td>
@@ -52459,14 +52474,14 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2015-76 du 27 janvier 2015 - art. 2
-
 	**Cité par**:
 
 	  - Décret n°2016-684 du 26 mai 2016 - art. 3
 	  - Décret n°2017-907 du 6 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-684 du 26 mai 2016 - art. 3
 
 
 ###### Article R445-2
@@ -52554,15 +52569,24 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 R. 411-8 et
 
-R. 411-9 
+R. 411-8-1 
 
 </td>
       <td>
 
-Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
-l'administration du ministère de l'intérieur 
+Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des
+adjoints de sécurité 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-9
+
+</td>
+      <td>Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats
+généraux pour l'administration du ministère de l'intérieur</td>
     </tr>
     <tr>
       <td>
@@ -52636,7 +52660,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-76 du 27 janvier 2015 - art. 2
+	  - Décret n°2016-684 du 26 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -52737,15 +52761,24 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 R. 411-8 et 
 
-R. 411-9
+R. 411-8-1
 
 </td>
       <td>
 
-Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
-l'administration du ministère de l'intérieur
+Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des
+adjoints de sécurité 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-9
+
+</td>
+      <td>Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats
+généraux pour l'administration du ministère de l'intérieur</td>
     </tr>
     <tr>
       <td>
@@ -52819,7 +52852,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-76 du 27 janvier 2015 - art. 2
+	  - Décret n°2016-684 du 26 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -52916,15 +52949,24 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 R. 411-8 et
 
-R. 411-9
+R. 411-8-1
 
 </td>
       <td>
 
-Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
-l'administration du ministère de l'intérieur
+Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des
+adjoints de sécurité 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-9
+
+</td>
+      <td>Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats
+généraux pour l'administration du ministère de l'intérieur</td>
     </tr>
     <tr>
       <td>
@@ -52996,7 +53038,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-76 du 27 janvier 2015 - art. 2
+	  - Décret n°2016-684 du 26 mai 2016 - art. 3
 
 	**Cité par**:
 
