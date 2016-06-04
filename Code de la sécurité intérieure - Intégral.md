@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-06-04
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -1383,7 +1383,9 @@ territoriales. "
 
 ###### Article L155-1
 
-Sont applicables en Polynésie française les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale,  les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -1401,14 +1403,14 @@ Sont applicables en Polynésie française les dispositions suivantes :
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 55
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L122-3
 	  - Code de la sécurité intérieure - art. L131-1
 	  - Code de la sécurité intérieure - art. L131-6
-	  - Code de la sécurité intérieure - art. L132-16 (VD)
+	  - Code de la sécurité intérieure - art. L132-16
 	  - Code de la sécurité intérieure - art. L132-6
 
 
@@ -1518,7 +1520,9 @@ prévention de la délinquance, " sont supprimés.
 
 ###### Article L156-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions suivantes : 
+Sont applicables en  Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale,  les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -1537,17 +1541,17 @@ L. 132-14 et L. 132-16 ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 55
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L122-3
 	  - Code de la sécurité intérieure - art. L131-1
-	  - Code de la sécurité intérieure - art. L131-6 (V)
+	  - Code de la sécurité intérieure - art. L131-6
 	  - Code de la sécurité intérieure - art. L132-1
-	  - Code de la sécurité intérieure - art. L132-14 (V)
-	  - Code de la sécurité intérieure - art. L132-16 (V)
-	  - Code de la sécurité intérieure - art. L132-8 (V)
+	  - Code de la sécurité intérieure - art. L132-14
+	  - Code de la sécurité intérieure - art. L132-16
+	  - Code de la sécurité intérieure - art. L132-8
 
 
 ###### Article L156-2
@@ -1678,7 +1682,9 @@ prévention de la délinquance, " sont supprimés.
 
 ###### Article L157-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016
+renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties
+de la procédure pénale, les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -1690,16 +1696,16 @@ Sont applicables dans les îles Wallis et Futuna les dispositions suivantes :
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L122-3 (VD)
-	  - Code de la sécurité intérieure - art. L132-8 (VD)
+	  - Code de la sécurité intérieure - art. L122-3
+	  - Code de la sécurité intérieure - art. L132-8
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -1764,7 +1770,9 @@ remplacés par les mots : " des dispositions applicables localement ".
 
 ###### Article L158-1
 
-Sont applicables dans les Terres australes et antarctiques françaises les dispositions suivantes : 
+Sont applicables dans les     Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n°
+2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant
+l'efficacité et les garanties de la procédure pénale,  les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -1774,15 +1782,15 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L122-3 (VD)
+	  - Code de la sécurité intérieure - art. L122-3
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -2156,6 +2164,48 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+##### Section 4 bis : Grands événements
+
+###### Article L211-11-1
+
+Les  grands événements exposés, par leur ampleur ou leurs circonstances  particulières, à un risque exceptionnel de menace
+terroriste sont  désignés par décret. Ce décret désigne également les établissements et  les installations qui accueillent
+ces grands événements ainsi que leur  organisateur. 
+
+L'accès de toute personne, à un  autre titre que celui de spectateur ou de participant, à tout ou partie  des établissements
+et installations désignés par le décret mentionné au  premier alinéa est soumis à autorisation de l'organisateur pendant la
+durée de cet événement et de sa préparation. L'organisateur recueille au  préalable l'avis de l'autorité administrative rendu
+à la suite d'une  enquête administrative qui peut donner lieu à la consultation, selon les  règles propres à chacun d'eux, de
+certains traitements automatisés de  données à caractère personnel relevant de l'article 26 de la loi n° 78-17 du 6 janvier
+1978relative  à l'informatique, aux fichiers et aux libertés, à l'exception des  fichiers d'identification. Un avis
+défavorable ne peut être émis que  s'il ressort de l'enquête administrative que le comportement ou les  agissements de la
+personne sont de nature à porter atteinte à la  sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.  
+
+Un décret en Conseil d'Etat pris après avis de  la Commission nationale de l'informatique et des libertés fixe les  modalités
+d'application du présent article, notamment la liste des  fichiers mentionnés au deuxième alinéa pouvant faire l'objet d'une
+consultation, les catégories de personnes concernées et les garanties  d'information ouvertes à ces personnes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 53
+
+	**Cité par**:
+
+	  - Décret n°2017-587 du 20 avril 2017 (V)
+	  - Décret n°2017-587 du 20 avril 2017 - art. 1
+	  - Décret n°2017-587 du 20 avril 2017 - art. 2
+	  - Code de la sécurité intérieure - art. R211-32 (V)
+	  - Code de la sécurité intérieure - art. R211-33 (V)
+	  - Code de la sécurité intérieure - art. R211-34 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (V)
 
 
 ##### Section 5 : Dispositions pénales
@@ -3000,6 +3050,173 @@ d'établissement du récépissé mentionné au neuvième alinéa.
 	  - Code de procédure pénale - art. 706-25-9 (V)
 
 
+#### Chapitre V : Contrôle administratif des retours sur le territoire national
+
+
+###### Article L225-1
+
+Toute personne qui a quitté le territoire national et dont il existe des raisons sérieuses de penser que ce déplacement a
+pour but de rejoindre un théâtre d'opérations de groupements terroristes dans des conditions susceptibles de la conduire à
+porter atteinte à la sécurité publique lors de son retour sur le territoire français peut faire l'objet d'un contrôle
+administratif dès son retour sur le territoire national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cité par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 (V)
+	  - Code de la sécurité intérieure - art. L285-1 (M)
+	  - Code de la sécurité intérieure - art. L286-1 (M)
+	  - Code de la sécurité intérieure - art. L287-1 (M)
+	  - Code de la sécurité intérieure - art. L288-1 (M)
+
+
+###### Article L225-2
+
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris, faire obligation à la
+personne mentionnée à l'article L. 225-1, dans un délai maximal d'un mois à compter de la date certaine de son retour sur le
+territoire national, de :
+
+1° Résider dans un périmètre géographique déterminé permettant à l'intéressé de poursuivre une vie familiale et
+professionnelle normale et, le cas échéant, l'astreindre à demeurer à son domicile ou, à défaut, dans un autre lieu à
+l'intérieur de ce périmètre, pendant une plage horaire fixée par le ministre, dans la limite de huit heures par vingt-quatre
+heures ;
+
+2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite de trois présentations par
+semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés. ;
+
+Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cité par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 (V)
+
+
+###### Article L225-3
+
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris, faire obligation à toute
+personne mentionnée à l'article L. 225-1, dans un délai maximal d'un an à compter de la date certaine de son retour sur le
+territoire national, de :
+
+1° Déclarer son domicile et tout changement de domicile ;
+
+2° Ne pas se trouver en relation directe ou indirecte avec certaines personnes, nommément désignées, dont il existe des
+raisons sérieuses de penser que leur comportement constitue une menace pour la sécurité et l'ordre publics.
+
+Ces obligations sont prononcées pour une durée maximale de trois mois, renouvelable une fois par décision motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cité par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 (V)
+
+
+###### Article L225-4
+
+Les décisions prononçant les obligations prévues aux articles L. 225-2 et L. 225-3 sont écrites et motivées. Le ministre de
+l'intérieur ou son représentant met la personne concernée en mesure de lui présenter ses observations dans un délai maximal
+de huit jours à compter de la notification de la décision. Cette personne peut se faire assister par un conseil ou
+représenter par un mandataire de son choix.
+
+Les décisions prononçant les obligations prévues aux mêmes articles L. 225-2 et L. 225-3 sont levées aussitôt que les
+conditions prévues à l'article L. 225-1 ne sont plus satisfaites.
+
+La personne faisant l'objet d'obligations fixées en application des articles L. 225-2 et L. 225-3 peut, dans un délai de deux
+mois à compter de la notification de la décision ou de son renouvellement, demander au tribunal administratif l'annulation de
+cette décision. Le tribunal administratif statue dans un délai de quatre mois à compter de sa saisine. Ces recours s'exercent
+sans préjudice des procédures prévues aux articles L. 521-1 et L. 521-2 du code de justice administrative.
+
+En cas de recours formé sur le fondement de l'article L. 521-2 du même code, la condition d'urgence est présumée remplie,
+sauf à ce que le ministre de l'intérieur fasse valoir des circonstances particulières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L521-1
+	  - Code de justice administrative - art. L521-2
+
+
+###### Article L225-5
+
+Lorsque des poursuites judiciaires sont engagées à l'encontre d'une personne faisant l'objet d'obligations fixées en
+application du présent chapitre ou lorsque des mesures d'assistance éducative sont ordonnées en application des articles 375
+à 375-9 du code civil à l'égard d'un mineur faisant l'objet des mêmes obligations, le ministre de l'intérieur abroge les
+décisions fixant ces obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cite**:
+
+	  - Code civil - art. 375 (V)
+
+
+###### Article L225-6
+
+Les obligations prononcées en application des articles L. 225-2 et L. 225-3 peuvent être en tout ou partie suspendues lorsque
+la personne accepte de participer, dans un établissement habilité à cet effet, à une action destinée à permettre sa
+réinsertion et l'acquisition des valeurs de citoyenneté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+
+###### Article L225-7
+
+Le fait de se soustraire aux obligations fixées par l'autorité administrative en application des articles L. 225-2 et L.
+225-3 est puni de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-25-4 (V)
+	  - Code de procédure pénale - art. 706-25-6 (VT)
+	  - Code de procédure pénale - art. 706-25-7 (VT)
+	  - Code de procédure pénale - art. 706-25-9 (V)
+
+
+###### Article L225-8
+
+Un décret en Conseil d'Etat fixe les modalités de mise en œuvre du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+
+
 ### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES
 
 #### Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux
@@ -3309,15 +3526,16 @@ Les conditions d'application du présent article sont précisées par décret en
 ###### Article L233-1
 
 Afin de prévenir et de réprimer le terrorisme, de faciliter la constatation des infractions s'y rattachant, de faciliter la
-constatation des infractions criminelles ou liées à la criminalité organisée au sens de l'article 706-73 du code de procédure
-pénale, des infractions de vol et de recel de véhicules volés, des infractions de contrebande, d'importation ou d'exportation
-commises en bande organisée, prévues et réprimées par le dernier alinéa de l'article 414 du code des douanes, ainsi que la
-constatation, lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, de la réalisation ou de la tentative de
-réalisation des opérations financières définies à l'article 415 du même code et afin de permettre le rassemblement des
-preuves de ces infractions et la recherche de leurs auteurs, les services de police et de gendarmerie nationales et des
-douanes peuvent mettre en œuvre des dispositifs fixes ou mobiles de contrôle automatisé des données signalétiques des
-véhicules prenant la photographie de leurs occupants, en tous points appropriés du territoire, en particulier dans les zones
-frontalières, portuaires ou aéroportuaires ainsi que sur les grands axes de transit national ou international. 
+constatation des infractions criminelles ou liées à la criminalité organisée au sens      des articles 706-73 et 706-73-1  du
+code de procédure pénale, des infractions de vol et de recel de véhicules volés, des infractions de contrebande,
+d'importation ou d'exportation commises en bande organisée, prévues et réprimées par le dernier alinéa de l'article 414 du
+code des douanes, ainsi que la constatation, lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, de la
+réalisation ou de la tentative de réalisation des opérations financières définies à l'article 415 du même code et afin de
+permettre le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, les services de police et de
+gendarmerie nationales et des douanes peuvent mettre en œuvre des dispositifs fixes ou mobiles de contrôle automatisé des
+données signalétiques des véhicules prenant la photographie de leurs occupants, en tous points appropriés du territoire, en
+particulier dans les zones frontalières, portuaires ou aéroportuaires ainsi que sur les grands axes de transit national ou
+international. 
 
 L'emploi de tels dispositifs est également possible par les services de police et de gendarmerie nationales, à titre
 temporaire, pour la préservation de l'ordre public, à l'occasion d'événements particuliers ou de grands rassemblements de
@@ -3331,7 +3549,7 @@ personnes, par décision de l'autorité administrative.
 
 	**Modifié par**:
 
-	  - Loi n°2014-315 du 11 mars 2014 - art. 14
+	  - Loi n°2016-731 du 3 juin 2016 - art. 45
 
 	**Cite**:
 
@@ -3354,9 +3572,9 @@ l'informatique, aux fichiers et aux libertés.
 Ces traitements comportent une consultation du traitement automatisé des données relatives aux véhicules volés ou signalés
 ainsi que du système d'information Schengen. 
 
-Afin de permettre cette consultation, les données collectées sont conservées durant un délai maximum de huit jours au-delà
+Afin de permettre cette consultation, les données collectées sont conservées durant un délai maximum de quinze  jours au-delà
 duquel elles sont effacées dès lors qu'elles n'ont donné lieu à aucun rapprochement positif avec les traitements mentionnés
-au précédent alinéa. Durant cette période de huit jours, la consultation des données n'ayant pas fait l'objet d'un
+au précédent alinéa. Durant cette période de quinze  jours, la consultation des données n'ayant pas fait l'objet d'un
 rapprochement positif avec ces traitements est interdite, sans préjudice des nécessités de leur consultation pour les besoins
 d'une procédure pénale ou douanière. Les données qui font l'objet d'un rapprochement positif avec ces mêmes traitements sont
 conservées pour une durée d'un mois sans préjudice des nécessités de leur conservation pour les besoins d'une procédure
@@ -3371,21 +3589,17 @@ chargés de ces missions peuvent avoir accès à ces traitements.
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
-	  - Code de la sécurité intérieure - art. L233-1 (VD)
+	  - Code de la sécurité intérieure - art. L233-1
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 26 (VT)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 104
 
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 104
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -3574,6 +3788,63 @@ des engagements prévus au présent article.
 	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+### TITRE IV : CAMÉRAS MOBILES
+
+#### Chapitre unique
+
+###### Article L241-1
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes
+et des biens ainsi que de leurs missions de police judiciaire, les agents de la police nationale et les militaires de la
+gendarmerie nationale peuvent procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de
+leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de
+l'intervention ou au comportement des personnes concernées.
+
+L'enregistrement n'est pas permanent.
+
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents de la police
+nationale et des militaires de la gendarmerie nationale, le constat des infractions et la poursuite de leurs auteurs par la
+collecte de preuves ainsi que la formation et la pédagogie des agents.
+
+Les caméras sont portées de façon apparente par les agents et les militaires. Un signal visuel spécifique indique si la
+caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les
+circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de
+l'intérieur. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux
+enregistrements auxquels ils procèdent.
+
+Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative
+ou disciplinaire, sont effacés au bout de six mois.
+
+Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en
+Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 112
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 114 (V)
+	  - Décret n°2016-1860 du 23 décembre 2016 (V)
+	  - Décret n°2016-1861 du 23 décembre 2016 (V)
+	  - Décret n°2016-1861 du 23 décembre 2016 - art. 1 (V)
+	  - Décret n°2016-1861 du 23 décembre 2016 - art. 3 (V)
+	  - Décret n°2016-1861 du 23 décembre 2016 - art. 4 (V)
+	  - Décret n°2016-1861 du 23 décembre 2016 - art. 5 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 211 (V)
+	  - Code de la sécurité intérieure - art. L285-1 (V)
+	  - Code de la sécurité intérieure - art. L286-1 (M)
+	  - Code de la sécurité intérieure - art. L287-1 (M)
+	  - Code de la sécurité intérieure - art. R241-1 (V)
+	  - Code de la sécurité intérieure - art. R241-2 (V)
 
 
 ### TITRE V : VIDÉOPROTECTION
@@ -4653,27 +4924,23 @@ territoriale de vidéoprotection ;
 
 ###### Article L285-1
 
-Sont applicables en Polynésie française les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-6 L. 225-7 ; 
 
 3° Le titre III ; 
 
-4° (Abrogé) 
+4° Le titre IV ; 
 
 5° Le titre V ; 
 
 6° Au titre VI : l'article L. 262-1 ; 
 
 7° Au titre VII : l'article L. 271-1.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -4683,7 +4950,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -4694,8 +4961,9 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	  - Code de la sécurité intérieure - art. L214-1
 	  - Code de la sécurité intérieure - art. L221-1
 	  - Code de la sécurité intérieure - art. L222-1
-	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L223-1 (V)
 	  - Code de la sécurité intérieure - art. L224-1 (V)
+	  - Code de la sécurité intérieure - art. L225-1 (V)
 	  - Code de la sécurité intérieure - art. L262-1
 	  - Code de la sécurité intérieure - art. L271-1 (V)
 
@@ -4759,15 +5027,17 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 ###### Article L286-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-6 L. 225-7 ; 
 
 3° Le titre III ; 
 
-4° (Abrogé) 
+4° Le titre IV ; 
 
 5° Le titre V ; 
 
@@ -4778,7 +5048,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions suivantes :
 **Nota:**
 
 Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
 officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
@@ -4789,7 +5059,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -4801,12 +5071,9 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	  - Code de la sécurité intérieure - art. L221-1
 	  - Code de la sécurité intérieure - art. L222-1
 	  - Code de la sécurité intérieure - art. L222-3
-	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L223-1 (V)
 	  - Code de la sécurité intérieure - art. L224-1 (V)
-	  - Code de la sécurité intérieure - art. L241-1
-	  - Code de la sécurité intérieure - art. L242-1
-	  - Code de la sécurité intérieure - art. L243-1
-	  - Code de la sécurité intérieure - art. L244-1
+	  - Code de la sécurité intérieure - art. L225-1 (V)
 	  - Code de la sécurité intérieure - art. L262-1
 	  - Code de la sécurité intérieure - art. L271-1 (V)
 
@@ -4882,16 +5149,18 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 ###### Article L287-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016
+renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties
+de la procédure pénale, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L.
 214-1 à L. 214-4 ; 
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9 et L. 224-1 ; 
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-6 L. 225-7 ; 
 
 3° Le titre III ; 
 
-4° (Abrogé) 
+4° Le titre IV ; 
 
 5° Le titre V ; 
 
@@ -4902,7 +5171,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions suivantes :
 **Nota:**
 
 Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
 officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
@@ -4913,7 +5182,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -4925,9 +5194,9 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	  - Code de la sécurité intérieure - art. L214-1
 	  - Code de la sécurité intérieure - art. L221-1
 	  - Code de la sécurité intérieure - art. L222-1
-	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L223-1 (V)
 	  - Code de la sécurité intérieure - art. L224-1 (V)
-	  - Code de la sécurité intérieure - art. L241-1
+	  - Code de la sécurité intérieure - art. L225-1 (V)
 	  - Code de la sécurité intérieure - art. L262-1
 	  - Code de la sécurité intérieure - art. L271-1 (V)
 
@@ -5005,11 +5274,13 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 ###### Article L288-1
 
-Sont applicables dans les Terres australes et antarctiques françaises les dispositions suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2016-731 du
+3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et
+les garanties de la procédure pénale, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 à L. 214-3 ; 
 
-2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9 et L. 224-1 ; 
+2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-6 L. 225-7 ; 
 
 3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ; 
 
@@ -5023,7 +5294,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 28 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -5031,7 +5302,9 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 	  - Code de la sécurité intérieure - art. L211-5
 	  - Code de la sécurité intérieure - art. L214-1
 	  - Code de la sécurité intérieure - art. L222-1
-	  - Code de la sécurité intérieure - art. L223-1
+	  - Code de la sécurité intérieure - art. L223-1 (V)
+	  - Code de la sécurité intérieure - art. L224-1 (V)
+	  - Code de la sécurité intérieure - art. L225-1 (V)
 	  - Code de la sécurité intérieure - art. L232-1
 	  - Code de la sécurité intérieure - art. L234-1
 
@@ -5293,94 +5566,121 @@ l'ordre et de la sécurité publics.
 
 ###### Article L312-3
 
-Nul ne peut acquérir et détenir légalement des matériels ou des armes des catégories B et C s'il ne remplit pas les
-conditions suivantes : 
+Sont interdites d'acquisition et de détention d'armes des catégories B et C et d'armes de catégorie D soumises à
+enregistrement : 
 
-1° Disposer d'un bulletin n° 2 de son casier judiciaire ne comportant pas de mention de condamnation pour l'une des
-infractions suivantes :
+1° Les personnes dont le bulletin n° 2 du casier judiciaire comporte une mention de condamnation pour l'une des infractions
+suivantes :
 
 - meurtre, assassinat ou empoisonnement prévus aux articles 221-1 et suivants du code pénal ;
 
-- tortures et actes de barbarie prévus aux articles 222-1 et suivants du code pénal ;
+- tortures et actes de barbarie prévus aux articles 222-1 et suivants du même code ;
 
-- violences volontaires prévues aux articles 222-7 et suivants du code pénal ;
+- violences volontaires prévues aux articles 222-7 et suivants dudit code ;
 
-- menaces d'atteinte aux personnes prévues aux articles 222-17 et suivants du code pénal ;
+- exploitation de la vente à la sauvette prévue à l'article 225-12-8 du même code ;
 
-- viol et agressions sexuelles prévus aux articles 222-22 et suivants du code pénal ;
+- travail forcé prévu à l'article 225-14-1 du même code ;
 
-- exhibition sexuelle prévue à l'article 222-32 du code pénal ;
+- réduction en servitude prévue à l'article 225-14-2 du même code ;
 
-- harcèlement sexuel prévu à l'article 222-33 du code pénal ;
+- administration de substances nuisibles prévue à l'article 222-15 du même code ;
 
-- harcèlement moral prévu aux articles 222-33-2 et 222-33-2-1 du code pénal ;
+- embuscade prévue à l'article 222-15-1 du même code ;
 
-- enregistrement et diffusion d'images de violence prévus à l'article 222-33-3 du code pénal ;
+- menaces d'atteinte aux personnes prévues aux articles 222-17 à 222-18-3 du même code ;
 
-- trafic de stupéfiants prévu aux articles 222-34 et suivants du code pénal ;
+- viol et agressions sexuelles prévus aux articles 222-22 à 222-31-2 du même code ;
 
-- enlèvement et séquestration prévus aux articles 224-1 et suivants du code pénal ;
+- exhibition sexuelle prévue à l'article 222-32 du même code ;
 
-- détournement d'aéronef, de navire ou de tout autre moyen de transport prévu aux articles 224-6 et suivants du code pénal ;
+- harcèlement sexuel prévu à l'article 222-33 du même code ;
 
-- traite des êtres humains prévue aux articles 225-4-1 et suivants du code pénal ;
+- harcèlement moral prévu aux articles 222-33-2 et 222-33-2-1 du même code ;
 
-- proxénétisme et infractions qui en résultent prévus aux articles 225-5 et suivants du code pénal ;
+- enregistrement et diffusion d'images de violence prévus à l'article 222-33-3 du même code ;
 
-- recours à la prostitution des mineurs ou de personnes particulièrement vulnérables prévu aux articles 225-12-1 et suivants
-du code pénal ;
+- trafic de stupéfiants prévu aux articles 222-34 à 222-43-1 du même code ;
 
-- exploitation de la mendicité prévue aux articles 225-12-5 et suivants du code pénal ;
+- infractions relatives aux armes prévues aux articles 222-52 à 222-67 du même code ;
 
-- vols prévus aux articles 311-1 et suivants du code pénal ;
+- enlèvement et séquestration prévus aux articles 224-1 à 224-5-2 du même code ;
 
-- extorsions prévues aux articles 312-1 et suivants du code pénal ;
+- détournement d'aéronef, de navire ou de tout autre moyen de transport prévu aux articles 224-6 à 224-8-1 du même code ;
 
-- recel de vol ou d'extorsion prévu aux articles 321-1 et suivants du code pénal ;
+- traite des êtres humains prévue aux articles 225-4-1 à 225-4-9 du même code ;
 
-- destructions, dégradations et détériorations dangereuses pour les personnes prévues aux articles 322-5 et suivants du code
-pénal ;
+- proxénétisme et infractions qui en résultent prévus aux articles 225-5 à 225-12 du même code ;
 
-- menaces de destruction, de dégradation ou de détérioration et fausses alertes prévues aux articles 322-12 et 322-14 du code
-pénal ;
+- recours à la prostitution des mineurs ou de personnes particulièrement vulnérables prévu aux articles 225-12-1 à 225-12-4
+du même code ;
 
-- blanchiment prévu aux articles 324-1 et suivants du code pénal ;
+- exploitation de la mendicité prévue aux articles 225-12-5 à 225-12-7 du même code ;
+
+- vols prévus aux articles 311-1 à 311-11 du même code ;
+
+- extorsion prévue aux articles 312-1 à 312-9 du même code ;
+
+- demande de fonds sous contrainte prévue à l'article 312-12-1 du même code ;
+
+- recel de vol ou d'extorsion prévu aux articles 321-1 à 321-5 du même code ;
+
+- destruction, dégradation et détérioration d'un bien prévues à l'article 322-1 du même code ;
+
+- destruction, dégradation et détérioration ne présentant pas de danger pour les personnes prévues aux articles 322-1 à
+322-4-1 du même code commises en état de récidive légale ;
+
+- destruction, dégradation et détérioration dangereuses pour les personnes prévues aux articles 322-5 à 322-11-1 du même
+code ;
+
+- menaces de destruction, de dégradation ou de détérioration et fausses alertes prévues aux articles 322-12 à 322-14 du même
+code ;
+
+- blanchiment prévu aux articles 324-1 à 324-6-1 du même code ;
+
+- actes de terrorisme prévus aux articles 421-1 à 421-6 du même code ;
+
+- entrave à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation prévue aux
+articles 431-1 et 431-2 du même code ;
 
 - participation à un attroupement en étant porteur d'une arme ou provocation directe à un attroupement armé prévues aux
-articles 431-5 et 431-6 du code pénal ;
+articles 431-5 et 431-6 du même code ;
 
-- participation à une manifestation ou à une réunion publique en étant porteur d'une arme prévue à l'article 431-10 du code
-pénal ;
+- participation à une manifestation ou à une réunion publique en étant porteur d'une arme prévue à l'article 431-10 du même
+code ;
+
+- participation à un groupe de combat interdit prévu aux articles 431-13 à 431-21 du même code ;
 
 - intrusion dans un établissement d'enseignement scolaire par une personne porteuse d'une arme prévue aux articles 431-24 et
-431-25 du code pénal ;
+431-25 du même code ;
 
-- introduction d'armes dans un établissement scolaire prévue à l'article 431-28 du code pénal ;
+- rébellion armée et rébellion armée en réunion prévues à l'article 433-8 du même code ;
 
-- rébellion armée et rébellion armée en réunion prévues à l'article 433-8 du code pénal ;
+- association de malfaiteurs prévue à l'article 450-1 du même code ;
 
-- destructions, dégradations et détériorations ne présentant pas de danger pour les personnes prévues aux articles 322-1 et
-suivants du code pénal commises en état de récidive légale ;
+- fabrication ou commerce de matériels de guerre ou d'armes ou de munitions de défense sans autorisation prévus aux articles
+L. 2339-2, L. 2339-3 et L. 2339-4 du code de la défense ainsi qu'aux articles L. 317-1-1, L. 317-2 et L. 317-3-1 du présent
+code ;
 
-- fabrication ou commerce des matériels de guerre ou d'armes ou de munitions de défense sans autorisation prévus et réprimés
-par les articles L. 2339-2, L. 2339-3 et L. 2339-4 du code de la défense ainsi que par les articles L. 317-1-1, L. 317-2 et
-L. 317-3-1 du présent code ;
+- acquisition, cession ou détention sans déclaration ou enregistrement d'armes ou de matériels de catégorie C ou d'armes de
+catégorie D ou de leurs munitions prévues aux articles L. 317-4-1 et L. 317-7 du présent code ;
 
-- acquisition, cession ou détention, sans autorisation, d'une ou plusieurs armes ou matériels des catégories A, B, C ou
-d'armes de catégorie D mentionnées à l'article L. 312-4-2 ou de leurs munitions prévues et réprimées par les articles L.
-317-4, L. 317-5, L. 317-6 et L. 317-7 ;
+- acquisition ou détention d'armes ou de munitions en violation d'une interdiction prévue à l'article L. 317-5 du présent
+code ;
 
-- port, transport et expéditions d'armes des catégories A, B, C ou d'armes de la catégorie D soumises à enregistrement sans
-motif légitime prévus et réprimés par les articles L. 317-8 et L. 317-9 ;
+- obstacle à la saisie d'armes ou de munitions prévu à l'article L. 317-6 du présent code ;
 
-- importation sans autorisation des matériels des catégories A, B, C ou d'armes de la catégorie D énumérées par un décret en
-Conseil d'Etat prévue et réprimée par les articles L. 2339-10 et L. 2339-11 du code de la défense ;
+- port, transport et expéditions d'armes de catégorie C ou d'armes de catégorie D soumises à enregistrement sans motif
+légitime prévus aux articles L. 317-8 et L. 317-9 du présent code ;
+
+- importation sans autorisation des matériels des catégories A, B, C ou d'armes de catégorie D énumérées par un décret en
+Conseil d'État prévue à la section 5 du chapitre IX du titre III du livre III de la deuxième partie du code de la défense ;
 
 - fabrication, vente, exportation, sans autorisation, d'un engin ou produit explosif ou incendiaire, port ou transport
-d'artifices non détonants prévus et réprimés par les articles L. 2353-4 à L. 2353-13 du code de la défense ; 
+d'artifices non détonants prévus aux articles L. 2353-4 à L. 2353-13 du même code ; 
 
-2° Ne pas se signaler par un comportement laissant objectivement craindre une utilisation de l'arme ou du matériel dangereuse
-pour soi-même ou pour autrui.
+2° Les personnes condamnées à une peine d'interdiction de détenir ou de porter une arme soumise à autorisation ou condamnées
+à la confiscation d'une ou de plusieurs armes dont elles sont propriétaires ou dont elles ont la libre disposition.
 
 **Liens relatifs à cet article**
 
@@ -5390,60 +5690,91 @@ pour soi-même ou pour autrui.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 
 	**Cite**:
 
 	  - Code pénal - art. 221-1 (V)
 	  - Code pénal - art. 222-1 (V)
-	  - Code pénal - art. 222-32
-	  - Code pénal - art. 222-33
-	  - Code pénal - art. 222-33-2
-	  - Code pénal - art. 222-33-3
+	  - Code pénal - art. 222-15 (V)
+	  - Code pénal - art. 222-15-1 (V)
+	  - Code pénal - art. 222-17 (V)
+	  - Code pénal - art. 222-22 (V)
+	  - Code pénal - art. 222-32 (V)
+	  - Code pénal - art. 222-33 (V)
+	  - Code pénal - art. 222-33-2 (V)
+	  - Code pénal - art. 222-33-3 (V)
 	  - Code pénal - art. 222-34 (V)
+	  - Code pénal - art. 222-52 (V)
 	  - Code pénal - art. 222-7 (V)
 	  - Code pénal - art. 224-1 (V)
 	  - Code pénal - art. 224-6 (V)
 	  - Code pénal - art. 225-12-1 (V)
 	  - Code pénal - art. 225-12-5 (V)
+	  - Code pénal - art. 225-12-8 (V)
+	  - Code pénal - art. 225-14-1 (V)
+	  - Code pénal - art. 225-14-2 (V)
 	  - Code pénal - art. 225-4-1 (V)
 	  - Code pénal - art. 225-5 (V)
 	  - Code pénal - art. 311-1 (V)
 	  - Code pénal - art. 312-1 (V)
+	  - Code pénal - art. 312-12-1 (V)
 	  - Code pénal - art. 321-1 (V)
-	  - Code pénal - art. 322-12
+	  - Code pénal - art. 322-1 (V)
+	  - Code pénal - art. 322-12 (V)
 	  - Code pénal - art. 322-5 (V)
-	  - Code pénal - art. 431-10
-	  - Code pénal - art. 431-24
-	  - Code pénal - art. 431-28
-	  - Code pénal - art. 431-5
-	  - Code pénal - art. 433-8
-	  - Code de la défense. - art. L2339-10
-	  - Code de la défense. - art. L2339-2
+	  - Code pénal - art. 324-1 (V)
+	  - Code pénal - art. 421-1 (V)
+	  - Code pénal - art. 431-1 (V)
+	  - Code pénal - art. 431-10 (V)
+	  - Code pénal - art. 431-13 (V)
+	  - Code pénal - art. 431-24 (V)
+	  - Code pénal - art. 431-5 (V)
+	  - Code pénal - art. 433-8 (V)
+	  - Code pénal - art. 450-1 (V)
+	  - Code de la défense. - art. L2339-2 (M)
+	  - Code de la défense. - art. L2339-3 (M)
+	  - Code de la défense. - art. L2339-4 (M)
 	  - Code de la défense. - art. L2353-4 (V)
 	  - Code de la sécurité intérieure - art. L317-1-1 (V)
-	  - Code de la sécurité intérieure - art. L317-2 (V)
-	  - Code de la sécurité intérieure - art. L317-3-1 (V)
-	  - Code de la sécurité intérieure - art. L317-4 (V)
+	  - Code de la sécurité intérieure - art. L317-4-1 (V)
+	  - Code de la sécurité intérieure - art. L317-6 (V)
 	  - Code de la sécurité intérieure - art. L317-8 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L312-16 (V)
 	  - Code de la sécurité intérieure - art. L312-6-1 (V)
-	  - Code de la sécurité intérieure - art. L312-6-2 (VD)
+	  - Code de la sécurité intérieure - art. L312-6-2 (V)
 	  - Code de la sécurité intérieure - art. L317-5 (V)
 	  - Code de la sécurité intérieure - art. L613-7-2 (V)
 	  - Code de la sécurité intérieure - art. R312-21 (VD)
 	  - Code de la sécurité intérieure - art. R312-67 (VD)
 
 
+###### Article L312-3-1
+
+L'autorité administrative peut interdire l'acquisition et la détention des armes des catégories B et C et des armes de
+catégorie D soumises à enregistrement aux personnes dont le comportement laisse craindre une utilisation de ces armes
+dangereuse pour elles-mêmes ou pour autrui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L312-16 (V)
+
+
 ###### Article L312-4
 
 L'acquisition et la détention des armes, éléments d'armes et de munitions de catégorie B sont soumises à autorisation dans
-des conditions définies par un décret en Conseil d'Etat qui prévoit notamment la présentation de la copie d'une licence de
-tir en cours de validité délivrée par une fédération sportive ayant reçu délégation du ministre chargé des sports au titre de
-l'article L. 131-14 du code du sport. 
+des conditions définies par un décret en Conseil d'Etat. Lorsque l'autorisation est délivrée pour la pratique du tir sportif,
+ce décret prévoit notamment la présentation de la copie d'une licence de tir en cours de validité délivrée par une fédération
+sportive ayant reçu délégation du ministre chargé des sports au titre de l'article L. 131-14 du code du sport. 
 
 Nul ne peut acquérir et détenir légalement des matériels ou des armes, éléments d'armes et munitions classés en catégorie B
 s'il ne peut produire un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de santé
@@ -5462,11 +5793,11 @@ l'article L. 314-2.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-14
+	  - Code du sport. - art. L131-14 (V)
 	  - Code de la sécurité intérieure - art. L312-6
 	  - Code de la sécurité intérieure - art. L314-2
 
@@ -5482,7 +5813,7 @@ L'acquisition des armes de catégorie C nécessite l'établissement d'une décla
 des conditions définies par décret en Conseil d'Etat. Pour les personnes physiques, leur acquisition est subordonnée à la
 production d'un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de santé physique
 et psychique compatible avec l'acquisition et la détention d'une arme et établi dans les conditions fixées à l'article L.
-312-6 ou, dans des conditions prévues par décret en Conseil d'Etat, à la présentation d'une copie : 
+312-6 et, dans des conditions prévues par décret en Conseil d'Etat, à la présentation d'une copie : 
 
 1° D'un permis de chasser revêtu de la validation de l'année en cours ou de l'année précédente ; 
 
@@ -5491,11 +5822,15 @@ des sports au titre de l'article L. 131-14 du code du sport ;
 
 3° Ou d'une carte de collectionneur d'armes délivrée en application de la section 2 du présent chapitre.
 
+Ce décret peut prévoir qu'en raison de leurs caractéristiques techniques ou de leur destination, l'acquisition de certaines
+armes de catégorie C est dispensée de la présentation des documents mentionnés aux 1° à 3° du présent article ou est soumise
+à la présentation d'autres documents.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 
 	**Cite**:
 
@@ -5635,7 +5970,8 @@ qui :
 1° Exposent dans des musées ouverts au public ou contribuent, par la réalisation de collections, à la conservation, à la
 connaissance ou à l'étude des armes ; 
 
-2° Remplissent les conditions prévues à l'article L. 312-1 et aux 1° et 2° de l'article L. 312-3 ; 
+2° Remplissent les conditions prévues à l'article L. 312-1 et n'entrent pas dans les cas prévus aux 1° et 2° de l'article L.
+312-3 ; 
 
 3° Produisent un certificat médical dans les conditions prévues à l'article L. 312-6 ; 
 
@@ -5643,9 +5979,9 @@ connaissance ou à l'étude des armes ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 
 	**Cite**:
 
@@ -5668,7 +6004,8 @@ Peuvent obtenir une carte de collectionneur d'armes délivrée par l'autorité c
 1° Qui exposent dans des musées ouverts au public ou dont l'objet est de contribuer, par la réalisation de collections, à la
 conservation, à la connaissance ou à l'étude des armes ; 
 
-2° Dont les représentants remplissent les conditions prévues à l'article L. 312-1 et aux 1° et 2° de l'article L. 312-3 ; 
+2° Dont les représentants remplissent les conditions prévues à l'article L. 312-1 et n'entrent pas dans les cas prévus aux 1°
+et 2° de l'article L. 312-3 ; 
 
 3° Dont les représentants produisent un certificat médical dans les conditions prévues à l'article L. 312-6 ; 
 
@@ -5676,14 +6013,14 @@ conservation, à la connaissance ou à l'étude des armes ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L312-1
-	  - Code de la sécurité intérieure - art. L312-3
+	  - Code de la sécurité intérieure - art. L312-3 (V)
 	  - Code de la sécurité intérieure - art. L312-6
 
 
@@ -5966,9 +6303,11 @@ Un fichier national automatisé nominatif recense :
 
 1° Les personnes interdites d'acquisition et de détention d'armes en application des articles L. 312-10 et L. 312-13 ; 
 
-2° Les personnes condamnées à une peine d'interdiction de détenir ou de porter une arme soumise à autorisation ou condamnées
-à la confiscation d'une ou de plusieurs armes dont elles sont propriétaires ou dont elles ont la libre disposition en
-application des articles du code pénal et du présent code qui les prévoient. 
+2° Les personnes interdites d'acquisition et de détention d'armes des catégories B et C et des armes de catégorie D soumises
+à enregistrement en application de l'article L. 312-3 ; 
+
+3° Les personnes interdites d'acquisition et de détention d'armes des catégories B et C et des armes de catégorie D soumises
+à enregistrement en application de l'article L. 312-3-1. 
 
 Les modalités d'application du présent article, y compris la nature des informations enregistrées, la durée de leur
 conservation ainsi que les autorités et les personnes qui y ont accès, sont déterminées par décret en Conseil d'Etat pris
@@ -5983,10 +6322,15 @@ après avis de la Commission nationale de l'informatique et des libertés.
 	  - Code de la sécurité intérieure - art. R312-77 (V)
 	  - Code du sport. - art. R131-47 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 23
+
 	**Cite**:
 
-	  - Code pénal
-	  - Code de la sécurité intérieure - art. L312-10 (VD)
+	  - Code de la sécurité intérieure - art. L312-10
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de la sécurité intérieure - art. L312-3-1 (V)
 
 
 ###### Article L312-17
@@ -6631,51 +6975,6 @@ documents nécessaires à leur inscription sur le registre spécial mentionné a
 	  - Code de la sécurité intérieure - art. L313-3
 
 
-###### Article L317-4
-
-Sont punies de trois ans d'emprisonnement et de 45 000 € d'amende l'acquisition, la cession ou la détention, sans
-l'autorisation prévue à l'article L. 313-3, d'une ou de plusieurs armes des catégories A ou B, de munitions ou de leurs
-éléments essentiels en violation des articles L. 312-1 à L. 312-4-3, L. 314-2 ou L. 314-3. 
-
-La peine d'emprisonnement est portée à cinq ans et l'interdiction de séjour peut être prononcée suivant les modalités prévues
-par l'article 131-31 du code pénal, si le coupable a été antérieurement condamné à l'emprisonnement ou à une peine plus grave
-pour crime ou délit. 
-
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
-organisée. 
-
-Le tribunal ordonne, en outre, la confiscation des armes ou des munitions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Cite**:
-
-	  - Code pénal - art. 131-31
-	  - Code de la sécurité intérieure - art. L312-1
-	  - Code de la sécurité intérieure - art. L313-3
-	  - Code de la sécurité intérieure - art. L314-2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2339-14 (VD)
-	  - Code de la défense. - art. L2339-4 (VD)
-	  - Code de la sécurité intérieure - art. L312-3 (M)
-	  - Code de procédure pénale - art. 706-73 (M)
-	  - Code pénal - art. 421-1 (M)
-
-
 ###### Article L317-4-1
 
 Sont punies de deux ans d'emprisonnement et de 30 000 € d'amende l'acquisition, la cession ou la détention d'une ou de
@@ -6707,7 +7006,7 @@ organisée.
 ###### Article L317-5
 
 Est puni de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'acquérir ou de détenir des armes et des munitions en
-violation d'une interdiction prévue à l'article L. 312-10 ou à l'article L. 312-13.
+violation d'une interdiction prévue aux articles L. 312-3, L. 312-10 et L. 312-13.
 
 **Liens relatifs à cet article**
 
@@ -6717,12 +7016,11 @@ violation d'une interdiction prévue à l'article L. 312-10 ou à l'article L. 3
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L312-10
-	  - Code de la sécurité intérieure - art. L312-13
+	  - Code de la sécurité intérieure - art. L312-10 (V)
 
 	**Cité par**:
 
@@ -6758,15 +7056,16 @@ La tentative du délit prévu à l'alinéa précédent est punie des mêmes pein
 
 ###### Article L317-7
 
-La détention d'un dépôt d'armes ou de munitions des catégories A, B, ainsi que des armes de la catégorie D figurant sur une
-liste fixée par un décret en Conseil d'Etat, est punie de cinq ans d'emprisonnement et de 3 750 € d'amende. 
+La détention d'un dépôt d'armes ou de munitions de la catégorie C, ainsi que des armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat, est punie de trois ans d'emprisonnement et de 45 000 € d'amende. 
 
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende lorsque l'infraction est commise en bande
 organisée. 
 
-La peine est portée à dix ans d'emprisonnement et la peine complémentaire d'interdiction de séjour peut être prononcée
-suivant les modalités prévues par l'article 131-31 du code pénal lorsque le coupable a antérieurement été condamné à
-l'emprisonnement ou à une peine plus grave pour crime ou délit. 
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende si l'auteur des faits a été antérieurement
+condamné pour une ou plusieurs infractions mentionnées aux articles 706-73 et 706-73-1 du code de procédure pénale à une
+peine égale ou supérieure à un an d'emprisonnement ferme. En outre, la peine complémentaire d'interdiction de séjour peut
+être prononcée suivant les modalités prévues à l'article 131-31 du code pénal. 
 
 Le tribunal ordonne, en outre, la confiscation des armes ou des munitions. 
 
@@ -6778,10 +7077,6 @@ aux vendeurs régulièrement autorisés.
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 	**Cité par**:
 
@@ -6795,115 +7090,22 @@ aux vendeurs régulièrement autorisés.
 	  - Code des transports - art. L5211-3-1 (V)
 	  - Code pénal - art. 421-1 (VD)
 
-	**Cite**:
-
-	  - Code pénal - art. 131-31
-
-
-###### Article L317-7-1
-
-Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende le fait de frauduleusement supprimer, masquer, altérer ou
-modifier de façon quelconque les marquages, poinçons, numéros de série, emblèmes ou signes de toute nature apposés ou
-intégrés sur des matériels mentionnés à l'article L. 311-2, des armes ou leurs éléments essentiels afin de garantir leur
-identification de manière certaine suivant les modalités fixées par un décret en Conseil d'Etat ou de détenir, en
-connaissance de cause, une arme ainsi modifiée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L311-2
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L317-7-2 (Ab)
-
-
-###### Article L317-7-2
-
-Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende l'acquisition, la vente, la livraison ou le transport de
-matériels, d'armes et de leurs éléments essentiels mentionnés à l'article L. 311-2 dépourvus des marquages, poinçons, numéros
-de série, emblèmes ou signes de toute nature apposés ou intégrés sur les matériels, les armes ou leurs éléments essentiels,
-nécessaires à leur identification de manière certaine suivant les modalités fixées par le décret en Conseil d'Etat prévu à
-l'article L. 317-7-1, ou dont les marquages, poinçons, numéros de série, emblèmes ou signes de toute nature auraient été
-supprimés, masqués, altérés ou modifiés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L311-2
-	  - Code de la sécurité intérieure - art. L317-7-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L317-7-3 (Ab)
-	  - Code de la sécurité intérieure - art. L317-7-4 (Ab)
-
-
-###### Article L317-7-3
-
-Les peines peuvent être portées à dix ans d'emprisonnement et 150 000 € d'amende si les infractions mentionnées à l'article
-L. 317-7-2 sont commises en bande organisée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L317-7-2
-
-
-###### Article L317-7-4
-
-La tentative des délits prévus aux articles L. 317-7-2 et L. 317-7-3 est punie des mêmes peines.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L317-7-2 (Ab)
+	  - Code pénal - art. 131-31 (V)
 
 
 ###### Article L317-8
 
 Quiconque, hors de son domicile et sauf les exceptions résultant des articles L. 315-1 et L. 315-2, est trouvé porteur ou
-effectue sans motif légitime le transport de matériels de guerre, d'une ou plusieurs armes, de leurs éléments essentiels ou
-de munitions, même s'il en est régulièrement détenteur, est puni : 
+effectue sans motif légitime le transport d'une ou plusieurs armes, de leurs éléments essentiels ou de munitions, même s'il
+en est régulièrement détenteur, est puni : 
 
-1° S'il s'agit de matériels de guerre mentionnés à l'article L. 311-2, d'armes, de leurs éléments essentiels ou de munitions
-des catégories A ou B, de cinq ans d'emprisonnement et de 75 000 € d'amende ; 
+1° (abrogé) ;
 
 2° S'il s'agit d'armes, de leurs éléments essentiels ou de munitions de la catégorie C, de deux ans d'emprisonnement et de 30
 000 € d'amende ; 
@@ -6912,6 +7114,10 @@ des catégories A ou B, de cinq ans d'emprisonnement et de 75 000 € d'amende ;
 dangerosité et figurent sur une liste fixée par arrêté, d'un an d'emprisonnement et de 15 000 € d'amende.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
@@ -6934,7 +7140,7 @@ dangerosité et figurent sur une liste fixée par arrêté, d'un an d'emprisonne
 
 	**Modifié par**:
 
-	  - Loi n°2013-711 du 5 août 2013 - art. 20
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
@@ -6947,8 +7153,7 @@ dangerosité et figurent sur une liste fixée par arrêté, d'un an d'emprisonne
 Si le transport d'armes est effectué par au moins deux personnes ou si deux personnes au moins sont trouvées ensemble
 porteuses d'armes, les peines prévues à l'article L. 317-8 sont portées : 
 
-1° S'il s'agit de matériels de guerre mentionnés à l'article L. 311-2, d'armes, de leurs éléments essentiels ou de munitions
-des catégories A ou B, à dix ans d'emprisonnement et 500 000 € d'amende ; 
+1° (abrogé)
 
 2° S'il s'agit d'armes, de leurs éléments essentiels ou de munitions de catégorie C, à cinq ans d'emprisonnement et 75 000 €
 d'amende ; 
@@ -6958,15 +7163,19 @@ dangerosité et figurent sur une liste fixée par arrêté, à deux ans d'empris
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°2013-711 du 5 août 2013 - art. 20
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Cité par**:
 
 	  - Arrêté du 30 août 2013 - art. 1 (V)
 	  - Arrêté du 30 août 2013 - art. 2 (V)
 	  - Arrêté du 11 mai 2015 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
@@ -7001,22 +7210,6 @@ armes qu'il permet d'acquérir pour leur utilisation en action de chasse ou pour
 
 	  - Code de la sécurité intérieure - art. L344-2 (V)
 	  - Code de la sécurité intérieure - art. L345-2 (V)
-
-
-###### Article L317-9-2
-
-Sont punis de cinq ans d'emprisonnement et de 75 000 € d'amende les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux
-des poinçons contrefaits.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 
 ###### Article L317-10
@@ -8359,7 +8552,9 @@ Pierre-et-Miquelon.
 
 ###### Article L344-1
 
-Les dispositions suivantes sont applicables en Polynésie française : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -8376,7 +8571,7 @@ L. 324-2, les articles L. 324-3 à L. 324-9 ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -8517,7 +8712,9 @@ et les conditions dans lesquelles sont fixés les taux de redistribution des mis
 
 ###### Article L345-1
 
-Les dispositions suivantes sont applicables en Nouvelle-Calédonie : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes :
 
 1° Le titre Ier ; 
 
@@ -8525,20 +8722,20 @@ Les dispositions suivantes sont applicables en Nouvelle-Calédonie :
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L321-5 (VD)
-	  - Code de la sécurité intérieure - art. L322-1 (VD)
+	  - Code de la sécurité intérieure - art. L321-5
+	  - Code de la sécurité intérieure - art. L322-1
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L345-2 (VD)
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -8681,8 +8878,9 @@ infractions prévues à l'alinéa précédent encourent les peines fixées par l
 
 ###### Article L346-1
 
-Les dispositions suivantes du présent livre sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
-la loi n° 2015-1268 du 14 octobre 2015 d'actualisation du droit des outre-mer :
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale, les dispositions suivantes :
 
 1° Le titre Ier ;
 
@@ -8697,11 +8895,11 @@ alinéas de l'article L. 324-2 et les articles L. 324-3 à L. 324-9.
 
 	**Cite**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015
+	  - Loi n°2016-731 du 3 juin 2016
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 53
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
@@ -8769,19 +8967,25 @@ décret en Conseil d'Etat." ;
 
 ###### Article L347-1
 
-Les dispositions du titre Ier du présent livre sont applicables dans les Terres australes et antarctiques françaises.
+Les dispositions du titre Ier du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans
+leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et
+leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-731 du 3 juin 2016
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L347-2 (VD)
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -9842,11 +10046,13 @@ aux dispositions qui leur sont applicables dans les départements ;
 
 ###### Article L445-1
 
-Le présent livre est applicable en Polynésie française, sous réserve des dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes, sous réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés en Polynésie française, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
-contraires, aux dispositions applicables localement ; 
+contraires, aux dispositions applicables localement  ; 
 
 2° L'article L. 411-7 est complété par un alinéa ainsi rédigé : 
 
@@ -9873,8 +10079,12 @@ conditions d'entrée et de séjour des étrangers en Polynésie française.
 
 	  - Loi n°66-496 du 11 juillet 1966
 	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 6
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
-	  - Code de la sécurité intérieure - art. L411-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de la sécurité intérieure - art. L411-5
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
@@ -9884,20 +10094,18 @@ conditions d'entrée et de séjour des étrangers en Polynésie française.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
 
 ###### Article L446-1
 
-Le présent livre est applicable en Nouvelle-Calédonie, sous réserve des dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes, sous réserve des adaptations suivantes :
 
 1° Lorsqu'ils sont exécutés en Nouvelle-Calédonie, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
-contraires, aux dispositions applicables localement ; 
+contraires, aux dispositions applicables localement  ; 
 
 2° Les articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
 
@@ -9915,10 +10123,14 @@ conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie.
 	**Cite**:
 
 	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 6
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
-	  - Code de la sécurité intérieure - art. L411-13 (VD)
-	  - Code de la sécurité intérieure - art. L411-5 (VD)
-	  - Code de la sécurité intérieure - art. L433-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de la sécurité intérieure - art. L411-13
+	  - Code de la sécurité intérieure - art. L411-5
+	  - Code de la sécurité intérieure - art. L433-5
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
@@ -9928,20 +10140,18 @@ conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
 
 ###### Article L447-1
 
-Le présent livre est applicable dans les îles Wallis et Futuna, sous réserve des dispositions suivantes : 
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale, les dispositions suivantes, sous réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés dans les îles Wallis et Futuna, le contrat de droit public des adjoints de sécurité mentionné à
 l'article L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations
-expresses contraires, aux dispositions applicables localement ; 
+expresses contraires, aux dispositions applicables localement  ; 
 
 2° Les articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
 
@@ -9956,10 +10166,14 @@ conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futun
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
-	  - Code de la sécurité intérieure - art. L411-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de la sécurité intérieure - art. L411-5
 
 	**Cité par**:
 
@@ -9969,29 +10183,26 @@ conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futun
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises
 
 ###### Article L448-1
 
 Le présent livre est applicable dans les Terres australes et antarctiques françaises, à l'exception des articles L. 411-5 et
-L. 411-6.
+L. 411-6 dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le
+terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L411-5 (V)
+	  - Code de la sécurité intérieure - art. L411-5
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -11086,7 +11297,9 @@ au président du conseil territorial.
 ###### Article L545-1
 
 Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1 à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
-applicables en Polynésie française, sous réserve des adaptations suivantes : 
+applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale, sous réserve des adaptations suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ; 
@@ -11117,18 +11330,18 @@ française " ;
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 134
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L511-1 (VT)
-	  - Code de la sécurité intérieure - art. L511-4 (V)
-	  - Code de la sécurité intérieure - art. L512-1 (V)
-	  - Code de la sécurité intérieure - art. L514-1 (V)
-	  - Code de la sécurité intérieure - art. L515-1 (V)
-	  - Code de la sécurité intérieure - art. L521-1 (V)
-	  - Code de la sécurité intérieure - art. L522-1 (V)
-	  - Code de la sécurité intérieure - art. L522-2 (V)
+	  - Code de la sécurité intérieure - art. L511-1
+	  - Code de la sécurité intérieure - art. L511-4
+	  - Code de la sécurité intérieure - art. L512-1
+	  - Code de la sécurité intérieure - art. L514-1
+	  - Code de la sécurité intérieure - art. L515-1
+	  - Code de la sécurité intérieure - art. L521-1
+	  - Code de la sécurité intérieure - art. L522-1
+	  - Code de la sécurité intérieure - art. L522-2
 
 
 ###### Article L545-2
@@ -11161,7 +11374,9 @@ la République en Polynésie française et par le procureur de la République.
 ###### Article L546-1
 
 Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, 
-L. 512-3, L. 512-4 et L. 512-6 à L. 513-1 sont applicables en Nouvelle-Calédonie, sous réserve des dispositions suivantes : 
+L. 512-3, L. 512-4 et L. 512-6 à L. 513-1 sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n°
+2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant
+l'efficacité et les garanties de la procédure pénale, sous réserve des adaptations suivantes :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Nouvelle-Calédonie ; 
@@ -11201,8 +11416,7 @@ président de l'établissement public de coopération intercommunale le cas éch
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 54
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 55
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -15957,9 +16171,10 @@ européen " sont supprimés.
 
 ###### Article L645-1
 
-Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III, dans leur rédaction résultant du décret
-n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des
-activités privées de sécurité, sont applicables en Polynésie française sous réserve des adaptations suivantes : 
+Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III, sont applicables en Polynésie
+française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé,
+le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, sous réserve des
+adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence à la Polynésie française ; 
 
@@ -16038,49 +16253,27 @@ locale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance n°2000-372 du 26 avril 2000
-	  - Décret n°2016-515 du 26 avril 2016 (V)
-	  - Code du travail - art. L1234-9
-	  - Code du travail - art. L3171-3
-	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L611-2
-	  - Code de la sécurité intérieure - art. L612-1
-	  - Code de la sécurité intérieure - art. L612-11
-	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2
-	  - Code de la sécurité intérieure - art. L612-20
-	  - Code de la sécurité intérieure - art. L612-21
-	  - Code de la sécurité intérieure - art. L612-24
-	  - Code de la sécurité intérieure - art. L612-7
-	  - Code de la sécurité intérieure - art. L613-10
-	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L617-16
-	  - Code de la sécurité intérieure - art. L634-2
-	  - Code de la sécurité intérieure - art. L634-3
-	  - Code de la sécurité intérieure - art. L634-3-1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 2
-	  - Décret n°2016-515 du 26 avril 2016 - art. 57
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L613-10
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
 
 ###### Article L646-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, dans leur rédaction
-résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité, sont applicables en Nouvelle-Calédonie sous réserve des adaptations
-suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables en
+Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, sous réserve
+des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
 
@@ -16155,47 +16348,27 @@ locale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance n°2002-388 du 20 mars 2002
-	  - Décret n°2016-515 du 26 avril 2016 (V)
-	  - Code du travail - art. L1221-13
-	  - Code du travail - art. L1234-9
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L611-2
-	  - Code de la sécurité intérieure - art. L612-1
-	  - Code de la sécurité intérieure - art. L612-11
-	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2
-	  - Code de la sécurité intérieure - art. L612-20
-	  - Code de la sécurité intérieure - art. L612-21
-	  - Code de la sécurité intérieure - art. L612-24 (V)
-	  - Code de la sécurité intérieure - art. L612-7
-	  - Code de la sécurité intérieure - art. L613-10
-	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L617-16
-	  - Code de la sécurité intérieure - art. L634-2 (V)
-	  - Code de la sécurité intérieure - art. L634-3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 2
-	  - Décret n°2016-515 du 26 avril 2016 - art. 57
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L613-10
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
 
 ###### Article L647-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, dans leur rédaction
-résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité, sont applicables dans les îles Wallis et Futuna sous réserve des
-adaptations suivantes : 
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables dans les
+îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, sous réserve
+des adaptations suivantes : 
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
 
@@ -16268,43 +16441,23 @@ monnaie locale.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Cite**:
-
-	  - Décret n°2016-515 du 26 avril 2016 (V)
-	  - Code rural - art. L214-2
-	  - Code du travail - art. L1234-9
-	  - Code du travail - art. L3171-3
-	  - Code du travail - art. L8113-4
-	  - Code de la sécurité intérieure - art. L611-1
-	  - Code de la sécurité intérieure - art. L611-2
-	  - Code de la sécurité intérieure - art. L612-1
-	  - Code de la sécurité intérieure - art. L612-11 (Ab)
-	  - Code de la sécurité intérieure - art. L612-16
-	  - Code de la sécurité intérieure - art. L612-2
-	  - Code de la sécurité intérieure - art. L612-20 (V)
-	  - Code de la sécurité intérieure - art. L612-21
-	  - Code de la sécurité intérieure - art. L612-24
-	  - Code de la sécurité intérieure - art. L612-7
-	  - Code de la sécurité intérieure - art. L613-10
-	  - Code de la sécurité intérieure - art. L613-7
-	  - Code de la sécurité intérieure - art. L614-1
-	  - Code de la sécurité intérieure - art. L617-16
-	  - Code de la sécurité intérieure - art. L634-2
-	  - Code de la sécurité intérieure - art. L634-3
-	  - Code de la sécurité intérieure - art. L634-3-1
-
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 2
-	  - Décret n°2016-515 du 26 avril 2016 - art. 57
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L613-10
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises
 
 ###### Article L648-1
 
-Le titre Ier et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises en tant
-qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes : 
+Le titre Ier et le titre III du présent livre sont applicables dans les     Terres australes et antarctiques françaises, dans
+leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et
+leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en tant qu'ils concernent les
+activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes : 
 
 1° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
 l'Espace économique européen " sont supprimés ; 
@@ -16321,7 +16474,7 @@ européen " sont supprimés.
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 5
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -19029,7 +19182,9 @@ service territorial d'incendie et de secours.
 
 ###### Article L765-1
 
-Sont applicables en Polynésie française les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale,  les dispositions suivantes : 
 
 1° Au titre Ier : l'article L. 711-1 ; 
 
@@ -19044,26 +19199,26 @@ Sont applicables en Polynésie française les dispositions suivantes :
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L711-1 (V)
-	  - Code de la sécurité intérieure - art. L721-1 (V)
-	  - Code de la sécurité intérieure - art. L723-3 (V)
-	  - Code de la sécurité intérieure - art. L725-1 (V)
-	  - Code de la sécurité intérieure - art. L731-2 (V)
-	  - Code de la sécurité intérieure - art. L732-2 (V)
-	  - Code de la sécurité intérieure - art. L733-1 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L742-1 (V)
-	  - Code de la sécurité intérieure - art. L742-8 (V)
-	  - Code de la sécurité intérieure - art. L751-1 (V)
-	  - Code de la sécurité intérieure - art. L752-1 (V)
+	  - Code de la sécurité intérieure - art. L711-1
+	  - Code de la sécurité intérieure - art. L721-1
+	  - Code de la sécurité intérieure - art. L723-3
+	  - Code de la sécurité intérieure - art. L725-1
+	  - Code de la sécurité intérieure - art. L731-2
+	  - Code de la sécurité intérieure - art. L732-2
+	  - Code de la sécurité intérieure - art. L733-1
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L742-1
+	  - Code de la sécurité intérieure - art. L742-8
+	  - Code de la sécurité intérieure - art. L751-1
+	  - Code de la sécurité intérieure - art. L752-1
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -19267,7 +19422,9 @@ spécialisé.
 
 ###### Article L766-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions suivantes : 
+Sont applicables en  Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale,  les dispositions suivantes : 
 
 1° Au titre Ier : l'article L. 711-1 ; 
 
@@ -19282,24 +19439,24 @@ L. 742-1 à L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-13 et L. 742-15 ;
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L711-1 (V)
-	  - Code de la sécurité intérieure - art. L721-1 (V)
-	  - Code de la sécurité intérieure - art. L725-1 (V)
-	  - Code de la sécurité intérieure - art. L731-2 (V)
-	  - Code de la sécurité intérieure - art. L732-5 (V)
-	  - Code de la sécurité intérieure - art. L733-1 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L742-1 (V)
-	  - Code de la sécurité intérieure - art. L742-8 (V)
-	  - Code de la sécurité intérieure - art. L751-1 (V)
+	  - Code de la sécurité intérieure - art. L711-1
+	  - Code de la sécurité intérieure - art. L721-1
+	  - Code de la sécurité intérieure - art. L725-1
+	  - Code de la sécurité intérieure - art. L731-2
+	  - Code de la sécurité intérieure - art. L732-5
+	  - Code de la sécurité intérieure - art. L733-1
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L742-1
+	  - Code de la sécurité intérieure - art. L742-8
+	  - Code de la sécurité intérieure - art. L751-1
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -19548,7 +19705,9 @@ les nécessités de la lutte contre l'incendie, recourir à des feux tactiques.
 
 ###### Article L767-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016
+renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties
+de la procédure pénale, les dispositions suivantes : 
 
 1° Au titre II : les articles L. 721-1 et L. 721-2 ; 
 
@@ -19559,23 +19718,23 @@ L. 742-1, L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-10 et L. 742-12.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L721-1 (V)
-	  - Code de la sécurité intérieure - art. L721-2 (V)
-	  - Code de la sécurité intérieure - art. L733-1 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L742-1 (V)
-	  - Code de la sécurité intérieure - art. L742-12 (V)
-	  - Code de la sécurité intérieure - art. L742-3 (V)
-	  - Code de la sécurité intérieure - art. L742-5 (V)
-	  - Code de la sécurité intérieure - art. L742-8 (V)
+	  - Code de la sécurité intérieure - art. L721-1
+	  - Code de la sécurité intérieure - art. L721-2
+	  - Code de la sécurité intérieure - art. L733-1
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L742-1
+	  - Code de la sécurité intérieure - art. L742-12
+	  - Code de la sécurité intérieure - art. L742-3
+	  - Code de la sécurité intérieure - art. L742-5
+	  - Code de la sécurité intérieure - art. L742-8
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -19657,7 +19816,9 @@ territoriales " sont supprimés.
 
 ###### Article L768-1
 
-Sont applicables dans les Terres australes et antarctiques françaises les dispositions suivantes : 
+Sont applicables dans les     Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n°
+2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant
+l'efficacité et les garanties de la procédure pénale,  les dispositions suivantes : 
 
 1° Au titre II : les articles L. 721-1, L. 721-2 ; 
 
@@ -19667,22 +19828,22 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L721-1 (V)
-	  - Code de la sécurité intérieure - art. L721-2 (V)
-	  - Code de la sécurité intérieure - art. L733-1 (V)
-	  - Code de la sécurité intérieure - art. L741-1 (V)
-	  - Code de la sécurité intérieure - art. L742-1 (V)
-	  - Code de la sécurité intérieure - art. L742-12 (V)
-	  - Code de la sécurité intérieure - art. L742-5 (V)
-	  - Code de la sécurité intérieure - art. L742-8 (V)
+	  - Code de la sécurité intérieure - art. L721-1
+	  - Code de la sécurité intérieure - art. L721-2
+	  - Code de la sécurité intérieure - art. L733-1
+	  - Code de la sécurité intérieure - art. L741-1
+	  - Code de la sécurité intérieure - art. L742-1
+	  - Code de la sécurité intérieure - art. L742-12
+	  - Code de la sécurité intérieure - art. L742-5
+	  - Code de la sécurité intérieure - art. L742-8
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -19931,10 +20092,10 @@ c) Des violences collectives de nature à porter gravement atteinte à la paix p
 ###### Article L811-4
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de contrôle des techniques de renseignement, désigne
-les services, autres que les services spécialisés de renseignement, relevant des ministres de la défense et de l'intérieur
-ainsi que des ministres chargés de l'économie, du budget ou des douanes, qui peuvent être autorisés à recourir aux techniques
-mentionnées au titre V du présent livre dans les conditions prévues au même livre. Il précise, pour chaque service, les
-finalités mentionnées à l'article L. 811-3 et les techniques qui peuvent donner lieu à autorisation.
+les services, autres que les services spécialisés de renseignement, relevant des ministres de la défense, de l'intérieur et
+de la justice ainsi que des ministres chargés de l'économie, du budget ou des douanes, qui peuvent être autorisés à recourir
+aux techniques mentionnées au titre V du présent livre dans les conditions prévues au même livre. Il précise, pour chaque
+service, les finalités mentionnées à l'article L. 811-3 et les techniques qui peuvent donner lieu à autorisation.
 
 **Liens relatifs à cet article**
 
@@ -19984,9 +20145,9 @@ finalités mentionnées à l'article L. 811-3 et les techniques qui peuvent donn
 	  - Code de procédure pénale - art. 706-25-9 (V)
 	  - Code pénal - art. 413-13 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 14
 
 	**Cite**:
 
@@ -20051,8 +20212,9 @@ Ces techniques ne peuvent être mises en œuvre que par des agents individuellem
 ###### Article L821-2
 
 L'autorisation mentionnée à l'article L. 821-1 est délivrée sur demande écrite et motivée du ministre de la défense, du
-ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes. Chaque ministre ne peut déléguer
-cette attribution individuellement qu'à des collaborateurs directs habilités au secret de la défense nationale. 
+ministre de l'intérieur, du ministre de la justice  ou des ministres chargés de l'économie, du budget ou des douanes. Chaque
+ministre ne peut déléguer cette attribution individuellement qu'à des collaborateurs directs habilités au secret de la
+défense nationale. 
 
 La demande précise : 
 
@@ -20076,9 +20238,9 @@ renouvellement est justifié au regard de la ou des finalités poursuivies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 14
 
 	**Cite**:
 
@@ -22138,8 +22300,9 @@ l'article L. 871-2, de communiquer les informations ou documents ou le fait de c
 
 ###### Article L895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
-renseignement, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
@@ -22150,9 +22313,9 @@ L. 871-6 et L. 871-7 ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -22187,8 +22350,9 @@ remplacés par le mot : “ organismes ”.
 
 ###### Article L896-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
-renseignement, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
+lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
+procédure pénale, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
@@ -22200,9 +22364,9 @@ L. 871-6 et L. 871-7 ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -22237,14 +22401,15 @@ remplacés par le mot : “ organismes ”.
 
 ###### Article L897-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2015-912 du 24 juillet 2015 relative au
-renseignement, les titres Ier à VIII du présent livre VIII.
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale, les titres Ier à VIII du présent livre VIII.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 ###### Article L897-2
@@ -22275,9 +22440,9 @@ remplacés par le mot : “ organismes ”.
 
 ###### Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2015-912 du
-24 juillet 2015 relative au renseignement, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations
-suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2016-731 du
+3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et
+les garanties de la procédure pénale, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes : 
 
 1° Au début de l'article L. 871-3, les mots : “ Dans le cadre des attributions qui lui sont conférées par le livre II du code
 des postes et des communications électroniques, ” sont supprimés ; 
@@ -22292,14 +22457,14 @@ dévolues au présent titre. ˮ
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 14
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L32
-	  - Code de procédure pénale - art. 100 (V)
+	  - Code de procédure pénale - art. 100
 	  - Code de la sécurité intérieure - art. L871-3
 
 
