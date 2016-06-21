@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-22
 
 # Partie législative
 
@@ -3326,9 +3326,17 @@ directive 2004/82/ CE du Conseil du 29 avril 2004, concernant l'obligation pour 
 relatives aux passagers, et mentionnées au 3° de l'article L. 232-1. 
 
 Ils sont également tenus de communiquer aux services mentionnés à l'alinéa précédent les données du 3° de l'article L. 232-1
-autres que celles mentionnées au même alinéa lorsqu'ils les détiennent. 
+autres que celles mentionnées au même alinéa lorsqu'ils les détiennent.
 
-Les obligations définies aux deux alinéas précédents sont applicables aux transporteurs maritimes et ferroviaires. 
+Les obligations définies aux deux alinéas précédents sont applicables aux transporteurs ferroviaires.
+
+Pour la mise en œuvre des traitements mentionnés aux articles L. 232-1 et L. 232-2, les transporteurs maritimes sont tenus de
+recueillir et de transmettre aux services du ministère de l'intérieur les données relatives aux passagers mentionnées au
+paragraphe 3.1.2 de l'annexe VI au règlement (CE) n° 562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant
+un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen). 
+
+Ils sont également tenus de communiquer aux services mentionnés au quatrième alinéa du présent article les données
+mentionnées au 3° de l'article L. 232-1 autres que celles mentionnées au même quatrième alinéa lorsqu'ils les détiennent. 
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités
 de transmission des données mentionnées au 3° de l'article L. 232-1.
@@ -3337,22 +3345,22 @@ de transmission des données mentionnées au 3° de l'article L. 232-1.
 
 	**Cite**:
 
-	  - Directive Européenne n°2004-82 du 29 avril 2004, v. init.
-	  - Code de la sécurité intérieure - art. L232-1 (VD)
+	  - Directive Européenne n°2004-82 du 29 avril 2004
+	  - Code de la sécurité intérieure - art. L232-1
 
 	**Cité par**:
 
 	  - Décret n°2014-989 du 29 août 2014 (V)
 	  - Code de la sécurité intérieure - art. L232-5 (VD)
-	  - Code de la sécurité intérieure - art. L232-7 (M)
+	  - Code de la sécurité intérieure - art. L232-7 (V)
 	  - Code de la sécurité intérieure - art. R232-1 (VD)
 	  - Code de la sécurité intérieure - art. R232-2 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 64
+
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -3432,32 +3440,33 @@ Sont exclues de ce traitement automatisé de données les données à caractère
 raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance
 à un syndicat, ou les données qui concernent la santé ou la vie sexuelle de l'intéressé. 
 
-II. ― Pour la mise en œuvre du traitement mentionné au I, les transporteurs aériens recueillent et transmettent les données
-d'enregistrement relatives aux passagers des vols à destination et en provenance du territoire national, à l'exception des
-vols reliant deux points de la France métropolitaine. Les données concernées sont celles mentionnées au premier alinéa de
-l'article L. 232-4 du présent code. 
+II. ― Pour la mise en œuvre du traitement mentionné au I, les transporteurs aériens et maritimes recueillent et transmettent
+les données d'enregistrement relatives aux passagers des déplacements à destination et en provenance du territoire national,
+à l'exception des déplacements reliant deux points de la France métropolitaine. Les données concernées sont celles
+mentionnées au premier alinéa de l'article L. 232-4 du présent code pour les transporteurs aériens et celles mentionnées au
+quatrième alinéa du même article L. 232-4 pour les transporteurs maritimes. 
 
-Les transporteurs aériens sont également tenus de communiquer les données relatives aux passagers enregistrées dans leurs
-systèmes de réservation. 
+Les transporteurs aériens et maritimes sont également tenus de communiquer les données relatives aux passagers enregistrées
+dans leurs systèmes de réservation. 
 
 En outre, les ministres mentionnés au I du présent article peuvent demander aux opérateurs de voyage ou de séjour affrétant
-tout ou partie d'un aéronef de transmettre les données relatives aux passagers enregistrées dans leurs systèmes de
-réservation.  
+tout ou partie d'un aéronef ou d'un navire de transmettre les données relatives aux passagers enregistrées dans leurs
+systèmes de réservation. 
 
-III. ― Les transporteurs aériens et, le cas échéant, les opérateurs de voyage ou de séjour affrétant tout ou partie d'un
-aéronef  mentionnés au II informent les personnes concernées par le traitement mentionné au I. 
+III. ― Les transporteurs aériens et maritimes et, le cas échéant, les opérateurs de voyage ou de séjour affrétant tout ou
+partie d'un aéronef ou d'un navire mentionnés au II informent les personnes concernées par le traitement mentionné au I. 
 
 IV. ― Les données mentionnées au II ne peuvent être conservées que pour une durée maximale de cinq ans. 
 
-V. ― En cas de méconnaissance des obligations fixées au présent article par une entreprise de transport aérien ou par un
-opérateur de voyage ou de séjour affrétant tout ou partie d'un aéronef, l'amende et la procédure prévues à l'article L. 232-5
-sont applicables. 
+V. ― En cas de méconnaissance des obligations fixées au présent article par une entreprise de transport aérien ou maritime ou
+par un opérateur de voyage ou de séjour affrétant tout ou partie d'un aéronef ou d'un navire, l'amende et la procédure
+prévues à l'article L. 232-5 sont applicables. 
 
 VI. ― Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la
 Commission nationale de l'informatique et des libertés. Ce décret détermine les services autorisés à interroger l'unité de
-gestion chargée de la collecte des données auprès des transporteurs aériens et des opérateurs de voyage ou de séjour
-affrétant tout ou partie d'un aéronef, de leur conservation et de leur analyse, en précisant si cette autorisation est
-délivrée à des fins de prévention ou à des fins de répression.
+gestion chargée de la collecte des données auprès des transporteurs aériens ou maritimes et des opérateurs de voyage ou de
+séjour affrétant tout ou partie d'un aéronef ou d'un navire, de leur conservation et de leur analyse, en précisant si cette
+autorisation est délivrée à des fins de prévention ou à des fins de répression.
 
 **Nota:**
 
@@ -3483,12 +3492,13 @@ intérieure est applicable jusqu'au 31 décembre 2017.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 28
+	  - Loi n°2016-816 du 20 juin 2016 - art. 63
+	  - Loi n°2016-816 du 20 juin 2016 - art. 64
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 695-23
-	  - Code de la sécurité intérieure - art. L232-4
+	  - Code de la sécurité intérieure - art. L232-4 (V)
 	  - Code de la sécurité intérieure - art. L232-5
 
 
@@ -7427,24 +7437,52 @@ autorisations ne peut donner lieu à une indemnité quelconque.
 
 ###### Article L321-3
 
-Par dérogation aux dispositions des articles L. 324-1 et L. 324-2, il peut être accordé aux casinos installés à bord des
-navires de commerce transporteurs de passagers n'assurant pas de lignes régulières et immatriculés au registre international
-français et pour des croisières de plus de quarante-huit heures l'autorisation temporaire d'ouvrir au public des locaux
-spéciaux, distincts et séparés où sont pratiqués certains jeux de hasard dans les conditions fixées au présent chapitre. 
+I.-Par dérogation aux articles L. 324-1 et L. 324-2, il peut être accordé aux casinos installés à bord des navires de
+commerce transporteurs de passagers battant pavillon français, quel que soit leur registre d'immatriculation, l'autorisation
+temporaire d'ouvrir au public des locaux spéciaux, distincts et séparés où sont pratiqués certains jeux de hasard dans les
+conditions fixées au présent chapitre. 
 
-L'autorisation d'exploiter les jeux de hasard dans les casinos visés au premier alinéa est accordée par arrêté du ministre de
-l'intérieur à une personne morale qualifiée en matière d'exploitation de jeux de hasard ayant passé une convention avec
-l'armateur conforme à une convention type approuvée par décret en Conseil d'Etat. L'arrêté fixe la durée de l'autorisation.
-Il détermine la nature des jeux de hasard autorisés, leur fonctionnement, les missions de surveillance et de contrôle, les
-conditions d'admission dans les salles de jeux et leurs horaires d'ouverture et de fermeture. L'autorisation peut être
-révoquée par le ministre de l'intérieur, en cas d'inobservation des clauses de l'arrêté ou de la convention passée avec
-l'armateur. 
+L'autorisation d'exploiter les jeux de hasard dans les casinos mentionnés au premier alinéa du présent I est accordée par
+arrêté du ministre de l'intérieur à une personne morale qualifiée en matière d'exploitation de jeux de hasard ayant passé une
+convention avec l'armateur conforme à une convention type approuvée par décret en Conseil d'Etat. 
 
-Les locaux mentionnés au premier alinéa ne sont ouverts que dans les eaux internationales. Ils ne sont accessibles qu'aux
-passagers majeurs titulaires d'un titre de croisière. Dans l'enceinte du casino, le capitaine et l'officier chargé de sa
-suppléance sont garants du bon ordre, de la sûreté et de la sécurité publiques.
+L'arrêté d'autorisation de jeux fixe la durée de l'autorisation. Il détermine la nature des jeux de hasard autorisés, leur
+fonctionnement, les missions de surveillance et de contrôle, les conditions d'admission dans les salles de jeux et leurs
+horaires d'ouverture et de fermeture. L'autorisation peut être révoquée par le ministre de l'intérieur, en cas
+d'inobservation des dispositions de l'arrêté ou des clauses de la convention passée avec l'armateur. 
+
+II.-Dès lors qu'un navire mentionné au premier alinéa du I assure des trajets dans le cadre d'une ligne régulière
+intracommunautaire, les jeux exploités peuvent ne comprendre que les appareils de jeux mentionnés à l'article L. 321-5. 
+
+Le nombre maximal d'appareils de jeux exploités dans ces conditions ne peut excéder quinze par navire. 
+
+Par dérogation à l'article L. 321-4, la personne morale qualifiée n'exploitant que des appareils de jeux mentionnés à
+l'article L. 321-5 doit désigner, d'une part, des personnels chargés d'assurer l'installation, l'entretien et la maintenance
+du matériel et, d'autre part, des caissiers. 
+
+Ces personnels doivent être français ou ressortissants d'un autre Etat membre de l'Union européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen, majeurs, jouissant de leurs droits civiques et politiques. Ils sont agréés par le
+ministre de l'intérieur. 
+
+En aucun cas, la personne morale qualifiée ne peut se substituer un fermier de jeux. 
+
+III.-Les locaux mentionnés au I ne peuvent être ouverts que : 
+
+1° Hors des limites administratives des ports maritimes, pour les navires de commerce transporteurs de passagers assurant des
+lignes régulières intracommunautaires ; 
+
+2° Dans les eaux internationales, pour les autres navires. 
+
+Les locaux ne sont accessibles qu'aux passagers majeurs, titulaires d'un titre de croisière ou d'un titre de transport. 
+
+Dans l'enceinte du casino, le capitaine et l'officier chargé de sa suppléance sont garants du bon ordre, de la sûreté et de
+la sécurité publiques.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 51
 
 	**Cité par**:
 
@@ -7469,20 +7507,13 @@ suppléance sont garants du bon ordre, de la sûreté et de la sécurité publiq
 	  - Code monétaire et financier - art. L561-2 (VT)
 	  - Code monétaire et financier - art. L765-13 (VD)
 
-	**Anciens textes**:
-
-	  - Loi du 15 juin 1907 - art. 1-1 (VT)
-	  - Loi du 15 juin 1907 - art. 2-1 (VT)
-
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L324-1 (VD)
+	  - Code de la sécurité intérieure - art. L321-4
+	  - Code de la sécurité intérieure - art. L321-5
+	  - Code de la sécurité intérieure - art. L324-1
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -8923,8 +8954,8 @@ monnaie locale ;
 code du sport, délégation du ministre chargé des sports pour la pratique du tir ”, sont insérés les mots : " ou par une
 fédération sportive territoriale, en application des dispositions applicables localement ” ; 
 
-3° ter Aux articles L. 312-4, L. 312-4-1 et L. 317-9-1, après les mots : " par  une fédération sportive ayant reçu délégation
-du ministre chargé des  sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
+3° ter Aux articles L. 312-4, L. 312-4-1 et L. 317-9-1, après les mots : " par une fédération sportive ayant reçu délégation
+du ministre chargé des sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
 fédération sportive territoriale, en application des dispositions applicables localement ” ; 
 
 3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
@@ -8933,13 +8964,27 @@ remplacés par les mots : " dispositions applicables localement ” ;
 4° A l'article L. 322-3, les mots : "le maire de la commune" sont remplacés par les mots : "l'administrateur supérieur des
 îles Wallis et Futuna" ; 
 
-4° bis Le premier alinéa de l'article L. 321-3 est ainsi rédigé :
+4° bis L'article L. 321-3 est ainsi rédigé :
 
-"Par dérogation à l'article L. 324-1 et aux deux premiers alinéas de l'article L. 324-2, il peut être accordé aux casinos
-installés à bord des navires de commerce transporteurs de passagers n'assurant pas de lignes régulières et immatriculés au
-registre des îles Wallis et Futuna, pour des croisières de plus de quarante-huit heures, l'autorisation temporaire d'ouvrir
-au public des locaux spéciaux, distincts et séparés, où sont pratiqués certains jeux de hasard dans des conditions fixées par
-décret en Conseil d'Etat." ;
+"Par dérogation aux articles L. 324-1 et L. 324-2, il peut être accordé aux casinos installés à bord des navires de commerce
+transporteurs de passagers battant pavillon français immatriculés à Wallis-et-Futuna l'autorisation temporaire d'ouvrir au
+public des locaux spéciaux, distincts et séparés où sont pratiqués certains jeux de hasard dans les conditions fixées au
+présent chapitre.
+
+"L'autorisation d'exploiter les jeux de hasard dans les casinos mentionnés au premier alinéa est accordée par arrêté du
+ministre de l'intérieur à une personne morale qualifiée en matière d'exploitation de jeux de hasard ayant passé une
+convention avec l'armateur conforme à une convention type approuvée par décret en Conseil d'Etat.
+
+"L'arrêté d'autorisation de jeux fixe la durée de l'autorisation. Il détermine la nature des jeux de hasard autorisés, leur
+fonctionnement, les missions de surveillance et de contrôle, les conditions d'admission dans les salles de jeux et leurs
+horaires d'ouverture et de fermeture. L'autorisation peut être révoquée par le ministre de l'intérieur, en cas
+d'inobservation des dispositions de l'arrêté ou des clauses de la convention passée avec l'armateur.
+
+"Les locaux mentionnés au premier alinéa du présent article ne peuvent être ouverts que dans les eaux internationales. Ils ne
+sont accessibles qu'aux passagers majeurs, titulaires d'un titre de croisière.
+
+"Dans l'enceinte du casino, le capitaine et l'officier chargé de sa suppléance sont garants du bon ordre, de la sûreté et de
+la sécurité publiques." ;
 
 5° Le 2° de l'article L. 324-4 est supprimé.
 
@@ -8951,7 +8996,7 @@ décret en Conseil d'Etat." ;
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 53
+	  - Loi n°2016-816 du 20 juin 2016 - art. 96
 
 	**Cité par**:
 
@@ -8960,7 +9005,7 @@ décret en Conseil d'Etat." ;
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L324-4
-	  - Code de la sécurité intérieure - art. L346-1 (M)
+	  - Code de la sécurité intérieure - art. L346-1
 
 
 #### Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises
@@ -11625,8 +11670,9 @@ leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à
 
 3° A protéger l'intégrité physique des personnes ; 
 
-4° A la demande et pour le compte d'un armateur, à protéger, contre les menaces extérieures, des navires battant pavillon
-français, en application de l'article L. 5441-1 du code des transports.
+4° A la demande et pour le compte d'un armateur, à protéger, contre des menaces d'actes définis aux articles 224-6 à 224-8 du
+code pénal ou d'actes de terrorisme définis au titre II du livre IV du même code, des navires battant pavillon français, en
+application de l'article L. 5441-1 du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -11666,7 +11712,7 @@ français, en application de l'article L. 5441-1 du code des transports.
 	  - Code de la sécurité intérieure - art. L612-9 (V)
 	  - Code de la sécurité intérieure - art. L613-1 (VD)
 	  - Code de la sécurité intérieure - art. L613-12 (V)
-	  - Code de la sécurité intérieure - art. L613-2 (V)
+	  - Code de la sécurité intérieure - art. L613-2 (VD)
 	  - Code de la sécurité intérieure - art. L613-3 (V)
 	  - Code de la sécurité intérieure - art. L613-4 (VD)
 	  - Code de la sécurité intérieure - art. L613-5 (VD)
@@ -11677,7 +11723,7 @@ français, en application de l'article L. 5441-1 du code des transports.
 	  - Code de la sécurité intérieure - art. L613-8 (VD)
 	  - Code de la sécurité intérieure - art. L613-9 (VD)
 	  - Code de la sécurité intérieure - art. L614-1 (VD)
-	  - Code de la sécurité intérieure - art. L616-1 (M)
+	  - Code de la sécurité intérieure - art. L616-1 (V)
 	  - Code de la sécurité intérieure - art. L616-4 (V)
 	  - Code de la sécurité intérieure - art. L617-1 (V)
 	  - Code de la sécurité intérieure - art. L617-10 (VD)
@@ -11732,10 +11778,11 @@ français, en application de l'article L. 5441-1 du code des transports.
 
 	**Modifié par**:
 
-	  - Loi n°2016-339 du 22 mars 2016 - art. 12
+	  - Loi n°2016-816 du 20 juin 2016 - art. 61
 
 	**Cite**:
 
+	  - Code pénal - art. 224-6 (V)
 	  - Code des transports - art. L5441-1
 
 
@@ -13344,8 +13391,8 @@ liste des prescriptions est fixée par décret en Conseil d'Etat. Les normes et 
 modalités de désignation des organismes certificateurs sont précisés par décret. 
 
 Si l'entreprise n'a pas encore exercé l'activité définie au 4° de l'article L. 611-1, le Conseil national des activités
-privées de sécurité peut lui délivrer une autorisation d'exercice provisoire pour une durée maximale de six mois, après avoir
-vérifié l'engagement par l'entreprise d'une démarche de certification. Les modalités de délivrance de l'autorisation
+privées de sécurité peut lui délivrer une autorisation d'exercice provisoire pour une durée maximale de douze mois, après
+avoir vérifié l'engagement par l'entreprise d'une démarche de certification. Les modalités de délivrance de l'autorisation
 d'exercice provisoire sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -13354,15 +13401,10 @@ d'exercice provisoire sont définies par décret en Conseil d'Etat.
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Modifié par**:
-
-	  - Loi n°2014-742 du 1er juillet 2014 - art. 6
-
 	**Cité par**:
 
 	  - Décret n°2014-1417 du 28 novembre 2014 - art. (V)
 	  - Décret n°2014-1417 du 28 novembre 2014 - art. 1 (V)
-	  - Code de la sécurité intérieure - art. L612-9 (V)
 	  - Code de la sécurité intérieure - art. L617-12-1 (V)
 	  - Code de la sécurité intérieure - art. L617-14 (VD)
 	  - Code de la sécurité intérieure - art. L642-1 (VD)
@@ -13372,9 +13414,14 @@ d'exercice provisoire sont définies par décret en Conseil d'Etat.
 	  - Code de la sécurité intérieure - art. R616-2 (V)
 	  - Code de la sécurité intérieure - art. R616-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 57
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L611-1 (M)
+	  - Code de la sécurité intérieure - art. L612-9
 
 
 ##### Section 2 : Carte professionnelle
