@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -7735,13 +7735,13 @@ même si un remboursement ultérieur est rendu possible par le règlement du jeu
 
 ###### Article L322-2-2
 
-Cette interdiction ne recouvre pas les opérations publicitaires mentionnées à l'article L. 121-36 du code de la consommation.
+Cette interdiction ne recouvre pas les opérations publicitaires mentionnées à l'article L. 121-20 du code de la consommation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 	**Cité par**:
 
@@ -7749,7 +7749,7 @@ Cette interdiction ne recouvre pas les opérations publicitaires mentionnées à
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-36
+	  - Code de la consommation - art. L121-20 (V)
 
 
 ###### Article L322-3
@@ -22658,6 +22658,9 @@ nationale ;
 n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des
 produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale ; 
 
+o) Des personnes physiques exerçant les fonctions de dirigeant ou de gérant d'un prestataire de formation aux activités
+privées de sécurité.  
+
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de
 proximité ; 
 
@@ -22756,8 +22759,7 @@ des navires.
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 2
-	  - Décret n°2015-350 du 27 mars 2015 - art. 23 (V)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 50
 
 	**Cité par**:
 
@@ -57873,20 +57875,18 @@ autorisée.
 
 La demande de renouvellement de la carte professionnelle est présentée, trois mois au moins avant sa date d'expiration, dans
 les mêmes conditions que celles prévues par la présente sous-section pour une demande de délivrance de la carte à
-l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 612-15. Lorsque la
-demande est complète,          le Conseil national des activités privées de sécurité en délivre récépissé. 
+l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 612-15. Elle
+comprend également l'attestation du suivi d'un stage de maintien et d'actualisation des compétences dans les conditions
+fixées à l'article R. 625-8. Lorsque la demande est complète, le Conseil national des activités privées de sécurité en
+délivre récépissé. 
 
 Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 12
+	  - Décret n°2016-515 du 26 avril 2016 - art. 51
 
 	**Cité par**:
 
@@ -57897,6 +57897,7 @@ Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une po
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. R612-15
+	  - Code de la sécurité intérieure - art. R625-8 (VD)
 
 
 ###### Article R612-18
@@ -58157,9 +58158,9 @@ activités mentionnées à l'article L. 611-1 du présent code justifient de leu
 rapportant à l'activité exercée ; 
 
 2° Soit d'un certificat de qualification professionnelle élaboré par la branche professionnelle de l'activité concernée,
-agréé par arrêté du ministre de l'intérieur ou, s'agissant des activités visant à assurer préventivement la sûreté des vols
-mentionnées à l'article L. 6341-2 du code des transports, par arrêté conjoint du ministre de l'intérieur et du ministre
-chargé des transports ; 
+agréé par arrêté du ministre de l'intérieur ou, s'agissant des activités qui relèvent de l'article L. 6342-4 du code des
+transports et dont l'exercice requiert une certification au titre du règlement (UE) 2015/1998 du 5 novembre 2015, par arrêté
+conjoint du ministre de l'intérieur et du ministre chargé des transports ; 
 
 3° Soit d'un titre de formation ou d'une attestation de compétences se rapportant à l'activité concernée, qui est requis par
 un Etat membre de l'Union européenne ou par un des Etats parties à l'accord sur l'Espace économique européen pour accéder à
@@ -58169,16 +58170,12 @@ une année au moins, à temps plein ou à temps partiel pendant une durée total
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 3 août 2007 - art. 1 (V)
 	  - Arrêté du 2 décembre 2015 - art. 7 (V)
 	  - Arrêté du 27 février 2017 (V)
-	  - Code de la sécurité intérieure - art. R612-2 (V)
+	  - Code de la sécurité intérieure - art. R612-2 (VD)
 	  - Code de la sécurité intérieure - art. R612-24-1 (V)
 	  - Code de la sécurité intérieure - art. R612-25 (V)
 	  - Code de la sécurité intérieure - art. R612-32 (V)
@@ -58190,11 +58187,11 @@ une année au moins, à temps plein ou à temps partiel pendant une durée total
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 30
+	  - Décret n°2016-515 du 26 avril 2016 - art. 52
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2
+	  - Code des transports - art. L6341-2 (V)
 	  - Code de la sécurité intérieure - art. L611-1
 
 
@@ -58513,19 +58510,15 @@ charges mentionné à l'article R. 612-31.
 ###### Article R612-31
 
 L'agrément du certificat de qualification professionnelle est délivré, pour une durée maximale de cinq ans, au regard d'un
-cahier des charges défini par arrêté du ministre de l'intérieur ou, s'agissant des activités visant à assurer préventivement
-la sûreté des vols mentionnées à l'article L. 6341-2 du code des transports, par arrêté conjoint du ministre de l'intérieur
-et du ministre chargé des transports. Il peut être retiré dans les mêmes conditions en cas de non-respect du cahier des
-charges.
+cahier des charges défini par arrêté du ministre de l'intérieur ou, s'agissant des activités qui relèvent de l'article L.
+6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement (UE) 2015/1998 du 5
+novembre 2015, par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports. Il peut être retiré dans
+les mêmes conditions en cas de non-respect du cahier des charges. 
 
 Les arrêtés mentionnés à l'alinéa précédent peuvent également prévoir les cas dans lesquels une personne peut être dispensée
 du suivi d'un module de formation dès lors qu'elle justifie avoir déjà suivi un module équivalent.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -58538,11 +58531,12 @@ du suivi d'un module de formation dès lors qu'elle justifie avoir déjà suivi 
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 34
+	  - Décret n°2016-515 du 26 avril 2016 - art. 52
 
 	**Cite**:
 
 	  - Code des transports - art. L6341-2
+	  - Code des transports - art. L6342-4 (V)
 
 
 ###### Article R612-32
@@ -63015,24 +63009,23 @@ La décision de délivrance de la carte professionnelle est notifiée au demande
 
 La demande de renouvellement de la carte professionnelle est présentée, trois mois au moins avant sa date d'expiration, dans
 les mêmes conditions que celles prévues par la présente sous-section pour une demande de délivrance de la carte à
-l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 622-13. Lorsque la
-demande est complète,          le Conseil national des activités privées de sécurité en délivre récépissé. 
+l'exception, pour les ressortissants étrangers, de la production du document prévu au 3° de l'article R. 622-13. Elle
+comprend également l'attestation du suivi d'un stage de maintien et d'actualisation des compétences dans les conditions
+fixées à l'article R. 625-8. Lorsque la demande est complète, le Conseil national des activités privées de sécurité en
+délivre récépissé. 
 
 Ce récépissé permet, jusqu'à l'intervention d'une décision expresse, une poursuite régulière de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 18
+	  - Décret n°2016-515 du 26 avril 2016 - art. 51
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. R622-13
+	  - Code de la sécurité intérieure - art. R625-8 (VD)
 
 
 ###### Article R622-16
@@ -63715,6 +63708,403 @@ pénal.
 	  - Code pénal - art. 132-15 (V)
 	  - Code de la sécurité intérieure - art. L621-1 (V)
 	  - Code de la sécurité intérieure - art. R622-16 (VD)
+
+
+### TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ 
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R625-1
+
+Les autorisations mentionnées aux articles L. 625-2 et L. 625-3 sont délivrées, refusées ou retirées par la commission
+d'agrément et de contrôle dans le ressort de laquelle la personne physique ou morale est établie. 
+
+Une autorisation est délivrée pour l'établissement principal et pour chaque établissement secondaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+
+
+#### Chapitre II : Conditions d'exercice
+
+
+##### Section 1 : Autorisation d'exercice des prestataires de formation
+
+
+###### Article R625-2
+
+I.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par une personne physique, la demande d'autorisation
+comporte les documents suivants : 
+
+1° Pour les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen, la copie d'une pièce d'identité en cours de validité ; 
+
+2° Pour les ressortissants d'un autre Etat que ceux mentionnés au 1°, la copie d'un titre de séjour en cours de validité
+l'autorisant à exercer l'activité mentionnée à l'article L. 625-1 ; 
+
+3° Pour les ressortissants étrangers, le document équivalent à une copie du bulletin numéro 3 du casier judiciaire, délivré
+depuis moins de trois mois par une autorité judiciaire ou administrative compétente de leur pays d'origine ou de provenance
+et accompagné, le cas échéant, de sa traduction certifiée en langue française ; 
+
+4° La déclaration d'activité enregistrée dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail ; 
+
+5° La mention de la ou des activités privées de sécurité pour lesquelles une prestation de formation est réalisée ; 
+
+6° La certification prévue à l'article R. 625-7 du présent code ou, le cas échéant, un document attestant que le demandeur
+est engagé dans une démarche de certification ; 
+
+7° L'adresse du domicile du demandeur ; 
+
+8° Le numéro d'immatriculation au registre du commerce et des sociétés. 
+
+II.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par une personne morale, la demande est présentée
+par le dirigeant ayant le pouvoir d'engager cette personne et comporte les documents mentionnés aux 1° à 6° du I ainsi que : 
+
+1° L'adresse du siège social et, s'ils sont distincts, de l'établissement principal et de l'établissement secondaire ; 
+
+2° Un extrait du registre du commerce et des sociétés de moins de trois mois ; 
+
+3° Pour les associations, une copie de la mention de la création de l'association parue au Journal officiel, une copie des
+statuts ainsi que du dernier procès-verbal de l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code du travail - art. L6351-1 (V)
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+	  - Code de la sécurité intérieure - art. R625-7 (VD)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R625-6 (VD)
+
+
+###### Article R625-3
+
+Lorsqu'une personne physique ou morale exerçant une activité mentionnée à l'article L. 625-1 dans un Etat membre de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen propose à titre occasionnel sa prestation
+en France pour la première fois, elle en fait la déclaration à la commission d'agrément et de contrôle comportant Paris dans
+son ressort. La déclaration est accompagnée des documents suivants : 
+
+1° Une preuve de sa nationalité ; 
+
+2° Une attestation certifiant qu'elle est légalement établie dans un Etat membre pour l'exercice de cette activité et qu'elle
+n'encourt aucune interdiction d'exercice ; 
+
+3° Le document équivalent à une copie du bulletin numéro 3 du casier judiciaire, délivré depuis moins de trois mois par une
+autorité judiciaire ou administrative compétente de leur pays d'origine ou de provenance et accompagné, le cas échéant, de sa
+traduction certifiée en langue française ; 
+
+4° Si l'activité en cause n'est pas spécifiquement réglementée dans l'Etat membre d'établissement, toute pièce établissant
+que la personne y a exercé cette activité à temps complet pendant une année au moins, à temps plein ou à temps partiel
+pendant une durée totale équivalente, au cours des dix dernières années. 
+
+Dans le délai d'un mois à compter de la réception de la déclaration, la commission d'agrément et de contrôle comportant Paris
+dans son ressort fait savoir à l'intéressé si, sur ou sans vérification de la régularité de son activité dans l'Etat
+d'établissement, elle permet la prestation de services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+
+
+###### Article R625-4
+
+L'autorisation a une durée de validité de cinq ans à compter de sa date de délivrance.
+
+La demande de renouvellement de l'autorisation est présentée, trois mois au moins avant sa date d'expiration, dans les mêmes
+conditions que celles prévues par la présente section. Lorsque la demande est complète, le Conseil national des activités
+privées de sécurité en délivre récépissé.
+
+Ce récépissé permet la poursuite de l'activité, jusqu'à l'intervention d'une décision de la commission d'agrément et de
+contrôle territorialement compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+
+###### Article R625-5
+
+L'autorisation d'exercice provisoire prévue à l'article L. 625-3 est délivrée pour une durée maximale de six mois. Elle est
+accordée aux prestataires qui remplissent les conditions fixées aux 1° et 2° de l'article L. 625-2 et qui fournissent un
+justificatif de leur engagement dans une démarche de certification. 
+
+Elle permet, jusqu'à l'intervention d'une décision de la commission d'agrément et de contrôle territorialement compétente, la
+poursuite de l'activité professionnelle. 
+
+La demande d'autorisation d'exercice provisoire comprend les informations mentionnées à l'article R. 625-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+	  - Code de la sécurité intérieure - art. L625-3 (V)
+
+
+###### Article R625-6
+
+Tout document, qu'il soit de nature informative, contractuelle ou publicitaire, y compris toute annonce ou correspondance,
+émanant d'un prestataire de formation doit reproduire l'identification de l'autorisation administrative prévue à l'article L.
+625-2 ou celle prévue à l'article L. 625-3. 
+
+Toute modification substantielle qui affecte les informations mentionnées à l'article R. 625-2 fait l'objet d'une déclaration
+dans un délai d'un mois auprès de la commission d'agrément et de contrôle territorialement compétente. 
+
+Les autorisations mentionnées aux articles L. 625-2 et L. 625-3 deviennent caduques en cas de cessation définitive d'activité
+de leurs titulaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L625-2 (V)
+	  - Code de la sécurité intérieure - art. L625-3 (V)
+	  - Code de la sécurité intérieure - art. R625-2 (VD)
+
+
+##### Section 2 : Certification des prestataires de formation
+
+###### Article R625-7
+
+Pour l'obtention ou le renouvellement de l'autorisation mentionnée à l'article L. 625-2, les prestataires de formation
+fournissent un certificat attestant de leur compétence en matière de formation. 
+
+Le certificat est délivré par un organisme accrédité par le Comité français d'accréditation ou par tout autre organisme
+d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes
+d'accréditation, au regard d'un référentiel reconnu ou défini par un arrêté du ministre de l'intérieur. 
+
+La procédure de certification et la durée de validité de celle-ci sont également définies par arrêté du ministère de
+l'intérieur. 
+
+L'arrêté reconnaissant ou définissant un référentiel est contresigné par le ministre chargé de l'aviation civile, lorsque le
+référentiel porte sur la formation aux activités qui relèvent de l'article L. 6342-4 du code des transports et dont
+l'exercice requiert une certification au titre du règlement (UE) n° 2015/1998 du 5 novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cité par**:
+
+	  - Arrêté du 1er juillet 2016 - art. 1 (V)
+	  - Code de la sécurité intérieure - art. R625-8 (VD)
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-4 (V)
+	  - Code de la sécurité intérieure - art. R625-2 (VD)
+
+
+##### Section 3 : Formation continue
+
+
+###### Article R625-8
+
+La durée et le contenu du stage de maintien et d'actualisation des compétences ainsi que ses modalités d'organisation sont
+définis par arrêté du ministre de l'intérieur ou, pour la formation aux activités qui relèvent de l'article L. 6342-4 du code
+des transports et dont l'exercice requiert une certification au titre du règlement (UE) n° 2015/1998 mentionnée à l'article
+R. 625-7, par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cité par**:
+
+	  - Arrêté du 27 février 2017 - art. 1 (V)
+	  - Code de la sécurité intérieure - art. R612-17 (VD)
+	  - Code de la sécurité intérieure - art. R622-15 (VD)
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-4 (V)
+	  - Code de la sécurité intérieure - art. R625-7 (VD)
+
+
+##### Section 4 : Obligations des prestataires de formation
+
+###### Article R625-9
+
+Tout manquement aux devoirs définis par la présente section expose le détenteur de l'autorisation aux sanctions
+disciplinaires prévues à l'article L. 634-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L634-4 (V)
+
+
+###### Article R625-10
+
+Pour l'application du 7° de l'article L. 612-7, du 5° de l'article L. 612-20, du 6° de l'article L. 622-7 et du 5° de
+l'article L. 622-19, les prestataires de formation procèdent à la vérification des connaissances, aptitudes et savoir-faire. 
+
+Les prestataires de formation informent le Conseil national des activités privées de sécurité, à l'ouverture de chaque
+session de formation, de son calendrier, du lieu de la session d'examen correspondante, des reports de session ainsi que de
+la nature du titre délivré. 
+
+Sans préjudice des dispositions des articles R. 213-4 et R. 213-4-1 du code de l'aviation civile, les examens peuvent être
+organisés, par les prestataires de formation, à un niveau régional, interdépartemental ou départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-4 (V)
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. L612-7 (V)
+	  - Code de la sécurité intérieure - art. L622-19 (V)
+	  - Code de la sécurité intérieure - art. L622-7 (V)
+
+
+###### Article R625-11
+
+I.-Pour les formations mentionnées à l'article L. 625-1, les prestataires de formation n'acceptent au sein de leur parcours
+que les candidats titulaires soit de l'autorisation préalable d'accès à la formation professionnelle mentionnée aux articles
+L. 612-22 et L. 622-21 soit de l'autorisation provisoire mentionnée aux articles L. 612-23 et L. 622-22 soit de la carte
+professionnelle mentionnée aux articles L. 612-20 et L. 622-19. 
+
+II.-Pour la délivrance du justificatif d'aptitude professionnelle aux activités mentionnées aux 1° à 3° de l'article L. 611-1
+et à l'article L. 621-1, les prestataires respectent les dispositions des articles R. 612-24 à R. 612-42 et des articles R.
+622-22 à R. 622-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code de la sécurité intérieure - art. L612-20 (V)
+	  - Code de la sécurité intérieure - art. L612-22 (V)
+	  - Code de la sécurité intérieure - art. L612-23 (V)
+	  - Code de la sécurité intérieure - art. L621-1 (V)
+	  - Code de la sécurité intérieure - art. L622-19 (V)
+	  - Code de la sécurité intérieure - art. L622-21 (V)
+	  - Code de la sécurité intérieure - art. L622-22 (V)
+	  - Code de la sécurité intérieure - art. L625-1 (V)
+	  - Code de la sécurité intérieure - art. R612-24 (VD)
+	  - Code de la sécurité intérieure - art. R622-22 (V)
+
+
+###### Article R625-12
+
+Un prestataire ne peut se prévaloir, dans sa communication envers tout client potentiel, de la réalisation d'une prestation
+pour laquelle il a été fait appel à des entreprises sous-traitantes, ni de la réalisation d'une prestation pour laquelle il a
+agi en tant que sous-traitant, sans en faire explicitement mention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+
+###### Article R625-13
+
+Les organismes de formation doivent éviter par leur mode de communication toute confusion avec un service public.
+
+Est interdite l'utilisation de logotypes ou signes reprenant des caractéristiques et couleurs assimilables à celles
+identifiant les documents émis par les administrations publiques ainsi que de tout élément pouvant susciter ou entretenir une
+quelconque confusion avec un service dépositaire de l'autorité publique.
+
+Les organismes de formation ne peuvent, dans leur communication vis-à-vis du public, se prévaloir d'un lien passé ou présent
+avec un service dépositaire de l'autorité publique. A l'égard des tiers, ils ne peuvent faire état de missions ou de
+délégations des administrations publiques qui ne leur auraient pas été confiées par celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+
+###### Article R625-14
+
+Les organismes de formation entretiennent des relations loyales et transparentes avec les administrations publiques.
+
+Leurs déclarations auprès de celles-ci sont sincères. Ils répondent avec diligence à toutes les demandes des administrations
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+
+###### Article R625-15
+
+Les organismes de formation collaborent loyalement et spontanément à leur contrôle par les administrations, autorités et
+organismes habilités. Ils permettent, dans le respect des dispositions légales et réglementaires relatives à la protection de
+la vie privée et des secrets qu'elles protègent, la consultation, immédiate ou dans les plus brefs délais, de toute pièce
+réclamée, en version originale. Ils facilitent la copie de ces pièces par les agents de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
+
+
+###### Article R625-16
+
+Les organismes de formation et leurs dirigeants s'obligent à informer et conseiller sérieusement et loyalement le client ou
+mandant potentiel. Ils s'interdisent de lui proposer une offre de prestation disproportionnée au regard de ses besoins.
+
+Ils lui fournissent les explications nécessaires à la compréhension et à l'appréciation des prestations de formation
+envisagées ou en cours d'exécution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-515 du 26 avril 2016 - art. 49
 
 
 ### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS PRIVÉES DE SÉCURITÉ
@@ -65167,18 +65557,14 @@ En cas d'absence ou d'empêchement du directeur, le secrétaire général assure
 
 ###### Article R632-14
 
-Le directeur transmet au préfet du siège de la commission nationale, ou locale  la liste des agents pour lesquels il
-sollicite l'habilitation de consulter, aux fins et dans les conditions fixées par les articles L. 612-7, L. 612-20, L.
-612-22, L. 612-23, L. 622-7, L. 622-19, L. 622-21 et L. 622-22 du présent code, les traitements de données à caractère
+Le directeur transmet au préfet du siège de la commission nationale, ou locale la liste des agents pour lesquels il sollicite
+l'habilitation de consulter, aux fins et dans les conditions fixées par les articles L. 612-7, L. 612-20, L. 612-22, L.
+612-23, L. 622-7, L. 622-19, L. 622-21, L. 622-22 et L. 625-2 du présent code, les traitements de données à caractère
 personnel gérés par les services de police et de gendarmerie nationales ou, aux fins et dans les conditions fixées par
 l'article R. 611-5 du code de l'entrée et du séjour des étrangers et du droit d'asile, celui relevant des dispositions de
 l'article R. 611-1 de ce même code.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -65186,7 +65572,7 @@ l'article R. 611-1 de ce même code.
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 7
+	  - Décret n°2016-515 du 26 avril 2016 - art. 53
 
 	**Cite**:
 
@@ -65196,8 +65582,10 @@ l'article R. 611-1 de ce même code.
 	  - Code de la sécurité intérieure - art. L612-23
 	  - Code de la sécurité intérieure - art. L612-7
 	  - Code de la sécurité intérieure - art. L622-19
-	  - Code de la sécurité intérieure - art. L622-22
+	  - Code de la sécurité intérieure - art. L622-21 (V)
+	  - Code de la sécurité intérieure - art. L622-22 (V)
 	  - Code de la sécurité intérieure - art. L622-7
+	  - Code de la sécurité intérieure - art. L625-2 (V)
 
 
 ###### Article R632-15
@@ -65589,22 +65977,20 @@ président la délivrance :
 
 5° Des autorisations d'exercer mentionnées aux articles L. 612-9 et L. 622-9 ; 
 
-6° Des autorisations prévues aux articles R. 612-32 et R. 622-27. 
+6° Des autorisations prévues aux articles R. 612-32 et R. 622-27 ; 
+
+7° Des autorisations d'exercice et des autorisations d'exercice provisoire mentionnées aux articles L. 625-2 et L. 625-3. 
 
 Le président rend compte à la plus prochaine séance des décisions prises dans le cadre des délégations qui lui sont ainsi
 consenties. 
 
-La commission  locale rend compte de son activité à la Commission nationale d'agrément et de contrôle.
+La commission locale rend compte de son activité à la Commission nationale d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 7
+	  - Décret n°2016-515 du 26 avril 2016 - art. 54
 
 	**Cite**:
 
@@ -65617,6 +66003,7 @@ La commission  locale rend compte de son activité à la Commission nationale d'
 	  - Code de la sécurité intérieure - art. L622-21
 	  - Code de la sécurité intérieure - art. L622-6
 	  - Code de la sécurité intérieure - art. L622-9
+	  - Code de la sécurité intérieure - art. L625-2 (V)
 	  - Code de la sécurité intérieure - art. R612-32 (V)
 	  - Code de la sécurité intérieure - art. R622-27 (V)
 
@@ -65690,18 +66077,13 @@ contrôle.
 ###### Article R633-7
 
 Les autorisations, cartes professionnelles et agréments prévus par le présent livre sont délivrés par les commissions locales
-d'agrément et de contrôle dans les conditions et selon les modalités prévues par le chapitre II du titre Ier et le chapitre
-II du titre II.
+d'agrément et de contrôle dans les conditions et selon les modalités prévues par le présent livre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 7
+	  - Décret n°2016-515 du 26 avril 2016 - art. 55
 
 
 ###### Article R633-8
