@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-08-01
+Version Consolidée au 2016-09-07
 
 # Partie législative
 
@@ -50251,7 +50251,7 @@ Un arrêté du ministre de l'intérieur précise, en tant que de besoin, les con
 
 ###### Article R411-30
 
-En dehors des cas mentionnés au cinquième alinéa de l'article L. 411-11 : 
+En dehors des cas mentionnés au dernier alinéa de l'article L. 411-11 : 
 
 1° La résiliation du contrat est prononcée, sur demande écrite du réserviste volontaire de la police nationale, formulée au
 moins un mois avant la date souhaitée de fin de contrat ; 
@@ -50262,21 +50262,74 @@ contrat d'engagement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-1372 du 27 octobre 2011 - art. 10 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L411-11 (V)
+	  - Code de la sécurité intérieure - art. L411-11
+
+
+##### Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans 
+
+
+###### Article D411-35
+
+Les dispositions de l'article D. 411-31 sont applicables aux réservistes mentionnés au 2° de l'article L. 411-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 2
+
+
+###### Article R411-32
+
+Les réservistes mentionnés au 2° de l'article L. 411-7 exercent les missions de police judiciaire, de soutien et de
+spécialistes telles que définies à l'article R. 411-26. 
+
+Leurs missions de police judiciaire s'exercent dans les conditions fixées à l'article 21 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 2
+
+
+###### Article R411-33
+
+En fonction des missions qu'ils sont susceptibles d'exercer, les réservistes mentionnés au 2° de l'article L. 411-7 peuvent
+être dotés d'une arme de service qu'ils ne peuvent porter que revêtus de leur uniforme, pour le temps strictement nécessaire
+à l'accomplissement de la mission et conformément aux instructions reçues. 
+
+Le port de l'arme est alors lié à celui du gilet pare-balles individuel à port dissimulé. 
+
+Les modalités du port de l'arme, de sa sécurisation, de sa manipulation et de sa conservation ainsi que celles relatives au
+port du gilet pare-balles individuel sont fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 2
+
+
+###### Article R411-34
+
+Les dispositions des articles R. 411-28 à R. 411-30 sont applicables aux réservistes mentionnés au 2° de l'article L. 411-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 2
 
 
 #### Chapitre III : Etablissements publics de la police nationale
