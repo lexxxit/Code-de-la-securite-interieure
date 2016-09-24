@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-09-24
+Version Consolidée au 2016-09-25
 
 # Partie législative
 
@@ -942,8 +942,7 @@ commission des faits ;
 
 4° Informent régulièrement les juridictions de l'application des peines ainsi que le service pénitentiaire d'insertion et de
 probation des conditions de mise en œuvre, dans le ressort, du suivi et du contrôle des personnes désignées en application du
-3° du présent I et peuvent se voir transmettre par ces mêmes juridictions et ce même service toute information que ceux-ci
-jugent utile au bon déroulement du suivi et du contrôle de ces personnes. 
+3° du présent I. 
 
 II.-Les informations confidentielles échangées en application du I du présent article ne peuvent être communiquées à des
 tiers. 
@@ -954,16 +953,26 @@ alinéa.
 
 III.-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Dans sa décision n° 2016-569 QPC du 23 septembre 2016 (NOR: CSCX1626867S), le Conseil constitutionnel a déclaré contraires à
+la Constitution les mots : " et peuvent se voir transmettre par ces mêmes juridictions et ce même service toute information
+que ceux-ci jugent utile au bon déroulement du suivi et du contrôle de ces personnes " figurant au 4° du paragraphe I de
+l'article L. 132-10-1 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2014-896 du 15 août 2014
+relative à l'individualisation des peines et renforçant l'efficacité des sanctions pénales. La déclaration
+d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à son
+paragraphe 30.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-896 du 15 août 2014 - art. 36
 
 	**Cité par**:
 
 	  - Décret n°2015-1272 du 13 octobre 2015 (V)
 	  - Code de la sécurité intérieure - art. R132-6-1 (V)
+
+	**Modifié par**:
+
+	  - Décision n°2016-569 QPC du 23 septembre 2016 - art. 1, v. init.
 
 	**Cite**:
 
