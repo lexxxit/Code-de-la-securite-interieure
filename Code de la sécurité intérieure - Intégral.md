@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-09-25
+Version Consolidée au 2016-09-30
 
 # Partie législative
 
@@ -30818,6 +30818,112 @@ administrative compétente.
 	  - Décret n°2015-26 du 14 janvier 2015 - art. 1
 
 
+#### Chapitre V : Contrôle administratif des retours sur le territoire national
+
+###### Article R225-1
+
+I.-Les obligations prévues à l'article L. 225-2 qui sont applicables à la personne mentionnée à l'article L. 225-1 sont
+fixées par arrêté du ministre de l'intérieur. 
+
+Cet arrêté détermine, le cas échéant : 
+
+1° Le périmètre géographique dans lequel l'intéressé est obligé de résider et, le cas échéant, l'autorisation de circuler sur
+le territoire d'un ou de plusieurs autres communes ou départements ; 
+
+2° L'adresse du lieu dans lequel l'intéressé est astreint à demeurer ; 
+
+3° La plage horaire pendant laquelle l'intéressé est astreint à demeurer dans le lieu mentionné au 2° ; 
+
+4° Les jours et heures ainsi que l'adresse du service de police ou de l'unité de gendarmerie auxquels l'intéressé doit se
+présenter ; 
+
+5° La durée pendant laquelle s'appliquent les obligations mentionnées aux 1° à 4°. 
+
+Le ministre de l'intérieur peut, en tant que de besoin, déléguer au préfet le soin de modifier les obligations mentionnées
+aux 3° et 4° du présent I. 
+
+II.-Le ministre de l'intérieur peut, à titre exceptionnel et sur demande motivée de l'intéressé, l'autoriser à se rendre
+ponctuellement dans un lieu distinct du lieu d'assignation à résidence. 
+
+Lorsque le ministre de l'intérieur fait obligation à la personne mentionnée à l'article L. 225-1 de demeurer dans un lieu
+autre que son domicile sur le fondement du 1° de l'article L. 225-2, il recueille l'accord écrit émanant soit du
+propriétaire, soit du titulaire du contrat de location, soit du gestionnaire de ce lieu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 1
+
+
+###### Article R225-2
+
+Les obligations prévues à l'article L. 225-3 qui sont applicables à la personne mentionnée à l'article L. 225-1 sont fixées
+par arrêté du ministre de l'intérieur. Le cas échéant, cet arrêté désigne nominativement les personnes avec lesquelles
+l'intéressé ne peut se trouver en relation de quelque façon que ce soit. 
+
+II.-La déclaration de domicile prévue au 1° de l'article L. 225-3 est effectuée auprès du service de police ou de l'unité de
+gendarmerie dans le ressort territorial duquel se situe le domicile déclaré, dans un délai de vingt-quatre heures à compter
+de la notification de l'arrêté du ministre de l'intérieur imposant cette obligation. 
+
+La déclaration de changement de domicile est effectuée au moins huit jours avant ce changement auprès du service de police ou
+de l'unité de gendarmerie dans le ressort territorial duquel se situe l'ancien domicile de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 1
+
+
+###### Article R225-3
+
+Le ministre de l'intérieur informe par écrit le procureur de la République de Paris avant toute mise en œuvre des articles L.
+225-2 et L. 225-3, ainsi que le procureur de la République du tribunal de grande instance du domicile de l'intéressé ou, le
+cas échéant, du lieu d'assignation à résidence lorsqu'ils diffèrent. Lorsque la personne visée par ces mesures est mineure,
+le procureur de la République près le tribunal de grande instance du domicile du mineur ou de ses représentants légaux est
+également informé. Une copie de l'arrêté du ministre de l'intérieur ainsi que, le cas échéant, des modifications qui lui sont
+apportées ou de leur abrogation est transmise aux procureurs mentionnés dans le présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 1
+
+
+###### Article R225-4
+
+I.-Le ministre de l'intérieur peut proposer à la personne faisant l'objet de l'une ou de plusieurs des obligations prononcées
+en application des articles L. 225-2 et L. 225-3 de participer à une action destinée à permettre sa réinsertion et
+l'acquisition des valeurs de citoyenneté. Il peut suspendre tout ou partie de ces obligations après évaluation de sa
+personnalité et de sa situation matérielle, sociale et familiale. 
+
+Cette action ne peut excéder une durée de : 
+
+1° Trois mois lorsqu'elle se substitue aux obligations prononcées en application de l'article L. 225-2 ; 
+
+2° Six mois lorsqu'elle se substitue aux obligations prononcées en application de l'article L. 225-3. 
+
+A tout moment, la personne bénéficiant de cette action peut être replacée dans sa situation initiale, lorsque les nécessités
+de l'ordre public le justifient. 
+
+II.-Un arrêté du ministre de l'intérieur fixe : 
+
+1° Le contenu du programme pédagogique et les modalités d'accueil et d'hébergement des bénéficiaires, qui doivent être
+adaptés en fonction du public concerné. En cas d'hébergement de mineurs, il doit être assuré distinctement de celui des
+majeurs ; 
+
+2° La liste des établissements habilités à cet effet, lesquels doivent être spécifiquement habilités en cas de prise en
+charge de mineurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 1
+
+
 ### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES
 
 #### Chapitre Ier : Système d'information Schengen
@@ -36061,7 +36167,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
@@ -36069,9 +36175,8 @@ R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
       <td align="left" valign="top">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -36084,9 +36189,8 @@ R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
       <td valign="top" align="left">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -36144,12 +36248,22 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 224-1 à R. 224-6 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
 relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
 terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 225-1 à R. 225-5
+
+</td>
+      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -36178,7 +36292,7 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 R. 232-12 et R. 232-13
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -36186,12 +36300,12 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-14 et R. 232-15 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
@@ -36199,12 +36313,12 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-16 à R. 232-18 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -36212,7 +36326,7 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-19 
 
@@ -36257,7 +36371,7 @@ concernant la défense et la sécurité nationale
 R. 234-3 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
@@ -36266,12 +36380,12 @@ services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 236-1 à R. 236-45
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36284,12 +36398,11 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 Articles R. 236-1 à R. 236-53 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Résultant du 
-décret n° 2016-1045 du 29 juillet 2016
-relatif à la mise en œuvre de traitements de conservation, de gestion et d'exploitation électroniques des documents des
-services du ministère de l'intérieur chargés des missions de renseignement territorial
+Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
+d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
+territorial
 
 </td>
     </tr>
@@ -36304,19 +36417,19 @@ Au titre V
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 251-1 et R. 251-2 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 251-3 à R. 251-12 
 
@@ -36372,7 +36485,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1045 du 29 juillet 2016 - art. 2
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -36514,12 +36627,12 @@ Au titre Ier
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 211-2 à R. 211-8 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36535,9 +36648,8 @@ R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
       <td align="left" valign="top">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -36547,12 +36659,11 @@ Conseil d'Etat et décrets simples)
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -36578,7 +36689,7 @@ Au titre II
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 222-1
 
@@ -36603,17 +36714,27 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 224-1 à R. 224-6 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
 relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
 terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 225-1 à R. 225-5
+
+</td>
+      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -36667,7 +36788,7 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-16 à R. 232-18
 
@@ -36680,12 +36801,12 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-19 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
@@ -36725,7 +36846,7 @@ concernant la défense et la sécurité nationale
 R. 234-3
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
@@ -36752,12 +36873,11 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 Articles R. 236-1 à R. 236-53
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2016-1045 du 29 juillet 2016
-relatif à la mise en œuvre de traitements de conservation, de gestion et d'exploitation électroniques des documents des
-services du ministère de l'intérieur chargés des missions de renseignement territorial
+Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
+d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
+territorial
 
 </td>
     </tr>
@@ -36784,12 +36904,12 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 251-3 à R. 251-12 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure 
@@ -36799,7 +36919,7 @@ la sécurité intérieure
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 252-2 à R. 253-4 
 
@@ -36840,7 +36960,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1045 du 29 juillet 2016 - art. 2
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -36997,9 +37117,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
       <td align="center">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -37012,9 +37131,8 @@ R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
       <td valign="top" align="left">
 
 Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples) 
+décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
+de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -37045,7 +37163,7 @@ Au titre II
 R. 222-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -37070,12 +37188,22 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 224-1 à R. 224-6 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
 relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
 terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 225-1 à R. 225-5
+
+</td>
+      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -37093,7 +37221,7 @@ Au titre III
 R. 232-1 à R. 232-5-1 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37106,7 +37234,7 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 R. 232-12 et R. 232-13 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37114,7 +37242,7 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-14 et R. 232-15
 
@@ -37132,7 +37260,7 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 R. 232-16 à R. 232-18 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37145,7 +37273,7 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 R. 232-19 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
@@ -37166,7 +37294,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 234-2
 
@@ -37185,7 +37313,7 @@ concernant la défense et la sécurité nationale
 R. 234-3
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
@@ -37194,12 +37322,12 @@ services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 236-1 à R. 236-45
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -37207,17 +37335,16 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Articles R. 236-1 à R. 236-53 
 
 </td>
       <td align="left" valign="top">
 
-Résultant du 
-décret n° 2016-1045 du 29 juillet 2016
-relatif à la mise en œuvre de traitements de conservation, de gestion et d'exploitation électroniques des documents des
-services du ministère de l'intérieur chargés des missions de renseignement territorial
+Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
+d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
+territorial
 
 </td>
     </tr>
@@ -37232,12 +37359,12 @@ Au titre V
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 251-1 et R. 251-2 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
@@ -37249,7 +37376,7 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
 R. 251-3 à R. 251-12 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure 
@@ -37259,7 +37386,7 @@ la sécurité intérieure
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 252-2 à R. 253-4 
 
@@ -37300,7 +37427,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1045 du 29 juillet 2016 - art. 2
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -37534,12 +37661,22 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 224-1 à R. 224-6 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
 relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
 terroristes à l'étranger 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 225-1 à R. 225-5
+
+</td>
+      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -37554,12 +37691,12 @@ Au titre III
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-1 à R. 232-5-1 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37567,12 +37704,12 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-12 et R. 232-13 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37598,7 +37735,7 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 R. 232-16 à R. 232-18
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37606,7 +37743,7 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-19 
 
@@ -37621,12 +37758,12 @@ terroristes à l'étranger
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 234-3 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
@@ -37646,12 +37783,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Articles R. 236-1 à R. 236-53
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
 d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
@@ -37682,12 +37819,12 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure 
@@ -37697,12 +37834,12 @@ la sécurité intérieure
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 252-2 à R. 253-4 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -37738,7 +37875,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1045 du 29 juillet 2016 - art. 2
+	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
 
 	**Cité par**:
 
