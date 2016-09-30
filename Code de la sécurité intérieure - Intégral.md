@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-09-30
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -10263,15 +10263,18 @@ ainsi que les contraventions mentionnées au livre VI du code pénal dont la lis
 lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des atteintes à
 l'intégrité des personnes. 
 
+Ils sont habilités à établir l'avis de paiement prévu à l'article L. 2333-87 du code général des collectivités
+territoriales. 
+
 Ils peuvent également constater par rapport le délit prévu par l'article L. 126-3 du code de la construction et de
 l'habitation. 
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues au 2° de l'article 21 du code de
-procédure pénale. 
+procédure pénale.
 
 Affectés sur décision du maire à la sécurité d'une manifestation sportive, récréative ou culturelle mentionnée à l'article L.
 613-3, ils peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur
-fouille. 
+fouille.
 
 Affectés par le maire à des missions de maintien du bon ordre au sein des transports publics de voyageurs, les agents de
 police municipale peuvent constater par procès-verbaux les infractions mentionnées à l'article L. 2241-1 du code des
@@ -10287,10 +10290,14 @@ contrat d'objectif départemental de sûreté dans les transports collectifs.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
 	**Modifié par**:
 
+	  - Loi n°2015-991 du 7 août 2015 - art. 78
 	  - Loi n°2016-339 du 22 mars 2016 - art. 1
-	  - Loi n°2016-339 du 22 mars 2016 - art. 20
 
 	**Cité par**:
 
@@ -10309,18 +10316,14 @@ contrat d'objectif départemental de sûreté dans les transports collectifs.
 	  - Code de procédure pénale - art. 44-1 (VD)
 	  - Code général des collectivités territoriales - art. L2212-5-1 (V)
 	  - Code général des collectivités territoriales - art. L3642-3 (VD)
-	  - Code général des collectivités territoriales - art. L5211-9-2 (M)
+	  - Code général des collectivités territoriales - art. L5211-9-2 (V)
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 21
-	  - Code de la construction et de l'habitation. - art. L126-3
-	  - Code des transports - art. L2241-1 (M)
-	  - Code de la sécurité intérieure - art. L613-3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Code général des collectivités territoriales - art. L2333-87 (M)
+	  - Code de procédure pénale - art. 21 (M)
+	  - Code de la construction et de l'habitation. - art. L126-3 (M)
+	  - Code de la sécurité intérieure - art. L613-3 (V)
 
 
 ##### Section 2 : Nomination et agrément
@@ -11212,27 +11215,30 @@ Les agents de surveillance de Paris placés sous l'autorité du préfet de polic
 contraventions aux arrêtés de police du préfet de police et du maire de Paris relatifs au bon ordre, à la tranquillité, à la
 sécurité et à la salubrité sur la voie publique ainsi que les contraventions mentionnées au livre VI du code pénal dont la
 liste est fixée par décret en Conseil d'Etat, dès lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à
-l'exclusion de celles réprimant des atteintes à l'intégrité des personnes.
+l'exclusion de celles réprimant des atteintes à l'intégrité des personnes. 
 
-Les dispositions de l'alinéa précédent ne sont pas applicables aux interdictions de manifestation sur la voie publique.
+Ils sont habilités à établir l'avis de paiement prévu à l'article L. 2333-87 du code général des collectivités
+territoriales. 
+
+Les dispositions du premier alinéa ne sont pas applicables aux interdictions de manifestation sur la voie publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L2512-16-1 (VT)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R532-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Loi n°2015-991 du 7 août 2015 - art. 78
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2333-87 (VT)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R532-1 (VD)
 
 
 ### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER
