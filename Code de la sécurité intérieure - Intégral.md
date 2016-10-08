@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -7613,6 +7613,119 @@ La liste des jeux de hasard pouvant être autorisés dans les casinos est fixée
 	**Modifié par**:
 
 	  - Décret n°2013-1112 du 4 décembre 2013 - art. 5
+
+
+#### Chapitre Ier bis : Compétitions de jeux vidéo
+
+###### Article L321-8
+
+Pour l'application du présent chapitre, est entendu comme jeu vidéo tout jeu relevant du II de l'article 220 terdecies du
+code général des impôts. 
+
+Une compétition de jeux vidéo confronte, à partir d'un jeu vidéo, au moins deux joueurs ou équipes de joueurs pour un score
+ou une victoire. 
+
+L'organisation de la compétition de jeux vidéo au sens du présent chapitre n'inclut pas l'organisation d'une prise de paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 101
+
+	**Cité par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 (V)
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+	  - Décret n°2017-871 du 9 mai 2017 - art. 2
+	  - Code de la sécurité intérieure - art. R321-45 (V)
+	  - Code du travail - art. R7124-1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 terdecies
+
+
+###### Article L321-9
+
+N'entrent pas dans le champ d'application des articles L. 322-1, L. 322-2 et L. 322-2-1 les compétitions de jeux vidéo
+organisées en la présence physique des participants, pour lesquelles le montant total des droits d'inscription ou des autres
+sacrifices financiers consentis par les joueurs n'excède pas une fraction, dont le taux est fixé par décret en Conseil
+d'Etat, du coût total d'organisation de la manifestation incluant le montant total des gains et lots proposés. Ce taux peut
+varier en fonction du montant total des recettes collectées en lien avec la manifestation. 
+
+Lorsque le montant total des gains ou lots excède un montant fixé par décret en Conseil d'Etat, les organisateurs de ces
+compétitions justifient de l'existence d'un instrument ou mécanisme, pris au sein d'une liste fixée par ce même décret,
+garantissant le reversement de la totalité des gains ou lots mis en jeu. 
+
+Les organisateurs déclarent à l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat, la tenue de
+telles compétitions. Cette déclaration comporte les éléments permettant à l'autorité administrative d'apprécier le respect
+des conditions prévues aux deux premiers alinéas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 101
+
+	**Cité par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 (V)
+	  - Code de la sécurité intérieure - art. R321-40 (V)
+	  - Code de la sécurité intérieure - art. R321-46 (V)
+	  - Code de la sécurité intérieure - art. R321-47 (V)
+	  - Code de la sécurité intérieure - art. R321-48 (V)
+	  - Code de la sécurité intérieure - art. R324-2 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L322-1 (V)
+
+
+###### Article L321-10
+
+La participation d'un mineur aux compétitions de jeux vidéo peut être autorisée dans des conditions définies par décret en
+Conseil d'Etat. Elle est conditionnée au recueil de l'autorisation du représentant légal de ce mineur. Le représentant légal
+est informé des enjeux financiers de la compétition et des jeux utilisés comme support de celle-ci. Cette information
+comprend notamment la référence à la signalétique prévue à l'article 32 de la loi n° 98-468 du 17 juin 1998 relative à la
+prévention et à la répression des infractions sexuelles ainsi qu'à la protection des mineurs. 
+
+L'article L. 7124-9 du code du travail s'applique aux rémunérations de toute nature perçues pour l'exercice d'une pratique en
+compétition du jeu vidéo par des mineurs de moins de seize ans soumis à l'obligation scolaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 32
+	  - Code du travail - art. L7124-9
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 101
+
+	**Cité par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 (V)
+	  - Code de la sécurité intérieure - art. R321-43 (V)
+	  - Code de la sécurité intérieure - art. R321-45 (V)
+
+
+###### Article L321-11
+
+Pour les compétitions de jeux vidéo se déroulant en ligne et pour les phases qualificatives se déroulant en ligne des
+compétitions de jeux vidéo, les frais d'accès à internet et le coût éventuel d'acquisition du jeu vidéo servant de support à
+la compétition ne constituent pas un sacrifice financier au sens de l'article L. 322-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 101
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R321-50 (V)
 
 
 #### Chapitre II : Loteries
