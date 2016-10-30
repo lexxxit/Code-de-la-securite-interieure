@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-10-10
+Version Consolidée au 2016-10-31
 
 # Partie législative
 
@@ -46085,6 +46085,76 @@ du code de commerce et qui ont pour activité exclusive la tenue d'établissemen
 	  - Code de la sécurité intérieure - art. D345-2 (VT)
 	  - Code de la sécurité intérieure - art. D345-5 (VD)
 	  - Code de la sécurité intérieure - art. R345-2 (VD)
+
+
+##### Section 3 : Jeux et concours organisés par les publications de presse
+
+###### Article D322-5
+
+En application de l'article L. 322-7, lorsque la participation à des jeux et concours organisés par les publications de
+presse définies à l'article 1er de la loi n° 86-897 portant réforme du régime juridique de la presse nécessite une avance
+financière des joueurs, sous forme de frais d'affranchissement, de frais de communication ou de connexion, qu'ils soient
+surtaxés ou non, l'entreprise éditrice doit respecter les conditions suivantes : 
+
+1° Les lecteurs doivent être informés de la possibilité d'obtenir le remboursement des frais de communication et de
+correspondance engagés. Cette information doit être portée à leur connaissance de manière claire et lisible. Cette
+information doit également être délivrée lors de la connexion au service électronique permettant de jouer, qu'il soit surtaxé
+ou non, préalablement à toute participation effective au jeu ; 
+
+2° Le remboursement des frais engagés, prévu par le règlement du jeu, doit être obtenu sur simple demande ; 
+
+3° Le montant exact des frais de connexion et de communication engagés doit être clairement présenté, de façon aussi visible
+que la durée du jeu ou du concours, les coordonnées postales, téléphoniques ou électroniques de participation au jeu ou au
+concours, la possibilité de remboursement des frais engagés ainsi que le nombre et la valeur des lots proposés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-897 du 1er août 1986 - art. 1
+	  - Code de la sécurité intérieure - art. L322-7
+
+	**Créé par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 - art. 1
+
+
+###### Article D322-6
+
+Le  règlement du jeu ou du concours établi par l'entreprise éditrice de la  publication de presse est mis à la disposition du
+public sur le service  de communication au public en ligne de la publication de presse et est  adressé, à titre gratuit, à
+toute personne qui en fait la demande.  L'adresse postale ou électronique à laquelle cette demande peut être  envoyée doit
+être précisée dans le document présentant le jeu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 - art. 1
+
+
+###### Article D322-7
+
+Les  modalités de déroulement du jeu, et notamment l'existence d'un tirage  au sort entre les participants, doivent être
+clairement précisées afin  de ne pas induire en erreur les participants au jeu ou au concours quant  à leurs chances réelles
+de gains.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 - art. 1
+
+
+###### Article D322-8
+
+A l'issue du jeu ou du concours, la publication de presse doit publier le nombre de gagnants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1466 du 28 octobre 2016 - art. 1
 
 
 #### Chapitre IV : Dispositions pénales
