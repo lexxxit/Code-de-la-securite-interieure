@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-10-31
+Version Consolidée au 2016-11-06
 
 # Partie législative
 
@@ -44836,23 +44836,24 @@ Le silence gardé pendant plus de quatre mois sur la demande d'autorisation vaut
 
 ###### Article R321-7
 
-La commission consultative des jeux de cercles et de casinos est une commission spécialisée du comité consultatif des jeux.
-Elle est instituée dans les conditions prévues par la présente sous-section et par le décret n° 2011-252 du 9 mars 2011
-relatif au comité consultatif des jeux.
+La commission consultative des jeux de cercles et de casinos est régie par la présente sous-section et par le 
+décret n° 2011-252 du 9 mars 2011
+relatif à l'observatoire des jeux, à la commission consultative des jeux de cercles et de casinos et à la commission
+consultative des jeux et paris sous droits exclusifs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2011-252  du 9 mars 2011 (V)
+	  - Décret n°2011-252 du 9 mars 2011
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-1488 du 3 novembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -44863,57 +44864,59 @@ relatif au comité consultatif des jeux.
 
 ###### Article R321-8
 
-La commission consultative des jeux de cercles et de casinos comprend :
+La commission consultative des jeux de cercles et de casinos comprend : 
 
-1° Un des deux députés mentionnés au 1° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011 ;
+1° Un conseiller d'Etat, désigné par le vice-président du Conseil d'Etat, président ; 
 
-2° Un des deux sénateurs mentionnés au 2° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011 ;
+2° Un conseiller maître à la Cour des comptes, désigné par le premier président de la Cour des comptes ; 
 
-3° Le conseiller d'Etat mentionné au 7° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011, président ;
+3° Un inspecteur général des finances, désigné par le chef du service de l'inspection générale des finances ; 
 
-4° Le conseiller maître à la Cour des comptes mentionné au 8° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011 ;
+4° Un inspecteur général de l'administration au ministère de l'intérieur, désigné par le chef de l'inspection générale de
+l'administration ; 
 
-5° Un inspecteur général des finances, désigné par le chef de l'inspection générale des finances ;
+5° Le directeur des libertés publiques et des affaires juridiques du ministère de l'intérieur ou son représentant ; 
 
-6° Un inspecteur général de l'administration au ministère de l'intérieur, désigné par le chef de l'inspection générale de
-l'administration ;
+6° le directeur général des collectivités locales ou son représentant ; 
 
-7° Les représentants du ministre de l'intérieur mentionnés au 9° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011 ;
+7° Un membre désigné par le ministre chargé du budget ; 
 
-8° Un des deux représentants du ministre chargé du budget mentionnés au 10° du I de l'article 3 du décret n° 2011-252 du 9
-mars 2011, choisi par ce ministre ;
+8° Un membre désigné par le ministre chargé de la santé ; 
 
-9° Un des deux représentants du ministre chargé de la santé mentionnés au 12° du I de l'article 3 du décret n° 2011-252 du 9
-mars 2011, choisi par ce ministre ;
+9° Un membre de la Mission interministérielle de lutte contre les drogues et les conduites addictives désigné par le
+président de cette organisation ; 
 
-10° Les deux maires mentionnés au 3° du I de l'article 3 du décret n° 2011-252 du 9 mars 2011.
+10° Deux maires désignés par le ministre de l'intérieur sur la proposition de l'Association nationale des élus des
+territoires touristiques. 
 
 Un suppléant, désigné dans les mêmes conditions, est appelé à remplacer chacun de ces membres en cas d'absence ou
-d'empêchement, sans préjudice des dispositions du treizième alinéa du présent article.
+d'empêchement, sauf pour les membres mentionnés aux 5° et 6°. 
 
 En cas d'absence ou d'empêchement du président, celui-ci est remplacé dans cette fonction par le conseiller maître à la Cour
-des comptes.
+des comptes. 
 
-Les membres de la commission, à l'exception de ceux mentionnés au 7°, ne peuvent siéger à la commission consultative des jeux
-et paris sous droits exclusifs.
+Les membres de la commission, à l'exception de ceux mentionnés au 5° et au 9°, ne peuvent siéger à la commission consultative
+des jeux et paris sous droits exclusifs. 
+
+Les membres mentionnés au 10° sont désignés pour la durée de leur mandat électif. 
+
+Les membres issus du Conseil d'Etat et de la Cour des comptes sont désignés pour une durée de cinq ans renouvelable une fois.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2016-1488 du 3 novembre 2016, les membres de la commission consultative des jeux de
+cercles et de casinos désignés, en vertu de l'article R. 321-8 du code de la sécurité intérieure, avant l'entrée en vigueur
+de l'article 2 dudit  décret demeurent valablement désignés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-252 du 9 mars 2011 - art. 10 I à III (VT)
-
-	**Cite**:
-
-	  - Décret n°2011-252  du 9 mars 2011 - art. 3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2016-1488 du 3 novembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -45163,11 +45166,12 @@ Le nombre de machines à sous autorisées est fonction du nombre de tables de je
 
 ###### Article R321-15
 
-Le ministre de l'intérieur peut également autoriser, à titre expérimental, l'exploitation dans un casino de nouveaux jeux de
-hasard ou de nouveaux dispositifs techniques, afin d'évaluer les garanties de régularité et de sincérité qu'ils présentent. 
+Le ministre de l'intérieur peut également autoriser, à titre expérimental, l'exploitation dans un casino au sens de l'article
+L. 321-1 de nouveaux jeux de hasard ou de nouveaux dispositifs techniques, afin d'évaluer les garanties de régularité et de
+sincérité qu'ils présentent. 
 
-L'arrêté d'autorisation prévu à l'article R. 321-5 fixe les modalités particulières de chaque expérimentation, sa durée, qui
-ne doit pas excéder six mois, et les conditions de son évaluation. 
+L'arrêté d'autorisation fixe les modalités particulières de chaque expérimentation, sa durée, qui ne doit pas excéder six
+mois, et les conditions de son évaluation. 
 
 L'autorisation peut être prorogée pour une durée maximale de six mois si le bilan de l'expérimentation fait apparaître la
 nécessité d'une évaluation plus précise. 
@@ -45177,27 +45181,23 @@ Les modalités communes à ces expérimentations peuvent être définies par l'a
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 1-1 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. R321-39
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R321-21 (VD)
-	  - Code de la sécurité intérieure - art. R321-3 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
-	  - Code de la sécurité intérieure - art. R321-5 (VD)
+	  - Code de la sécurité intérieure - art. R321-3 (VD)
 
 
 ###### Article R321-16
