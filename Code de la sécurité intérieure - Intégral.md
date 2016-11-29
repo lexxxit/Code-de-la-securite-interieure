@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-11-06
+Version Consolidée au 2016-11-30
 
 # Partie législative
 
@@ -54427,9 +54427,10 @@ Les agents de police municipale peuvent être autorisés à porter les armes sui
 
 1° 1°, 3°, 6° et 8° de la catégorie B : 
 
-a) Revolvers chambrés pour le calibre 38 Spécial ; 
+a) Revolvers chambrés pour le calibre 38 Spécial avec l'emploi exclusif de munitions de service à projectile expansif  ; 
 
-b) Armes de poing chambrées pour le calibre 7,65 mm ; 
+b) Armes de poing chambrées pour le calibre 7,65 mm ou pour le calibre 9 × 19 (9 mm luger), avec l'emploi exclusif de
+munitions de service à projectile expansif  ; 
 
 c) Armes à feu d'épaule et armes de poing tirant une ou deux balles ou projectiles non métalliques, classées dans cette
 catégorie par arrêté du ministre de la défense et dont le calibre est au moins égal à 44 mm ; 
@@ -54490,7 +54491,7 @@ aux armes qu'ils sont autorisés à porter.
 
 	**Modifié par**:
 
-	  - Décret n°2014-888 du 1er août 2014 - art. 1
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 3
 
 
 ###### Article R511-13
@@ -54655,27 +54656,27 @@ autorisation individuelle de porter une arme pour l'accomplissement des missions
 sous-section ou de certaines d'entre elles. Le maire précise dans sa demande les missions habituellement confiées à l'agent
 ainsi que les circonstances de leur exercice. Il joint également à cette demande un certificat médical datant de moins de
 quinze jours, placé sous pli fermé, attestant que l'état de santé physique et psychique de l'agent n'est pas incompatible
-avec le port d'une arme.
+avec le port d'une arme. 
+
+Le cas échéant, l'autorisation délivrée par le préfet précise expressément si l'agent est autorisé à porter une arme en
+dehors des limites de sa commune de rattachement dans le cadre de la convention locale de sûreté des transports collectifs
+prévue à l'article L. 511-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-276 du 24 mars 2000 - art. 4, alinéa 1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
 	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
 	  - Code de la sécurité intérieure - art. R511-24 (V)
 	  - Code de la sécurité intérieure - art. R511-30 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-1 (V)
 
 
 ###### Article R511-19
@@ -54808,8 +54809,7 @@ les conditions prévues à l'article L. 511-6.
 
 Ces formations peuvent être assurées par des agents de police municipale, moniteurs en maniement des armes, qui sont formés à
 cette fonction par le Centre national de la fonction publique territoriale avec le concours des administrations et
-établissements publics de l'Etat chargés de la formation des fonctionnaires de la police nationale et des militaires de la
-gendarmerie nationale dans les conditions mentionnées au premier alinéa. 
+établissements publics de l'Etat. 
 
 Eu égard à la spécificité des risques liés à l'emploi d'une arme mentionnée au d du 1° de l'article R. 511-12, une formation
 spécifique préalable à l'autorisation de port de celle-ci et une formation spécifique d'entraînement, qui tiennent compte de
@@ -54823,9 +54823,9 @@ relatives à la délivrance du certificat individuel mentionné à l'alinéa pr�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-276 du 24 mars 2000 - art. 5-1 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -54837,20 +54837,16 @@ relatives à la délivrance du certificat individuel mentionné à l'alinéa pr�
 	  - Code de la sécurité intérieure - art. R511-32 (VD)
 	  - Code de la sécurité intérieure - art. R511-33 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L511-6 (V)
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
-	  - Code de la sécurité intérieure - art. R511-19 (VD)
-	  - Code de la sécurité intérieure - art. R511-21 (VD)
+	  - Code de la sécurité intérieure - art. L511-6
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-19
+	  - Code de la sécurité intérieure - art. R511-21
 
 
 ###### Article R511-22-1
@@ -54936,7 +54932,7 @@ conditions prévues par l'article 122-5 du code pénal.
 ###### Article R511-24
 
 Tout agent de police municipale détenteur de l'autorisation mentionnée à l'article R. 511-18 ne peut porter, pour
-l'accomplissement des missions mentionnées au paragraphe 2 de la présente sous-section, qu'une arme, des éléments d'arme et
+l'accomplissement des missions mentionnées au paragraphe 2 de la présente sous-section, que des armes, des éléments d'arme et
 des munitions qui lui ont été remis par la commune qui l'emploie. 
 
 Une arme mentionnée aux c et d du 1° ou au 3° de l'article R. 511-12 peut être portée indifféremment par plusieurs agents de
@@ -54944,22 +54940,18 @@ police municipale détenteurs de l'autorisation mentionnée à l'article R. 511-
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2000-276 du 24 mars 2000 - art. 7, I (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
-	  - Code de la sécurité intérieure - art. R511-18 (VD)
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-18
 
 	**Cité par**:
 
@@ -55037,32 +55029,29 @@ réintégrées dans les coffres-forts ou armoires fortes du poste de police muni
 Pour les séances de formation prévues par l'article R. 511-22, lors des trajets entre le poste de police municipale et le
 centre d'entraînement, l'agent de police municipale transporte, déchargée et rangée dans une mallette fermée à clé, ou, pour
 les armes mentionnées aux c et d du 1° et au 3° de l'article R. 511-12, dans un sac ou une housse spécifiquement prévus à cet
-effet, l'arme qui lui a été remise. Il prend toutes les précautions utiles de nature à éviter le vol de l'arme et des
-munitions.
+effet, l'arme qui lui a été remise.  Toutefois,  pour les trajets relatifs à la formation d'entraînement, l'agent de  police
+municipale peut, s'il utilise un véhicule sérigraphié et se  déplace en tenue, porter l'arme de poing à la ceinture. Il prend
+toutes les précautions utiles de nature à éviter le vol de l'arme et des munitions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-276 du 24 mars 2000 - art. 7, IV (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 3 août 2007 - art. 5 (V)
 	  - Code de la sécurité intérieure - art. R545-3 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
-	  - Code de la sécurité intérieure - art. R511-22 (VD)
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-22
 
 
 ###### Article R511-28
@@ -55718,6 +55707,62 @@ des actes administratifs de la préfecture.
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L512-4 (V)
+
+
+##### Section 3 : Convention locale de sûreté des transports collectifs
+
+###### Article R512-7
+
+La convention locale de sûreté des transports collectifs prévue à l'article L. 511-1 précise : 
+
+1° Le nombre, par commune de rattachement, d'agents de police municipale autorisés à exercer les missions mentionnées à
+l'avant-dernier alinéa de l'article L. 511-1 ; 
+
+2° Les modalités et les périmètres d'intervention des agents de police municipale ; 
+
+3° Lorsque les agents sont autorisés à porter une arme, les conditions dans lesquelles ils peuvent, conformément aux articles
+R. 511-14 et R. 511-15, porter des armes pour l'exercice des missions prévues à l'avant-dernier alinéa de l'article L.
+511-1 ; 
+
+4° Les modalités de conduite des opérations lorsque plusieurs agents interviennent sur un même territoire ; 
+
+5° La durée de la convention, les conditions de son renouvellement ainsi que les conséquences du retrait d'une commune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-1
+	  - Code de la sécurité intérieure - art. R511-14
+	  - Code de la sécurité intérieure - art. R511-15
+
+
+###### Article R512-8
+
+Le projet de convention prévue à l'article L. 511-1 est soumis à l'approbation du représentant de l'Etat dans le département
+en vue notamment de s'assurer de sa conformité aux conventions de coordination des interventions de la police municipale et
+des forces de sécurité de l'Etat et au contrat d'objectif départemental de sûreté dans les transports collectifs. Si les
+communes intéressées se trouvent dans plusieurs départements, le projet de convention fait l'objet d'une approbation
+conjointe par les représentants de l'Etat dans ces départements. 
+
+La convention est signée par l'ensemble des maires des communes intéressées, après délibération de leurs conseils
+municipaux. 
+
+La convention peut être dénoncée après un préavis de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L511-1
 
 
 #### Chapitre IV : Commission consultative des polices municipales
@@ -56597,15 +56642,26 @@ municipalité et celui du garde.
 
 Ils peuvent être armés dans les conditions prévues aux articles R. 312-22, R. 312-24 et R. 312-25.
 
+L'autorisation  de port d'une arme de catégorie B, 1° ne peut être délivrée qu'aux  gardes champêtres ayant suivi avec succès
+une formation préalable à  l'armement attestée par le Centre national de la fonction publique  territoriale. 
+
+Ces fonctionnaires territoriaux  sont également astreints à suivre périodiquement une formation  d'entraînement au maniement
+de l'arme. 
+
+Un arrêté  du ministre de l'intérieur fixe les modalités de la formation préalable  et de la formation d'entraînement
+dispensées aux gardes champêtres.
+
+**Nota:**
+
+Conformément au III de l'article 13 du décret n° 2016-1616 du 28 novembre 2016, les dispositions du quatrième alinéa de
+l'article R. 522-1 du code de la sécurité intérieure, dans leur rédaction issue dudit décret, entrent en vigueur le 1er
+janvier 2018.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
 
 	**Cité par**:
 
@@ -56613,6 +56669,10 @@ Ils peuvent être armés dans les conditions prévues aux articles R. 312-22, R.
 	  - Arrêté du 14 avril 2017 - art. 1 (V)
 	  - Arrêté du 14 avril 2017 - art. 2 (V)
 	  - Code de la sécurité intérieure - art. R545-3 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 9
 
 	**Cite**:
 
@@ -57232,7 +57292,9 @@ DANS LEUR RÉDACTION
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre Ier 
+      <td align="center">
+
+Au titre Ier 
 
 </td>
       <td align="center">
@@ -57241,7 +57303,9 @@ DANS LEUR RÉDACTION
     </tr>
     <tr>
       <td align="center">
+
 R. 511-1 à R. 511-2, R. 511-11 
+
 </td>
       <td align="center">
 
@@ -57252,7 +57316,9 @@ la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
     </tr>
     <tr>
       <td align="center">
+
 R. 511-12 
+
 </td>
       <td align="center">
 
@@ -57261,48 +57327,141 @@ Résultant du décret n° 2014-888 du 1er août 2014 relatif à l'armement profe
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 511-14 à R. 511-27 et R. 511-29 à R. 511-34 
-</td>
-      <td align="center">
+      <td>
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+R. 511-14 à R. 511-17
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-R. 512-1 à R. 512-3, 
-R. 512-5 et R. 512-6 
+      <td>
 
-</td>
-      <td align="center">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-R. 514-1 à R. 514-11 
+      <td>R. 511-18</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
 
 </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td>R. 511-19 à R. 511-21 </td>
+      <td>
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-22 </td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-23</td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
       <td>
+
+R. 511-24 
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-25 et R. 511-26 
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-27
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-29 à R. 511-34 
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 512-1 à R. 512-3, R. 512-5 et R. 512-6
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 512-7 et R. 512-8
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 514-1 à R. 514-11 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 R. 515-1 
 
 </td>
-      <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
 aux directeurs de police municipale et modifiant ce code 
@@ -57310,11 +57469,12 @@ aux directeurs de police municipale et modifiant ce code
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
+
 R. 515-2 à R. 515-6 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -57322,12 +57482,12 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 R. 515-7 
 
 </td>
-      <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
 aux directeurs de police municipale et modifiant ce code 
@@ -57335,12 +57495,12 @@ aux directeurs de police municipale et modifiant ce code
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 R. 515-8 à R. 515-21
 
 </td>
-      <td>
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -57348,7 +57508,9 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II 
+      <td align="center">
+
+Au titre II 
 
 </td>
       <td align="center">
@@ -57356,11 +57518,12 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
+
 R. 521-1 à R. 522-2 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -57368,10 +57531,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="center">Annexes 1 et 2 
+      <td valign="top" align="left">
+
+Annexes 1 et 2 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -57389,15 +57554,11 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R511-1
 	  - Code de la sécurité intérieure - art. R511-11
 	  - Code de la sécurité intérieure - art. R511-12
-	  - Code de la sécurité intérieure - art. R511-14
-	  - Code de la sécurité intérieure - art. R511-29
-	  - Code de la sécurité intérieure - art. R512-1
-	  - Code de la sécurité intérieure - art. R512-5
 	  - Code de la sécurité intérieure - art. R514-1
-	  - Code de la sécurité intérieure - art. R515-1 (V)
-	  - Code de la sécurité intérieure - art. R515-2 (V)
-	  - Code de la sécurité intérieure - art. R515-7 (V)
-	  - Code de la sécurité intérieure - art. R515-8 (V)
+	  - Code de la sécurité intérieure - art. R515-1
+	  - Code de la sécurité intérieure - art. R515-2
+	  - Code de la sécurité intérieure - art. R515-7
+	  - Code de la sécurité intérieure - art. R515-8
 	  - Code de la sécurité intérieure - art. R521-1
 
 	**Codifié par**:
@@ -57406,7 +57567,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art. 3
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
 
 	**Cité par**:
 
@@ -57639,7 +57800,7 @@ référence aux articles du code de la route de la Nouvelle-Calédonie ayant le 
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 546-2 et R. 546-3, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau :
+colonne de droite du même tableau : 
 
 <table>
   <tbody>
@@ -57658,56 +57819,144 @@ DANS LEUR RÉDACTION
     <tr>
       <td valign="middle">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
-      <td align="left" valign="middle"> </td>
-    </tr>
+      <td valign="middle" align="left">
+    </td></tr>
     <tr>
-      <td valign="middle">
+      <td valign="top" align="left">
 
-R. 511-1, R. 511-2, R. 511-11 à R. 511-34 
+R. 511-1, R. 511-2, R. 511-11 à R. 511-17 
 
 </td>
-      <td valign="middle">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2015-617 du 3 juin 2015
-modifiant certaines dispositions du 
-code de la sécurité intérieure (partie réglementaire)
-relatives aux polices municipales en Nouvelle-Calédonie. 
+Résultant du décret n° 2015-617 du 3 juin 2015
 
 </td>
     </tr>
     <tr>
-      <td valign="middle">
+      <td>
 
-R. 512-1, R. 512-2, R. 512-5, R. 512-6 
+R. 511-18
 
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du 
-décret n° 2015-617 du 3 juin 2015
-modifiant certaines dispositions du 
-code de la sécurité intérieure (partie réglementaire)
-relatives aux polices municipales en Nouvelle-Calédonie. 
+Résultant du décret n° 2016-1616 du 28 novembre 2016
 
 </td>
     </tr>
     <tr>
-      <td valign="middle">
+      <td>
 
-R. 515-21 
+R. 511-19 à R. 511-21 
 
 </td>
-      <td valign="middle">
+      <td>
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-22 
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-23 
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-24 
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-25 et R. 511-26
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-27
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 511-28 à R. 511-34
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 512-1, R. 512-2, R. 512-5, R. 512-6
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 515-21
+
+</td>
+      <td valign="top" align="left">
 
 Résultant du 
 décret n° 2015-617 du 3 juin 2015
-modifiant certaines dispositions du 
-code de la sécurité intérieure (partie réglementaire)
-relatives aux polices municipales en Nouvelle-Calédonie. 
+modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux polices municipales
+en Nouvelle-Calédonie.
 
 </td>
     </tr>
@@ -57719,11 +57968,10 @@ Annexe 1 prévue pour l'application de l'article R. 512-5
 </td>
       <td valign="middle">
 
-Résultant du 
-décret n° 2015-617 du 3 juin 2015
-modifiant certaines dispositions du 
-code de la sécurité intérieure (partie réglementaire)
-relatives aux polices municipales en Nouvelle-Calédonie. </td>
+Résultant du décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie. 
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -57737,11 +57985,10 @@ relatives aux polices municipales en Nouvelle-Calédonie. </td>
 	**Cite**:
 
 	  - Décret n°2015-617 du 3 juin 2015
-	  - Code de la sécurité intérieure
 
 	**Modifié par**:
 
-	  - Décret n°2015-617 du 3 juin 2015 - art. 1
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
 
 
 ###### Article R546-2
@@ -57918,11 +58165,26 @@ municipalité et celui du garde.
 Ils peuvent être armés dans l'exercice de leurs fonctions dans les conditions prévues aux articles R. 312-22, R. 312-24 et R.
 312-25.
 
+L'autorisation de port d'une arme de catégorie B, 1° ne peut être délivrée qu'aux gardes champêtres ayant suivi avec succès
+une formation préalable à l'armement. 
+
+Ces fonctionnaires territoriaux sont également astreints à suivre périodiquement une formation d'entraînement au maniement de
+l'arme. 
+
+Les modalités de la formation préalable et de la formation d'entraînement dispensées aux gardes champêtres sont fixées par
+arrêté du haut-commissaire de la République en Nouvelle-Calédonie.
+
+**Nota:**
+
+Conformément au III de l'article 13 du décret n° 2016-1616 du 28 novembre 2016, les dispositions du quatrième alinéa de
+l'article R. 546-4 du code de la sécurité intérieure, dans leur rédaction issue dudit décret, entrent en vigueur le 1er
+janvier 2018.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-617 du 3 juin 2015 - art. 1
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
 
 	**Cité par**:
 
@@ -57932,10 +58194,6 @@ Ils peuvent être armés dans l'exercice de leurs fonctions dans les conditions 
 
 	  - Code de la sécurité intérieure - art. R312-22
 	  - Code de la sécurité intérieure - art. R312-24
-
-	**Anciens textes**:
-
-	  - Code de la sécurité intérieure - art. R546-1 (T)
 
 
 ###### Article R546-5
