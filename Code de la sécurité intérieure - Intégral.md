@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-11-30
+Version Consolidée au 2016-12-22
 
 # Partie législative
 
@@ -80554,6 +80554,48 @@ individuellement désignés et habilités par le ministre ou, par délégation, 
 
 
 #### Chapitre III : Des organes compétents
+
+###### Article D823-3
+
+Le service mentionné à l'article R. 823-1 est un service à compétence nationale rattaché au Premier ministre et, pour sa
+gestion administrative et budgétaire, au secrétariat général de la défense et de la sécurité nationale. Ce dernier est
+notamment chargé de la passation des marchés, de la gestion budgétaire et financière et du recrutement des agents du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R823-1 (V)
+
+
+###### Article D823-4
+
+Le  directeur du groupement interministériel de contrôle exerce son  autorité sur l'ensemble des personnels du service. Il
+est assisté d'un  directeur adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
+
+###### Article D823-5
+
+Le  groupement interministériel de contrôle dispose, sur crédits alloués  par le Premier ministre, des moyens nécessaires à
+l'accomplissement de  ses missions. Les modalités de gestion du budget, des moyens, des  personnels et des achats sont fixées
+entre le groupement  interministériel de contrôle et le secrétariat général de la défense et  de la sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
 
 ###### Article R823-1
 
