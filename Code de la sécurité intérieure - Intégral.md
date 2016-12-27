@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-12-22
+Version Consolidée au 2016-12-28
 
 # Partie législative
 
@@ -34456,6 +34456,215 @@ la présente section. Cet engagement de conformité est accompagné d'un dossier
 	  - Décret n°2016-1045 du 29 juillet 2016 - art. 1
 
 
+### TITRE IV : CAMÉRAS MOBILES
+
+#### Chapitre unique
+
+###### Article R241-1
+
+I.-Le ministre de l'intérieur est autorisé, en application de l'article L. 241-1, à mettre en œuvre des traitements de
+données à caractère personnel provenant des seules caméras individuelles fournies aux agents de la police nationale et aux
+militaires de la gendarmerie nationale au titre de l'équipement des personnels. 
+
+II.-Ces traitements ont pour finalités : 
+
+1° La prévention des incidents au cours des interventions des agents de la police nationale et des militaires de la
+gendarmerie nationale ; 
+
+2° Le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ; 
+
+3° La formation et la pédagogie des agents.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L241-1 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R241-6 (V)
+	  - Code de la sécurité intérieure - art. R241-7 (V)
+	  - Code de la sécurité intérieure - art. R285-1 (M)
+	  - Code de la sécurité intérieure - art. R286-1 (M)
+	  - Code de la sécurité intérieure - art. R287-1 (M)
+	  - Code de la sécurité intérieure - art. R288-1 (M)
+
+
+###### Article R241-2
+
+Les catégories de données à caractère personnel et informations enregistrées dans les traitements sont : 
+
+1° Les images et les sons captés par les caméras individuelles utilisées par les agents de la police nationale et les
+militaires de la gendarmerie nationale dans les circonstances et pour les finalités prévues à l'article L. 241-1 ; 
+
+2° Le jour et les plages horaires d'enregistrement ; 
+
+3° L'identification de l'agent porteur de la caméra lors de l'enregistrement des données ; 
+
+4° Le lieu où ont été collectées les données. 
+
+Si les données mentionnées aux 3° et 4° ne peuvent être enregistrées sur le même support que les images et sons visés au 1°,
+les personnes mentionnées au II de l'article R. 241-3 doivent être en mesure d'en justifier par l'application de suivi de
+l'activité. 
+
+Les données enregistrées dans le traitement sont susceptibles de faire apparaître, directement ou indirectement, des éléments
+mentionnés au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Il est interdit de sélectionner dans les traitements une catégorie particulière de personnes à partir de ces seules données.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 8 (V)
+	  - Code de la sécurité intérieure - art. L241-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R241-3 (V)
+	  - Code de la sécurité intérieure - art. R241-4 (V)
+
+
+###### Article R241-3
+
+I.-Les enregistrements sont transférés sur un support informatique sécurisé dès le retour des agents de la police nationale
+et des militaires de la gendarmerie nationale au service. Les enregistrements ne peuvent être consultés qu'à l'issue de
+l'intervention et après leur transfert sur le support informatique sécurisé. Aucun système de transmission permettant de
+visionner les images à distance en temps réel ne peut être mis en œuvre. 
+
+II.-Dans la limite de leurs attributions respectives, ont seuls accès aux données et informations mentionnées à l'article R.
+241-2 : 
+
+1° Le chef du service ou le commandant de l'unité ; 
+
+2° Les agents ou militaires individuellement désignés et habilités par le chef du service ou le commandant de l'unité. 
+
+Ces personnes sont seules habilitées à procéder à l'extraction des données et informations mentionnées à l'article R. 241-2
+pour les besoins exclusifs d'une procédure judiciaire, administrative ou disciplinaire ou dans le cadre d'une action de
+formation ou de pédagogie des agents. 
+
+III.-Dans la limite de leurs attributions respectives et de leur besoin d'en connaître dans le cadre d'une procédure
+judiciaire, administrative ou disciplinaire, ou dans le cadre d'une action de formation et de pédagogie, peuvent être
+destinataires de tout ou partie des données et informations enregistrées dans les traitements : 
+
+1° Les officiers et agents de police judiciaire de la police nationale et de la gendarmerie nationale ; 
+
+2° Les agents et militaires des corps et services d'inspection et de contrôle relevant du ministère de l'intérieur ; 
+
+3° Les agents et militaires participant à l'exercice du pouvoir disciplinaire ; 
+
+4° Les agents et militaires chargés de la formation des personnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R241-2 (V)
+
+
+###### Article R241-4
+
+Les données mentionnées à l'article R. 241-2 sont conservées pendant un délai de six mois à compter du jour de leur
+enregistrement. 
+
+Au terme de ce délai, ces données sont effacées automatiquement des traitements. 
+
+Lorsque les données ont dans le délai de six mois été extraites et transmises pour les besoins d'une procédure judiciaire,
+administrative ou disciplinaire, elles sont conservées selon les règles propres à chacune de ces procédures. 
+
+Les données mentionnées au 1° de l'article R. 241-2 utilisées à des fins pédagogiques et de formation sont anonymisées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R241-2 (V)
+
+
+###### Article R241-5
+
+Chaque opération de consultation et d'extraction de données fait l'objet d'un enregistrement dans le traitement ou, à défaut,
+d'une consignation dans un registre spécialement ouvert à cet effet. Cette consignation comprend : 
+
+1° Les matricule, nom, prénom et grade des agents ou militaires procédant à l'opération de consultation et d'extraction ; 
+
+2° La date et l'heure de la consultation et de l'extraction ainsi que le motif judiciaire, administratif, disciplinaire ou
+pédagogique ; 
+
+3° Le service ou l'unité destinataire des données ; 
+
+4° L'identification des enregistrements audiovisuels extraits et de la caméra dont ils sont issus. 
+
+Ces données sont conservées trois ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+
+###### Article R241-6
+
+L'information générale du public sur l'emploi des caméras individuelles est délivrée sur les sites internet du ministère de
+l'intérieur, de la direction générale de la police nationale, de la direction générale de la gendarmerie nationale et de la
+préfecture de police. 
+
+Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés ne s'applique pas aux traitements mentionnés à l'article R. 241-1. 
+
+Le droit d'accès s'exerce de manière indirecte auprès de la Commission nationale de l'informatique et des libertés dans les
+conditions prévues à l'article 41 de la même loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+	  - Code de la sécurité intérieure - art. R241-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+
+###### Article R241-7
+
+La mise en œuvre des traitements mentionnés à l'article R. 241-1 est subordonnée à l'envoi préalable à la Commission
+nationale de l'informatique et des libertés d'un engagement de conformité faisant référence aux dispositions du présent
+chapitre et précisant le nombre de dispositifs et le service utilisateur. Cet engagement de conformité est accompagné d'un
+dossier technique de présentation du traitement. 
+
+Cet envoi est accompli respectivement par la direction générale de la police nationale, la direction générale de la
+gendarmerie nationale ou la préfecture de police, pour les services qui leur sont rattachés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R241-1 (V)
+
+
 ### TITRE V : VIDÉOPROTECTION
 
 #### Chapitre Ier : Dispositions générales
@@ -36286,30 +36495,28 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="left" valign="top">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
-de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du  décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
       <td valign="top" align="left">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
-de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du  décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -36340,7 +36547,7 @@ Au titre II
 R. 222-1
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -36362,17 +36569,15 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 224-1 à R. 224-6 
 
 </td>
       <td valign="top" align="left">
 
-Résultant du 
-décret n° 2015-26 du 14 janvier 2015
-relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
-terroristes à l'étranger 
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger 
 
 </td>
     </tr>
@@ -36382,7 +36587,7 @@ terroristes à l'étranger
 R. 225-1 à R. 225-5
 
 </td>
-      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -36406,12 +36611,12 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-12 et R. 232-13
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -36432,12 +36637,12 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-16 à R. 232-18 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -36452,10 +36657,8 @@ R. 232-19
 </td>
       <td valign="top" align="left">
 
-Résultant du 
-décret n° 2015-26 du 14 janvier 2015
-relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
-terroristes à l'étranger 
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger 
 
 </td>
     </tr>
@@ -36490,7 +36693,7 @@ concernant la défense et la sécurité nationale
 R. 234-3 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
@@ -36499,12 +36702,12 @@ services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 236-1 à R. 236-45
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36512,9 +36715,9 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Articles R. 236-1 à R. 236-53 
+R. 236-1 à R. 236-53 
 
 </td>
       <td align="left" valign="top">
@@ -36524,6 +36727,22 @@ d'exploitation électroniques des documents des services du ministère de l'int�
 territorial
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="center">
+
+R. 241-1 à R. 241-7
+
+</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
@@ -36541,14 +36760,14 @@ Au titre V
 R. 251-1 et R. 251-2 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 251-3 à R. 251-12 
 
@@ -36563,7 +36782,7 @@ la sécurité intérieure
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 252-2 à R. 253-4 
 
@@ -36586,7 +36805,6 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Décret n°2013-1113 du 4 décembre 2013
 	  - Décret n°2014-901 du 18 août 2014
 	  - Décret n°2014-1095 du 26 septembre 2014
-	  - Décret n°2014-1253 du 27 octobre 2014
 	  - Décret n°2015-26 du 14 janvier 2015
 	  - Décret n°2015-1328 du 21 octobre 2015
 	  - Décret n°2015-1807 du 28 décembre 2015
@@ -36604,7 +36822,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -36751,7 +36969,7 @@ Au titre Ier
 R. 211-2 à R. 211-8 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36764,7 +36982,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du 
 décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
@@ -36808,7 +37026,7 @@ Au titre II
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 222-1
 
@@ -36833,7 +37051,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 224-1 à R. 224-6 
 
@@ -36853,7 +37071,7 @@ terroristes à l'étranger
 R. 225-1 à R. 225-5
 
 </td>
-      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -36868,7 +37086,7 @@ Au titre III
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-1 à R. 232-5-1 
 
@@ -36899,7 +37117,7 @@ dénommé "système API-PNR France" pris pour l'application de l'article L. 232-
 R. 232-14 et R. 232-15 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
@@ -36912,7 +37130,7 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 R. 232-16 à R. 232-18
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -36920,7 +37138,7 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-19 
 
@@ -36946,12 +37164,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 234-2
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -36960,7 +37178,7 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 234-3
 
@@ -36979,7 +37197,7 @@ services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité 
 R. 236-1 à R. 236-45
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36987,9 +37205,9 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Articles R. 236-1 à R. 236-53
+R. 236-1 à R. 236-53
 
 </td>
       <td valign="top" align="left">
@@ -36999,6 +37217,22 @@ d'exploitation électroniques des documents des services du ministère de l'int�
 territorial
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="center">
+
+R. 241-1 à R. 241-7 
+
+</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
@@ -37028,7 +37262,7 @@ Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités priv�
 R. 251-3 à R. 251-12 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure 
@@ -37079,7 +37313,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -37247,7 +37481,7 @@ de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code
@@ -37277,7 +37511,7 @@ Au titre II
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 222-1
 
@@ -37307,7 +37541,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 224-1 à R. 224-6 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du 
 décret n° 2015-26 du 14 janvier 2015
@@ -37322,7 +37556,7 @@ terroristes à l'étranger
 R. 225-1 à R. 225-5
 
 </td>
-      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
 
 </td>
     </tr>
@@ -37335,12 +37569,12 @@ Au titre III
       <td align="center">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-1 à R. 232-5-1 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37348,12 +37582,12 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 232-12 et R. 232-13 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37374,12 +37608,12 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 232-16 à R. 232-18 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
 dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
@@ -37418,7 +37652,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 234-2
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -37456,16 +37690,32 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left" valign="top">
 
-Articles R. 236-1 à R. 236-53 
+R. 236-1 à R. 236-53 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
 d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
 territorial
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="center">
+
+R. 241-1 à R. 241-7
+
+</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
@@ -37510,7 +37760,7 @@ la sécurité intérieure
 R. 252-2 à R. 253-4 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -37546,7 +37796,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
+	  - Décret n°2016-1860 du 23 décembre 2016 - art. 2
 
 	**Cité par**:
 
