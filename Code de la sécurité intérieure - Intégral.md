@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -7570,14 +7570,18 @@ l'alinéa précédent ainsi que les différents modèles d'appareils sont soumis
 
 ###### Article L321-6
 
-Les prélèvements sur les produits des jeux dans les casinos sont fixés par la sous-section 4 de la section VI du chapitre III
-du titre III du livre III de la deuxième partie et par l'article L. 5211-21-1 du code général des collectivités
-territoriales.
+Les prélèvements sur les produits des jeux dans les casinos autorisés en  application de l'article L. 321-1 du présent code
+sont fixés par la  sous-section 4 de la section 6 du chapitre III du titre III du livre III  de la deuxième partie du code
+général des collectivités territoriales,  par l'article L. 5211-21-1 du même code, par le III de l'article L.  136-7-1 du
+code de la sécurité sociale ainsi que par le III de l'article  18 et l'article 19 de l'ordonnance n° 96-50 du 24 janvier 1996
+relative  au remboursement de la dette sociale. 
+
+Les  prélèvements sur les produits des jeux dans les casinos autorisés en  application de l'article L. 321-3 du présent code
+sont fixés par  l'article L. 2333-57 du code général des collectivités territoriales.
 
 **Nota:**
 
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+
 
 **Liens relatifs à cet article**
 
@@ -7587,11 +7591,11 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 10
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 97 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5211-21-1 (V)
+	  - Code général des collectivités territoriales - art. L5211-21-1
 
 	**Cité par**:
 
@@ -31037,7 +31041,7 @@ charge de mineurs.
 
 ### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES
 
-#### Chapitre Ier : Système d'information Schengen
+#### Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II)
 
 ##### Section 1 : Dispositions générales
 
@@ -31118,10 +31122,6 @@ Le bureau coordonne la vérification de la qualité des informations introduites
 	  - Code de la sécurité intérieure - art. R231-5 (V)
 	  - Code de la sécurité intérieure - art. R231-8 (V)
 
-
-#### Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II)
-
-##### Section 1 : Dispositions générales
 
 ##### Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II "
 
