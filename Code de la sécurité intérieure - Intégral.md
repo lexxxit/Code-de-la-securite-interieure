@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -20689,8 +20689,7 @@ La Commission nationale de contrôle des techniques de renseignement est une aut
 
 Elle est composée de neuf membres : 
 
-1° Deux députés et deux sénateurs, désignés, respectivement, pour la durée de la législature par l'Assemblée nationale et
-pour la durée de leur mandat par le Sénat, de manière à assurer une représentation pluraliste du Parlement ; 
+1° Deux députés et deux sénateurs, désignés de manière à assurer une représentation pluraliste du Parlement ; 
 
 2° Deux membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller d'Etat, nommés par le vice-président du
 Conseil d'Etat ; 
@@ -20708,15 +20707,7 @@ Le président de la commission est nommé par décret du Président de la Répub
 
 Le mandat des membres, à l'exception de ceux mentionnés au 1°, est de six ans. Il n'est pas renouvelable. 
 
-Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans. 
-
-La commission peut suspendre le mandat d'un de ses membres ou y mettre fin si elle constate, à la majorité des trois quarts
-des autres membres, qu'il se trouve dans une situation d'incompatibilité, qu'il est empêché d'exercer ses fonctions ou qu'il
-a manqué à ses obligations. 
-
-En cas de vacance d'un siège de membre, pour quelque cause que ce soit, il est procédé à la désignation ou à la nomination
-d'un nouveau membre pour la durée du mandat restant à courir. Si cette durée est inférieure à deux ans, le mandat du nouveau
-membre est renouvelable une fois.
+Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans.
 
 **Liens relatifs à cet article**
 
@@ -20728,12 +20719,12 @@ membre est renouvelable une fois.
 	  - Code de la sécurité intérieure - art. L821-3 (V)
 	  - Code de la sécurité intérieure - art. L831-2 (V)
 	  - Code de la sécurité intérieure - art. L832-2 (V)
-	  - Code de la sécurité intérieure - art. L832-3 (M)
+	  - Code de la sécurité intérieure - art. L832-3 (V)
 	  - Code de la sécurité intérieure - art. L853-3 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L831-2
@@ -20760,25 +20751,9 @@ Ces formations sont présidées par le président de la commission.
 #### Chapitre II : Règles de déontologie et de fonctionnement 
 
 
-###### Article L832-1
-
-Dans l'exercice de leurs fonctions, les membres de la commission ne reçoivent d'instruction d'aucune autorité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
-
-
 ###### Article L832-2
 
-Le président de la commission ne peut être titulaire d'aucun mandat électif et ne peut exercer aucune autre activité
-professionnelle. 
+Le président de la commission ne peut être titulaire d'aucun mandat électif et exerce ses fonctions à temps plein.
 
 La fonction de membre de la commission est incompatible avec tout intérêt, direct ou indirect, dans les services pouvant être
 autorisés à mettre en œuvre les techniques mentionnées au titre V du présent livre ou dans l'activité de l'une des personnes
@@ -20795,20 +20770,18 @@ l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'éco
 	  - Code des postes et des communications électroniques - art. L34-1
 	  - Code de la sécurité intérieure - art. L831-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L832-3
-
-La Commission nationale de contrôle des techniques de renseignement établit son règlement intérieur. 
 
 Les avis sur les demandes mentionnées à l'article L. 821-2 sont rendus par le président ou par un autre membre mentionné aux
 2° et 3° de l'article L. 831-1. Ces avis sont tenus à la disposition de tous les membres de la commission. 
 
 Toute question nouvelle ou sérieuse est renvoyée à la formation restreinte ou à la formation plénière. Ces formations peuvent
-également être réunies si le président de la commission ou le membre mentionné au deuxième alinéa du présent article estime
+également être réunies si le président de la commission ou le membre mentionné au premier alinéa du présent article estime
 que la validité de la demande n'est pas certaine. La formation restreinte et la formation plénière ne peuvent valablement
 délibérer que si, respectivement, au moins trois et quatre membres sont présents. Leurs décisions sont prises à la majorité
 des membres présents. 
@@ -20820,43 +20793,14 @@ l'article L. 821-2 lors de sa plus proche réunion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L821-2
-	  - Code de la sécurité intérieure - art. L831-1
-
-
-###### Article L832-4
-
-La commission dispose des moyens humains et techniques nécessaires à l'accomplissement de ses missions ainsi que des crédits
-correspondants, dans les conditions fixées par la loi de finances. [Dispositions déclarées non conformes à la Constitution
-par la décision du Conseil constitutionnel n° 2015-713 DC du 23 juillet 2015.] Le président est ordonnateur des dépenses de
-la commission. La loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui est pas applicable.
-La commission présente ses comptes au contrôle de la Cour des comptes. 
-
-Le secrétaire général de la commission assiste le président. Il est nommé par le président de la commission. 
-
-La commission peut bénéficier de la mise à disposition ou du détachement de fonctionnaires et de magistrats et recruter, au
-besoin, des agents contractuels, placés sous son autorité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi du 10 août 1922
-	  - DÉCISION n°2015-713 DC du 23 juillet 2015
-
-	**Créé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
+	  - Code de la sécurité intérieure - art. L831-1 (V)
 
 
 ###### Article L832-5
@@ -21069,8 +21013,6 @@ données sont estimées insuffisantes, soit par au moins trois membres de la com
 
 ###### Article L833-9
 
-La commission établit chaque année un rapport public dressant le bilan de son activité. 
-
 Dans le respect du secret de la défense nationale et sans révéler des procédures ou des méthodes opérationnelles, le rapport
 public de la commission fait état du nombre : 
 
@@ -21091,16 +21033,16 @@ Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23 j
 
 	**Cité par**:
 
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (M)
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
 
 	**Cite**:
 
 	  - DÉCISION n°2015-713 DC du 23 juillet 2015
 	  - Code de la sécurité intérieure - art. L821-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L833-10
@@ -22049,9 +21991,8 @@ informer le Premier ministre.
 
 Lorsque la commission estime que l'illégalité constatée est susceptible de constituer une infraction, elle saisit le
 procureur de la République dans le respect du secret de la défense nationale et transmet l'ensemble des éléments portés à sa
-connaissance à la Commission consultative du secret de la défense nationale afin que celle-ci donne au Premier ministre son
-avis sur la possibilité de déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la
-République. 
+connaissance à la Commission du secret de la défense nationale afin que celle-ci donne au Premier ministre son avis sur la
+possibilité de déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la République. 
 
 II.-Aucun agent ne peut être sanctionné ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en
 matière de rémunération, de recrutement, de titularisation, de notation, de discipline, de traitement, de formation, de
@@ -22068,15 +22009,16 @@ du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 	**Cite**:
 
-	  - Code pénal - art. 226-10 (M)
-	  - Code de la sécurité intérieure - art. L811-2 (V)
-	  - Code de la sécurité intérieure - art. L811-4 (V)
+	  - Code pénal - art. 226-10
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L833-8 (V)
 
 
 #### Chapitre II : De la protection juridique des agents
