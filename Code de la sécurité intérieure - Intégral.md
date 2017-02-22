@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-02-01
+Version Consolidée au 2017-02-23
 
 # Partie législative
 
@@ -23647,10 +23647,11 @@ la consommation, du travail et de l'emploi.
 
 ###### Article R122-24
 
-Par dérogation aux dispositions de l'article R. 122-20, les chefs de cour d'appel dont le ressort couvre le chef-lieu de la
-zone de défense et de sécurité exercent les fonctions d'autorités correspondantes du garde des sceaux, ministre de la
-justice, auprès du préfet de zone de défense et de sécurité. Ils animent et coordonnent la préparation et la mise en œuvre
-des politiques de défense et de sécurité des activités judiciaires et veillent à leur cohérence avec le dispositif zonal.
+Par dérogation aux dispositions de l'article R. 122-20, le garde des sceaux, ministre de la justice, établit par arrêté la
+liste des cours d'appel de zone de défense et de sécurité dont les chefs de cour sont chargés d'exercer les fonctions
+d'autorités correspondantes du ministre auprès du préfet de zone de défense et de sécurité. Par dérogation aux dispositions
+des articles R. 122-21, R. 122-22 et R. 122-25, ces autorités animent et coordonnent la préparation et la mise en œuvre des
+politiques de défense et de sécurité des activités judiciaires et veillent à leur cohérence avec le dispositif zonal.
 
 **Liens relatifs à cet article**
 
@@ -23658,17 +23659,19 @@ des politiques de défense et de sécurité des activités judiciaires et veille
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 	**Cité par**:
 
 	  - Décret n°2017-207 du 20 février 2017 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-207 du 20 février 2017 - art. 1
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R122-20 (VD)
+	  - Code de la sécurité intérieure - art. R122-20 (V)
+	  - Code de la sécurité intérieure - art. R122-21 (V)
+	  - Code de la sécurité intérieure - art. R122-25 (V)
 
 
 ###### Article R122-25
@@ -27404,20 +27407,37 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
+R. 122-17 à R. 122-23 
 
 </td>
       <td align="left" valign="top">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
+
+</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 R. 123-8, R. 123-10, R. 123-11 et
 
@@ -27480,7 +27500,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 58
+	  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 	**Cité par**:
 
@@ -27997,7 +28017,7 @@ d'Etat et en conseil des ministres)</td>
 
 ###### Article R156-2
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles D. 156-4 à R. 156-8, les
+Sont applicables en Nouvelle-Calédonie, sous réserve des  adaptations prévues aux articles D. 156-4 à R. 156-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
 colonne de droite du même tableau : 
 
@@ -28085,13 +28105,30 @@ concernant la défense et la sécurité nationale
     <tr>
       <td valign="top" align="left">
 
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
+R. 122-17 à R. 122-23 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
+
+</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
@@ -28105,8 +28142,7 @@ R. 123-31-1
 </td>
       <td valign="top" align="left">
 
-Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
-justice 
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
@@ -28140,7 +28176,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 58
+	  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 	**Cité par**:
 
@@ -28576,7 +28612,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 114-2, sauf le k du 1° et les n et o du 4° 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
 Conseil national des activités privées de sécurité 
@@ -28589,7 +28625,7 @@ Conseil national des activités privées de sécurité
 R. 114-3 à R. 114-5 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -28602,7 +28638,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 114-6 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -28621,20 +28657,33 @@ concernant la défense et la sécurité nationale
     <tr>
       <td valign="top" align="left">
 
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et
-
-R. 123-2 
+R. 122-17 à R. 122-23
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
@@ -28655,12 +28704,12 @@ justice
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 141-1 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -28678,7 +28727,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 58
+	  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 	**Cité par**:
 
@@ -28991,7 +29040,7 @@ Au titre Ier
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 113-1 à R. 113-2,
 
@@ -29011,7 +29060,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 114-2, sauf le k du 1° et les n et o du 4°
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
 Conseil national des activités privées de sécurité
@@ -29024,7 +29073,7 @@ Conseil national des activités privées de sécurité
 R. 114-3 à R. 114-5 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -29037,7 +29086,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 114-6
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
@@ -29052,16 +29101,31 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="center">R. 122-17 à R. 122-37, R. 123-1 et R. 123-2 </td>
+      <td align="center">R. 122-17 à R. 122-23 </td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 122-25 à R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
@@ -29105,7 +29169,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 58
+	  - Décret n°2017-207 du 20 février 2017 - art. 3
 
 	**Cite**:
 
