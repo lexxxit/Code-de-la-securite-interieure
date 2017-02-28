@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-02-23
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -73276,21 +73276,38 @@ professionnelles nécessaires.
 
 ###### Article R725-1
 
-L'agrément de sécurité civile peut être délivré aux associations susceptibles d'apporter leur concours aux opérations de
-secours ou de soutien aux populations qui disposent des moyens et des compétences permettant aux pouvoirs publics de les
-intégrer dans les dispositifs et actions mentionnés aux articles L. 725-3, L. 725-4 et L. 725-6.
+I. ―  Des agréments de sécurité civile peuvent être délivrés aux associations régulièrement déclarées ou inscrites au
+registre des associations du tribunal d'instance susceptibles d'apporter leur concours aux missions suivantes : 
+
+1° La participation aux opérations de secours au sens de l'article L. 1424-2 du code général des collectivités territoriales.
+Cet agrément est dénommé " agrément A " ; 
+
+2° La participation aux actions de soutien et d'accompagnement des populations victimes d'accidents, de sinistres ou de
+catastrophes. Cet agrément est dénommé " agrément B " ; 
+
+3° La participation à l'encadrement des bénévoles dans le cadre des actions de soutien aux populations, afin de contribuer à
+coordonner l'action des bénévoles spontanés, des associations autres qu'agréées de sécurité civile et des membres des
+réserves communales de sécurité civile. Cet agrément est dénommé " agrément C " ; 
+
+4° Les dispositifs prévisionnels de secours, dans le cadre de rassemblements de personnes. Cet agrément est dénommé "
+agrément D ". 
+
+II. ― Afin de bénéficier de l'un de ces agréments, les associations doivent disposer des moyens et des compétences permettant
+aux pouvoirs publics de les intégrer dans les missions mentionnées aux articles L. 725-3 à L. 725-6. 
+
+Les conditions d'application de cet article sont fixées, pour chacun des agréments mentionnés au I, par quatre arrêtés du
+ministre chargé de la sécurité civile. Ces arrêtés définissent les moyens, notamment le matériel, et les compétences,
+notamment les qualifications des personnes appelées à participer aux missions, nécessaires pour obtenir l'agrément.
+
+**Nota:**
+
+Conformément aux dispositions du II et du IV de l'article 11 du décret n° 2017-250 du 27 février 2017, les quatre arrêtés
+mentionnés à l'article R. 725-1, dans sa rédaction issue dudit décret, sont publiés au plus tard le 28 février 2017, ces
+dispositions entrent en vigueur le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 1 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -73305,10 +73322,14 @@ intégrer dans les dispositifs et actions mentionnés aux articles L. 725-3, L. 
 	  - Code de la sécurité intérieure - art. R765-2 (VD)
 	  - Code de la sécurité intérieure - art. R765-5 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-250 du 27 février 2017 - art. 2
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L725-3 (V)
-	  - Code de la sécurité intérieure - art. L725-6 (V)
+	  - Code général des collectivités territoriales - art. L1424-2
+	  - Code de la sécurité intérieure - art. L725-3
 
 
 ###### Article R725-2
