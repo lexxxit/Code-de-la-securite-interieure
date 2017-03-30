@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-31
 
 # Partie législative
 
@@ -6310,8 +6310,6 @@ l'autorité administrative prévus aux articles L. 312-7 et L. 312-12.
 	  - Code de la sécurité intérieure - art. L312-7 (VD)
 
 
-#### Chapitre III : Commerce de détail
-
 #### Chapitre III : Fabrication et commerce
 
 ###### Article L313-2
@@ -10428,8 +10426,6 @@ Le port de la carte professionnelle et celui de la tenue sont obligatoires penda
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-
-##### Section 4 : Port d'armes
 
 ##### Section 4 : Port d'armes et règles d'usage des armes
 
@@ -22743,13 +22739,13 @@ défense ;
 
 m) Des prestataires de service de confiance mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la
 qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité
-nationale ;
+nationale ; 
 
 n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des
 produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale ; 
 
 o) Des personnes physiques exerçant les fonctions de dirigeant ou de gérant d'un prestataire de formation aux activités
-privées de sécurité.  
+privées de sécurité. 
 
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de
 proximité ; 
@@ -22825,14 +22821,15 @@ que des organismes chargés des études de sûreté ;
 n) Des agents de sûreté portuaires, des agents de sûreté des installations portuaires et des personnes exécutant les missions
 prévues à l'article R. 321-12 du code des ports maritimes, mentionnés au livre III du même code ; 
 
-o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 2007-937 du 15 mai 2007 relatif à la sûreté
-des navires.
+o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 84-810 du 30 août 1984 relatif à la sauvegarde
+de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2007-937 du 15 mai 2007
+	  - Décret n°84-810 du 30 août 1984
+	  - Décret n°2015-350 du 27 mars 2015
 	  - Code des postes et des communications électroniques - art. L33-10
 	  - Code de procédure pénale - art. 529-4
 	  - Code de la défense. - art. R2321-2
@@ -22840,16 +22837,13 @@ des navires.
 	  - Code des ports maritimes - art. R321-12
 	  - Code des transports - art. L5332-6
 	  - Code des transports - art. L6342-4
+	  - Code de la sécurité intérieure - art. L234-2
 	  - Code de la sécurité intérieure - art. L613-2
 	  - Code de la sécurité intérieure - art. R114-1
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-515 du 26 avril 2016 - art. 50
 
 	**Cité par**:
 
@@ -22858,6 +22852,10 @@ des navires.
 	  - Code de la sécurité intérieure - art. R114-6 (V)
 	  - Code de la sécurité intérieure - art. R155-5 (VD)
 	  - Code de la sécurité intérieure - art. R156-5 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2017-422 du 28 mars 2017 - art. 13
 
 
 ###### Article R114-3
