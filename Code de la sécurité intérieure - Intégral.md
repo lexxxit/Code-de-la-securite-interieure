@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-03-31
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -22806,8 +22806,8 @@ i) Des agents de surveillance et gardiennage et des agents du service d'ordre de
 culturelles, habilités à procéder à des palpations de sécurité en application des articles L. 613-2 et L. 613-3 du présent
 code ; 
 
-j) Des agents de sûreté désignés pour procéder aux contrôles et visites mentionnés aux articles L. 5332-6 et L. 6342-4 du
-code des transports ; 
+j) Des agents de sûreté désignés pour procéder aux contrôles et visites mentionnés à l'article L. 6342-4 du code des
+transports ; 
 
 k) Des agents employés pour exercer une activité privée de transport de fonds, de bijoux ou de métaux précieux ; 
 
@@ -22818,8 +22818,7 @@ m) Des préposés du titulaire d'une autorisation individuelle d'exploitation d'
 produits explosifs, des personnes intervenant dans ces établissements en vue de l'entretien des équipements de sûreté, ainsi
 que des organismes chargés des études de sûreté ; 
 
-n) Des agents de sûreté portuaires, des agents de sûreté des installations portuaires et des personnes exécutant les missions
-prévues à l'article R. 321-12 du code des ports maritimes, mentionnés au livre III du même code ; 
+n) Des personnels de la sûreté portuaire énumérés à l'article R. 5332-55 du code des transports ; 
 
 o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 84-810 du 30 août 1984 relatif à la sauvegarde
 de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires.
@@ -22834,9 +22833,8 @@ de la vie humaine en mer, à la prévention de la pollution, à la sûreté et �
 	  - Code de procédure pénale - art. 529-4
 	  - Code de la défense. - art. R2321-2
 	  - Code de la route. - art. L130-4
-	  - Code des ports maritimes - art. R321-12
-	  - Code des transports - art. L5332-6
 	  - Code des transports - art. L6342-4
+	  - Code des transports - art. R5332-55
 	  - Code de la sécurité intérieure - art. L234-2
 	  - Code de la sécurité intérieure - art. L613-2
 	  - Code de la sécurité intérieure - art. R114-1
@@ -22855,7 +22853,7 @@ de la vie humaine en mer, à la prévention de la pollution, à la sûreté et �
 
 	**Modifié par**:
 
-	  - Décret n°2017-422 du 28 mars 2017 - art. 13
+	  - Décret n°2017-438 du 29 mars 2017 - art. 3
 
 
 ###### Article R114-3
@@ -27524,64 +27522,57 @@ d'Etat et en conseil des ministres)
 
 Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles D. 155-4 à R. 155-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre Ier 
-
-</td>
+      <td align="center">Au titre Ier</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 113-1 à R. 113-2, R. 114-1 
-
-</td>
+      <td align="center">R. 113-1 à R. 113-2, R. 114-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 114-2, sauf le k du 1° et les n et o du 4°
+R. 114-2, sauf le k du 1° et le o du 4°
 
 </td>
       <td>
 
-Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité
+Résultant du décret n° 2017-438 du 29 mars 2017
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 114-3 à R. 114-5 
+R. 114-3 à R. 114-5
 
 </td>
       <td>
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
@@ -27595,25 +27586,21 @@ R. 114-6
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II 
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 122-17 à R. 122-23 
+R. 122-17 à R. 122-23
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013
 
@@ -27622,67 +27609,49 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
     <tr>
       <td align="center">
 
-R. 122-24 
+R. 122-24
 
 </td>
-      <td>Résultant du décret n° 2017-207 du 20 février 2017  
-
-</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
     </tr>
     <tr>
-      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
-
-</td>
-      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
-
-</td>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 123-8, R. 123-10, R. 123-11 et
 
 R. 123-31-1
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
-justice 
+justice
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre III 
-
-</td>
+      <td align="center">Au titre III</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 131-1 
-
-</td>
+      <td align="center">R. 131-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre IV 
-
-</td>
+      <td align="center">Au titre IV</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 141-1 
-
-</td>
+      <td align="center">R. 141-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -27699,14 +27668,14 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2017-207 du 20 février 2017 - art. 2
-
 	**Cité par**:
 
 	  - Décret n°2017-438 du 29 mars 2017 - art. 4
 	  - Code de la sécurité intérieure - art. R155-5 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2017-438 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -28218,66 +28187,59 @@ d'Etat et en conseil des ministres)</td>
 
 ###### Article R156-2
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des  adaptations prévues aux articles D. 156-4 à R. 156-8, les
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles D. 156-4 à R. 156-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre Ier 
-
-</td>
+      <td align="center">Au titre Ier</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 113-1 à R. 113-2, R. 114-1 
-
-</td>
+      <td align="center">R. 113-1 à R. 113-2, R. 114-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 114-2, sauf le k du 1° et les n et o du 4°
+R. 114-2, sauf le k du 1° et le o du 4°
 
 </td>
       <td>
 
-Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité
+Résultant du décret n° 2017-438 du 29 mars 2017
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 114-3 à R. 114-5 
+R. 114-3 à R. 114-5
 
 </td>
       <td>
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
@@ -28291,74 +28253,58 @@ R. 114-6
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II 
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 122-17 à R. 122-23 
-
-</td>
-      <td align="left" valign="top">
-
-Résultant du décret n° 2013-1113 du 4 décembre 2013 
+R. 122-17 à R. 122-23
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-R. 122-24 
-
-</td>
-      <td>Résultant du décret n° 2017-207 du 20 février 2017 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
-
-</td>
-      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-R. 123-8, R. 123-10, R. 123-11 et
-
-R. 123-31-1 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre IV 
+      <td align="center">
+
+R. 122-24
 
 </td>
-      <td align="center">
+      <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
+    </tr>
+    <tr>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 123-8, R. 123-10, R. 123-11 et
+
+R. 123-31-1
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 141-1 
-
-</td>
+      <td align="center">Au titre IV</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">R. 141-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -28375,11 +28321,11 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2017-207 du 20 février 2017 - art. 2
-
 	**Cité par**:
+
+	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+
+	**Modifié par**:
 
 	  - Décret n°2017-438 du 29 mars 2017 - art. 4
 
@@ -28777,140 +28723,123 @@ colonne de droite du même tableau :
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre Ier 
-
-</td>
+      <td align="center">Au titre Ier</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 113-1 à R. 113-2, R. 114-1 
+R. 113-1 à R. 113-2, R. 114-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 114-2, sauf le k du 1° et les n et o du 4° 
+R. 114-2, sauf le k du 1° et le o du 4°
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité 
+Résultant du décret n° 2017-438 du 29 mars 2017
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 114-3 à R. 114-5 
+R. 114-3 à R. 114-5
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 114-6 
+R. 114-6
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II 
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 122-17 à R. 122-23
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2013-1113 du 4 décembre 2013 
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 122-24 
+R. 122-24
 
 </td>
-      <td>Résultant du décret n° 2017-207 du 20 février 2017  
-
-</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
     </tr>
     <tr>
-      <td align="center"> R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
-      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
-
-</td>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
+R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
-justice 
+justice
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre IV 
-
-</td>
+      <td align="center">Au titre IV</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 141-1 
+R. 141-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -28926,11 +28855,11 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2017-207 du 20 février 2017 - art. 2
-
 	**Cité par**:
+
+	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+
+	**Modifié par**:
 
 	  - Décret n°2017-438 du 29 mars 2017 - art. 4
 
@@ -51375,7 +51304,9 @@ arrêté conjointement par le ministre de l'intérieur et le ministre chargé du
 ###### Article R413-14
 
 Le directeur de l'école est nommé par décret sur proposition du ministre de l'intérieur pour une durée de trois ans
-renouvelable une fois. 
+renouvelable une fois. L'emploi de directeur de l'Ecole nationale supérieure de la police est régi par les dispositions du
+décret n° 2007-315 du 7 mars 2007 relatif aux conditions de nomination et d'avancement dans les emplois d'inspecteur général
+et de contrôleur général des services actifs de la police nationale, à l'exception du second alinéa de l'article 1er. 
 
 Il assure le fonctionnement de l'établissement conformément aux délibérations du conseil d'administration ; il est en
 particulier responsable de l'ordre et de la sécurité. 
@@ -51388,7 +51319,7 @@ Il représente l'établissement dans les actes de la vie civile.
 
 Il a autorité sur l'ensemble des personnels permanents ou en formation. 
 
-Il peut recruter des agents contractuels dans les limites et conditions fixées aux articles 3, 4 et 6 à 6 sexies de la loi n°
+Il peut recruter des agents contractuels dans les limites et conditions fixées aux articles 3,4 et 6 à 6 sexies de la loi n°
 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. 
 
 Il établit chaque année un rapport d'activités pédagogique, administrative et financière. 
@@ -51403,20 +51334,17 @@ recherche, au secrétaire général et aux chefs de département.
 
 	**Cite**:
 
-	  - Loi n°84-16 du 11 janvier 1984 - art. 3 (V)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 6 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°88-379 du 20 avril 1988 - art. 14 (VT)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 3
+	  - Loi n°84-16 du 11 janvier 1984 - art. 6
+	  - Décret n°2007-315 du 7 mars 2007
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2017-452 du 29 mars 2017 - art. 10
 
 
 ###### Article R413-15
@@ -52152,7 +52080,10 @@ par arrêté conjoint du ministre chargé du budget et du ministre de l'intérie
 
 ###### Article R413-40
 
-Le directeur de l'Institut national de police scientifique est nommé par décret sur proposition du ministre de l'intérieur. 
+Le directeur de l'Institut national de police scientifique est nommé par décret sur proposition du ministre de l'intérieur.
+L'emploi de directeur de l'Institut national de police scientifique est régi par les dispositions du décret n° 2007-315 du 7
+mars 2007 relatif aux conditions de nomination et d'avancement dans les emplois d'inspecteur général et de contrôleur général
+des services actifs de la police nationale, à l'exception du second alinéa de l'article 1er. 
 
 Il prépare et met en œuvre les décisions soumises au conseil d'administration. Il rend compte à chaque séance du conseil
 d'administration des décisions qu'il a prises en vertu des délégations qui lui ont été accordées. Il prépare, en liaison avec
@@ -52182,13 +52113,17 @@ approbation.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2007-315 du 7 mars 2007
+
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Modifié par**:
 
-	  - Décret n°2016-389 du 30 mars 2016 - art. 7
+	  - Décret n°2017-452 du 29 mars 2017 - art. 10
 
 
 ###### Article R413-41
@@ -74397,20 +74332,21 @@ obligations de la présente section, le préfet peut constater que tout ou parti
 
 Les exploitants des ouvrages routiers, ferroviaires ou fluviaux doivent garantir aux services publics qui concourent aux
 missions de sécurité civile la continuité des communications radioélectriques avec les moyens propres à ces services en tout
-point de l'infrastructure.
+point de l'infrastructure. 
 
-Ces dispositions sont applicables :
+Ces dispositions sont applicables : 
 
 1° Pour le domaine routier, à tout ouvrage au stade des études dont le projet d'ouvrage d'art, pour le réseau routier
 national non concédé, ou dont l'avant-projet d'ouvrage d'art, pour les autoroutes concédées, n'a pas été approuvé au 17
-février 2006 ;
+février 2006 ; 
 
 2° Pour le domaine ferroviaire, à tout ouvrage dont le dossier préliminaire de sécurité, mentionné, pour les transports
-publics guidés, à l'article 16 du décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés et,
-pour ceux du réseau ferré national, mentionné à l'article 48 du décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité
-des circulations ferroviaires et à l'interopérabilité du système ferroviaire, n'a pas été approuvé à la même date ;
+publics guidés, à l'article 16 du décret        n° 2017-440 du 30 mars 2017 relatif à la sécurité des transports publics
+guidés et, pour ceux du réseau ferré national, mentionné à l'article 48 du décret n° 2006-1279 du 19 octobre 2006 relatif à
+la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, n'a pas été approuvé à la même
+date ; 
 
-3° Pour le domaine fluvial, à tout projet d'ouvrage d'art.
+3° Pour le domaine fluvial, à tout projet d'ouvrage d'art. 
 
 Les ouvrages routiers, ferroviaires ou fluviaux qui ne relèvent pas des catégories mentionnées ci-dessus doivent se conformer
 à cette obligation dans un délai de trois ans à compter de la même date.
@@ -74419,20 +74355,16 @@ Les ouvrages routiers, ferroviaires ou fluviaux qui ne relèvent pas des catégo
 
 	**Cite**:
 
-	  - Décret n°2003-425 du 9 mai 2003 - art. 16 (V)
-	  - Décret n°2006-1279 du 19 octobre 2006 - art. 48 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-165 du 10 février 2006 - art. 2 (VT)
+	  - Décret n°2003-425 du 9 mai 2003 - art. 16
+	  - Décret n°2006-1279 du 19 octobre 2006 - art. 48
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-440 du 30 mars 2017 - art. 101
 
 	**Cité par**:
 
@@ -77254,21 +77186,22 @@ octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'inte
 ###### Article R741-44
 
 Le contenu et les modalités de réalisation du plan d'intervention et de sécurité par l'exploitant d'un système de transport
-public guidé sont fixées par le décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés.
+public guidé sont fixées par le décret        n° 2017-440 du 30 mars 2017 relatif à la sécurité des transports publics
+guidés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2003-425 du 9 mai 2003 (V)
+	  - Décret n°2003-425 du 9 mai 2003
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-440 du 30 mars 2017 - art. 101
 
 
 ##### Sous-section 4 : Plan interne de crise pour le maintien de la satisfaction des besoins prioritaires de la population
