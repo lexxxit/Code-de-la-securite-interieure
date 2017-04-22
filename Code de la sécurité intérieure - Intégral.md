@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2017-04-23
 
 # Partie législative
 
@@ -30529,6 +30529,117 @@ l'organisation et le fonctionnement du service d'ordre.
 	  - Code de la sécurité intérieure - art. R211-24 (VD)
 
 
+##### Section 6 : Grands événements
+
+###### Article R211-32
+
+Avant d'autoriser l'accès d'une personne physique à un autre titre que celui de spectateur ou de participant, à tout ou
+partie d'un établissement ou d'une installation accueillant un grand événement mentionné à l'article L. 211-11-1 du même
+code, l'organisateur demande par écrit l'avis de l'autorité administrative. 
+
+La demande de l'organisateur comprend : 
+
+1° L'identité de la personne, sa nationalité, ses date et lieu de naissance et son domicile ; 
+
+2° Le motif de l'accès à l'établissement ou l'installation. 
+
+L'organisateur y joint la description des différentes catégories de spectateurs et de participants. 
+
+L'autorité administrative compétente, qui est le ministre de l'intérieur, ou un préfet de département, ou le préfet de
+police, ou le préfet de police des Bouches-du-Rhône est désignée, pour chaque grand événement, par le décret prévu au premier
+alinéa de l'article L. 211-11-1 du même code, lequel fixe également les délais de transmission de la demande et d'exécution
+de l'enquête administrative. 
+
+L'avis est rendu à la suite d'une enquête administrative, diligentée par le ministre de l'intérieur à la demande de
+l'autorité administrative. L'enquête est destinée à vérifier que le comportement ou les agissements de la personne ne sont
+pas de nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat. 
+
+Cette enquête peut donner lieu, selon les règles propres à chacun d'eux et dans la seule mesure où elles le permettent, à la
+consultation des traitements automatisés de données à caractère personnel suivants : 
+
+1° Le traitement d'antécédents judiciaires mentionné aux articles R. 40-23 et suivants du code de procédure pénale ; 
+
+2° Le traitement automatisé de données à caractère personnel dénommé “ Enquêtes administratives liées à la sécurité publique
+” mentionné aux articles R. 236-1 et suivants du présent code ; 
+
+3° Le traitement automatisé de données à caractère personnel dénommé “ Prévention des atteintes à la sécurité publique ”
+mentionné aux articles R. 236-11 et suivants du présent code ; 
+
+4° Le traitement automatisé de données à caractère personnel dénommé “ Gestion de l'information et prévention des atteintes à
+la sécurité publique ” mentionné aux articles R. 236-21 et suivants du présent code ; 
+
+5° Le fichier des personnes recherchées prévu par le décret n° 2010-569 du 28 mai 2010; 
+
+6° Le traitement automatisé de données à caractère personnel dénommé CRISTINA et mentionné au 1 de l'article 1 du décret du
+15 mai 2007 ; 
+
+7° Le traitement automatisé de données à caractère personnel dénommé FSPRT et mentionné au 12 de l'article 1 du décret du 15
+mai 2007. 
+
+Seul le sens de l'avis est transmis à l'organisateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2010-569 du 28 mai 2010
+	  - Code de procédure pénale - art. R40-23
+	  - Code de la sécurité intérieure - art. L211-11-1
+	  - Code de la sécurité intérieure - art. R236-1
+	  - Code de la sécurité intérieure - art. R236-11
+
+	**Créé par**:
+
+	  - Décret n°2017-587 du 20 avril 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R211-33 (V)
+
+
+###### Article R211-33
+
+La procédure prévue à l'article R. 211-32 s'applique à toute personne accédant à un autre titre que celui de spectateur ou de
+participant à tout ou partie d'un établissement ou d'une installation délimité par le décret prévu au premier alinéa de
+l'article L. 211-11-1 du code de la sécurité intérieure, et notamment aux personnes contribuant au soutien technique ou
+logistique et à l'approvisionnement de l'évènement, assurant le fonctionnement, l'entretien, la maintenance ou la
+surveillance des installations et espaces concernés ou exerçant une activité quelconque, occasionnelle ou permanente,
+professionnelle ou bénévole, même sans rapport avec le grand évènement, notamment commerciale, au sein des établissements et
+installations concernés ; la qualité de résident dans la zone concernée ne fait pas obstacle à la mise en œuvre de la
+procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-587 du 20 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-11-1
+	  - Code de la sécurité intérieure - art. R211-32
+
+
+###### Article R211-34
+
+L'organisateur informe par tout moyen permettant de conserver la copie de cette information la personne concernée de la
+demande d'avis formulée auprès de l'autorité administrative, et lui indique que, dans ce cadre, elle fait l'objet d'une
+enquête administrative conformément aux dispositions de l'article L. 211-11-1 du présent code. 
+
+Lorsque l'organisateur refuse l'accès à une personne sur le fondement de l'avis qu'il a reçu, il informe la personne
+concernée par tout moyen permettant de conserver la copie de cette information et mentionne le sens de l'avis reçu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-587 du 20 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-11-1
+
+
 #### Chapitre IV : Dispositions diverses
 
 ###### Article R214-1
@@ -36453,12 +36564,8 @@ ci-après, dans leur rédaction indiquée dans la colonne de droite du même tab
 <table>
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES 
-
-</th>
-      <th>DANS LEUR RÉDACTION 
-
-</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
@@ -36467,13 +36574,9 @@ Au titre Ier
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8 
-
-</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -36482,35 +36585,39 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3 
-
-</td>
+      <td align="left">R. 211-32 à R. 211-34 </td>
+      <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
+code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
+grands événements </td>
+    </tr>
+    <tr>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -36525,30 +36632,28 @@ Au titre II
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
 concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 223-2 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36556,12 +36661,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 224-1 à R. 224-6 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
 français projetant de participer à des activités terroristes à l'étranger 
@@ -36571,12 +36676,10 @@ français projetant de participer à des activités terroristes à l'étranger
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
-      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
-
-</td>
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
@@ -36585,38 +36688,36 @@ Au titre III
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td align="center">R. 232-1 à R. 232-5-1 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 232-12 et R. 232-13
+R. 232-12 et R. 232-13 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 232-14 et R. 232-15 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
@@ -36624,25 +36725,25 @@ relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 23
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 232-16 à R. 232-18 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 232-19 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
 français projetant de participer à des activités terroristes à l'étranger 
@@ -36650,9 +36751,7 @@ français projetant de participer à des activités terroristes à l'étranger
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 
-
-</td>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -36661,40 +36760,40 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 234-3 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
 services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
-234-4 du code de la sécurité intérieure
+234-4 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 236-1 à R. 236-45
+R. 236-1 à R. 236-45 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -36702,23 +36801,23 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 236-1 à R. 236-53 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
 d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
-territorial
+territorial 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -36726,7 +36825,7 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
       <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
@@ -36738,28 +36837,26 @@ Au titre V
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 251-1 et R. 251-2 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 251-3 à R. 251-12 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure 
@@ -36769,12 +36866,12 @@ la sécurité intérieure
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 252-2 à R. 253-4 
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -36792,10 +36889,13 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Décret n°2013-1113 du 4 décembre 2013
 	  - Décret n°2014-901 du 18 août 2014
 	  - Décret n°2014-1095 du 26 septembre 2014
+	  - Décret n°2014-1253 du 27 octobre 2014
 	  - Décret n°2015-26 du 14 janvier 2015
 	  - Décret n°2015-1328 du 21 octobre 2015
 	  - Décret n°2015-1807 du 28 décembre 2015
 	  - Décret n°2016-1045 du 29 juillet 2016
+	  - Décret n°2017-587 du 20 avril 2017
+	  - Code de la sécurité intérieure - art. L211-11-1
 	  - Code de la sécurité intérieure - art. L232-7
 	  - Code de la sécurité intérieure - art. L234-4
 	  - Code de la sécurité intérieure - art. L811-2
@@ -36809,7 +36909,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1860 du 23 décembre 2016 - art. 2
+	  - Décret n°2017-587 du 20 avril 2017 - art. 2
 
 	**Cité par**:
 
