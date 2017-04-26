@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-04-24
+Version Consolidée au 2017-04-27
 
 # Partie législative
 
@@ -24718,21 +24718,21 @@ Le comité départemental de sécurité, placé auprès du préfet de départeme
 département des Bouches-du-Rhône, auprès du préfet de police des Bouches-du-Rhône, concourt à la mise en œuvre, dans le
 département, de la politique publique en matière de sécurité intérieure. Il est régi par les dispositions des articles 8 et 9
 du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la simplification de la composition de diverses
-commissions administratives. 
+commissions administratives.
 
-Il a notamment pour attributions : 
+Il a notamment pour attributions :
 
 1° De veiller à la cohérence de l'action des services de l'Etat en matière de sécurité des personnes et des biens et de
-proposer les conditions de leur engagement ; 
+proposer les conditions de leur engagement ;
 
 2° D'animer et de coordonner la lutte contre les trafics de toute nature, l'économie souterraine, les violences urbaines et
-la délinquance routière ; 
+la délinquance routière ;
 
-3° De tenir les tableaux de bord départementaux de l'activité des services de l'Etat et d'évaluer les actions entreprises ; 
+3° De tenir les tableaux de bord départementaux de l'activité des services de l'Etat et d'évaluer les actions entreprises ;
 
 4° D'établir le rapport sur l'état de la délinquance qui doit être adressé au conseil départemental de prévention de la
-délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
-mentionné à l'article D. 132-5.
+délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D.
+132-5.
 
 **Liens relatifs à cet article**
 
@@ -24747,7 +24747,7 @@ mentionné à l'article D. 132-5.
 
 	**Modifié par**:
 
-	  - Décret n°2014-134 du 17 février 2014 - art. 6
+	  - Décret n°2017-618 du 25 avril 2017 - art. 10
 
 
 ###### Article D122-57
@@ -26062,47 +26062,49 @@ les dirigeants d'organismes publics ou privés intéressés.
 
 ##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
 
+##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
+
 ###### Article D132-5
 
-Le conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la
-drogue, les dérives sectaires et les violences faites aux femmes, placé auprès du préfet de département, concourt à la mise
-en œuvre, dans le département, des politiques publiques dans ces domaines. Sa compétence inclut notamment la prévention des
-conduites d'addiction et la lutte contre l'insécurité routière et, plus généralement, contre les violences et incivilités de
-toute nature. Il est régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la
-réduction du nombre et à la simplification de la composition de diverses commissions administratives. 
+Le conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives
+sectaires et les violences faites aux femmes, placé auprès du préfet de département, concourt à la mise en œuvre, dans le
+département, des politiques publiques dans ces domaines. Sa compétence inclut notamment la prévention des conduites
+d'addiction et la lutte contre l'insécurité routière et, plus généralement, contre les violences et incivilités de toute
+nature. Il est régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du
+nombre et à la simplification de la composition de diverses commissions administratives.
 
-Dans le cadre de ses attributions, le conseil départemental : 
+Dans le cadre de ses attributions, le conseil départemental :
 
 1° Examine chaque année le rapport sur l'état de la délinquance dans le département qui lui est adressé par le comité
-départemental de sécurité ; 
+départemental de sécurité ;
 
 2° Examine et donne son avis sur le projet de plan de prévention de la délinquance et de la radicalisation dans le
-département prévu à l'article D. 132-13 ; 
+département prévu à l'article D. 132-13 ;
 
-3° Est informé de l'activité des conseils locaux de sécurité et de prévention de la délinquance et de la radicalisation ; 
+3° Est informé de l'activité des conseils locaux de sécurité et de prévention de la délinquance et de la radicalisation ;
 
 4° Examine le rapport annuel du préfet de département relatif aux actions financées par le fonds interministériel de
-prévention de la délinquance ; 
+prévention de la délinquance ;
 
 5° Fait toutes propositions utiles aux institutions et organismes publics et privés du département intéressés par la
-prévention de la délinquance et de la radicalisation ; 
+prévention de la délinquance et de la radicalisation ;
 
 6° Assure la coordination dans le département des actions préventives et répressives des pouvoirs publics à l'encontre des
 agissements contraires à la loi n° 2001-504 du 12 juin 2001 tendant à renforcer la prévention et la répression des mouvements
-sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales ; 
+sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales ;
 
-7° Elabore le plan départemental de lutte contre la drogue et de prévention des conduites d'addiction ; 
+7° Elabore le plan départemental de lutte contre la drogue et de prévention des conduites d'addiction ;
 
 8° Elabore des programmes de prévention de la délinquance et de la radicalisation des mineurs et de lutte contre les
-violences faites aux femmes et contre la violence dans le sport ; 
+violences faites aux femmes et contre la violence dans le sport ;
 
 9° Concourt à l'élaboration des orientations de la politique de sécurité routière dans le département et approuve le plan des
-actions à mettre en œuvre ; 
+actions à mettre en œuvre ;
 
-10° Veille à la réalisation de ces plans et programmes et établit chaque année le bilan de leur mise en œuvre ; 
+10° Veille à la réalisation de ces plans et programmes et établit chaque année le bilan de leur mise en œuvre ;
 
-11° Suscite et encourage les initiatives en matière de prévention et d'aide aux victimes ainsi que la mise en œuvre des
-travaux d'intérêt général dans le département.
+11° Suscite et encourage les initiatives en matière de prévention et la mise en œuvre des travaux d'intérêt général dans le
+département.
 
 **Liens relatifs à cet article**
 
@@ -26117,35 +26119,35 @@ travaux d'intérêt général dans le département.
 
 	**Modifié par**:
 
-	  - Décret n°2016-553 du 6 mai 2016 - art. 8
+	  - Décret n°2017-618 du 25 avril 2017 - art. 10
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. D122-56 (V)
-	  - Code de la sécurité intérieure - art. D132-13 (M)
+	  - Code de la sécurité intérieure - art. D132-13 (V)
 	  - Code de la sécurité intérieure - art. D132-14 (V)
 	  - Code de la sécurité intérieure - art. D132-6 (V)
 
 
 ###### Article D132-6
 
-Le conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la
-drogue, les dérives sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du
-conseil départemental et le procureur de la République en sont les vice-présidents. 
+Le conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives
+sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du conseil départemental
+et le procureur de la République en sont les vice-présidents.
 
-Il comprend en outre : 
+Il comprend en outre :
 
-1° Des magistrats appartenant aux juridictions ayant leur siège dans le département ; 
+1° Des magistrats appartenant aux juridictions ayant leur siège dans le département ;
 
 2° Des représentants des services de l'Etat, notamment des services de la police et de la gendarmerie nationales, de
 l'économie et des finances, de l'équipement, des droits des femmes et de l'égalité, des affaires sanitaires et sociales, de
 l'éducation nationale, de la jeunesse et des sports, de la protection judiciaire de la jeunesse et de l'administration
-pénitentiaire, du travail, de l'emploi et de la formation professionnelle ; 
+pénitentiaire, du travail, de l'emploi et de la formation professionnelle ;
 
-3° Des représentants des collectivités territoriales et de leurs établissements publics ; 
+3° Des représentants des collectivités territoriales et de leurs établissements publics ;
 
 4° Des représentants d'associations, établissements ou organismes et des personnalités qualifiées œuvrant dans les domaines
-mentionnés à l'article D. 132-5. 
+mentionnés à l'article D. 132-5.
 
 Le préfet de département consulte les vice-présidents avant d'arrêter la composition du conseil départemental.
 
@@ -26153,7 +26155,7 @@ Le préfet de département consulte les vice-présidents avant d'arrêter la com
 
 	**Modifié par**:
 
-	  - Décret n°2016-553 du 6 mai 2016 - art. 9
+	  - Décret n°2017-618 du 25 avril 2017 - art. 10
 
 	**Cite**:
 
@@ -26406,13 +26408,13 @@ l'établissement public de coopération intercommunale.
 
 Le plan de prévention de la délinquance dans le département fixe les priorités de l'Etat en matière de prévention de la
 délinquance, dans le respect des orientations nationales définies par le comité interministériel de prévention de la
-délinquance et de la radicalisation. 
+délinquance et de la radicalisation.
 
-Il constitue le cadre de référence de l'Etat pour sa participation aux contrats locaux de sécurité. 
+Il constitue le cadre de référence de l'Etat pour sa participation aux contrats locaux de sécurité.
 
 Le plan est arrêté par le préfet de département après consultation du procureur de la République, puis du conseil
-départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les
-violences faites aux femmes mentionné à l'article D. 132-5. 
+départemental de prévention de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux
+femmes mentionné à l'article D. 132-5.
 
 Le préfet de département informe les maires et les présidents des établissements publics de coopération intercommunale
 compétents en matière de prévention de la délinquance des priorités du plan de prévention de la délinquance et de la
@@ -26426,25 +26428,25 @@ radicalisation dans le département.
 
 	**Modifié par**:
 
-	  - Décret n°2016-553 du 6 mai 2016 - art. 11
+	  - Décret n°2017-618 du 25 avril 2017 - art. 10
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D132-5
+	  - Code de la sécurité intérieure - art. D132-5 (V)
 
 
 ##### Section 6 : Dispositions particulières à Paris
 
 ###### Article D132-14
 
-A Paris, les attributions du conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux
-victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D.
-132-5 et celles du conseil local de sécurité et de prévention de la délinquance mentionné à l'article D. 132-7 sont exercées
-par un conseil parisien de sécurité et de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les
-dérives sectaires et les violences faites aux femmes placé auprès du préfet de police. 
+A Paris, les attributions du conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre
+la drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D. 132-5 et celles du conseil local
+de sécurité et de prévention de la délinquance mentionné à l'article D. 132-7 sont exercées par un conseil parisien de
+sécurité et de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les
+violences faites aux femmes placé auprès du préfet de police.
 
 Ce conseil est présidé conjointement par le préfet de police, le maire de Paris et le procureur de la République près le
-tribunal de grande instance de Paris. Le maire et le procureur de la République sont consultés sur sa composition. 
+tribunal de grande instance de Paris. Le maire et le procureur de la République sont consultés sur sa composition.
 
 Il peut être créé, dans les arrondissements, en vue d'assurer le suivi des contrats locaux de sécurité, des conseils de
 sécurité et de prévention de la délinquance dont la composition, l'organisation et le fonctionnement sont fixés, après
@@ -26459,7 +26461,7 @@ police et du maire de Paris.
 
 	**Modifié par**:
 
-	  - Décret n°2016-553 du 6 mai 2016 - art. 12
+	  - Décret n°2017-618 du 25 avril 2017 - art. 10
 
 	**Cité par**:
 
