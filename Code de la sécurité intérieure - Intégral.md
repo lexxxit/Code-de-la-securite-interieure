@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-04-27
+Version Consolidée au 2017-05-06
 
 # Partie législative
 
@@ -23047,6 +23047,197 @@ aux a, b et h du 1° et j du 3° de l'article R. 114-2 ainsi qu'aux 1°, 2° et 
 	  - Code de la sécurité intérieure - art. R114-5
 
 
+###### Article R114-7
+
+Peuvent être précédées des enquêtes prévues à l'article L. 114-2 les décisions de recrutement et d'affectation concernant les
+fonctions suivantes :
+
+1° Salariés des entreprises de transport public de personnes :
+
+a) Agent chargé du contrôle et de la commande des installations de sécurité du réseau ferroviaire ou guidé : aiguilleur,
+gestionnaire des mouvements des trains, agent en fonctions dans un poste central de commandement ou dans un poste de
+régulation ;
+
+b) Administrateur des systèmes d'information liés à l'exploitation du réseau ferroviaire ou guidé ;
+
+c) Concepteur des systèmes de contrôle et de commande des installations ferroviaires ou guidées ;
+
+d) Conducteur de véhicule de transport public collectif de personnes par voie ferrée, guidée ou routière ;
+
+e) Agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens ;
+
+f) Personnel embarqué à bord des navires à passagers, au sens du décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de
+la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution, titulaires des titres de sûreté
+maritime ;
+
+g) Agent d'une compagnie exploitant des navires à passagers, au sens du décret du 30 août 1984 précité, agréé au titre du
+code international pour la sûreté des navires et des installations portuaires ;
+
+h) Membres d'équipage de bateaux de transport par voies de navigation intérieure ;
+
+2° Salariés des entreprises de transport de marchandises dangereuses soumises à l'obligation d'adopter un plan de sûreté :
+
+a) Conducteur de véhicules routiers transportant des marchandises définies au point 1.10.3.1 de l'accord européen relatif au
+transport international des marchandises dangereuses par route ;
+
+b) Conducteur de train de fret transportant des marchandises définies au point 1.10.3.1 du règlement concernant le transport
+international ferroviaire des marchandises dangereuses annexé à la convention relative aux transports internationaux
+ferroviaires, ainsi que les fonctions de planification opérationnelle de ces transports, et d'examen visuel prévu au point
+1.4.2.2.1 de ce règlement ;
+
+c) Membres d'équipage de bateaux transportant par voies de navigation intérieure des marchandises définies au 1.10.3.1 de
+l'accord européen relatif au transport international de marchandises dangereuses par voies de navigation intérieures ;
+
+3° Personnels embarqués à bord des navires titulaires des titres de sûreté maritime transportant des marchandises dangereuses
+énumérées ci-après :
+
+a) Hydrocarbures transportés en vrac, tels que définis à la règle 1 de l'Annexe I de la Convention internationale de 1973
+pour la prévention de la pollution par les navires, telle que modifiée par le Protocole de 1978 y relatif et telle
+qu'amendée ;
+
+b) Substances liquides nocives et dangereuses transportées en vrac, énumérées aux chapitres 17 et 18 du Recueil international
+de règles relatives à la construction et à l'équipement des navires transportant des produits chimiques dangereux en vrac et
+produits dangereux pour le transport desquels les conditions préliminaires appropriées ont été prescrites par
+l'Administration et les administrations portuaires intéressées conformément au paragraphe 1.1.6 de ce recueil ;
+
+c) Gaz liquéfiés énumérés au chapitre 19 du recueil international de règles relatives à la construction et à l'équipement des
+navires transportant des gaz liquéfiés en vrac, et produits pour le transport desquels des conditions préliminaires
+appropriées ont été prescrites par l'administration et les administrations portuaires intéressées conformément au paragraphe
+1.1.6.1 de ce recueil ;
+
+d) Marchandises dangereuses transportées en colis définies au 1.4.3.1. du code maritime international des marchandises
+dangereuses.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°84-810 du 30 août 1984
+	  - Code de la sécurité intérieure - art. L114-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-757 du 3 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R114-9 (V)
+
+
+###### Article R114-8
+
+I. – L'employeur peut demander par écrit au ministre de l'intérieur, avant le recrutement ou l'affectation d'une personne sur
+un emploi correspondant à l'une des fonctions mentionnées à l'article R. 114-7, de faire procéder à une enquête destinée à
+vérifier que son comportement n'est pas incompatible avec l'exercice des missions envisagées au regard du critère prévu au
+cinquième alinéa de l'article L. 114-2. 
+
+Cette demande est formulée par le chef d'entreprise ou son délégataire spécialement habilité et désigné à cette fin. 
+
+La demande comprend : 
+
+1° L'identité de la personne dont le recrutement ou l'affectation est envisagé, sa nationalité, ses date et lieu de naissance
+et son domicile ; 
+
+2° La description de l'emploi pour lequel le recrutement ou l'affectation est envisagé. 
+
+L'employeur informe par écrit la personne susceptible d'être recrutée ou affectée sur un emploi correspondant à l'une des
+fonctions mentionnées à l'article R. 114-7 qu'elle peut, dans ce cadre, faire l'objet d'une enquête administrative
+conformément aux dispositions de l'article L. 114-2. 
+
+II. – Lorsque le comportement d'un salarié occupant un emploi correspondant à l'une des fonctions mentionnées à l'article R.
+114-7 laisse apparaître des doutes sur sa compatibilité avec l'exercice de cette fonction, l'employeur peut également
+demander au ministre de l'intérieur de faire procéder à une enquête dans les conditions prévues aux cinq premiers alinéas du
+I du présent article. La demande comprend les éléments circonstanciés justifiant ces doutes. Le ministre n'est pas tenu de
+donner suite aux demandes répétitives ou insuffisamment justifiées. 
+
+L'employeur informe par tout moyen la personne qui occupe un emploi correspondant à l'une des fonctions mentionnées à
+l'article R. 114-7 qu'elle peut, dans ce cadre, faire l'objet d'une enquête administrative conformément aux dispositions de
+l'article L. 114-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-757 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L114-2 (V)
+
+
+###### Article R114-9
+
+Les traitements automatisés de données à caractère personnel relevant de l'article 26 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés dont les données peuvent être utilisées pour la mise en œuvre des
+articles R. 114-7 à R. 114-10 sont ceux dont l'acte de création prévoit qu'ils peuvent être consultés pour les besoins des
+enquêtes administratives prévues par l'article L. 114-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+	  - Code de la sécurité intérieure - art. L114-2 (V)
+	  - Code de la sécurité intérieure - art. R114-7 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-757 du 3 mai 2017 - art. 1
+
+
+###### Article R114-10
+
+I. – Après avoir diligenté une enquête administrative, en application du I de l'article R. 114-8, sur demande de l'employeur,
+le ministre, au vu des éléments dont il dispose, transmet à l'employeur, dans un délai de deux mois, le résultat de l'enquête
+sous la forme d'un avis indiquant si le comportement de l'intéressé est compatible avec les emplois correspondant aux
+fonctions mentionnées à l'article R. 114-7. 
+
+II. – Lorsque, dans le cas d'une enquête administrative réalisée en application du II de l'article R. 114-8, le ministre
+constate, au vu des éléments dont il dispose, que le comportement du salarié est incompatible avec l'emploi occupé, il
+notifie au salarié l'avis motivé d'incompatibilité dans un délai d'un mois. 
+
+Le salarié peut effectuer un recours administratif devant le ministre de l'intérieur dans le même délai que celui prévu au
+neuvième alinéa de l'article L. 114-2 dans le cas d'un recours contentieux. Le recours administratif interrompt le délai de
+recours contentieux. Le silence gardé par le ministre de l'intérieur pendant quinze jours vaut décision de rejet. Le salarié
+peut contester, devant le juge administratif, la décision de rejet dans les mêmes conditions et délais que ceux prévus au
+neuvième alinéa de l'article L. 114-2 pour le recours devant le juge administratif contre le résultat de l'enquête. 
+
+La procédure de licenciement prévue au septième alinéa de l'article L. 114-2 ne peut être engagée avant l'expiration du délai
+de recours contentieux prévu au neuvième alinéa de cet article, prolongé, le cas échéant, en cas de recours administratif.
+Elle ne peut non plus être engagée, en cas de recours administratif, tant que la décision du ministre de l'intérieur n'est
+pas intervenue ou, en cas de recours contentieux contre le résultat de l'enquête ou contre la décision de rejet du recours
+administratif, tant qu'il n'a pas été statué en dernier ressort sur le litige. 
+
+Le ministre de l'intérieur informe l'employeur, le cas échéant, sans délai, du recours administratif ou contentieux effectué
+par le salarié ainsi que des suites qui lui sont données. 
+
+III. – Les avis de compatibilité ou d'incompatibilité rendus en application du I ou du II de l'article R. 114-8 reçus par
+l'employeur ne peuvent être communiqués par ce dernier qu'à un responsable désigné à cette fin au sein de l'entreprise
+concernée. Ils ne peuvent être utilisés qu'en vue de la décision prise dans le cadre de cette même procédure. 
+
+Les avis de compatibilité rendus en application du I ou du II de l'article R. 114-8, ainsi que les avis d'incompatibilité
+rendus en application du I de l'article R. 114-8 sont détruits sans délai par l'employeur dès leur réception. Les avis
+d'incompatibilité rendus en application du II de cet article sont détruits par l'employeur sans délai à compter du
+reclassement ou du licenciement du salarié concerné. Lorsque l'avis d'incompatibilité est retiré par le ministre de
+l'intérieur, ou annulé par le juge administratif statuant en dernier ressort, l'employeur le détruit sans délai. 
+
+L'employeur ne conserve aucune copie des avis de compatibilité ou d'incompatibilité rendus en application du I ou du II de
+l'article R. 114-8 et n'en porte aucune mention dans le dossier du salarié. 
+
+En cas de contentieux ultérieur portant sur une décision de l'employeur prise sur le fondement de l'avis d'incompatibilité
+rendu par le ministre de l'intérieur, cet avis est transmis par le ministre de l'intérieur à l'employeur qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-757 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L114-2 (V)
+
+
 ### TITRE II : ORGANISATION ADMINISTRATIVE
 
 #### Chapitre Ier : Institutions nationales
@@ -26060,8 +26251,6 @@ les dirigeants d'organismes publics ou privés intéressés.
 	  - Code de la sécurité intérieure - art. D132-1
 
 
-##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
-
 ##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
 
 ###### Article D132-5
@@ -27601,6 +27790,10 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
+      <td align="center">R. 114-7 à R. 114-10</td>
+      <td>Résultant du décret n° 2017-757 du 3 mai 2017.</td>
+    </tr>
+    <tr>
       <td align="center">Au titre II</td>
       <td align="center">
     </td></tr>
@@ -27685,7 +27878,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+	  - Décret n°2017-757 du 3 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -28268,6 +28461,10 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
+      <td align="center">R. 114-7 à R. 114-10</td>
+      <td>Résultant du décret n° 2017-757 du 3 mai 2017.</td>
+    </tr>
+    <tr>
       <td align="center">Au titre II</td>
       <td align="center">
     </td></tr>
@@ -28337,7 +28534,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+	  - Décret n°2017-757 du 3 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -28799,6 +28996,10 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
+      <td align="center">R. 114-7 à R. 114-10</td>
+      <td align="left">Résultant du décret n° 2017-757 du 3 mai 2017.</td>
+    </tr>
+    <tr>
       <td align="center">Au titre II</td>
       <td align="center">
     </td></tr>
@@ -28871,7 +29072,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2017-438 du 29 mars 2017 - art. 4
+	  - Décret n°2017-757 du 3 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -29153,54 +29354,52 @@ la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministre
 
 Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des adaptations prévues à l'article R.
 158-4, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction
-indiquée dans la colonne de droite du même tableau : 
+indiquée dans la colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 113-1 à R. 113-2,
 
-R. 114-1 
+R. 114-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 114-2, sauf le k du 1° et les n et o du 4°
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
 Conseil national des activités privées de sécurité
@@ -29208,89 +29407,83 @@ Conseil national des activités privées de sécurité
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 114-3 à R. 114-5 
+R. 114-3 à R. 114-5
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 114-6
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">R. 114-7 à R. 114-10</td>
+      <td align="left">Résultant du décret n° 2017-757 du 3 mai 2017.</td>
+    </tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">R. 122-17 à R. 122-23</td>
       <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 122-17 à R. 122-23 </td>
-      <td align="center">
-
-Résultant du décret n° 2013-1113 du 4 décembre 2013 
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 122-24 
+R. 122-24
 
 </td>
-      <td>Résultant du décret n° 2017-207 du 20 février 2017  
-
-</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
     </tr>
     <tr>
-      <td align="center"> R. 122-25 à R. 122-37, R. 123-1 et R. 123-2</td>
-      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
-
-</td>
+      <td align="center">R. 122-25 à R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
+R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
-justice 
+justice
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV 
+Au titre IV
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 141-1 
-
-</td>
+      <td align="center">R. 141-1</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -29309,7 +29502,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2017-207 du 20 février 2017 - art. 3
+	  - Décret n°2017-757 du 3 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -82541,6 +82734,31 @@ d'outre-mer au titre des finalités mentionnées au 4° de l'article L. 811-3.
 	  - Code de la sécurité intérieure - art. L853-3
 
 
+### TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE 
+
+###### Article R855-1
+
+Les services placés sous l'autorité du ministère de la justice mentionnés à l'article L. 855-1 sont les suivants : 
+
+1° Le bureau central du renseignement pénitentiaire au sein de la direction de l'administration pénitentiaire ; 
+
+2° Les cellules interrégionales du renseignement pénitentiaire au sein des directions interrégionales des services
+pénitentiaires et de la mission des services pénitentiaires d'outre-mer ; 
+
+3° Les délégations locales au renseignement pénitentiaire au sein des établissements pénitentiaires ou des établissements de
+santé destinés à recevoir des personnes détenues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-749 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L855-1 (V)
+
+
 ### TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES 
 
 
@@ -82796,159 +83014,146 @@ sont remboursés par l'Etat selon des tarifs et des modalités fixés par un arr
 ###### Article R895-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
 R. 811-1 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 811-2 
-
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017
 </td>
-      </tr>
-      <tr>
-        <td>Au titre II </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 821-1 
-
-</td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 823-1 et R. 823-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td>Au titre IV </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 841-2 
-
-</td>
-        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+    </tr>
+    <tr>
+      <td>Au titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>Au titre IV</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2</td>
+      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
 l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés </td>
-      </tr>
-      <tr>
-        <td align="left">
+libertés</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au titre V 
+Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+R. 851-1</td>
+      <td>
 
-R. 851-1 </td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td>R. 851-1-1 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 851-2 à R. 851-4 </td>
-        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td>R. 851-5 à R. 851-10 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4</td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 852-1 à R. 852-2 
+</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">Au titre V BIS</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 855-1
 
 </td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
-
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td>Au titre VII </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 871-1 à R. 871-5 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 872-1 à R. 872-6 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 873-1 et R. 873-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017</td>
+    </tr>
+    <tr>
+      <td>Au titre VII</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 871-1 à R. 871-5</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 872-1 à R. 872-6</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 873-1 et R. 873-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -82964,7 +83169,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-36 du 16 janvier 2017 - art. 12
+	  - Décret n°2017-749 du 3 mai 2017 - art. 2
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie 
@@ -82974,168 +83179,141 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 ###### Article R896-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
 R. 811-1 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 811-2 
-
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017
 
 </td>
-      </tr>
-      <tr>
-        <td>Au titre II </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 821-1 
-
-</td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 823-1 et R. 823-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>Au titre IV 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+    </tr>
+    <tr>
+      <td>Au titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>Au titre IV</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2</td>
+      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
 l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés </td>
-      </tr>
-      <tr>
-        <td align="left">
+libertés</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au titre V 
+Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 851-1</td>
+      <td>
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">R. 851-1 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-1-1 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 851-2 à R. 851-4 
-
-</td>
-        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-5 à R. 851-10 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4</td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 852-1 à R. 852-2 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
 
-I des articles R. 853-1, R. 853-2 et R. 853-3 
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td>
+II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>Au titre VII </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 871-1 à R. 871-5 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 872-1 à R. 872-6 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 873-1 et R. 873-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-      </tr>
-    </tbody>
-  </table>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td>Au titre V BIS</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 855-1</td>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017.</td>
+    </tr>
+    <tr>
+      <td>Au titre VII</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 871-1 à R. 871-5</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 872-1 à R. 872-6</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 873-1 et R. 873-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -83151,7 +83329,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-36 du 16 janvier 2017 - art. 12
+	  - Décret n°2017-749 du 3 mai 2017 - art. 2
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna
@@ -83159,172 +83337,142 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
 ###### Article R897-1
 
 Sont applicables à Wallis-et-Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
 R. 811-1 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 811-2 
-
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017
-
 </td>
-      </tr>
-      <tr>
-        <td>Au titre II </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 821-1 
-
-</td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 823-1 et R. 823-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>Au titre IV 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+    </tr>
+    <tr>
+      <td>Au titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>Au titre IV</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2</td>
+      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
 l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés </td>
-      </tr>
-      <tr>
-        <td align="left">
+libertés</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au titre V 
+Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+R. 851-1</td>
+      <td>
 
-R. 851-1 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-1-1 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 851-2 à R. 851-4 
-
-</td>
-        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-5 à R. 851-10 
-
-</td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4</td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 852-1 à R. 852-2 
-
 </td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
-
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
+      <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td>Au titre VII </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 871-1 à R. 871-5 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 872-1 à R. 872-6 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 873-1 et R. 873-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">Au titre V BIS</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 855-1</td>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017</td>
+    </tr>
+    <tr>
+      <td>Au titre VII</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 871-1 à R. 871-5</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 872-1 à R. 872-6</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 873-1 et R. 873-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -83340,7 +83488,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-36 du 16 janvier 2017 - art. 12
+	  - Décret n°2017-749 du 3 mai 2017 - art. 2
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises 
@@ -83350,168 +83498,143 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 ###### Article R898-1
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
 R. 811-1 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 811-2 
-
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017
 
 </td>
-      </tr>
-      <tr>
-        <td>Au titre II </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 821-1 
-
-</td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 823-1 et R. 823-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>Au titre IV 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+    </tr>
+    <tr>
+      <td>Au titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>Au titre IV</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2</td>
+      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
 l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés </td>
-      </tr>
-      <tr>
-        <td align="left">
+libertés</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au titre V 
+Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
+R. 851-1</td>
+      <td>
 
-R. 851-1 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-1-1 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 851-2 à R. 851-4 
-
-</td>
-        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 851-5 à R. 851-10 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td align="left">
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4</td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
 R. 852-1 à R. 852-2 
-
 </td>
-        <td>
+      <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
 
-I des articles R. 853-1, R. 853-2 et R. 853-3 
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td>
+II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3 
-
-</td>
-        <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-      </tr>
-      <tr>
-        <td>Au titre VII </td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 871-1 à R. 871-5 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 872-1 à R. 872-6 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td>R. 873-1 et R. 873-2 </td>
-        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-      </tr>
-    </tbody>
-  </table>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">Au titre V BIS</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 855-1</td>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017.</td>
+    </tr>
+    <tr>
+      <td>Au titre VII</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 871-1 à R. 871-5</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 872-1 à R. 872-6</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 873-1 et R. 873-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -83527,7 +83650,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-36 du 16 janvier 2017 - art. 12
+	  - Décret n°2017-749 du 3 mai 2017 - art. 2
 
 
 ## Annexes
