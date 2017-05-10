@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -38615,6 +38615,9 @@ seule pression sur la détente, lâcher plus d'un seul coup ;
 9° Arme à un coup : arme sans système d'alimentation, qui est chargée avant chaque coup par introduction manuelle de la
 munition dans la chambre ou dans un logement prévu à cet effet à l'entrée du canon ;
 
+Les caractéristiques mentionnées aux 1° et 2° sont définies par arrêté conjoint du ministre de l'intérieur et des ministres
+chargés des douanes et de l'industrie.
+
 10° Arme blanche : toute arme dont l'action perforante, tranchante ou brisante n'est due qu'à la force humaine ou à un
 mécanisme auquel elle a été transmise, à l'exclusion d'une explosion ;
 
@@ -38676,27 +38679,30 @@ pendant le tir.
 II. - Autres armes :
 
 1° Arme à blanc : objet ou dispositif ayant ou non l'apparence d'une arme à feu conçu et destiné par la percussion de la
-munition à provoquer uniquement un effet sonore et dont les caractéristiques excluent le tir ou la conversion sans recourir à
-un procédé industriel pour le tir de tout projectile (arme de starter, arme d'alarme) ;
+munition à provoquer uniquement un effet sonore et dont les caractéristiques excluent le tir ou la conversion pour le tir de
+tout projectile (arme de starter, arme d'alarme) ;
 
 2° Arme de signalisation : arme à feu destinée à tirer un dispositif pyrotechnique de signalisation, dont les
-caractéristiques excluent le tir ou la conversion sans recourir à un procédé industriel pour le tir de tout autre
-projectile ;
+caractéristiques excluent le tir ou la conversion pour le tir de tout autre projectile ;
 
-3° Arme didactique : arme authentique sur laquelle ont été pratiquées des coupes ou des opérations permettant d'en observer
+3° Arme de spectacle : toute arme à feu transformée de manière à ne pouvoir tirer qu'une munition à blanc destinée à
+provoquer uniquement un effet sonore. L'arme de spectacle reste classée dans sa catégorie originelle, avant sa
+transformation ;
+
+4° Arme didactique : arme authentique sur laquelle ont été pratiquées des coupes ou des opérations permettant d'en observer
 les mécanismes internes, sans en modifier le fonctionnement et n'ayant pas subi le procédé de neutralisation ;
 
-4° Arme factice : objet ayant l'apparence d'une arme à feu susceptible d'expulser un projectile non métallique avec une
+5° Arme factice : objet ayant l'apparence d'une arme à feu susceptible d'expulser un projectile non métallique avec une
 énergie à la bouche inférieure à 2 joules ;
 
-5° Maquette : reproduction d'arme à feu à une échelle autre que 1:1 et garantissant la non-interchangeabilité des pièces ;
+6° Maquette : reproduction d'arme à feu à une échelle autre que 1:1 et garantissant la non-interchangeabilité des pièces ;
 
-6° Munition inerte : munition factice qui ne peut être transformée en une munition active ;
+7° Munition inerte : munition factice qui ne peut être transformée en une munition active ;
 
-7° Lanceur de paintball : système permettant de propulser de façon non pyrotechnique un projectile destiné à ne laisser sur
+8° Lanceur de paintball : système permettant de propulser de façon non pyrotechnique un projectile destiné à ne laisser sur
 la cible qu'une trace visualisant l'emplacement de l'impact ;
 
-8° Reproduction d'arme : arme à feu reproduisant à l'identique une arme ayant existé dans sa forme et dans son
+9° Reproduction d'arme : arme à feu reproduisant à l'identique une arme ayant existé dans sa forme et dans son
 fonctionnement.
 
 III. - Activités en relation avec les armes :
@@ -38707,27 +38713,30 @@ assimilés, soit de conclure un tel contrat pour le compte d'une des parties. Ce
 de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou celle d'une
 opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ;
 
-2° Armurier : toute personne physique ou morale dont l'activité professionnelle consiste en tout ou en partie dans la
+2° Activité de fabrication : conception, réparation, fabrication, transformation, modification ou assemblage d'une arme, de
+ses éléments essentiels finis ou non finis, ou de munitions ;
+
+3° Armurier : toute personne physique ou morale dont l'activité professionnelle consiste en tout ou en partie dans la
 fabrication, le commerce, l'échange, la location, la réparation ou la transformation d'armes, d'éléments essentiels et
 accessoires d'armes et de munitions ;
 
-3° Commerce de détail : activité d'armurier au sens de l'article L. 313-2, effectuée à destination d'un consommateur final ;
+4° Commerce de détail : activité d'armurier au sens de l'article L. 313-2, effectuée à destination d'un consommateur final ;
 
-4° Courtier : toute personne physique ou morale qui se livre à une activité d'intermédiation ;
+5° Courtier : toute personne physique ou morale qui se livre à une activité d'intermédiation ;
 
-5° Dépôt d'armes : détention illicite, par une personne ou en bande organisée, dans un ou plusieurs lieux, d'armes ou
+6° Dépôt d'armes : détention illicite, par une personne ou en bande organisée, dans un ou plusieurs lieux, d'armes ou
 munitions au-delà du nombre maximum légalement autorisé ;
 
-6° Fabrication illicite :
+7° Fabrication illicite :
 
 a) Fabrication, transformation, modification ou assemblage d'une arme, de ses éléments essentiels finis ou non finis, ou de
-munitions sans autorisation ou sans avoir appliqué les marquages d'identification, à l'exclusion des opérations de
-rechargement effectuées dans un cadre privé à partir d'éléments obtenus de manière licite ;
+munitions sans autorisation ou sans avoir appliqué les marquages d'identification, à l'exclusion desopérations de
+rechargement effectuées dans un cadre privé à partir d'éléments obtenus de manière licite;
 
 b) Détention de tout outillage ou matériel spécifique à la fabrication d'une arme sans disposer des autorisations de
 fabrication et de commerce ;
 
-7° Marquage : apposition sur l'un ou plusieurs éléments essentiels de toute arme à feu, de façon définitive et visible sans
+8° Marquage : apposition sur l'un ou plusieurs éléments essentiels de toute arme à feu, de façon définitive et visible sans
 démontage, des éléments d'identification constitués par :
 
 a) L'indication du fabricant, du pays ou lieu de fabrication, de l'année de fabrication, du modèle, du calibre et du numéro
@@ -38744,31 +38753,38 @@ neutralisation, atteste du caractère inutilisable de l'arme.
 Ce marquage appliqué aux munitions comporte les mentions du nom du fabricant, du numéro d'identification du lot, du calibre,
 du type de munition et du signe de contrôle d'épreuve sur les conditionnements élémentaires ;
 
-8° Opérations industrielles : opérations industrielles entrant dans le champ d'application de l'article L. 2331-1 du code de
-la défense constituées par les opérations de montage, assemblage des matériels des catégories A, B et C, de chargement
+9° Opérations industrielles : opérations industrielles entrant dans le champ d'application de l'article L. 2331-1 du code de
+la défenseconstituées par les opérations de montage, assemblage des matériels des catégories A, B et C, de chargement
 industriel des munitions ainsi que par les opérations d'usinage, de moulage ou d'emboutissage les amenant à leur forme
 définitive ou très approchée ;
 
-9° Port d'arme : fait d'avoir une arme sur soi utilisable immédiatement ;
+10° Port d'arme : fait d'avoir une arme sur soi utilisable immédiatement ;
 
-10° Traçabilité : obligation d'enregistrement des différents détenteurs successifs d'une arme et de ses éléments numérotés,
+11° Traçabilité : obligation d'enregistrement des différents détenteurs successifs d'une arme et de ses éléments numérotés,
 de leur fabrication à la possession finale par le dernier acquéreur ;
 
-11° Trafic illicite : acquisition, vente, livraison, transport d'armes à feu, d'éléments d'arme, de munitions ou d'éléments
+12° Trafic illicite : acquisition, vente, livraison, transport d'armes à feu, d'éléments d'arme, de munitions ou d'éléments
 de munitions, d'outils ou matériels spécifiques à la fabrication des armes, sans autorisation ou en violation d'une
 réglementation européenne ou internationale, à partir, à destination ou au travers du territoire national ou vers le
 territoire d'un autre Etat ;
 
-12° Transport d'arme : fait de déplacer une arme en l'ayant auprès de soi et inutilisable immédiatement.
+13° Transport d'arme : fait de déplacer une arme en l'ayant auprès de soi et inutilisable immédiatement.
 
 IV. - Ne sont pas des armes au sens du présent titre les objets tirant un projectile ou projetant des gaz lorsqu'ils
 développent à la bouche une énergie inférieure à 2 joules.
 
+**Nota:**
+
+Conformément à l'article 37 I du décret n° 2017-909 du 9 mai 2017 ,les 1° et 2° du II de l'article R. 311-1 du code de la
+sécurité intérieure, dans leur rédaction résultant du I de l'article 2 du présent décret, entreront en vigueur à compter de
+la publication de l'arrêté mentionné au dernier alinéa du II du même article qui sera publié au plus tard dans le délai de
+six mois à compter de la publication du présent décret.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 1 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -38787,17 +38803,13 @@ développent à la bouche une énergie inférieure à 2 joules.
 	  - Code de la sécurité intérieure - art. R345-1 (V)
 	  - Code des transports - art. R3231-5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2331-1 (M)
+	  - Code de la défense. - art. L2331-1
 
 
 ##### Section 2 : Classement des matériels de guerre, armes et munitions
@@ -38829,14 +38841,13 @@ suivants :
 
 - permettant le tir de plus de 31 munitions sans qu'intervienne un réapprovisionnement ;
 
-- accompagnées d'un système d'alimentation de plus de 30 cartouches ;
+- accompagnées d'un système d'alimentation de plus de 30 cartouches ou alimentées par bande quelle qu'en soit la capacité ;
 
 4° Armes à feu à canons rayés et leurs munitions dont le projectile a un diamètre maximum supérieur ou égal à 20 mm à
 l'exception des armes conçues pour tirer exclusivement des projectiles non métalliques ;
 
 5° Armes à feu à canon lisse et leurs munitions d'un calibre supérieur au calibre 8, à l'exclusion des armes de catégorie C
-ou D classées par arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de
-l'industrie ;
+ou D, classées par arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 6° Munitions dont le projectile est supérieur ou égal à 20 mm, à l'exception de celles utilisées par les armes classées en
 catégorie D 1° ;
@@ -38848,8 +38859,8 @@ catégorie D 1° ;
 9° Système d'alimentation d'arme d'épaule contenant plus de 30 munitions ;
 
 10° Armes ou type d'armes présentant des caractéristiques techniques équivalentes et qui, pour des raisons tenant à leur
-dangerosité, d'ordre ou de sécurité publics ou de défense nationale, sont classées dans cette catégorie par arrêté conjoint
-des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie.
+dangerosité, à l'ordre public ou à la sécurité nationale, sont classées dans cette catégorie par arrêté conjoint du ministre
+de l'intérieur et des ministres chargés des douanes et de l'industrie.
 
 Rubrique 2 :
 
@@ -38907,8 +38918,8 @@ désignation d'objectif, de conduite de tir, pour l'utilisation des armes et mat
 chimiques et contre les risques radiologiques ;
 
 18° Armes ou type d'armes, matériels ou type de matériels présentant des caractéristiques techniques équivalentes classés
-dans cette catégorie pour des raisons de défense nationale définies par arrêté conjoint des ministres de la défense, de
-l'intérieur et des ministres chargés des douanes et de l'industrie.
+dans cette catégorie pour des raisons d'ordre public ou de sécurité nationale définies par arrêté conjoint des ministres de
+la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie.
 
 II. - Armes de catégorie B :
 
@@ -38935,8 +38946,7 @@ e) Ayant l'apparence d'une arme automatique de guerre ;
 f) A répétition à canon lisse munies d'un dispositif de rechargement à pompe ;
 
 3° Armes à feu fabriquées pour tirer une balle ou plusieurs projectiles non métalliques et munitions classées dans cette
-catégorie par arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de
-l'industrie ;
+catégorie par arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 4° Armes chambrant les calibres suivants, quel que soit leur type ou le système de fonctionnement ainsi que leurs munitions,
 à l'exception de celles classées dans la catégorie A :
@@ -38956,19 +38966,19 @@ e) Calibre 14,5 × 114 ;
 6° Armes à impulsion électrique permettant de provoquer un choc électrique à distance et leurs munitions ;
 
 7° Armes à impulsion électrique de contact permettant de provoquer un choc électrique à bout touchant, sauf celles classées
-dans une autre catégorie définie par arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des
-douanes et de l'industrie ;
+dans une autre catégorie définie par arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de
+l'industrie ;
 
-8° Générateurs d'aérosols incapacitants ou lacrymogènes, sauf ceux classés dans une autre catégorie par arrêté conjoint des
-ministres de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie ;
+8° Générateurs d'aérosols incapacitants ou lacrymogènes, sauf ceux classés dans une autre catégorie par arrêté conjoint du
+ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 9° Armes ou type d'armes présentant des caractéristiques techniques équivalentes qui, pour des raisons tenant à leur
-dangerosité, d'ordre ou de sécurité publics ou de défense nationale sont classées dans cette catégorie par arrêté conjoint
-des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie ;
+dangerosité, à l'ordre public ou à la sécurité nationale, sont classées dans cette catégorie par arrêté conjoint du ministre
+de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 10° Munitions à percussion centrale et leurs éléments conçus pour les armes de poing mentionnées au 1° à l'exception de
-celles classées en catégorie C par un arrêté conjoint des ministres de la défense et de l'intérieur, des ministres chargés
-des douanes et de l'industrie.
+celles classées en catégorie C par un arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de
+l'industrie.
 
 III. - Armes de catégorie C :
 
@@ -38987,19 +38997,19 @@ c) A un coup par canon dont l'un au moins n'est pas lisse ;
 2° Eléments de ces armes ;
 
 3° Armes à feu fabriquées pour tirer une balle ou plusieurs projectiles non métalliques classées dans cette catégorie par
-arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie ;
+arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 4° Armes et lanceurs dont le projectile est propulsé de manière non pyrotechnique avec une énergie à la bouche supérieure ou
 égale à 20 joules ;
 
-5° Armes ou type d'armes présentant des caractéristiques équivalentes qui, pour des raisons tenant à leur dangerosité,
-d'ordre ou de sécurité publics ou de défense nationale sont classées dans cette catégorie par arrêté conjoint des ministres
-de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie ;
+5° Armes ou type d'armes présentant des caractéristiques équivalentes qui, pour des raisons tenant à leur dangerosité, à
+l'ordre public ou à la sécurité nationale sont classées dans cette catégorie par arrêté conjoint du ministre de l'intérieur
+et des ministres chargés des douanes et de l'industrie ;
 
 6° Munitions et éléments de munitions classés dans cette catégorie selon les modalités prévues au 10° de la catégorie B ;
 
-7° Munitions et éléments de munitions classés dans cette catégorie par arrêté conjoint des ministres de la défense, de
-l'intérieur et des ministres chargés des douanes et de l'industrie ;
+7° Munitions et éléments de munitions classés dans cette catégorie par arrêté conjoint du ministre de l'intérieur et des
+ministres chargés des douanes et de l'industrie ;
 
 8° Autres munitions et éléments de munitions des armes de catégorie C.
 
@@ -39025,18 +39035,17 @@ a) Tous objets susceptibles de constituer une arme dangereuse pour la sécurité
 - les poignards, les couteaux-poignards, les matraques, les projecteurs hypodermiques et les autres armes figurant sur un
 arrêté du ministre de l'intérieur ;
 
-b) Générateurs d'aérosols lacrymogènes ou incapacitants d'une capacité inférieure ou égale à 100 ml classés dans cette
-catégorie par arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de
-l'industrie ;
+b) Générateurs d'aérosols lacrymogènes ou incapacitants d'une capacité inférieure ou égale à 100 ml et les générateurs
+d'aérosols lacrymogènes ou incapacitants installés de manière fixe classés dans cette catégorie par arrêté conjoint du
+ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 c) Armes à impulsions électriques de contact permettant de provoquer un choc électrique à bout touchant classées dans cette
-catégorie par arrêté conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de
-l'industrie ;
+catégorie par arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 d) Armes à feu dont tous les éléments ont été neutralisés :
 
-- par l'application de procédés techniques et selon des modalités définies par arrêté conjoint des ministres de la défense,
-de l'intérieur et des ministres chargés des douanes et de l'industrie ;
+- par l'application de procédés techniques et selon des modalités définies par arrêté conjoint du ministre de l'intérieur et
+des ministres chargés des douanes et de l'industrie ;
 
 - ou par des procédés définis et contrôlés par un autre Etat membre de l'Union européenne et attestés par l'apposition de
 poinçons et la délivrance d'un certificat, sous réserve qu'ils offrent des garanties équivalentes à la neutralisation
@@ -39044,20 +39053,20 @@ réalisée en France ;
 
 e) Armes historiques et de collection dont le modèle est antérieur au 1er janvier 1900, à l'exception de celles classées dans
 une autre catégorie, en raison de leur dangerosité avérée, notamment en raison de leur année de fabrication, par arrêté
-conjoint des ministres de la défense, de l'intérieur et des ministres chargés des douanes et de l'industrie.
+conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie.
 
 Le contrôle de la date du modèle et de l'année de fabrication des armes importées est effectué dans les cas et selon des
-modalités qui sont définis par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de
-l'industrie et des douanes ;
+modalités qui sont définis par arrêté conjoint du ministre de l'intérieur et des ministres chargés de l'industrie et des
+douanes ;
 
 f) Reproductions d'arme dont le modèle est antérieur au 1er janvier 1900 ne pouvant tirer que des munitions sans étui
 métallique.
 
 Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si elles
-sont conformes aux caractéristiques techniques définies par arrêté conjoint des ministres de la défense et de l'intérieur et
-des ministres chargés de l'industrie et des douanes et constatées dans un procès-verbal d'expertise effectuée par un
-établissement technique désigné par le ministre de la défense, dans les cas et les conditions déterminés par l'arrêté
-interministériel prévu ci-dessus.
+sont conformes aux caractéristiques techniques définies par arrêté conjoint du ministre de l'intérieur et des ministres
+chargés de l'industrie et des douanes et constatées dans un procès-verbal d'expertise effectuée par un établissement
+technique désigné par le ministre de l'intérieur, dans les cas et les conditions déterminés par l'arrêté interministériel
+prévu ci-dessus.
 
 Les reproductions d'armes historiques et de collection qui ne satisfont pas à ces dispositions relèvent, selon leurs
 caractéristiques techniques, du régime applicable aux armes des catégories A, B, C et du 1° de la présente catégorie ;
@@ -39081,6 +39090,10 @@ l) Matériels de guerre postérieurs au 1er janvier 1946 dont les armements sont
 ministre de la défense.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -39135,61 +39148,78 @@ ministre de la défense.
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 	  - Code de la sécurité intérieure - art. R613-41 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 2 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
 
 
 ###### Article R311-3
 
-Les mesures d'application des articles R. 311-1 et R. 311-2, autres que celles prévues par arrêtés interministériels, sont
-prises : 
+Les mesures de classement des armes dans les catégories définies à l'article R. 311-2, autres que celles prévues par arrêtés
+interministériels, sont prises par le ministre de l'intérieur, à l'exclusion de celles des matériels de guerre de la
+catégorie A2, prises par le ministre de la défense. 
 
-1° Par arrêté du ministre de la défense pour tous matériels, à l'exclusion de ceux définis au 13° de la catégorie A2 de
-l'article R. 311-2, sur proposition d'une commission de classement comprenant des représentants des ministères concernés. 
+A cette fin, toute arme fabriquée, transformée, introduite ou importée en France, sous réserve, dans ces deux derniers cas,
+des dispositions respectivement prévues aux articles R. 316-17 et R. 316-32 et qui, à ce titre, est réglementairement soumise
+à épreuve obligatoire, au sens de la convention relative à la reconnaissance réciproque des poinçons d'épreuve des armes à
+feu portatives et du règlement avec annexes I et II, faits à Bruxelles le 1er juillet 1969, fait concomitamment l'objet d'une
+décision de classement du ministre de l'intérieur préalable à sa mise sur le marché. 
 
-La composition et les règles de fonctionnement de cette commission sont fixées par arrêté conjoint du Premier ministre, des
-ministres de l'intérieur, de la défense et de la justice et des ministres chargés de l'industrie et des entreprises et du
-développement économique, des douanes, de l'environnement et de la jeunesse et des sports ; 
+Les armes d'alarme et les armes de signalisation sont transmises au banc national d'épreuve de Saint-Etienne aux fins
+d'expertise des modalités techniques définies au dernier alinéa de l'article R. 311-1. 
 
-2° Par arrêté du ministre de la défense, sur proposition d'une commission comprenant des représentants des ministères
-concernés et de l'Agence nationale de la sécurité des systèmes d'information pour les moyens de cryptologie mentionnés au 13°
-de la catégorie A2 de l'article R. 311-2. 
-
-La composition et les règles de fonctionnement de cette commission sont fixées par arrêté conjoint du Premier ministre et des
-ministres de la défense, de l'intérieur et des affaires étrangères.
+Pour instruire ces décisions de classement, le ministre de l'intérieur peut solliciter l'avis d'experts techniques, au sein
+d'un réseau constitué, notamment, du banc national d'épreuve de Saint-Etienne, des laboratoires de police technique et
+scientifique de la direction générale de la police nationale et de la direction générale de la gendarmerie nationale. Le cas
+échéant, il peut également solliciter le concours d'un établissement technique désigné par le ministre de la défense, s'il
+s'agit d'armes susceptibles de présenter des caractéristiques techniques comparables à celles définies à la rubrique 2 du I
+de l'article R. 311-2.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 28 août 2000 - art. 1 (V)
 	  - Arrêté du 28 avril 2017 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 3, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R311-1 (VD)
-	  - Code de la sécurité intérieure - art. R311-2 (VD)
+	  - Code de la sécurité intérieure - art. R311-1 (V)
+	  - Code de la sécurité intérieure - art. R316-17 (V)
+	  - Code de la sécurité intérieure - art. R316-32 (V)
+
+
+###### Article R311-3-1
+
+Pour le classement des armes mentionnées au premier alinéa de l'article R. 311-3, le ministre de l'intérieur peut solliciter
+l'avis d'une commission de classement comprenant des représentants des ministères concernés. Un arrêté conjoint des ministres
+de la défense, de l'intérieur, de la justice et des ministres chargés de l'industrie, du commerce, de la chasse, des douanes
+et des sports précise l'organisation et les modalités de fonctionnement de cette commission de classement. 
+
+S'il s'avère que le matériel relève de la compétence du ministre de la défense, au titre de l'article R. 2332-1 du code de la
+défense, le ministre de l'intérieur lui transmet le dossier de classement dans les meilleurs délais.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2331-2 (V)
 
 
 ###### Article R311-4
@@ -39219,27 +39249,51 @@ des raisons tenant à leur dangerosité, d'ordre ou de sécurité publics ou de 
 	  - Code de la défense. - art. R2331-3 (V)
 
 
+###### Article R311-4-1
+
+Par dérogation à l'article R. 311-4, les titulaires d'une autorisation mentionnée au premier alinéa de l'article R. 313-8 ou
+au deuxième alinéa de l'article R. 313-28 communiquent au banc national d'épreuve une liste comprenant les numéros de série
+et les caractéristiques techniques des armes importées d'un pays partie à la convention pour la reconnaissance réciproque des
+poinçons d'épreuves des armes à feu portatives et de son règlement, signés à Bruxelles le 1er juillet 1969. En tant que de
+besoin, le directeur du banc national d'épreuve peut demander que certaines de ces armes lui soient présentées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8 (V)
+
+
 ##### Section 3 : Marquage
 
 ###### Article R311-5
 
-Les armes à feu font l'objet, lors de leur fabrication, d'un marquage dans les conditions et selon les modalités prévues par
-les articles 4 et 5 du décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012
-relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif.
+Les armes à feu font l'objet, lors de leur fabrication, d'un marquage comportant l'indication du fabricant, du pays ou du
+lieu de fabrication, de l'année de fabrication, du modèle, du calibre et du numéro de série. Elles font également l'objet,
+avant leur mise sur le marché, de l'apposition des poinçons d'épreuve selon les modalités prévues par les stipulations de la
+convention du 1er juillet 1969 pour la reconnaissance réciproque des poinçons d'épreuve des armes à feu portatives.
+
+Les armes à feu appartenant à l'Etat font en outre l'objet, en cas de cession, d'un marquage portant l'indication de cette
+cession.
+
+Les conditionnements élémentaires de munitions complètes destinées à des armes à feu font l'objet, avant leur mise sur le
+marché, d'un marquage comportant l'indication du nom du fabricant, du numéro d'identification du lot, du calibre et du type
+de munition.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2012-304  du 6 mars 2012 (V)
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 4 (V)
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 5 (V)
+	  - Loi n°2012-304 du 6 mars 2012
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 4 (Ab)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 5 (Ab)
 
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -39247,26 +39301,45 @@ relative à l'établissement d'un contrôle des armes moderne, simplifié et pr�
 
 	  - Décret n°2017-909 du 9 mai 2017 - art. 11
 
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
+
+
+###### Article R311-5-1
+
+Le marquage lors de la fabrication est apposé sur un ou plusieurs éléments de l'arme à feu et doit être lisible sans
+démontage de celle-ci. Le numéro de série figure au moins sur la carcasse de l'arme. Le poinçon d'épreuve est apposé,
+conformément aux stipulations de la convention du 1er juillet 1969 pour la reconnaissance réciproque des poinçons d'épreuve
+des armes portatives, sur toutes les pièces fortement sollicitées par l'épreuve.
+
+Le marquage peut consister en l'apposition d'un code alphanumérique à condition que celui-ci permette de déterminer que
+l'arme ou les munitions ont été fabriqués en France ou dans un Etat membre de la Commission internationale permanente ou,
+dans le cas prévu au deuxième alinéa du présent article, que l'arme a été cédée par l'Etat français. Un arrêté conjoint du
+ministre de l'intérieur et des ministres chargés de l'industrie et des douanes détermine les éléments de ce code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
+
 
 ##### Section 4 : Dispositions diverses
 
 ###### Article R311-6
 
-Les modèles d'imprimés concernant les autorisations de commerce, d'acquisition, de détention, de déclaration, de demande
-d'enregistrement et les registres spéciaux mentionnés dans le présent titre sont déterminés par arrêté conjoint des ministres
-de la défense et de l'intérieur.
+Les modèles de formulaires concernant les autorisations de fabrication, de commerce, d'acquisition, de détention, de
+déclaration, de demande d'enregistrement et les registres spéciaux des armes, munitions et leurs éléments relevant des
+catégories A1, B, C et D sont déterminés par un arrêté du ministre de l'intérieur. 
+
+Les modèles de formulaires concernant les autorisations d'acquisition et de détention des matériels de guerre, armes et leurs
+éléments de la catégorie A2 mentionnées aux articles R. 312-22, R. 312-23, R. 312-26, R. 312-27, R. 312-30 et R. 312-31 sont
+déterminés par l'arrêté mentionné au premier alinéa..
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 6 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -39285,6 +39358,16 @@ de la défense et de l'intérieur.
 	  - Code de la sécurité intérieure - art. R313-33 (V)
 	  - Code de la sécurité intérieure - art. R314-19 (VD)
 	  - Code de la sécurité intérieure - art. R316-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-26 (V)
+	  - Code de la sécurité intérieure - art. R312-30 (V)
 
 
 ###### Article R311-7
@@ -39354,50 +39437,43 @@ lieu de permis de chasser étranger, accompagné d'un titre de validation de l'a
 
 ###### Article R312-2
 
-Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-37 à R. 312-40, R. 312-44 et R. 312-65
-sont délivrées, dans chaque cas, par les autorités suivantes : 
+Les autorisations mentionnées aux articlesR. 312-26, R. 312-27,R. 312-30,R. 312-37 à R. 312-40,R. 312-44etR. 312-65sont
+délivrées, dans chaque cas, par les autorités suivantes :
 
-1° Pour les autorisations portant sur les matériels de la catégorie A2 susceptibles d'être déclassés, par le préfet du
-département où se trouve le siège de l'entreprise ou le domicile de la personne demanderesse, dans les conditions prévues par
-un arrêté conjoint des ministres de la défense et de l'intérieur ; 
+1° (abrogé)
 
 2° Pour les autorisations mentionnées aux articles R. 312-37 et R. 312-38, par le préfet du département dans lequel se trouve
 le siège de l'entreprise ou de l'établissement pour les entreprises de convoyage de fonds ou par le préfet du département où
-est implanté l'établissement qui se trouve dans l'obligation d'assurer la sécurité de ses biens ; 
+est implanté l'établissement qui se trouve dans l'obligation d'assurer la sécurité de ses biens ;
 
 3° Pour les autorisations mentionnées à l'article R. 312-26, par le préfet du département dans lequel se trouve situé le
-siège de l'entreprise ou du théâtre national ; 
+siège de l'entreprise ou du théâtre national ;
 
 4° Pour les autorisations mentionnées aux 1° et 2° de l'article R. 312-40, par le préfet du département du lieu de domicile
-ou du siège de l'association ; 
+ou du siège de l'association ;
 
 5° Pour les autorisations mentionnées à l'article R. 312-44, par le préfet du département de la commune de rattachement ou,
-en cas d'implantation supérieure à trois mois, du lieu d'implantation de la manifestation ; 
+en cas d'implantation supérieure à trois mois, du lieu d'implantation de la manifestation ;
 
-6° Pour les autorisations mentionnées aux articles R. 312-39 et R. 312-65, par le préfet du département du lieu de
-domicile ; 
+6° Pour les autorisations mentionnées aux articles R. 312-39 et R. 312-65, par le préfet du département du lieu de domicile ;
 
 7° Pour les autorisations mentionnées à l'article R. 312-27, par le préfet du département dans lequel se trouvent situés le
 musée, autre qu'un musée de l'Etat, le siège de la personne morale ou de l'établissement d'enseignement ou le domicile de la
 personne physique. Lorsque le matériel de guerre est classé au titre des monuments historiques, la décision est prise après
-avis du ministre chargé de la culture ; 
+avis du ministre chargé de la culture ;
 
 8° Pour les autorisations mentionnées à l'article R. 312-30, par le préfet du département dans lequel se trouvent situés le
 siège de l'entreprise ou ses établissements.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 10 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -39409,11 +39485,11 @@ siège de l'entreprise ou ses établissements.
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-26 (VD)
-	  - Code de la sécurité intérieure - art. R312-30 (VD)
-	  - Code de la sécurité intérieure - art. R312-37 (VD)
-	  - Code de la sécurité intérieure - art. R312-44 (VD)
-	  - Code de la sécurité intérieure - art. R312-65 (VD)
+	  - Code de la sécurité intérieure - art. R312-26
+	  - Code de la sécurité intérieure - art. R312-30
+	  - Code de la sécurité intérieure - art. R312-37
+	  - Code de la sécurité intérieure - art. R312-44
+	  - Code de la sécurité intérieure - art. R312-65
 
 
 ###### Article R312-3
@@ -39491,116 +39567,112 @@ demandeur suit ou a suivi un traitement dans le service ou le secteur de psychia
 
 ###### Article R312-5
 
-Les demandes d'autorisation sont accompagnées des pièces complémentaires suivantes : 
+Les demandes d'autorisation sont accompagnées des pièces complémentaires suivantes :
 
-1° Pour les autorisations mentionnées à l'article R. 312-38, note ou tout autre document justifiant l'obligation d'assurer la
-sécurité des biens ou le gardiennage des immeubles de l'entreprise ; 
+1° Pour les autorisations mentionnées à l'articleR. 312-38, note ou tout autre document justifiant l'obligation d'assurer la
+sécurité des biens ou le gardiennage des immeubles de l'entreprise ;
 
-2° Pour les autorisations mentionnées à l'article R. 312-26, déclaration écrite et signée attestant que les armes détenues,
+2° Pour les autorisations mentionnées à l'articleR. 312-26, déclaration écrite et signée attestant que les armes détenues,
 désignées par leurs marques, modèles, numéros de série et calibres, ont été rendues inaptes au tir des munitions à balle ou à
-grenaille ; 
+grenaille ;
 
-3° Pour les autorisations mentionnées au 1° de l'article R. 312-40, déclaration précisant : 
+3° Pour les autorisations mentionnées au 1° de l'articleR. 312-40, déclaration précisant :
 
-a) La date de la décision portant agrément ou autorisation de l'autorité de tutelle ; 
+a) La date de la décision portant agrément ou autorisation de l'autorité de tutelle ;
 
-b) La ou les spécialités de tir ; 
+b) La ou les spécialités de tir ;
 
-c) Le nombre des membres inscrits ; 
+c) Le nombre des membres inscrits ;
 
-4° Pour les autorisations mentionnées au 2° de l'article R. 312-40 : 
+4° Pour les autorisations mentionnées au 2° de l'article R. 312-40 :
 
-a) Extrait d'acte de naissance avec mentions marginales ; 
+a) Extrait d'acte de naissance avec mentions marginales datant de moins de trois mois ;
 
 b) Licence tamponnée par le médecin, en cours de validité, d'une fédération sportive ayant reçu, au titre de l'article L.
 131-14 du code du sport, délégation du ministre chargé des sports pour la pratique du tir. Cette licence dispense de la
-production du certificat médical prévu à l'article L. 312-6 du présent code lorsque sa délivrance ou son renouvellement a
+production du certificat médical prévu à l'articleL. 312-6du présent code lorsque sa délivrance ou son renouvellement a
 nécessité la production d'un certificat médical datant de moins d'un an et mentionnant l'absence de contre-indication à la
-pratique du tir ; 
+pratique du tir ;
 
 c) Avis favorable d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du
-ministre chargé des sports pour la pratique du tir ; 
+ministre chargé des sports pour la pratique du tir ;
 
-d) Pour les tireurs sportifs mineurs, preuve de la sélection en vue de concours internationaux ; 
+d) Pour les tireurs sportifs mineurs, preuve de la sélection en vue de concours internationaux ;
 
 e) Pour les mineurs, attestation de la personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la
-pratique du tir sportif ; 
+pratique du tir sportif ;
 
-5° Pour les autorisations mentionnées à l'article R. 312-44, déclaration précisant le nombre et la nature des armes mises en
-service au moyen de leurs marques, modèles, numéros et calibres ; 
+5° Pour les autorisations mentionnées à l'articleR. 312-44, déclaration précisant le nombre et la nature des armes mises en
+service au moyen de leurs marques, modèles, numéros et calibres ;
 
-6° Pour les autorisations mentionnées aux articles R. 312-39 et R. 312-65, fiche donnant les caractéristiques des armes
-conforme au modèle fixé par l'arrêté prévu à l'article R. 311-6 et mentionnant les dates d'acquisition des armes ; 
+6° Pour les autorisations mentionnées aux articlesR. 312-39etR. 312-65, fiche donnant les caractéristiques des armes conforme
+au modèle fixé par l'arrêté prévu à l'article R. 311-6 et mentionnant les dates d'acquisition des armes ;
 
-7° Pour les autorisations mentionnées à l'article R. 312-39 : 
+7° Pour les autorisations mentionnées à l'article R. 312-39 :
 
 a) Pour les personnes majeures ne possédant pas la nationalité française, certificat de résidence ou tout document
 équivalent. Sont dispensés de cette obligation les membres du corps diplomatique ainsi que les membres du corps consulaire
-admis à l'exercice de leur activité sur le territoire français ; 
+admis à l'exercice de leur activité sur le territoire français ;
 
 b) Indication de l'adresse du local professionnel ou de la résidence secondaire pour les personnes demandant à détenir une
-seconde arme pour ce local ou cette résidence ; 
+seconde arme pour ce local ou cette résidence ;
 
-c) Attestation du suivi de la formation initiale aux règles de sécurité, de stockage et de manipulation de ces armes ; 
+c) Attestation du suivi de la formation initiale aux règles de sécurité, de stockage et de manipulation de ces armes ;
 
-8° Pour les autorisations mentionnées à l'article R. 312-27 : 
+8° Pour les autorisations mentionnées à l'articleR. 312-27:
 
 a) Pour tous les demandeurs, un rapport sur les moyens de protection contre le vol ou les intrusions et sur les modalités de
 conservation du matériel, avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
-l'autorisation ; 
+l'autorisation ;
 
 b) Pour les demandeurs autres que les musées, tout document décrivant le matériel de guerre faisant l'objet de la demande,
 par ses types, marques, modèles, numéros de séries et calibres, précisant notamment la catégorie, les dates d'entrée en
 service du premier exemplaire du même type et de fabrication du dernier exemplaire du même type ; le certificat de
 neutralisation des systèmes d'armes et armes embarqués ; pour les aéronefs du 9° de la catégorie A2 aptes au vol, la copie
-des documents de navigabilité en cours de validité ; 
+des documents de navigabilité en cours de validité ;
 
 c) Pour les personnes morales, les pièces justificatives de l'identité et de la qualité de leurs représentants, de leur siège
-et de leur activité ; 
+et de leur activité ;
 
-9° Pour les autorisations mentionnées à l'article R. 312-31, preuve de l'inscription sur la liste des experts agréés en armes
+9° Pour les autorisations mentionnées à l'articleR. 312-31, preuve de l'inscription sur la liste des experts agréés en armes
 et munitions près la Cour de cassation ou près d'une cour d'appel et pièces justificatives du domicile et du lieu d'exercice
-de l'activité ; 
+de l'activité ;
 
-10° Pour la demande d'exemption prévue à l'article R. 312-45, justification de la pratique du tir sportif de vitesse apportée
+10° Pour la demande d'exemption prévue à l'articleR. 312-45, justification de la pratique du tir sportif de vitesse apportée
 par la fourniture d'un certificat de la Fédération française de tir.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 16 décembre 1998 - art. 1 (V)
 	  - Arrêté du 16 décembre 1998 - art. 3 (V)
 	  - Code de la sécurité intérieure - art. R312-13 (VD)
+	  - Code de la sécurité intérieure - art. R312-45 (VD)
 	  - Code de la sécurité intérieure - art. R312-53 (VD)
 	  - Code de la sécurité intérieure - art. R344-3 (V)
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 12, II (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-14 (V)
-	  - Code de la sécurité intérieure - art. L312-6 (V)
-	  - Code de la sécurité intérieure - art. R312-26 (VD)
-	  - Code de la sécurité intérieure - art. R312-27 (VD)
-	  - Code de la sécurité intérieure - art. R312-31 (VD)
-	  - Code de la sécurité intérieure - art. R312-38 (VD)
-	  - Code de la sécurité intérieure - art. R312-39 (VD)
-	  - Code de la sécurité intérieure - art. R312-40 (VD)
-	  - Code de la sécurité intérieure - art. R312-44 (VD)
-	  - Code de la sécurité intérieure - art. R312-45 (VD)
-	  - Code de la sécurité intérieure - art. R312-65 (VD)
+	  - Code du sport. - art. L131-14
+	  - Code de la sécurité intérieure - art. L312-6
+	  - Code de la sécurité intérieure - art. R312-26
+	  - Code de la sécurité intérieure - art. R312-27 (V)
+	  - Code de la sécurité intérieure - art. R312-31
+	  - Code de la sécurité intérieure - art. R312-38
+	  - Code de la sécurité intérieure - art. R312-39
+	  - Code de la sécurité intérieure - art. R312-40 (V)
+	  - Code de la sécurité intérieure - art. R312-44
+	  - Code de la sécurité intérieure - art. R312-65
 
 
 ###### Article R312-6
@@ -39748,28 +39820,26 @@ Les autorisations d'acquisition et de détention sont complétées :
 1° Dans les conditions prévues par les articles R. 314-16 à R. 314-18 lorsque le vendeur n'est pas titulaire d'une
 autorisation de fabrication ou de commerce ; 
 
-2° Dans les conditions prévues par le 2° de l'article 87 du décret n° 2013-700 du 30 juillet 2013 lorsque le vendeur est
-titulaire d'une autorisation de fabrication ou de commerce. Le volet n° 1 est rendu au titulaire. Le volet n° 2 est adressé
-par les soins du vendeur au préfet qui a reçu la demande d'autorisation et pris la décision.
+2° Dans les conditions prévues par le II de l'article R. 313-44 du présent code et le II de l'article R. 2332-22 du code de
+la défense lorsque le vendeur est titulaire d'une autorisation de fabrication ou de commerce. Le volet n° 1 est rendu au
+titulaire. Le volet n° 2 est adressé par les soins du vendeur au préfet qui a reçu la demande d'autorisation et pris la
+décision.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 87 (VD)
-	  - Code de la sécurité intérieure - art. R314-16 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 18, al. 1er (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-22 (V)
+	  - Code de la sécurité intérieure - art. R313-44 (V)
+	  - Code de la sécurité intérieure - art. R314-16 (V)
 
 
 ###### Article R312-11
@@ -39802,22 +39872,18 @@ membres.
 
 ###### Article R312-12
 
-L'acquisition de l'arme doit être réalisée dans un délai de trois mois à partir de la date de notification de l'autorisation.
+L'acquisition de l'arme doit être réalisée dans un délai de six mois à partir de la date de notification de l'autorisation.
 Passé ce délai, cette autorisation est caduque.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 18, al. 2 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -40165,10 +40231,14 @@ sans consentement présente un certificat médical conforme aux dispositions de 
 ###### Article R312-22
 
 Sous réserve des dispositions de l'article R. 312-23, les administrations ou services publics peuvent acquérir et détenir les
-matériels, armes, munitions et leurs éléments de toute catégorie en vue de leur remise à leurs fonctionnaires et agents
-relevant de certaines catégories, pour l'exercice de leurs fonctions.
+matériels de guerre, armes, munitions et leurs éléments de toute catégorie en vue de leur remise à leurs fonctionnaires et
+agents relevant de certaines catégories, pour l'exercice de leurs fonctions.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -40198,30 +40268,26 @@ relevant de certaines catégories, pour l'exercice de leurs fonctions.
 	  - Code de la sécurité intérieure - art. R546-4 (V)
 	  - Code forestier (nouveau) - art. R161-3 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 25, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-23 (VD)
+	  - Code de la sécurité intérieure - art. R312-23
 
 
 ###### Article R312-23
 
 Le ministère de l'intérieur, l'administration des douanes et l'administration pénitentiaire peuvent acquérir et détenir des
-matériels, armes, munitions et leurs éléments de toute catégorie en vue de leur remise à leurs fonctionnaires et agents pour
-l'exercice de leurs fonctions.
+matériels de guerre, armes, munitions et leurs éléments de toute catégorie en vue de leur remise à leurs fonctionnaires et
+agents pour l'exercice de leurs fonctions.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -40232,17 +40298,9 @@ l'exercice de leurs fonctions.
 	  - Décret n°2017-909 du 9 mai 2017 - art. 13
 	  - Code de la sécurité intérieure - art. R312-22 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 25, II (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 
 ###### Article R312-24
@@ -40382,27 +40440,35 @@ Ces dispositions sont applicables aux locataires et utilisateurs des armes en ca
 
 ###### Article R312-27
 
-Peuvent être autorisés, par le préfet sur avis du ministre de la défense, sous réserve, pour les personnes physiques, du
-respect des dispositions de l'article L. 312-6, à acquérir et à détenir des matériels de guerre, armes, munitions et leurs
-éléments : 
+Peuvent être autorisés, par le préfet sur avis du ministre de la défense lorsqu'il s'agit de matériels de guerre, sous
+réserve, pour les personnes physiques, du respect des dispositions de l'articleL. 312-6, à acquérir et à détenir des
+matériels de guerre, armes, munitions et leurs éléments :
 
 1° Les personnes qui les exposent dans des musées, ouverts au public, pour les matériels de guerre, armes et leurs éléments
-ainsi que les munitions de toutes catégories ; 
+ainsi que les munitions de toutes catégories ;
 
 2° Les services de l'Etat, pour les besoins autres que ceux de la défense nationale, les collectivités territoriales et leurs
-établissements publics, pour les matériels de guerre de la catégorie A et les armes des catégories A et B ; 
+établissements publics, pour les matériels de guerre de la catégorie A et les armes des catégories A et B ;
 
 3° Les organismes d'intérêt général ou à vocation culturelle, historique ou scientifique, qui contribuent à la conservation,
 à la connaissance ou à l'étude des matériels de guerre, pour les matériels de la catégorie A et les armes des catégories A et
-B ; 
+B ;
 
 4° Les personnes physiques qui contribuent, par la réalisation de collections, à la conservation, à la connaissance ou
-l'étude des matériels de guerre, pour les matériels de la catégorie A2 ; 
+l'étude des matériels de guerre, pour les matériels de la catégorie A2 ;
 
 5° Les établissements d'enseignement et de formation, en vue de l'accomplissement de leur mission, pour les matériels de
-guerre relevant des 8°, 9° et 10° de la catégorie A2.
+guerre relevant des 8°, 9° et 10° de la catégorie A2 ;
+
+6° Les organismes et sociétés privés assurant une mission de service ou de sécurité publics, pour les matériels de guerre
+relevant des 14° et 17° de la catégorie A2, selon des modalités fixées par arrêté conjoint du ministre de l'intérieur et du
+ministre en charge de l'aviation civile.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -40412,23 +40478,15 @@ guerre relevant des 8°, 9° et 10° de la catégorie A2.
 	  - Code de la défense. - art. R2337-2 (V)
 	  - Code de la sécurité intérieure - art. R312-28 (VD)
 	  - Code de la sécurité intérieure - art. R312-29 (VD)
-	  - Code de la sécurité intérieure - art. R312-5 (VD)
+	  - Code de la sécurité intérieure - art. R312-5 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 27, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L312-6 (V)
+	  - Code de la sécurité intérieure - art. L312-6
 
 
 ###### Article R312-28
@@ -40804,37 +40862,37 @@ motif, une seconde arme de poing de la même catégorie.
 ###### Article R312-40
 
 Peuvent être autorisés pour la pratique du tir sportif à acquérir et à détenir des armes, munitions et leurs éléments des 1°,
-2°, 4°, 5°, 9° et 10° de la catégorie B : 
+2°, 4°, 5°, 9° et 10° de la catégorie B :
 
 1° Les associations sportives agréées membres d'une fédération sportive ayant reçu, du ministre chargé des sports au titre de
 l'article L. 131-14 du code du sport, délégation pour la pratique du tir ou du ball-trap, dans la limite d'une arme pour
-quinze tireurs ou fraction de quinze tireurs et d'un maximum de soixante armes ; 
+quinze tireurs ou fraction de quinze tireurs et d'un maximum de soixante armes ;
 
 2° Les personnes majeures et les tireurs sélectionnés de moins de dix-huit ans participant à des concours internationaux,
 membres des associations mentionnées au 1° du présent article, titulaires du carnet de tir conforme aux dispositions de
-l'article R. 312-43 du présent code, licenciés d'une fédération ayant reçu du ministre chargé des sports, au titre de
-l'article L. 131-14 du code du sport, délégation pour la pratique du tir et titulaires d'un avis favorable de cette
-fédération, dans la limite de douze armes mentionnées aux 1°, 2°, 4° et 9° de la catégorie B. Ces armes ne peuvent être
-utilisées que dans un stand de tir déclaré en application de l'article R. 322-1 du code du sport. 
+l'articleR. 312-43du présent code, licenciés d'une fédération ayant reçu du ministre chargé des sports, au titre de l'article
+L. 131-14 du code du sport, délégation pour la pratique du tir et titulaires d'un avis favorable de cette fédération, dans la
+limite de douze armes mentionnées aux 1°, 2°, 4° et 9° de la catégorie B. Ces armes ne peuvent être utilisées que dans un
+stand de tir déclaré en application de l'article R. 322-1 du code du sport.
 
 Les personnes âgées de douze ans au moins, ne participant pas à des compétitions internationales, peuvent être autorisées à
 détenir des armes de poing à percussion annulaire à un coup du 1° de la catégorie B, dans la limite de trois, sous réserve
 d'être titulaires d'une licence de tir en cours de validité délivrée par une fédération sportive ayant reçu du ministre
-chargé des sports, au titre de l'article L. 131-14 du code du sport, délégation pour la pratique du tir. 
+chargé des sports, au titre de l'article L. 131-14 du code du sport, délégation pour la pratique du tir.
 
 Les autorisations d'acquisition et de détention délivrées au titre du présent 2° sont subordonnées à la participation à trois
 séances contrôlées de pratique du tir, espacées d'au moins deux mois, au cours des douze mois précédant la demande
-d'autorisation. 
+d'autorisation.
 
 Pour obtenir le renouvellement de son autorisation d'acquisition et de détention d'arme, le détenteur doit justifier de sa
 participation à trois séances contrôlées de pratique du tir, espacées d'au moins deux mois, par période de douze mois pendant
-la durée de l'autorisation. 
+la durée de l'autorisation.
 
-Les modalités des séances contrôlées de pratique du tir sont fixées par arrêté conjoint des ministres de la défense et de
-l'intérieur et du ministre chargé des sports. 
+Les modalités des séances contrôlées de pratique du tir sont fixées par arrêté conjoint du ministre de l'intérieur et du
+ministre chargé des sports.
 
 La liste des fédérations, les conditions et les modalités de délivrance des avis favorables sont fixées par arrêté conjoint
-des ministres de la défense et de l'intérieur et du ministre chargé des sports. 
+du ministre de l'intérieur et du ministre chargé des sports.
 
 Les critères de sélection des tireurs devant participer à des concours internationaux sont définis par le ministre chargé des
 sports.
@@ -40852,6 +40910,10 @@ annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie les 3
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
 	**Cité par**:
 
 	  - Arrêté du 7 septembre 1995 - art. 1 (V)
@@ -40868,29 +40930,21 @@ annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie les 3
 	  - Code de la sécurité intérieure - art. R312-47 (V)
 	  - Code de la sécurité intérieure - art. R312-48 (V)
 	  - Code de la sécurité intérieure - art. R312-49 (V)
-	  - Code de la sécurité intérieure - art. R312-5 (VD)
+	  - Code de la sécurité intérieure - art. R312-5 (V)
 	  - Code de la sécurité intérieure - art. R312-66 (VD)
 	  - Code de la sécurité intérieure - art. R317-1 (VD)
 	  - Code de la sécurité intérieure - art. R317-4 (VD)
 	  - Code de la sécurité intérieure - art. R344-3 (V)
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 34, I (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-14 (V)
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. L131-14
+	  - Code du sport. - art. R322-1
 
 
 ###### Article R312-41
@@ -40947,20 +41001,20 @@ Les éléments d'arme ne sont pas pris en compte dans les quotas prévus aux art
 
 ###### Article R312-43
 
-Les personnes mentionnées au 2° de l'article R. 312-40 doivent être titulaires d'un carnet de tir indiquant la date de chaque
-séance contrôlée de pratique du tir. 
+Les personnes mentionnées au 2° de l'articleR. 312-40doivent être titulaires d'un carnet de tir indiquant la date de chaque
+séance contrôlée de pratique du tir.
 
 Ce carnet, délivré par une association sportive agréée mentionnée au 1° de l'article R. 312-40, doit être présenté à toute
-réquisition des services de police ou de gendarmerie. 
+réquisition des services de police ou de gendarmerie.
 
 Les associations sportives agréées mentionnées au 1° de l'article R. 312-40 tiennent un registre journalier indiquant les
-nom, prénom et domicile de toute personne participant à une séance contrôlée de pratique du tir. 
+nom, prénom et domicile de toute personne participant à une séance contrôlée de pratique du tir.
 
 Ce registre est tenu à la disposition des fédérations sportives dont relèvent ces associations et doit être présenté à toute
-réquisition des services de police ou de gendarmerie. 
+réquisition des services de police ou de gendarmerie.
 
-Un arrêté conjoint du ministre de l'intérieur, du ministre de la défense et du ministre chargé des sports fixe le modèle type
-du carnet de tir et du registre journalier mentionnés aux alinéas précédents.
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports fixe le modèle type du carnet de tir et du
+registre journalier mentionnés aux alinéas précédents.
 
 **Nota:**
 
@@ -40973,6 +41027,10 @@ annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie le 5
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
 	**Cité par**:
 
 	  - Arrêté du 16 décembre 1998 - art. 3 (V)
@@ -40981,17 +41039,9 @@ annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie le 5
 	  - Code de la sécurité intérieure - art. R344-3 (V)
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 35 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 
 #####   Sous-paragraphe  9 : Tir forain
@@ -41091,26 +41141,32 @@ R. 312-6 à R. 312-8.
 
 ###### Article R312-47
 
-Les autorisations d'acquisition et de détention d'armes valent autorisation d'acquisition et de détention des munitions
-correspondantes pour les autorisations délivrées au titre : 
+L'autorisation d'acquisition et de détention d'une arme vaut autorisation d'acquisition et de détention des munitions
+correspondantes, sous réserve des dispositions du présent article. 
 
-1° De l'article R. 312-39 : 50 cartouches par arme. 
+Le détenteur d'une arme peut acquérir, pendant la durée de l'autorisation mentionnée au premier alinéa, et par période de
+douze mois à compter de la date de délivrance de celle-ci : 
 
-Le recomplètement de ces stocks est soumis à autorisation dans les conditions énoncées à l'article R. 312-48 ; 
+1° 50 cartouches par arme au titre de l'article R. 312-39 ; 
 
-2° Des articles R. 312-26, R. 312-30, R. 312-40 et R. 312-41 : 1 000 cartouches par arme. 
+2° 1 000 cartouches par arme au titre des articles R. 312-26 et R. 312-30 ; 
 
-Les détenteurs d'armes mentionnés à l'article R. 312-40 peuvent être autorisés à acquérir et détenir des munitions pour
-recompléter les quantités indiquées ci-dessus dans les conditions fixées à l'article R. 312-48. 
+3° 2 000 cartouches par arme au titre du 2° de l'article R. 312-40 et de l'article R. 312-41 ; 
 
-Sont autorisés à acquérir et détenir, sans limitation des douilles ou des douilles amorcées, pour les calibres des armes
-qu'ils détiennent, les tireurs régulièrement licenciés auprès des associations sportives agréées pour la pratique du tir. 
+4° 3 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de 1
+à 30 armes ; 
 
-Les autorisations d'acquisition et de détention d'armes accordées aux entreprises mentionnées à l'article R. 312-26 valent
-autorisation d'acquisition et de détention des munitions correspondantes, inertes ou à blanc, dans la limite de 1 000
-cartouches par arme.
+5° 6 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de 31
+à 50 armes ; 
+
+6° 10 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de
+51 à 60 armes..
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -41122,38 +41178,33 @@ cartouches par arme.
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 	  - Code de la sécurité intérieure - art. R511-11 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 39 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-26 (VD)
-	  - Code de la sécurité intérieure - art. R312-30 (VD)
-	  - Code de la sécurité intérieure - art. R312-39 (VD)
-	  - Code de la sécurité intérieure - art. R312-40 (VD)
+	  - Code de la sécurité intérieure - art. R312-26 (V)
+	  - Code de la sécurité intérieure - art. R312-30 (V)
+	  - Code de la sécurité intérieure - art. R312-39 (V)
+	  - Code de la sécurité intérieure - art. R312-40 (V)
+	  - Code de la sécurité intérieure - art. R312-41 (V)
 
 
 ###### Article R312-48
 
-La demande d'autorisation de recomplètement de stocks de munitions prévue à l'article R. 312-47, accompagnée de toutes
-justifications utiles, est remise au préfet du lieu de domicile qui l'enregistre. 
+Les personnes mentionnées à l'article R. 312-40 sont autorisées à acquérir et détenir, sans limitation, des éléments de
+munitions, pour les calibres des armes qu'elles détiennent. 
 
-L'autorisation rédigée conformément au modèle fixé par l'arrêté prévu à l'article R. 311-6 est notifiée par le préfet qui a
-reçu la demande. 
-
-Elle est complétée par le vendeur dans les conditions fixées au 3° de l'article 87 du décret n° 2013-700 du 30 juillet 2013
-et adressée au préfet par ses soins.
+Les autorisations d'acquisition et de détention d'armes accordées aux entreprises mentionnées à l'article R. 312-26 valent
+autorisation d'acquisition et de détention, dans les limites mentionnées au 2° de l'article R. 312-47, pour des munitions
+inertes ou à blanc.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -41162,46 +41213,36 @@ et adressée au préfet par ses soins.
 	  - Code de la sécurité intérieure - art. R344-3 (V)
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 40 (VT)
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 87 (VT)
-	  - Code de la sécurité intérieure - art. R311-6 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Code de la sécurité intérieure - art. R312-26 (V)
+	  - Code de la sécurité intérieure - art. R312-40 (V)
 
 
 ###### Article R312-49
 
-Nul ne peut détenir plus de 1 000 munitions par arme. Nul ne peut en acquérir plus de 1 000 par arme au cours de douze mois
-consécutifs, sous réserve du recomplètement prévu au cinquième alinéa de l'article R. 312-47.
+Nul ne peut détenir plus de 1 000 munitions par arme. 
+
+Par dérogation, les associations sportives mentionnées au 1° de l'article R. 312-40 qui détiennent de 51 à 60 armes ne
+peuvent à aucun moment détenir plus de 3 000 munitions par arme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 41 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-47 (VD)
+	  - Code de la sécurité intérieure - art. R312-40 (V)
 
 
 ##### Paragraphe 8 : Dispositions diverses
@@ -41397,25 +41438,31 @@ d'exportation lorsqu'elle est exigible ;
 2° L'acquisition des armes du 3° de la catégorie C ; 
 
 3° L'acquisition des armes, des munitions ou de leurs éléments de la catégorie C lorsqu'elle est faite par une association
-agréée pour la pratique du tir sportif ou par un exploitant de tir forain.
+agréée pour la pratique du tir sportif ou par un exploitant de tir forain ; 
+
+4° L'acquisition des armes, munitions ou leurs éléments de la catégorie C et du 1° de la catégorie D par les experts agréés
+en armes et munitions près la Cour de cassation ou près d'une cour d'appel lorsqu'ils sont titulaires d'une autorisation
+accordée en application de l'article R. 312-31. 
+
+Les armes de la catégorie C et du 1° de la catégorie D ainsi acquises dans le cadre de leur activité sont soumises aux
+dispositions des articles R. 312-32, R. 312-33, R. 312-34 et R. 312-36.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 44 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-53 (VD)
+	  - Code de la sécurité intérieure - art. R312-31 (V)
+	  - Code de la sécurité intérieure - art. R312-32 (V)
+	  - Code de la sécurité intérieure - art. R312-36 (V)
+	  - Code de la sécurité intérieure - art. R312-53
 
 	**Cité par**:
 
@@ -42059,42 +42106,37 @@ budget, du ministre de l'intérieur et du ministre de la défense.
 
 ###### Article R312-74
 
-Pour l'application de l'article L. 312-11, le détenteur se dessaisit de l'arme, des munitions ou de leurs éléments dans le
+Pour l'application de l'articleL. 312-11, le détenteur se dessaisit de l'arme, des munitions ou de leurs éléments dans le
 délai de trois mois qui suit la notification de la décision lui ordonnant de s'en dessaisir, selon l'une des modalités
-suivantes : 
+suivantes :
 
-1° Vente à un armurier ou à un particulier dans les conditions fixées aux articles R. 314-16 et R. 314-17 ; 
+1° Vente à un armurier ou à un particulier dans les conditions fixées aux articlesR. 314-16et R. 314-17 ;
 
-2° Neutralisation dans un établissement désigné par arrêté conjoint du ministre de l'intérieur, du ministre de la défense et
-des ministres chargés de l'industrie et des douanes ; 
+2° Neutralisation dans un établissement désigné par arrêté conjoint du ministre de l'intérieur et des ministres chargés de
+l'industrie et des douanes ;
 
-3° Destruction par un armurier dans les conditions prévues par arrêté conjoint du ministre de l'intérieur et du ministre de
-la défense ; 
+3° Destruction par un armurier dans les conditions prévues par arrêté ;
 
 4° Remise à l'Etat aux fins de destruction dans les conditions prévues par arrêté conjoint du ministre de l'intérieur, du
-ministre de la défense, du ministre de la justice et du ministre chargé du budget. 
+ministre de la justice et du ministre chargé du budget.
 
 En cas de risque pour l'ordre public ou la sécurité des personnes, le préfet peut fixer un délai inférieur au délai prévu au
 premier alinéa.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 69, II (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L312-11 (V)
-	  - Code de la sécurité intérieure - art. R314-16 (VD)
+	  - Code de la sécurité intérieure - art. L312-11
+	  - Code de la sécurité intérieure - art. R314-16
 
 	**Cité par**:
 
@@ -42162,8 +42204,8 @@ le commandant de la brigade de gendarmerie informe le préfet de la saisie opér
 ###### Article R312-77
 
 Le fichier de données à caractère personnel relatif aux personnes interdites d'acquisition et de détention d'armes institué
-par l'article L. 312-16 est mis en œuvre par le ministère de l'intérieur (direction des libertés publiques et des affaires
-juridiques). Il est dénommé : "Fichier national des interdits d'acquisition et de détention d'armes" (FINIADA). 
+par l'article L. 312-16 est mis en œuvre par le ministère de l'intérieur (service central des armes). Il est dénommé :
+"Fichier national des interdits d'acquisition et de détention d'armes" (FINIADA).
 
 Ce fichier a pour finalité la mise en œuvre et le suivi, au niveau national, des interdictions d'acquisition, de détention,
 de port et de la confiscation des armes en application de l'article L. 312-16.
@@ -42180,7 +42222,7 @@ de port et de la confiscation des armes en application de l'article L. 312-16.
 
 	**Modifié par**:
 
-	  - Décret n°2016-156 du 15 février 2016 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
@@ -42235,25 +42277,21 @@ définitif.
 Peuvent seuls accéder aux données à caractère personnel enregistrées dans le fichier national des interdits d'acquisition et
 de détention d'armes :
 
-1° Les agents des services centraux du ministère de l'intérieur (direction des libertés publiques et des affaires juridiques)
-individuellement désignés et spécialement habilités par le directeur des libertés publiques et des affaires juridiques ;
+1° Les agents des services centraux du ministère de l'intérieur (service central des armes) individuellement désignés et
+spécialement habilités par le chef du service central des armes ;
 
 2° Les agents des services préfectoraux chargés de l'application de la réglementation relative aux armes, éléments d'arme et
 munitions, individuellement désignés et spécialement habilités par le préfet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 72, I (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 3
 
 
 ###### Article R312-80
@@ -42457,7 +42495,8 @@ six mois à compter de la date d'expiration de l'agrément. La copie de l'agrém
 
 Les documents suivants sont joints à la demande d'agrément :
 
-1° Un document établissant l'état civil de l'intéressé ainsi qu'un extrait d'acte de naissance avec mentions marginales ;
+1° Un document établissant l'état civil de l'intéressé ainsi qu'un extrait d'acte de naissance avec mentions marginales
+datant de moins de trois mois ;
 
 2° Un document établissant les compétences professionnelles de l'intéressé consistant en la copie :
 
@@ -42470,14 +42509,13 @@ arrêté du ministre de l'intérieur ;
 
 c) Soit, lorsque le dirigeant de l'entreprise ne procède pas directement à la vente au public, d'un diplôme de niveau IV
 délivré par la France, par un autre Etat membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace
-économique européen, sanctionnant une formation en administration des entreprises. Dans ce cas, l'établissement doit
-comporter dans son personnel au moins un salarié titulaire de l'un des diplômes, titres ou certificats de qualification
-mentionnés aux alinéas précédents ;
+économique européen. Dans ce cas, l'établissement doit comporter dans son personnel au moins un salarié titulaire de l'un des
+diplômes, titres ou certificats de qualification mentionnés aux alinéas précédents ;
 
 3° Pour les ressortissants d'un Etat membre de l'Union européenne autre que la France ou d'un autre Etat partie à l'accord
 sur l'Espace économique européen, à défaut de produire un document mentionné au 2°, un document établissant la capacité
 professionnelle de l'intéressé consistant en la copie de l'agrément ou du titre équivalent délivré par l'autorité
-administrative de cet Etat et justifiant la capacité à exercer la profession d'armurier. 
+administrative de cet Etat et justifiant la capacité à exercer la profession d'armurier.
 
 4° Un ou des documents établissant l'honorabilité du demandeur et consistant en :
 
@@ -42496,7 +42534,7 @@ Tout document rédigé dans une langue étrangère est accompagné de sa traduct
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 56
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -42650,6 +42688,27 @@ fait application de l'article L. 312-7.
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L312-7 (V)
+
+
+###### Article R313-7-1
+
+Par dérogation aux articles R. 313-1 à R. 313-7, l'autorisation de se livrer, sous le contrôle de l'Etat, à la fabrication et
+au commerce des armes, munitions et leurs éléments des catégories A1 et B, prévue aux articles R. 313-28 à R. 313-31 et
+délivrée pour des raisons d'ordre public ou de sécurité nationale pour une durée maximale de cinq ans par le ministre de
+l'intérieur, constitue, pour le représentant légal d'une personne morale mentionnée au I de l'article L. 2332-1 du code de la
+défense, l'agrément prévu à l'article L. 313-2 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la sécurité intérieure - art. L313-2 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
 
 
 ##### Section 2 : Autorisation d'ouverture du commerce de détail
@@ -42953,6 +43012,24 @@ la première phrase du troisième alinéa de l'article L. 313-3.
 	  - Code de la sécurité intérieure - art. R313-16 (VD)
 
 
+###### Article R313-15-1
+
+Le commerçant titulaire de l'autorisation ne peut présenter à sa clientèle, pour des tirs d'essai ou de démonstration,
+d'autres armes que celles relevant des catégories mentionnées dans l'autorisation. Les armes mentionnées au 1° de la
+catégorie A2 ne peuvent être présentées à la clientèle pour des tirs d'essai ou de démonstration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R313-18 (V)
+	  - Code de la sécurité intérieure - art. R317-9-1 (V)
+
+
 ##### Sous-section 3 : Mesures de sécurité
 
 ###### Article R313-16
@@ -43043,37 +43120,34 @@ affichage sur les lieux de la vente et sur ceux de l'exposition.
 
 Toute personne qui se livre au commerce des armes, munitions et de leurs éléments des catégories A, B, C, du 1° de la
 catégorie D et des h, i et j du 2° de la catégorie D doit disposer d'un local fixe et permanent dans lequel elle doit
-conserver les armes, les munitions et leurs éléments qu'elle détient ainsi que les registres spéciaux mentionnés à l'article
-R. 313-24 et à l'article 83 du décret n° 2013-700 du 30 juillet 2013 et conservés dans les conditions définies à l'article R.
-313-25 et à l'article 110 du décret n° 2013-700 du 30 juillet 2013. 
+conserver les armes, les munitions et leurs éléments qu'elle détient ainsi que les registres spéciaux mentionnés aux articles
+R. 313-24 et R. 313-40 et à l'article R. 2332-18 du code de la défense et conservés dans les conditions définies à l'article
+R. 313-25. 
 
 Lorsqu'il se livre au commerce de détail, le commerçant doit exercer son activité dans ce local. Seules la présentation et la
 vente au détail d'armes du a à g du 2° de la catégorie D peuvent être effectuées en dehors de ce local fixe.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 90 (VT)
-
-	**Cite**:
-
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 110 (VT)
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 83 (VT)
-	  - Code de la sécurité intérieure - art. R313-24 (VD)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Décret n°2017-909 du 9 mai 2017 - art. 11
-	  - Code de la sécurité intérieure - art. R313-20 (VD)
+	  - Code de la sécurité intérieure - art. R313-20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-18 (V)
+	  - Code de la sécurité intérieure - art. R313-24 (V)
+	  - Code de la sécurité intérieure - art. R313-25 (V)
+	  - Code de la sécurité intérieure - art. R313-40 (V)
 
 
 ##### Sous-section 4 : Conditions de suspension ou de retrait
@@ -43082,7 +43156,7 @@ vente au détail d'armes du a à g du 2° de la catégorie D peuvent être effec
 
 L'autorisation d'ouverture du local commercial peut être suspendue ou retirée : 
 
-1° Lorsque l'exploitant a manqué aux obligations d'information prévues aux articles R. 313-13 et R. 313-14 ; 
+1° Lorsque l'exploitant a manqué aux obligations prévues aux articles R. 313-13, R. 313-14 et R. 313-15-1 ; 
 
 2° Lorsque ne sont plus remplies les conditions auxquelles cette autorisation est soumise lors de sa délivrance, notamment
 lorsque l'exploitation du local est à l'origine de troubles répétés à l'ordre ou à la sécurité publics, ou lorsque la
@@ -43094,22 +43168,19 @@ mise en sécurité contre le vol ou l'intrusion dans un délai de trois mois à 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 105 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R313-13 (VD)
-	  - Code de la sécurité intérieure - art. R313-16 (VD)
+	  - Code de la sécurité intérieure - art. R313-13 (V)
+	  - Code de la sécurité intérieure - art. R313-15-1 (V)
+	  - Code de la sécurité intérieure - art. R313-16
 
 
 ###### Article R313-19
@@ -43148,17 +43219,17 @@ Par dérogation aux dispositions de l'article R. 313-17 :
 1° Des manifestations commerciales peuvent être organisées dans les conditions prévues par l'article L. 762-2 du code de
 commerce ; 
 
-2° Sans préjudice de l'application éventuelle des dispositions de l'article L. 310-2 du code de commerce, des ventes au
-détail hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies
-par l'article L. 762-2 du code de commerce par le préfet du département du lieu où elles se tiennent. 
+2° Sans préjudice de l'application éventuelle desdispositions de l'article L. 310-2 du code de commerce, des ventes au détail
+hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies par
+l'article L. 762-2 du code de commerce par le préfet du département du lieu où elles se tiennent. 
 
 Seules peuvent être autorisées à y vendre des armes, des éléments d'arme et des munitions des catégories B, C, du 1° de la
 catégorie D et des a, b, c, h, i et j du 2° de la catégorie D les personnes titulaires : 
 
 a) Soit de l'autorisation mentionnée à l'article R. 313-8 ; 
 
-b) Soit de l'autorisation d'un local de vente au détail délivrée dans les conditions prévues au dernier alinéa de l'article
-74 du décret n° 2013-700 du 30 juillet 2013 ; 
+b) Soit de l'autorisation d'un local de vente au détail délivrée dans les conditions prévues au second alinéa de l'article R.
+313-28. 
 
 c) Soit d'une autorisation spéciale délivrée par le préfet attestant que les conditions de la vente des armes, des éléments
 d'arme et des munitions ne présentent pas de risque pour l'ordre et la sécurité publics ; 
@@ -43174,26 +43245,21 @@ autorisés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 107 (VT)
-
-	**Cite**:
-
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 74 (VT)
-	  - Code de commerce - art. L310-2 (M)
-	  - Code de commerce - art. L762-2 (M)
-	  - Code de la sécurité intérieure - art. L313-2 (V)
-	  - Code de la sécurité intérieure - art. R313-17 (VD)
-	  - Code de la sécurité intérieure - art. R313-8 (VD)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de commerce - art. L762-2 (V)
+	  - Code de la sécurité intérieure - art. L313-2
+	  - Code de la sécurité intérieure - art. R313-17 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8
 
 	**Cité par**:
 
@@ -43203,52 +43269,61 @@ autorisés.
 
 ###### Article R313-21
 
-Pour procéder à des ventes aux enchères publiques, les organisateurs de la vente doivent être titulaires d'une autorisation :
+Pour procéder à des ventes aux enchères publiques, les organisateurs de la vente doivent être titulaires d'une
+autorisation : 
 
-1° Pour la vente publique des armes et des éléments d'arme des catégories A et B, l'autorisation est demandée au ministre de
-la défense au moins quinze jours francs avant la date de la vente. L'absence de réponse de l'administration dans les délais
-vaut autorisation ;
+1° Pour la vente publique des armes et des éléments d'arme des catégories A1 et B, l'autorisation est demandée au ministre de
+l'intérieur au moins quinze jours francs avant la date de la vente. L'absence de réponse de l'administration dans les délais
+vaut autorisation ; 
 
-2° Pour la vente publique des armes et des éléments d'arme de la catégorie C, du 1° de la catégorie D et des a, b, c, h et i
-du 2° de la catégorie D, l'autorisation est demandée dans les mêmes conditions au préfet du département dont relève le lieu
-d'exercice de la profession.
+2° Pour la vente publique des matériels de guerre de la catégorie A2, l'autorisation est demandée au ministre de la défense
+au moins quinze jours francs avant la date de la vente. L'absence de réponse de l'administration dans les délais vaut
+autorisation ; 
 
-Lorsqu'ils vendent de manière habituelle des armes de ces catégories, le ministre de la défense peut leur donner
-l'autorisation mentionnée au dernier alinéa de l'article 74 du décret n° 2013-700 du 30 juillet 2013.
+3° Pour la vente publique des armes et des éléments d'arme de la catégorie C et du 1° de la catégorie D et des a, b, c, h et
+i du 2° de la catégorie D, l'autorisation est demandée au moins quinze jours francs avant la date de la vente au préfet du
+département dont relève le lieu d'exercice de la profession. 
 
-Les organisateurs de ventes publiques doivent se conformer aux obligations faites aux titulaires des autorisations.
+Lorsqu'ils vendent de manière habituelle des armes de ces catégories, le ministre de l'intérieur ou le ministre de la défense
+peuvent leur donner les autorisations respectivement prévues au second alinéa de l'article R. 313-28 du présent code et à
+l'article R. 2332-1 du code de la défense. 
 
-Les ventes d'armes et d'éléments d'arme des catégories A et B doivent faire l'objet d'un compte rendu annuel d'activités à
-adresser au ministre de la défense. Cette disposition ne s'applique pas aux agents du service des domaines.
+Les organisateurs de ventes publiques doivent se conformer aux obligations faites aux titulaires des autorisations, notamment
+en matière de conservation, d'expédition et de transport des armes. 
+
+Chaque vente d'armes et de leurs éléments des catégories A1 et B doit faire l'objet d'un procès-verbal signé à adresser au
+ministre de l'intérieur. Chaque vente de matériels de guerre de la catégorie A2 doit faire l'objet d'un procès-verbal signé à
+adresser au ministre de la défense. Les dispositions du présent alinéa ne s'appliquent pas aux agents du service des
+domaines..
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 108, I (VT)
-
-	**Cite**:
-
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 74 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-1 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
 
 
 ###### Article R313-22
 
 Lors des ventes aux enchères publiques, seules peuvent enchérir : 
 
-1° Pour les matériels de la catégorie A, les personnes titulaires d'une autorisation mentionnée au dernier alinéa de
-l'article 74 du décret n° 2013-700 du 30 juillet 2013 ; 
+1° Pour les matériels de guerre de la catégorie A2, les personnes titulaires d'une autorisation mentionnée au premier alinéa
+de l'article R. 2332-5 du code de la défense ; 
 
-2° Pour les matériels de la catégorie B, les personnes titulaires d'une autorisation mentionnée au dernier alinéa de
-l'article 74 du décret n° 2013-700 du 30 juillet 2013 ou à l'article R. 312-21 ; 
+1° bis Pour les armes de la catégorie A1, les personnes titulaires d'une autorisation mentionnée au second alinéa de
+l'article R. 313-28 ; 
+
+2° Pour les matériels de la catégorie B, les personnes titulaires d'une autorisation mentionnée au second alinéa de l'article
+R. 313-28 ou à l'article R. 312-21 ; 
 
 3° Pour les armes de la catégorie C et du 1° de la catégorie D, les titulaires d'une autorisation mentionnée à l'article R.
 313-8 du présent code ou les personnes titulaires de l'un des titres prévus au premier alinéa de l'article R. 312-53. 
@@ -43260,25 +43335,22 @@ Les armes et leurs éléments destinés à la vente aux enchères publiques sont
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 108, II (VT)
-
-	**Cite**:
-
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 74 (VT)
-	  - Code de la sécurité intérieure - art. R312-21 (VD)
-	  - Code de la sécurité intérieure - art. R312-53 (VD)
-	  - Code de la sécurité intérieure - art. R313-8 (VD)
-	  - Code de la sécurité intérieure - art. R314-10 (VD)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. R312-21
+	  - Code de la sécurité intérieure - art. R312-53
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8
+	  - Code de la sécurité intérieure - art. R314-10
 
 	**Cité par**:
 
@@ -43357,53 +43429,50 @@ signature sur le registre spécial.
 
 ###### Article R313-25
 
-Le registre spécial dont la tenue est prévue par l'article R. 313-24 doit être conservé pendant toute la durée de
-l'activité. 
+Les registres spéciaux, dont la tenue est prévue par les articles R. 313-24 et R. 313-40 et par l'article R. 2332-18 du code
+de la défense, doivent être conservés pendant toute la durée de l'activité. 
 
-En cas de changement de propriétaire, il est transmis au successeur, qui peut continuer à l'utiliser. 
+En cas de changement de propriétaire, ils sont transmis au successeur, qui peut continuer à les utiliser. En cas de fermeture
+définitive du commerce, ils doivent être déposés dans un délai de trois mois soit au commissariat de police, soit à la
+brigade de gendarmerie de la circonscription où se trouve le fonds de commerce. 
 
-En cas de fermeture définitive du commerce, il doit être déposé dans un délai de trois mois soit au commissariat de police,
-soit à la brigade de gendarmerie de la circonscription où se trouve le fonds de commerce. 
-
-Les préfets font procéder, au moins deux fois par an, au collationnement de ce registre.
+Les préfets font procéder, au moins deux fois par an, au collationnement de ces registres.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 110 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-18 (V)
+	  - Code de la sécurité intérieure - art. R313-24 (V)
+	  - Code de la sécurité intérieure - art. R313-40 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R313-17 (V)
 
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R313-24 (VD)
-
 
 ###### Article R313-26
 
 Afin de procéder aux inscriptions sur les registres spéciaux tenus par les commerçants en cas de vente par correspondance des
-matériels de la catégorie C et du 1° de la catégorie D, l'acheteur ou le vendeur non commerçant doit adresser au commerçant
-ou au fabricant d'armes ou de munitions la photocopie du document officiel portant sa photographie et sa signature. S'il
-s'agit d'un étranger résidant en France : carte de résident ou toute autre pièce en tenant lieu ou son passeport national ;
-si l'étranger réside hors du territoire national, son passeport national ou sa carte d'identité nationale. Cette photocopie
-doit être conservée pendant un délai de dix ans par le commerçant ou le fabricant.
+matériels des catégories B et C et du 1° de la catégorie D, l'acheteur ou le vendeur non commerçant doit adresser au
+commerçant ou au fabricant d'armes ou de munitions la photocopie du document officiel portant sa photographie et sa
+signature. S'il s'agit d'un étranger résidant en France : carte de résident ou toute autre pièce en tenant lieu ou son
+passeport national ; si l'étranger réside hors du territoire national, son passeport national ou sa carte d'identité
+nationale. Cette photocopie doit être conservée pendant un délai de dix ans par le commerçant ou le fabricant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 111 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -43411,13 +43480,550 @@ doit être conservée pendant un délai de dix ans par le commerçant ou le fabr
 	  - Code de la sécurité intérieure - art. R344-3 (V)
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 4
+
+
+#### Chapitre III : Fabrication et commerce
+
+##### Section 1 : Agrément d'armurier
+
+##### Section 2 : Autorisation d'ouverture du commerce de détail
+
+##### Section 3 : Vente au détail hors d'un local fixe et permanent
+
+##### Section 4 : Obligations de l'armurier dans la procédure de cession des armes et munitions
+
+##### Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D 
+
+###### Article R313-27
+
+La déclaration mentionnée au II de l'article L. 2332-1 du code de la défense comporte les mentions suivantes : 
+
+1° Nom et prénoms du déclarant ; 
+
+2° Date et lieu de naissance ; 
+
+3° Nationalité ; 
+
+4° Profession (fabricant, commerçant, etc.), lieu et mode d'exercice de la profession (entreprise individuelle, société ou
+groupement d'intérêt économique). 
+
+Dans le cas d'une société ou d'un groupement d'intérêt économique, sont également précisés : le nom ou la raison sociale et
+les noms et adresses des gérants, commandités, membres du conseil d'administration ou du directoire, administrateurs. 
+
+En ce qui concerne les armes de la catégorie D, cette déclaration ne s'applique qu'aux armes des a, b, c, h et i du 2° de la
+catégorie D. 
+
+La déclaration est conforme aux modèles fixés par l'arrêté prévu à l'article R. 311-6. 
+
+Cette déclaration est remise au commissariat de police ou à la brigade de gendarmerie dans le ressort duquel se trouve le
+lieu d'exercice de la profession. Un extrait, à jour, du registre du commerce et des sociétés est joint à la déclaration.
+L'autorité qui la reçoit en délivre un récépissé, l'enregistre et la transmet au préfet. 
+
+La cessation totale ou partielle d'activité ou le transfert de l'établissement sont déclarés selon les mêmes modalités.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la sécurité intérieure - art. R311-6 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2332-4 (V)
+	  - Code de la sécurité intérieure - art. R316-21 (V)
+	  - Code de la sécurité intérieure - art. R316-31 (V)
+	  - Code de la sécurité intérieure - art. R316-43 (V)
+
+
+##### Section 6 : Fabrication et commerce des armes, munitions et leurs éléments des catégories A1 et B
+
+##### Sous-section 1 : Autorisation de fabrication et de commerce
+
+###### Article R313-28
+
+Le ministre de l'intérieur exerce, pour la réglementation et l'orientation du contrôle de l'Etat sur la fabrication et le
+commerce des armes des catégories A1, B, C et D sur le territoire national, une action de centralisation et de coordination.
+
+Dans ce cadre, la fabrication, le commerce et l'activité d'intermédiation des armes, munitions et leurs éléments des
+catégories A1 et B sont soumis à autorisation du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2335-3 (V)
+	  - Code de la sécurité intérieure - art. R311-4-1 (V)
+	  - Code de la sécurité intérieure - art. R313-20 (V)
+	  - Code de la sécurité intérieure - art. R313-21 (V)
+	  - Code de la sécurité intérieure - art. R313-22 (V)
+	  - Code de la sécurité intérieure - art. R313-39 (V)
+	  - Code de la sécurité intérieure - art. R313-40 (V)
+	  - Code de la sécurité intérieure - art. R313-42 (V)
+	  - Code de la sécurité intérieure - art. R313-43 (V)
+	  - Code de la sécurité intérieure - art. R313-44 (V)
+	  - Code de la sécurité intérieure - art. R313-7-1 (V)
+	  - Code de la sécurité intérieure - art. R316-21 (V)
+	  - Code de la sécurité intérieure - art. R316-31 (V)
+	  - Code de la sécurité intérieure - art. R316-43 (V)
+
+
+###### Article R313-29
+
+I. – L'autorisation ne peut être accordée : 
+
+1° Aux personnes qui font l'objet d'un régime de protection en application de l'article 440 du code civil, qui ont fait ou
+font l'objet d'une admission en soins psychiatriques en application de l'article 706-135 du code de procédure pénale, qui ont
+été ou sont hospitalisées sans leur consentement en raison de troubles mentaux et aux personnes dont l'état psychique est
+manifestement incompatible avec la détention d'une arme. Il en est de même lorsqu'une personne exerçant, dans la société ou
+le groupement d'intérêt économique demandeur, une fonction de direction ou de gérance est soumise à l'un de ces régimes ; 
+
+2° Aux entreprises qui ne satisfont pas aux conditions suivantes : 
+
+a) Pour les entreprises individuelles : appartenance à un Français ou à un ressortissant d'un Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ; 
+
+b) Pour les sociétés de personnes : associés et gérants de nationalité française ou ressortissants d'un Etat membre de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ; 
+
+c) Pour les sociétés par actions et les sociétés à responsabilité limitée : gérants, commandités, membres du conseil
+d'administration, du directoire ou du conseil de surveillance de nationalité française ou ressortissants d'un Etat membre de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ; majorité du capital détenue par
+des Français ou des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen. L'Etat peut subordonner l'octroi des autorisations à la forme nominative des actions. 
+
+II. – L'autorisation peut être refusée lorsque le demandeur ou une personne appartenant aux organes de surveillance dans la
+société ou le groupement d'intérêt économique demandeur ou y exerçant une fonction d'administrateur, de gérance ou de
+direction a été condamné à une peine d'emprisonnement avec ou sans sursis supérieure à trois mois, figurant sur le bulletin
+n° 2 de son casier judiciaire ou dans un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen. 
+
+III. – A titre exceptionnel, le ministre de l'intérieur peut, pour des raisons de sécurité nationale, accorder des
+autorisations dérogeant aux conditions définies au b et au c du 2° du I. 
+
+Le ministre de l'intérieur peut également autoriser, par dérogation à ces conditions, l'exercice, à l'exclusion de toute
+autre activité commerciale, du commerce à l'importation et à l'exportation d'armes de la catégorie B qui ne sont pas soumises
+à contrôle à l'exportation en application de l'article L. 2335-2 du code de la défense et à contrôle de transfert
+intracommunautaire en application de l'article L. 2335-9 du même code. Dans ce cas, la demande est faite conformément aux
+dispositions des articles R. 313-33 à R. 313-38. Le titulaire de la dérogation est soumis aux dispositions sur le contrôle
+prévues par les articles L. 2332-4 et L. 2332-5 du code de la défense et aux sanctions administratives applicables aux
+titulaires d'autorisation de fabrication ou de commerce de catégorie B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-135 (V)
+	  - Code de la défense. - art. L2332-4 (V)
+	  - Code de la défense. - art. L2335-2 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+	  - Code de la sécurité intérieure - art. R313-33 (V)
+
+
+###### Article R313-30
+
+L'autorisation peut être refusée lorsque sa délivrance apparaît de nature à troubler l'ordre ou la sécurité publique. Dans ce
+cas, le ministre de l'intérieur en informe le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-31
+
+La notification par l'Etat d'un marché d'armes, munitions ou leurs éléments des catégories A1, B, C et D tient lieu
+d'autorisation pour le titulaire et pour l'exécution du marché considéré. Le titulaire demeure assujetti, pendant toute la
+durée de cette exécution, aux mêmes obligations que les titulaires d'autorisation, notamment en matière de conservation des
+armes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-32
+
+Peuvent bénéficier de l'autorisation prévue à l'article R. 313-28 les groupements d'intérêt économique constitués
+conformément aux prescriptions des articles L. 251-1 et suivants du code de commerce dont les membres satisfont
+individuellement aux conditions du I et du II de l'article R. 313-29 ou bénéficient d'une dérogation en application du III de
+ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de commerce - art. L251-1 (V)
+
+
+###### Article R313-33
+
+Les demandes d'autorisation établies sont conformes aux modèles fixés par l'arrêté prévu à l'article R. 311-6. 
+
+A la demande sont joints les renseignements suivants : 
+
+1° Pour les entreprises individuelles : justification de la nationalité du demandeur ; 
+
+2° Pour les sociétés de personnes : noms de tous les associés en nom, commandités, commanditaires et gérants ; justification
+de la nationalité de ces personnes ; 
+
+3° Pour les sociétés par actions et les sociétés à responsabilité limitée : noms des gérants, commandités, membres du conseil
+d'administration, du directoire ou du conseil de surveillance ; justification de la nationalité de ces personnes,
+renseignements concernant la nationalité des actionnaires ou des titulaires des parts sociales et la part du capital détenue
+par les citoyens français ; forme des titres des sociétés par actions ; 
+
+4° Pour les groupements d'intérêt économique : nom du ou des administrateurs ; en cas de constitution avec capital,
+renseignements concernant la nationalité des titulaires des parts de capital et la part du capital détenue par les titulaires
+français ; 
+
+5° Un extrait d'acte de naissance avec mentions marginales datant de moins de trois mois pour le demandeur et pour chacune
+des personnes exerçant, dans la société ou le groupement d'intérêt économique demandeur, une fonction de direction ou de
+gérance ; 
+
+6° Le cas échéant, nature des fabrications exécutées pour les services de l'Etat et indication sommaire de leur importance ; 
+
+7° Nature de l'activité ou des activités exercées. 
+
+La carte nationale d'identité et, pour les étrangers, le passeport ou le titre de séjour font foi de la nationalité du
+requérant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-6 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R313-29 (V)
+
+
+###### Article R313-34
+
+Les demandes d'autorisation sont adressées au ministre de l'intérieur. Il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-35
+
+Le préfet du lieu de situation des entreprises est informé des autorisations accordées conformément à l'article R. 313-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-36
+
+Les autorisations indiquent :
+
+1° Le nom ou la raison sociale, l'adresse ou le siège social, l'établissement principal et les établissements secondaires des
+titulaires ;
+
+2° Les lieux d'exercice de la profession ou d'exécution des fabrications ou du commerce ;
+
+3° Les catégories d'armes, de munitions et leurs éléments dont la fabrication ou le commerce sont autorisés ;
+
+4° La durée de validité. Celle-ci n'excède pas cinq ans. L'autorisation peut être renouvelée, sous les mêmes conditions, pour
+la même durée, à la fin de chaque période.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-37
+
+Doivent être portés sans délai à la connaissance du ministre de l'intérieur :
+
+1° Tout changement dans :
+
+a) La nature juridique de l'entreprise titulaire d'une autorisation ;
+
+b) La nature ou l'objet de ses activités ;
+
+c) Le nombre ou la situation des établissements ;
+
+d) L'identité ou les qualités juridiques d'une ou plusieurs des personnes mentionnées aux articles R. 313-29 et R. 313-32,
+notamment leur nationalité ;
+
+2° Toutes cessions d'actions ou de parts sociales susceptibles de transférer à des ressortissants étrangers le contrôle des
+entreprises mentionnées au c du 2° du I de l'article R. 313-29 et à des ressortissants d'autres Etats que les Etats membres
+de l'Union européenne ou les Etats parties à l'accord sur l'Espace économique européen le contrôle des entreprises
+mentionnées au b du 2° du I du même article ;
+
+3° La cessation totale ou partielle de l'activité autorisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+###### Article R313-38
+
+I. – L'autorisation peut être retirée : 
+
+a) Lorsque le titulaire cesse de remplir les conditions exigées pour obtenir l'autorisation ou, en cas de changement survenu
+après délivrance de celle-ci, dans la nature juridique de l'entreprise, l'objet ou le lieu de ses activités ; 
+
+b) Lorsque le titulaire de l'autorisation cesse l'exercice des activités autorisées ; 
+
+c) Lorsque le titulaire a commis une infraction aux prescriptions du titre III du livre III de la deuxième partie du code de
+la défense (partie législative) ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L.
+4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2,
+L. 8224-1 à L. 8224-4 du code du travail ; 
+
+d) Lorsque la personne physique titulaire de l'autorisation ou une personne appartenant aux organes de direction ou de
+surveillance dans la société ou le groupement d'intérêt économique titulaire de l'autorisation ou y exerçant une fonction
+d'administrateur, de gérance ou de direction a été condamnée à une peine mentionnée au II de l'article R. 313-29 ou dans les
+cas prévus à l'article R. 313-30. 
+
+Lors de la notification de la décision de retrait, un délai peut être fixé à l'intéressé pour liquider le matériel. Dans la
+limite de ce délai, l'assujetti peut effectuer les opérations de vente prévues par la réglementation, à l'exclusion de toute
+fabrication et de tout achat des armes, munitions et leurs éléments atteints par le retrait ainsi que des pièces ne pouvant
+servir qu'à la fabrication de ces armes, munitions et leurs éléments. A l'expiration de ce délai, l'administration peut faire
+vendre aux enchères tous les armes, munitions et leurs éléments non encore liquidés. 
+
+II. – Le ministre de l'intérieur peut retirer l'autorisation prévue à l'article R. 313-28 pour des raisons d'ordre ou de
+sécurité publics. Le ministre de l'intérieur en avise le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L4721-3 (V)
+	  - Code du travail - art. L4721-7 (V)
+	  - Code du travail - art. L4731-5 (V)
+	  - Code du travail - art. L4732-1 (V)
+	  - Code du travail - art. L4741-1 (V)
+	  - Code du travail - art. L4741-5 (V)
+	  - Code du travail - art. L4741-9 (VT)
+	  - Code du travail - art. L4742-1 (V)
+	  - Code du travail - art. L4744-1 (V)
+	  - Code du travail - art. L4745-1 (V)
+	  - Code du travail - art. L8114-1 (V)
+	  - Code du travail - art. L8224-1 (V)
+
+
+##### Sous-section 2 : Obligations des titulaires de l'autorisation
+
+###### Article R313-39
+
+Tout titulaire de l'autorisation mentionnée au dernier alinéa de l'article R. 313-28 est assujetti aux formalités et aux
+contrôles prévus à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+
+
+###### Article R313-40
+
+S'il est détenteur d'armes, le titulaire de l'autorisation mentionnée à l'article R. 313-28 tient un registre spécial où sont
+inscrites les armes mises en fabrication, réparation, transformation, achetées, vendues, louées, conservées ou détruites. 
+
+S'il effectue des opérations d'intermédiation au sens de l'article R. 311-1, le titulaire de l'autorisation mentionnée à
+l'article R. 313-28 tient un registre spécial où sont inscrits, dès les premiers contacts, le nom des entreprises mises en
+relation ou des autres participants à l'opération, le contenu et les étapes de celle-ci. Sont en outre inscrites sur ce même
+registre, dans les mêmes conditions, les opérations d'achat et de vente portant sur des armes situées à l'étranger lorsque
+les armes concernées ne sont pas soumises aux dispositions des articles L. 2335-1, L. 2335-2 et L. 2335-9 du code de la
+défense. 
+
+Les registres mentionnés aux alinéas précédents sont tenus jour par jour, opération par opération, sans blancs ni ratures.
+Composés de feuilles conformes au modèle défini par l'arrêté prévu à l'article R. 313-6, ils sont cotés à chaque page et
+paraphés à la première et à la dernière page par les soins soit du commissaire de police compétent, soit du commandant de la
+brigade de gendarmerie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+	  - Code de la sécurité intérieure - art. R311-1 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-6 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R313-17 (V)
+	  - Code de la sécurité intérieure - art. R313-25 (V)
+	  - Code de la sécurité intérieure - art. R314-16 (V)
+
+
+###### Article R313-41
+
+Le préfet est chargé du contrôle du registre spécial mentionné au premier alinéa de l'article R. 313-40. A cette fin, il fait
+procéder régulièrement à l'inventaire des armes, éléments d'arme et munitions.
+
+En cas de cessation d'activité, le registre spécial mentionné au premier alinéa de l'article R. 313-40 est déposé dans un
+délai de trois mois soit au commissariat de police, soit au siège de la brigade de gendarmerie du lieu de l'activité. Dans le
+même cas, le registre spécial mentionné au deuxième alinéa de l'article R. 313-40 doit être adressé sans délai au ministre de
+l'intérieur. En cas de reprise ou de continuation de l'activité par une personne autorisée, le registre lui est transféré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2332-18 (V)
+
+
+###### Article R313-42
+
+Les titulaires de l'autorisation mentionnée à l'article R. 313-28 adressent un compte rendu semestriel d'activités au
+ministre de l'intérieur avant le 15 janvier et avant le 15 juillet de chaque année. Ce compte rendu peut prendre la forme
+d'une photocopie de leur registre spécial ou de l'état informatique correspondant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+
+
+###### Article R313-43
+
+Avant de céder à quelque titre que ce soit une arme, des munitions ou leurs éléments des catégories A1 et B à un demandeur
+commerçant ou fabricant autorisé, le titulaire de l'autorisation mentionnée à l'article R. 313-28 s'assure, qu'il dispose
+d'une autorisation en cours de validité. La cession ne peut porter que sur les armes pour lesquelles l'acquéreur détient une
+autorisation de fabrication ou de commerce ou qui sont des éléments constitutifs des armes pour lesquelles il détient une
+telle autorisation. 
+
+La cession est portée sur le registre spécial prévu par l'article R. 313-40.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+
+
+###### Article R313-44
+
+I. – Avant de céder à quelque titre que ce soit une arme ou des munitions des catégories A1 et B à un demandeur autre que
+ceux mentionnés à l'article R. 313-43, le titulaire de l'autorisation mentionnée à l'article R. 313-28 se fait présenter par
+le demandeur : 
+
+1° Un document faisant foi de son identité et comportant une photographie ; 
+
+2° L'autorisation d'acquisition et de détention dont celui-ci doit être titulaire ; 
+
+3° Pour les personnes mentionnées aux articles R. 312-22 à R. 312-24, les autorisations mentionnées à l'article R. 312-25. 
+
+II. – Le fabricant ou commerçant cédant est ensuite tenu : 
+
+1° De compléter les volets n° 1 et 2 de l'autorisation ou du récépissé qui lui est présenté en inscrivant les indications
+qu'il lui incombe d'y porter ; 
+
+2° D'inscrire la cession sur le registre spécial mentionné à l'article R. 313-40 ; 
+
+3° De remettre à l'acquéreur le volet n° 1 et d'adresser le volet n° 2 à l'autorité de police qui a reçu la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R312-10 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-25 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+
+
+###### Article R313-45
+
+La fabrication d'armes à partir d'éléments d'armes déjà mises sur le marché est réalisée dans des conditions fixées par
+arrêté conjoint du ministre de l'intérieur et des ministres chargés de l'industrie et des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+
+
+##### Sous-section 3 : Mesures de sécurité
+
+###### Article R313-46
+
+Les mesures de sécurité définies à la sous-section 3 de la section 2 du présent chapitre s'appliquent aux personnes se
+livrant à la fabrication ou au commerce d'armes et aux experts agréés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
 
 
 #### Chapitre IV : Conservation, perte et transfert de propriété
@@ -43487,22 +44093,15 @@ Les armes à feu, leurs éléments et leurs munitions de catégorie A et B doive
 
 2° Soit à l'intérieur de pièces fortes comportant une porte blindée et dont les ouvrants sont protégés par des barreaux.
 
-Les matériels des 6°, 8°, 9° et 10° de la catégorie A2, dont les systèmes d'armes ont été neutralisés, doivent être conservés
-dans des locaux sécurisés par une alarme audible de la voie publique et par des moyens de protection physique adaptés.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 113, II (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 6
 
 
 ###### Article R314-4
@@ -43751,39 +44350,6 @@ septembre 2013 pour se mettre en conformité avec ces nouvelles obligations.
 	  - Code de la sécurité intérieure - art. R317-10 (VD)
 
 
-###### Article R314-11
-
-Les matériels de la catégorie A2 mentionnés à l'article R. 312-27 sont détenus dans un lieu dont les accès sont sécurisés.
-
-Les aéronefs du 9° de la catégorie A2 sont conservés dans un hangar, sauf si leur taille ne le permet pas.
-
-Les véhicules terrestres, les navires et les aéronefs sont mis hors d'état de fonctionner immédiatement. Les systèmes d'armes
-et armes embarqués sont neutralisés selon des modalités définies par arrêté conjoint des ministres de la défense et de
-l'intérieur et des ministres chargés de l'industrie et des douanes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 12 mai 2006 - art. Annexe II (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 119 (VT)
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-909 du 9 mai 2017 - art. 6
-
-
 ##### Section 2 : Perte et vol
 
 ###### Article R314-12
@@ -43901,39 +44467,37 @@ du vol.
 
 Toute personne qui n'est pas titulaire d'une autorisation de fabrication ou de commerce et qui transfère la propriété d'une
 arme, d'un élément d'arme ou de munitions des catégories A et B doit en faire la déclaration au préfet qui lui a accordé
-l'autorisation ou délivré le récépissé d'acquisition et de détention.
+l'autorisation ou délivré le récépissé d'acquisition et de détention. 
 
-Lorsque l'arme, l'élément d'arme ou les munitions sont transférés à un fabricant ou à un commerçant autorisé, ce dernier :
+Lorsque l'arme, l'élément d'arme ou les munitions sont transférés à un fabricant ou à un commerçant autorisé, ce dernier : 
 
 1° Annule l'acquisition correspondante portée sur l'autorisation ou sur le récépissé de la personne opérant le transfert et
-adresse copie de ce document au préfet compétent ;
+adresse copie de ce document au préfet compétent ; 
 
-2° Inscrit le transfert sur le registre spécial mentionné à l'article 83 du décret n° 2013-700 du 30 juillet 2013.
+2° Inscrit le transfert sur les registres spéciaux mentionnés à l'article R. 313-40 et à l'article R. 2332-18 du code de la
+défense. 
 
 Lorsque l'arme, l'élément d'arme ou les munitions sont transférés à un particulier, celui-ci doit être régulièrement autorisé
 à les acquérir et à les détenir dans les conditions fixées à la sous-section 2 de la section 1 du chapitre II.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 15, I (VT)
-
-	**Cite**:
-
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 83 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-18 (V)
+	  - Code de la sécurité intérieure - art. R313-40 (V)
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. R312-10 (VD)
+	  - Code de la sécurité intérieure - art. R312-10 (V)
 	  - Code de la sécurité intérieure - art. R312-74 (V)
 
 
@@ -44181,27 +44745,23 @@ du 2° de la catégorie D.
 
 ###### Article R315-4
 
-Les armes à feu mentionnées aux 2° et 3° de l'article R. 315-2 sont transportées de manière à ne pas être immédiatement
+Les armes à feu mentionnées aux 2° et 3° de l'article R. 315-1 sont transportées de manière à ne pas être immédiatement
 utilisables, soit en recourant à un dispositif technique répondant à cet objectif, soit par démontage d'une de leurs pièces
 de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 121, IV (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R315-2 (VD)
+	  - Code de la sécurité intérieure - art. R315-2
 
 	**Cité par**:
 
@@ -44497,27 +45057,23 @@ Ces dispositions ne sont pas applicables aux expéditions d'armes sous scellés 
 ###### Article R315-14
 
 Des dérogations aux dispositions des deuxième à quatrième alinéas de l'article R. 315-13 peuvent être accordées par le
-ministre de la défense pour les expéditions d'armes transférées au sens du chapitre VI, importées ou exportées, après avis du
-ministère de l'intérieur et, s'il y a lieu, d'autres ministères intéressés. Les décisions accordant ces dérogations peuvent
-imposer des mesures de sécurité renforcées à la charge des bénéficiaires.
+ministre de l'intérieur pour les expéditions d'armes à feu, munitions et leurs éléments transférés, importés ou exportés au
+sens du chapitre VI, après avis des ministres intéressés. Les décisions accordant ces dérogations peuvent imposer des mesures
+de sécurité renforcées à la charge des bénéficiaires.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 128 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R315-13 (VD)
+	  - Code de la sécurité intérieure - art. R315-13
 
 	**Cité par**:
 
@@ -44598,19 +45154,17 @@ l'entreprise de transport doit être informée du contenu des colis qui lui sont
 sécurité appropriées pour se prémunir contre les vols au cours des diverses manipulations ainsi que, s'il y a lieu, pendant
 les stockages provisoires des armes et éléments de ces armes dans ses magasins.
 
+Dans ce dernier cas les dispositions du deuxième alinéa ne sont pas applicables.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 131 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 7
 
 	**Cité par**:
 
@@ -44659,29 +45213,1527 @@ annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie le 2
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre VI : Acquisition et détention de certaines armes et munitions par des résidents d'un Etat membre de l'Union européenne et transfert de ces armes et munitions à destination ou en provenance d'un de ces Etats
+#### Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations
+
+##### Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne
 
 ###### Article R316-1
 
-L'acquisition et la détention de certaines armes et munitions par des résidents d'un Etat membre de l'Union européenne et le
-transfert de ces armes et munitions à destination ou en provenance d'un de ces Etats sont régis par le chapitre VII du décret
-n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un
-contrôle des armes moderne, simplifié et préventif.
+Pour l'application du présent chapitre, sont considérées comme résidents du pays indiqué par l'adresse mentionnée sur un
+document faisant preuve de leur résidence les personnes qui présentent un tel document aux autorités d'un Etat membre lors
+d'un contrôle de la détention ou à une personne se livrant au commerce des armes au moment de l'acquisition.
+
+Les documents faisant preuve de la résidence, au sens de l'alinéa précédent, sont le passeport et la carte d'identité ou un
+autre document agréé figurant sur une liste fixée par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2012-304  du 6 mars 2012 (V)
-	  - Décret n°2013-700  du 30 juillet 2013 -  Chapitre VII : Acquisition et détention de cert... (V)
+	  - Loi n°2012-304 du 6 mars 2012
+	  - Décret n°2013-700 du 30 juillet 2013
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-2
+
+Au titre du présent chapitre, sont soumis au régime de transfert soumis à une procédure spécifique, mentionné au I de
+l'article L. 2335-17 du code de la défense, les armes, munitions et leurs éléments des catégories A1, B, C et du 1° de la
+catégorie D. 
+
+Les armes, munitions et leurs éléments mentionnés au premier alinéa qui figurent sur la liste mentionnée au second alinéa de
+l'article L. 2335-9 du code de la défense sont dispensés de la procédure d'autorisation de transfert de produits liés à la
+défense prévue à ce même article. 
+
+Pour des raisons de respect des engagements internationaux de la France, de protection des intérêts essentiels d'ordre public
+ou de sécurité nationale, le transfert à destination d'un autre Etat membre des armes, munitions et leurs éléments mentionnés
+au premier alinéa peut être soumis à la procédure prévue à l'article L. 2335-9 du code de la défense par arrêté conjoint du
+Premier ministre et des ministres des affaires étrangères, de l'économie et des finances, de la défense et de l'intérieur
+ainsi que du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-17 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+
+
+###### Article R316-3
+
+Le ministre de l'intérieur ou le préfet, en ce qui concerne la circulation des armes, munitions et leurs éléments mentionnés
+à l'article R. 316-2 à l'intérieur du territoire national, et le ministre chargé des douanes, en ce qui concerne leur
+transfert en provenance ou à destination d'un autre Etat membre, peuvent, en cas de menaces graves ou d'atteintes à l'ordre
+public ou à la sécurité nationale en raison de la détention ou de l'emploi illicites de ces armes, munitions et leurs
+éléments, prendre toutes mesures nécessaires pour prévenir cette détention ou cet emploi illicites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+##### Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne
+
+##### Sous-section 1 : Acquisition et détention
+
+##### Paragraphe 1 : Acquisition et détention par un résident d'un autre Etat membre de l'Union européenne
+
+###### Article R316-4
+
+Le préfet peut accorder à un résident d'un Etat membre de l'Union européenne l'autorisation d'acquérir en vue de la détention
+en France ou l'autorisation de détenir en France une arme, des munitions ou leurs éléments de la catégorie B, si le demandeur
+produit une autorisation préalable de son pays d'acquérir et détenir ce type d'arme. 
+
+La détention est accordée dans les conditions prévues aux articles R. 316-10 et R. 316-11 lorsque l'autorisation est donnée
+au titre d'un voyage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-10 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-25 (V)
+
+
+###### Article R316-5
+
+I. – L'acquisition par un résident d'un autre Etat membre, afin de les détenir en France, des armes, munitions et leurs
+éléments de la catégorie C et du 1° de la catégorie D est subordonnée à la présentation préalable d'une déclaration
+d'intention au vendeur, qui en prend copie. 
+
+La demande de déclaration ou d'enregistrement, conforme au modèle fixé par l'arrêté prévu à l'article R. 311-6, vaut
+déclaration d'intention au sens de l'article L. 312-4-1. 
+
+Pour les armes de la catégorie C, la déclaration d'intention est transmise par le préfet de département du lieu d'acquisition
+au point de contact de l'Etat membre dans lequel réside l'acquéreur. 
+
+II. – Un résident d'un autre Etat membre peut acquérir librement les armes et leurs éléments du 2° de la catégorie D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L312-4-1 (V)
+	  - Code de la sécurité intérieure - art. R311-6 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+##### Paragraphe 2 : Acquisition dans un autre Etat membre par une personne résidant en France
+
+###### Article R316-6
+
+L'accord préalable à l'acquisition à titre personnel d'une arme, de munitions et de leurs éléments de la catégorie B dans un
+autre Etat membre par une personne résidant en France est donné par le préfet du département du lieu de domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+##### Paragraphe 3 : Carte européenne d'arme à feu et détention au cours d'un voyage dans l'Union européenne
+
+###### Article R316-7
+
+La carte européenne d'arme à feu est le document institué par la directive 91/477 du 18 juin 1991 relative au contrôle de
+l'acquisition et de la détention des armes, modifiée par la directive 2008/51/CE du Parlement européen et du Conseil du 21
+mai 2008, pour attester la qualité de détenteur et d'utilisateur en situation régulière des armes qui y sont inscrites. Elle
+est délivrée par le préfet du lieu de domicile à toute personne légalement détentrice ou utilisatrice d'armes à feu, de
+nationalité française ou possédant la qualité de résident en France, qui en fait la demande.
+
+Le préfet ne peut délivrer qu'une carte européenne d'arme à feu par demandeur.
+
+Elle est délivrée pour une période de cinq ans.
+
+En cas de vente, de perte, de destruction ou de vol d'une arme ou en cas de transformation de cette arme, le détenteur doit
+restituer sa carte européenne ou la faire mettre à jour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-46 (V)
+	  - Code de la sécurité intérieure - art. R317-8-2 (V)
+
+
+###### Article R316-8
+
+Par dérogation aux articles R. 316-14 à R. 316-19, la détention d'armes à feu au cours d'un voyage entre la France et un
+autre Etat membre peut intervenir dans les conditions prévues aux articles R. 316-9, R. 316-10 et R. 316-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+
+
+###### Article R316-9
+
+La détention d'une arme, d'un élément d'arme, de munitions ainsi que, le cas échéant, d'éléments de munition au cours d'un
+voyage dans un ou plusieurs Etats membres n'est permise à un résident français que s'il obtient une carte européenne d'arme à
+feu et peut justifier que son déplacement s'effectue dans un but de chasse ou de tir sportif.
+
+A défaut de cette justification ou si le voyage s'effectue vers un Etat membre qui interdit l'acquisition et la détention de
+l'arme concernée ou la soumet à autorisation, le résident français doit disposer d'une autorisation préalable de l'Etat
+membre de destination.
+
+Ces documents doivent être présentés à toute réquisition des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-10
+
+La détention d'une arme, de munitions et de leurs éléments des catégories B et C et du 1° de la catégorie D par un résident
+d'un autre Etat membre, au cours d'un voyage en France, est soumise à autorisation.
+
+L'autorisation est délivrée par le préfet du lieu de destination et, en cas de transit, par le préfet du département du lieu
+d'entrée en France.
+
+Elle est inscrite sur la carte européenne d'arme à feu.
+
+Cette autorisation peut être donnée pour un ou plusieurs voyages et pour une période maximale d'un an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-4 (V)
+	  - Code de la sécurité intérieure - art. R317-8-2 (V)
+
+
+###### Article R316-11
+
+Par dérogation aux dispositions de l'article R. 316-10, les chasseurs et les tireurs sportifs peuvent venir en France ou
+transiter par la France en vue de pratiquer leur activité, avec une ou plusieurs armes à feu, sans autorisation préalable,
+dans les conditions suivantes :
+
+1° Etre en possession de la carte européenne d'arme à feu mentionnant cette ou ces armes ;
+
+2° Les chasseurs, titulaires du permis de chasser, peuvent détenir trois armes de chasse de la catégorie C ou du 1° de la
+catégorie D et cent cartouches par arme ;
+
+3° Les tireurs sportifs peuvent détenir jusqu'à six armes des catégories B, C et du 1° de la catégorie D.
+
+En outre, les chasseurs doivent justifier qu'ils voyagent dans un but de chasse et les tireurs sportifs présenter une
+invitation écrite ou la preuve de leur inscription à une compétition officielle de tir mentionnant la date et le lieu de
+cette compétition. La carte européenne, l'invitation écrite ou la preuve de l'inscription sont présentées à toute réquisition
+des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R317-8-2 (V)
+
+
+##### Paragraphe 4 : Acquisition et détention en vue d'un transfert vers un autre Etat membre
+
+###### Article R316-12
+
+L'acquisition d'une arme, de munitions et de leurs éléments de la catégorie B par un résident d'un autre Etat membre, en vue
+de son transfert vers son Etat de résidence, ne peut intervenir qu'à la double condition : 
+
+1° Que le commerçant ait obtenu le permis et l'accord préalable mentionnés à l'article R. 316-14 ; 
+
+2° Que l'expédition soit effectuée directement par le commerçant. 
+
+Lorsqu'il procède à la vente, le commerçant est tenu de se conformer aux obligations des titulaires d'autorisation de
+fabrication ou de commerce. Le permis comporte les modalités d'expédition et les caractéristiques des armes, munitions et
+leurs éléments transférés. 
+
+Le permis et l'autorisation de détention accompagnent les armes, munitions et leurs éléments jusqu'à destination. Ils sont
+présentés, ainsi que les biens transférés, à toute réquisition des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+
+
+###### Article R316-13
+
+Un résident d'un autre Etat membre ne peut acquérir des armes et leurs éléments de la catégorie C et du 1° de la catégorie D
+en vue de leur transfert que lorsque ce transfert se fait à destination de son Etat de résidence. 
+
+La vente est conditionnée par l'envoi direct de l'arme par le vendeur dans l'Etat de résidence de l'acquéreur. 
+
+Le vendeur atteste de cette expédition par tout moyen. 
+
+Cette acquisition est également subordonnée à la présentation de l'accord préalable de l'Etat de résidence, lorsque ce
+dernier l'exige, au vendeur, qui en prend copie. 
+
+Le vendeur, après avoir rempli la déclaration ou la demande d'enregistrement, en remet un exemplaire à l'acquéreur et adresse
+l'autre à la préfecture du lieu d'acquisition ; si le vendeur est un particulier, la préfecture lui délivre un récépissé de
+sa déclaration de vente. Lorsqu'il transfère les armes et leurs éléments vers l'Etat de destination, l'acquéreur doit être
+titulaire du permis mentionné à l'article R. 316-14. Le permis accompagne les biens jusqu'à destination. Il est présenté,
+ainsi que ces biens, à toute réquisition des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+##### Sous-section 2 : Transfert entre Etats membres
+
+##### Paragraphe 1 : Transfert vers un autre Etat membre
+
+###### Article R316-14
+
+Le transfert des armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D, à l'exception
+des douilles non chargées et non amorcées du c du 1° de la catégorie D et des projectiles des munitions classées aux 6°, 7°
+et 8° de la catégorie C et en catégorie D, vers un autre Etat membre est subordonné à l'obtention d'un permis délivré par le
+ministre chargé des douanes, après accord préalable de l'Etat membre de destination, si ce dernier l'exige pour les biens
+dont il s'agit. Le permis comporte notamment les modalités d'expédition et les caractéristiques des biens transférés.
+
+Le permis accompagne les biens jusqu'à destination. Il est présenté, ainsi que ces biens, à toute réquisition des autorités
+habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-12 (V)
+	  - Code de la sécurité intérieure - art. R316-13 (V)
+	  - Code de la sécurité intérieure - art. R316-19 (V)
+	  - Code de la sécurité intérieure - art. R316-20 (V)
+	  - Code de la sécurité intérieure - art. R316-21 (V)
+	  - Code de la sécurité intérieure - art. R316-28 (V)
+	  - Code de la sécurité intérieure - art. R316-8 (V)
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+###### Article R316-15
+
+Le ministre chargé des douanes peut délivrer aux armuriers un agrément d'une durée maximale de trois ans pour transférer,
+sans obtenir au préalable le permis mentionné à l'article R. 316-14, vers des armuriers établis dans les autres Etats membres
+des armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D.
+
+Cet agrément ne dispense pas de l'obtention de l'accord préalable de l'Etat de destination, si ce dernier l'exige, ni de
+l'établissement d'une déclaration de transfert. Celle-ci indique les références de l'accord préalable ou de la liste des
+armes, munitions et leurs éléments pour lesquels l'Etat de destination n'exige pas d'accord préalable et celles de l'agrément
+du ministre chargé des douanes ainsi que les modalités de transfert et les caractéristiques des biens transférés. La
+déclaration de transfert accompagne les biens jusqu'à destination. Elle est présentée, ainsi que ces biens, à toute
+réquisition des autorités habilitées.
+
+Lorsque la déclaration de transfert concerne des armes à feu ou leurs éléments, elle est transmise au service des douanes
+avant le jour du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
+
+Un exemplaire des déclarations de transfert de munitions et de leurs éléments est transmis par l'armurier agréé à
+l'administration avant la réalisation du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-19 (V)
+
+
+##### Paragraphe 2 : Transfert d'un Etat membre vers la France
+
+###### Article R316-16
+
+Le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D, d'un autre Etat
+membre vers la France est soumis à accord préalable délivré par le ministre chargé des douanes. 
+
+La délivrance de l'accord préalable aux particuliers transférant vers la France des armes à feu, munitions et leurs éléments
+des catégories A1 et B est subordonnée à la production par ces derniers de l'autorisation d'acquisition et de détention
+correspondante. 
+
+A la réception des biens, le professionnel destinataire inscrit sur l'accord préalable les quantités livrées. Le particulier,
+lorsqu'il s'agit d'armes à feu, munitions et leurs éléments des catégories A1 et B, renvoie le volet n° 2 de l'autorisation
+d'acquisition dûment rempli au préfet. 
+
+La délivrance de l'accord préalable aux particuliers transférant vers la France des armes, munitions et leurs éléments de la
+catégorie C et du 1° de la catégorie D est subordonnée à la présentation des pièces prévues à l'article R. 312-53.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-53 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-20 (V)
+	  - Code de la sécurité intérieure - art. R316-24 (V)
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+###### Article R316-17
+
+Par dérogation à l'article R. 316-16, sont dispensés de l'accord préalable du ministre chargé des douanes : 
+
+1° Le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D renvoyés vers
+la France après exposition ou réparation dans un autre Etat membre de l'Union européenne ; 
+
+2° Le transfert temporaire en France des armes de poing et des munitions dont le port est autorisé par arrêté du ministre de
+l'intérieur en application de l'article R. 315-6 ; 
+
+3° Le transfert définitif ou temporaire des armes à feu et de leurs éléments à percussion annulaire figurant aux 1° et 2° de
+la catégorie C ; 
+
+4° Le transfert des douilles non chargées et non amorcées mentionnées au c du 1° de la catégorie D et des projectiles des
+munitions mentionnées aux 6°, 7° et 8° de la catégorie C et en catégorie D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R311-3 (V)
+	  - Code de la sécurité intérieure - art. R311-4 (VD)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R315-6 (V)
+
+
+###### Article R316-18
+
+Le permis ou la déclaration de transfert accompagnant les biens transférés d'un autre Etat membre vers la France doit être
+présenté à toute réquisition des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+##### Paragraphe 3 : Dispositions diverses
+
+###### Article R316-19
+
+Les demandes de permis de l'article R. 316-14, de l'agrément de l'article R. 316-15 et de l'accord préalable de l'article R.
+316-16, qui peuvent être présentées sous forme dématérialisée, sont déposées auprès du ministre chargé des douanes. Un arrêté
+du ministre chargé des douanes définit les conditions dans lesquelles sont établis ces documents ainsi que les déclarations
+de l'article R. 316-15 et précise les documents à joindre à la demande. 
+
+Le permis et la déclaration mentionnés au précédent alinéa comportent les données permettant l'identification de chaque arme,
+élément d'arme, munition et élément de munition et l'indication que les armes, les éléments d'arme et les munitions ont fait
+l'objet d'un contrôle selon les dispositions de la convention du 1er juillet 1969 pour la reconnaissance réciproque des
+poinçons d'épreuve des armes à feu portatives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+	  - Code de la sécurité intérieure - art. R316-15 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-28 (V)
+
+
+###### Article R316-20
+
+Le ministre chargé des douanes délivre, par écrit ou, le cas échéant, sous format électronique, les permis et les agréments
+de transfert vers un autre Etat membre prévus par les articles R. 316-14 et R. 316-15 dans les conditions fixées à l'article
+R. 316-21, après avis favorable du ministre des affaires étrangères, en fonction de ses attributions, et, pour les agréments
+de transfert, du ministre de l'intérieur. 
+
+Il délivre dans les mêmes conditions l'accord préalable de transfert vers la France prévu à l'article R. 316-16, après avis
+favorable du ministre de l'intérieur. 
+
+Lorsque cet accord préalable de transfert revêt une forme globale, il couvre pendant sa période de validité le transfert de
+matériels identifiés, sans limite de quantité ni de montant, en provenance de fournisseurs identifiés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+	  - Code de la sécurité intérieure - art. R316-16 (V)
+
+
+###### Article R316-21
+
+Dans les cas prévus aux articles R. 316-14, R. 316-15 et R. 316-16, le permis, l'agrément et l'accord préalable de transfert
+visés à l'article R. 316-20 sont délivrés : 
+
+1° En ce qui concerne les armes à feu, munitions et leurs éléments des catégories A1 et B : 
+
+a) Aux personnes qui répondent aux conditions prévues au chapitre III du présent titre pour en faire la fabrication et le
+commerce ; 
+
+b) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée à l'article R. 313-28 et qui, à titre exceptionnel,
+demandent l'autorisation de transférer vers un autre Etat membre ou en provenance d'un autre Etat membre des armes à feu,
+munitions et leurs éléments des catégories A1 et B ; 
+
+c) Aux communes qui ont obtenu, dans les conditions prévues au chapitre Ier du titre Ier du livre V l'autorisation d'en faire
+l'acquisition et de les détenir ; 
+
+d) Aux particuliers qui ont obtenu, dans les conditions définies au chapitre II du présent titre, l'autorisation d'en faire
+l'acquisition et de les détenir ; 
+
+2° En ce qui concerne les armes à feu, munitions et leurs éléments de la catégorie C et du 1° de la catégorie D : 
+
+a) Aux fabricants ou commerçants ayant satisfait, selon les cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8,
+R. 313-12 et R. 313-27 ; 
+
+b) Aux particuliers, soit pour les transférer vers un autre Etat membre, soit pour les acquérir ou les détenir à titre
+personnel ou professionnel. 
+
+L'agrément de transfert d'armes à feu, munitions et leurs éléments, classés dans la catégorie B est imputé en nature et en
+nombre des quantités transférées ; 
+
+c) Aux personnes qui, à titre exceptionnel, demandent l'autorisation de transférer vers un autre Etat membre ou en provenance
+d'un autre Etat membre les armes à feu, munitions et leurs éléments de la catégorie C et du 1° de la catégorie D ; 
+
+3° En ce qui concerne les armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D aux
+personnes mentionnées aux 1° et 2° qui les transfèrent temporairement vers un autre Etat membre ou les reçoivent
+temporairement en provenance d'un autre Etat membre pour démonstration, exposition, réparation, rénovation, transformation ou
+fabrication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-1 (V)
+	  - Code de la sécurité intérieure - art. R313-12 (V)
+	  - Code de la sécurité intérieure - art. R313-27 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8 (V)
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+
+
+###### Article R316-22
+
+La durée maximale de validité des accords préalables, permis et agréments de transfert est ainsi fixée :
+
+1° Accord préalable de transfert : un an maximum pour les particuliers mentionnés au d du 1° et au b du 2° de l'article R.
+316-21 et trois ans pour les professionnels mentionnés aux a et b du 1° et aux a et b du 2° du même article ainsi que pour
+les communes mentionnées au c du 1° du même article ;
+
+2° Permis de transfert : six mois ;
+
+3° Agrément de transfert : trois ans ;
+
+4° Accord préalable de transfert revêtant une forme globale : un an à compter de la date de délivrance, renouvelable par
+tacite reconduction.
+
+A la demande de l'un des ministres intéressés, la validité de ces décisions peut être réduite à trois mois pour les accords
+préalables et les permis de transfert et à un an pour les agréments de transfert.
+
+La mention de cette durée est portée sur ces accords préalables, permis et agréments.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-23
+
+Le permis de transfert, l'agrément de transfert et l'accord préalable de transfert peuvent être suspendus, modifiés, abrogés
+ou retirés par le ministre chargé des douanes, après avis favorable du ministre des affaires étrangères pour le permis de
+transfert, du ministre des affaires étrangères et du ministre de l'intérieur pour l'agrément de transfert et du ministre de
+l'intérieur pour l'accord préalable de transfert, pour l'un des motifs mentionnés au II de l'article L. 2335-17 du code de la
+défense. 
+
+En cas d'urgence, le ministre chargé des douanes peut suspendre le permis de transfert, l'agrément de transfert ou l'accord
+préalable de transfert sans délai. 
+
+La modification, l'abrogation ou le retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été mis à même
+de faire valoir ses observations dans un délai de quinze jours, selon les modalités prévues aux articles L. 121-1, L. 121-2
+et L. 122-1 du code des relations entre le public et l'administration. 
+
+La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au titulaire
+par le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-17 (V)
+	  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+
+
+###### Article R316-24
+
+Le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B, C et du 1° de la catégorie D entre deux Etats
+membres avec emprunt du territoire national n'est pas soumis à l'accord préalable mentionné à l'article R. 316-16 dès lors
+que ce dernier est accompagné du permis ou de la déclaration de transfert correspondant. Ces documents doivent être présentés
+à toute réquisition des autorités habilitées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-16 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+##### Sous-section 3 : Dispositions diverses
+
+###### Article R316-25
+
+Les dispositions des articles R. 316-4 et R. 316-5 s'appliquent également à la vente par correspondance mentionnée à
+l'article R. 313-26.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-4 (V)
+
+
+#####  Section 3 : Régime particulier relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne
+
+###### Article R316-26
+
+I. – L'acquisition et la détention, en France, par un résident d'un autre Etat membre de l'Union européenne des armes des 6°,
+7° et 8° de la catégorie B et des armes des a, b, c, g, h, i, j et k du 2° de la catégorie D sont régies par les dispositions
+du chapitre II du présent titre. 
+
+II. – En application de l'article L. 2335-17 du code de la défense, le transfert à partir d'un autre Etat membre de l'Union
+européenne vers la France, des armes, munitions et leurs éléments des 6°, 7°, 8° et 9° de la catégorie B et des armes des a,
+b et c du 2° de la catégorie D est soumis à l'autorisation mentionnée à l'article R. 316-29. 
+
+III. – Le transfert des armes, munitions et leurs éléments mentionnés au II, renvoyés vers la France après exposition ou
+réparation, est dispensé d'autorisation. 
+
+Le transfert temporaire en France des armes de poing et des munitions, dont le port est autorisé par arrêté du ministre de
+l'intérieur en application de l'article R. 315-5, est également dispensé d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-17 (V)
+	  - Code de la sécurité intérieure - art. R315-5 (V)
+	  - Code de la sécurité intérieure - art. R316-29 (V)
+
+
+###### Article R316-27
+
+Lorsqu'une autorisation est accordée en application du II de l'article R. 316-26, un exemplaire de cette autorisation
+accompagne les armes, munitions et leurs éléments. Ce document doit être présenté à toute réquisition des autorités
+habilitées. A la réception, le destinataire inscrit sur les exemplaires de l'autorisation les quantités de biens livrés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+##### Section 4 : Dispositions communes au régime de droit commun et au régime particulier relatifs à l'acquisition, à la détention et aux transferts au sein de l'Union européenne
+
+###### Article R316-28
+
+I. – Le ministre chargé des douanes transmet à chaque Etat membre concerné les informations qu'il recueille en application
+des articles R. 316-14, R. 316-15 et R. 316-19. Il reçoit celles qui lui sont transmises par les autres Etats membres
+concernant les transferts d'armes, munitions et leurs éléments vers la France. 
+
+II. – Le ministre de l'intérieur transmet à chaque Etat membre concerné les informations relatives aux résidents des autres
+Etats membres : 
+
+1° Soit qui acquièrent des armes et leurs éléments soumis au régime de droit commun ; 
+
+2° Soit qui obtiennent une autorisation de détention d'une ou de plusieurs armes ou d'éléments d'arme en France. Il reçoit
+les mêmes informations des autres Etats membres relatives aux personnes résidant en France. 
+
+III. – Le ministre de l'intérieur communique aux autres Etats membres et à la Commission : 
+
+1° La liste des autorités ou services chargés de transmettre et de recevoir des informations relatives à l'acquisition et à
+la détention d'armes, munitions et leurs éléments ; 
+
+2° Les listes d'armes, munitions et leurs éléments pour lesquels l'autorisation de transfert d'un territoire à l'autre peut
+être donnée sans accord préalable ainsi que celles des armes, munitions et leurs éléments dont l'acquisition est interdite,
+soumise à autorisation ou à déclaration. 
+
+Il est destinataire des mêmes informations communiquées par les Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+	  - Code de la sécurité intérieure - art. R316-19 (V)
+
+
+##### Section 5 : Importation des armes, munitions et leurs éléments des catégories A1, B, C et D
+
+###### Article R316-29
+
+I. – Sont soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 du code de la défense : 
+
+1° Les armes, munitions et leurs éléments des catégories A1, B et C ; 
+
+2° Les armes, munitions et leurs éléments du 1° de la catégorie D et des a, b et c du 2° de la même catégorie. 
+
+II. – Les personnes qui souhaitent procéder à l'importation des armes, munitions et leurs éléments mentionnés au I présentent
+une demande d'autorisation d'importation auprès du ministre chargé des douanes, par écrit ou, le cas échéant, sous format
+électronique. Les modalités de présentation de cette demande sont définies par arrêté du ministre chargé des douanes. 
+
+III. – Lorsque la demande d'autorisation concerne des armes, munitions et leurs éléments mentionnés au I destinés à être
+transbordés dans les ports ou les aérodromes de France, elle est établie comme une autorisation de transit mentionnée à
+l'article R. 316-51.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la sécurité intérieure - art. R316-51 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2335-1 (V)
+	  - Code de la sécurité intérieure - art. R316-26 (V)
+	  - Code de la sécurité intérieure - art. R316-31 (V)
+	  - Code de la sécurité intérieure - art. R317-8-1 (V)
+
+
+###### Article R316-30
+
+I. – Les autorisations d'importation mentionnées à l'article R. 316-29 sont accordées par le ministre chargé des douanes,
+après avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur ou du ministre des affaires
+étrangères.
+
+II. – L'autorisation peut être délivrée sous forme individuelle ou globale, par écrit ou, le cas échéant, sous format
+électronique. Lorsqu'elle revêt une forme globale, elle couvre, pour sa durée de validité, l'importation des armes, munitions
+et leurs éléments identifiés, sans limite de quantité ni de montant, en provenance d'expéditeurs désignés.
+
+III. – Les importations d'armes, munitions et leurs éléments destinés au ministère de la défense, au ministère de l'intérieur
+et au ministère chargé des douanes font l'objet d'autorisations d'importation délivrées sur simple demande adressée au
+ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-31
+
+Les autorisations d'importation mentionnées à l'article R. 316-29 peuvent être accordées : 
+
+1° En ce qui concerne les armes, munitions et leurs éléments des catégories A1 et B : 
+
+a) Aux personnes titulaires de l'agrément mentionné à l'article R. 313-1 ou des autorisations mentionnées à l'article R.
+313-28 du présent code ou à l'article R. 2332-5 du code de la défense ; 
+
+b) Aux personnes qui ont obtenu, dans les conditions définies au chapitre II du présent titre, l'autorisation de les acquérir
+ou de les détenir ; 
+
+c) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée à l'article R. 313-28 ou à l'article R. 2332-5 du
+code de la défense et qui, à titre exceptionnel, demandent l'autorisation d'importer des armes, munitions et leurs éléments
+des catégories A1 et B. Celles-ci doivent indiquer avec précision dans leur demande d'autorisation d'importation l'usage
+auquel elles destinent les armes, munitions et leurs éléments à importer ; 
+
+d) Aux communes qui ont obtenu, dans les conditions prévues au chapitre Ier du titre Ier du livre V, l'autorisation d'en
+faire l'acquisition et de les détenir ; 
+
+2° En ce qui concerne les armes, munitions et leurs éléments des 1°, 2°, 6°, 7° et 8° de la catégorie C et du 1° de la
+catégorie D : 
+
+a) Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8,
+R. 313-12 et R. 313-27 ; 
+
+b) Aux autres personnes, sur présentation des pièces prévues à l'article R. 312-53 ; 
+
+3° En ce qui concerne les armes des a, b et c du 2° de la catégorie D : 
+
+a) Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8,
+R. 313-12 et R. 313-27 ; 
+
+b) Aux autres personnes, pour les détenir à titre personnel ou professionnel ; 
+
+4° En ce qui concerne les armes, munitions et leurs éléments mentionnés aux articles R. 312-22 et R. 312-23, aux
+administrations et services publics mentionnés aux mêmes articles ; 
+
+5° En ce qui concerne les armes, munitions et leurs éléments mentionnés à l'article R. 316-29, aux personnes mentionnées aux
+1°, 2° et 3°, qui les importent temporairement pour exposition, rénovation, transformation ou fabrication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-53 (V)
+	  - Code de la sécurité intérieure - art. R313-1 (V)
+	  - Code de la sécurité intérieure - art. R313-12 (V)
+	  - Code de la sécurité intérieure - art. R313-2 (V)
+	  - Code de la sécurité intérieure - art. R313-27 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8 (V)
+	  - Code de la sécurité intérieure - art. R316-29 (V)
+
+
+###### Article R316-32
+
+Sans préjudice des dispositions plus favorables résultant d'accords internationaux approuvés ou ratifiés par la France,
+peuvent faire l'objet de dérogations à l'obligation d'autorisation préalable fixée à l'article R. 316-29 les opérations
+d'importations définies par l'arrêté prévu à l'article R. 2335-4 du code de la défense. 
+
+Ces dérogations peuvent être suspendues par décision du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2335-4 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R311-3 (V)
+	  - Code de la sécurité intérieure - art. R311-4 (VD)
+
+
+###### Article R316-33
+
+Les militaires, les fonctionnaires ou agents des administrations ou services publics autorisés à acquérir et détenir des
+armes dans les conditions prévues aux articles R. 312-22 à R. 312-25, rentrant d'un séjour en service dans un autre pays ou
+territoire, peuvent importer sur simple présentation de l'attestation prévue aux mêmes articles les armes et éléments d'arme
+qu'ils détiennent régulièrement et les munitions correspondantes jusqu'à concurrence de cinquante cartouches par arme à feu. 
+
+S'ils ne peuvent présenter cette attestation, ils sont tenus de déposer ces armes, munitions et leurs éléments au premier
+bureau de douane. Les armes, munitions et leurs éléments ainsi déposés ne peuvent être retirés que sur présentation de
+l'autorisation individuelle mentionnée à l'article R. 312-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-25 (V)
+
+
+###### Article R316-34
+
+Les personnes mentionnées aux articles R. 312-37 à R. 312-40, R. 312-44 et R. 312-66, portant ou transportant des armes,
+munitions et leurs éléments des catégories A1 ou B et entrant ou rentrant en France peuvent importer ces armes, munitions et
+leurs éléments sur simple présentation de l'autorisation d'acquisition ou de détention correspondante délivrée par les
+autorités citées à l'article R. 312-2. 
+
+Si elles ne peuvent présenter cette autorisation, elles sont tenues de déposer ces armes, munitions et leurs éléments au
+premier bureau de douane ; les armes, munitions et leurs éléments ainsi déposés ne peuvent être retirés que sur présentation
+de ladite autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-2 (V)
+	  - Code de la sécurité intérieure - art. R312-37 (V)
+	  - Code de la sécurité intérieure - art. R312-44 (V)
+	  - Code de la sécurité intérieure - art. R312-66 (V)
+
+
+###### Article R316-35
+
+I. – L'autorisation d'importation peut être suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après
+avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur, ou du ministre des affaires
+étrangères, pour l'un des motifs mentionnés au IV de l'article L. 2335-1 du code de la défense. 
+
+En cas d'urgence, le ministre chargé des douanes peut suspendre l'autorisation d'importation sans délai. 
+
+II. – La modification, l'abrogation ou le retrait de l'autorisation d'importation ne peut intervenir qu'après que le
+titulaire de l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les
+modalités prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+
+La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au titulaire
+par le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+
+
+###### Article R316-36
+
+La durée maximale de validité des autorisations d'importation d'armes, munitions et leurs éléments est d'un an pour les
+particuliers mentionnés au b des 1°, 2° et 3°, au c du 1° et au 5° de l'article R. 316-31 et de trois ans pour les
+professionnels mentionnés au a des 1°, 2° et 3° et pour les communes mentionnées au d du 1° du même article ainsi que pour
+les administrations et services publics mentionnés au 4° du même article. Cette durée de validité commence à courir à partir
+de la date de délivrance des autorisations et ne peut être inférieure à un mois.
+
+La durée de validité des autorisations d'importation revêtant une forme globale est fixée à un an à compter de la date de
+délivrance, renouvelable par tacite reconduction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-37
+
+Le compte rendu des importations effectuées mentionné au troisième alinéa de l'article L. 2335-6 du code de la défense est
+établi selon les modalités définies par arrêté conjoint du ministre de la défense, du ministre de l'intérieur et du ministre
+chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-6 (V)
+
+
+##### Section 6 : Exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article R316-38
+
+L'exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D s'effectue en application du
+règlement (UE) n° 258/2012 du Parlement européen et du Conseil du 14 mars 2012 portant application de l'article 10 du
+protocole des Nations Unies contre la fabrication et le trafic illicite d'armes à feu, de leurs pièces, éléments et
+munitions, additionnel à la convention des Nations Unies contre la criminalité transnationale organisée (protocole relatif
+aux armes à feu) et instaurant des autorisations d'exportation, ainsi que des mesures concernant l'importation et le transit
+d'armes à feu, de leurs pièces, éléments et munitions, et des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-46 (V)
+	  - Code de la sécurité intérieure - art. R316-47 (V)
+	  - Code de la sécurité intérieure - art. R316-50 (V)
+
+
+###### Article R316-39
+
+Pour la mise en œuvre du règlement du 14 mars 2012 mentionné à l'article R. 316-38, et pour l'application de la présente
+section : 
+
+1° Les pièces et parties essentielles mentionnées aux b, c et d du 1 de l'article 3 du règlement s'entendent comme les
+éléments d'armes et comme les éléments de munitions mentionnés aux 19° et 21° du I de l'article R. 311-1 ; 
+
+2° Les armes à feu entièrement automatiques mentionnées au b du 1 de l'article 3 du règlement s'entendent comme les armes à
+répétition automatique mentionnées au 6° du I de l'article R. 311-1 ; 
+
+3° Les armes à feu neutralisées mentionnées au e du 1 de l'article 3 du règlement s'entendent comme les armes à feu
+neutralisées classées au d du 2° de la catégorie D, sous réserve de présenter un certificat de neutralisation au sens des
+dispositions du 16° du I de l'article R. 311-1 ; 
+
+4° Les armes à feu anciennes et leurs répliques telles qu'elles sont définies par la législation nationale, pour autant que
+les armes à feu ancienne n'incluent pas des armes à feu fabriquées après 1899 mentionnées au f de l'article 3 du règlement
+s'entendent comme les armes à feu, munitions et leurs éléments historiques et de collection classés aux e et j du 2° de la
+catégorie D, ainsi que les reproductions d'armes à feu classées au f du 2° de la catégorie D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-1 (V)
+
+
+##### Sous-section 2 : Autorisations d'exportation et dérogations
+
+###### Article R316-40
+
+I. – Sont soumises à autorisation l'exportation des armes à feu ainsi que de leurs pièces, parties essentielles et munitions
+ci-dessous énumérées : 
+
+1° Les armes à feu à percussion annulaire, munitions et leurs éléments classées aux 2° et 3° de la catégorie A1, au 1° de la
+catégorie B et aux a, b et e du 2° de la catégorie B ; 
+
+2° Les armes à feu, munitions et leurs éléments classés au 5° de la catégorie A1 ; 
+
+3° Les armes à feu, munitions et leurs éléments classés aux d et f du 2° de la catégorie B ; 
+
+4° Les armes à feu, munitions et leurs éléments classés dans la catégorie C ; 
+
+5° Les armes à feu, munitions et leurs éléments classés aux 1° et g du 2° de la catégorie D. 
+
+II. – Sont dispensés de l'autorisation mentionnée au I : 
+
+1° Les douilles non amorcées et non chargées classées au c du 1° dans la catégorie D ; 
+
+2° Les projectiles des munitions classés aux 6°, 7° et 8° dans la catégorie C et dans la catégorie D. 
+
+III. – Les munitions mentionnées au I sont dispensées de l'autorisation d'exportation de produits explosifs prévue à
+l'article L. 2352-1 du code de la défense. 
+
+IV. – Les armes à feu, munitions et leurs éléments mentionnées au I qui figurent sur la liste mentionnée au second alinéa de
+l'article L. 2335-2 du code de la défense sont dispensés de la procédure d'autorisation d'exportation de matériels de guerre
+et matériels assimilés prévue à ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-2 (V)
+	  - Code de la défense. - art. L2352-1 (V)
+
+
+###### Article R316-41
+
+L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du ministre chargé des douanes par
+écrit ou, le cas échéant, par voie électronique.
+
+Un arrêté du ministre chargé des douanes fixe les caractéristiques du formulaire de demande d'autorisation, la liste des
+pièces à fournir et les conditions techniques et financières à satisfaire par les demandeurs de l'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-42
+
+L'autorisation d'exportation est accordée par le ministre chargé des douanes, après avis favorable, en fonction de leurs
+attributions respectives, des ministres des affaires étrangères ou de l'intérieur.
+
+Cette autorisation, dénommée licence d'exportation, revêt l'une des formes suivantes :
+
+1° Une licence simple accordée à un exportateur déterminé pour l'envoi, au destinataire ou à un destinataire final identifié,
+d'une ou plusieurs armes à feu, munitions et leurs éléments mentionnés au I de l'article R. 316-40 ;
+
+2° Une licence multiple accordée à un exportateur déterminé pour l'envoi, en une ou plusieurs fois, au destinataire ou à un
+destinataire final identifié, d'une ou plusieurs armes à feu, munitions et leurs éléments mentionnés au I de l'article R.
+316-40 ;
+
+3° Une licence globale accordée à un exportateur déterminé pour l'envoi, en une ou plusieurs fois, aux destinataires ou à des
+destinataires finaux identifiés, d'une ou plusieurs armes à feu, munitions et leurs éléments mentionnés au I de l'article R.
+316-40.
+
+La licence d'exportation est délivrée par écrit ou, le cas échéant, par voie électronique.
+
+La licence d'exportation n'est pas cessible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-43
+
+I. – La licence d'exportation peut être accordée : 
+
+1° En ce qui concerne les armes à feu, munitions et leurs éléments classés dans les catégories A1 et B : 
+
+a) Aux personnes qui satisfont aux conditions prévues par le chapitre III du présent titre ; 
+
+b) Aux personnes qui ont obtenu, dans les conditions fixées par le chapitre II du présent titre, l'autorisation de les
+acquérir ou de les détenir ; 
+
+c) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article R. 313-28 et qui, à titre
+exceptionnel, demandent l'autorisation de les exporter ; 
+
+2° En ce qui concerne les armes à feu, munitions et leurs éléments classés dans les catégories C et D : 
+
+a) Aux fabricants et aux commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R.
+313-8, R. 313-12 ou R. 313-27 ; 
+
+b) Aux particuliers qui les ont acquis et qui les détiennent dans les conditions fixées par le chapitre II du présent
+titre ; 
+
+c) Aux personnes qui, à titre exceptionnel, demandent l'autorisation de les exporter. 
+
+II. – La délivrance de la licence d'exportation est subordonnée à la présentation de l'autorisation d'importation du pays
+tiers importateur et, le cas échéant, à la non-objection des autorités des pays tiers de transit. Cette non-objection doit
+être communiquée par écrit. 
+
+Si le pays tiers d'importation ne soumet pas à autorisation l'importation sur son territoire des armes à feu, munitions et
+leurs éléments énumérés au I de l'article R. 316-40, l'exportateur doit fournir la preuve de cette dispense. 
+
+En l'absence de l'objection au transit communiquée dans un délai de vingt jours ouvrables à compter de la date de la demande
+écrite de non-objection au transit soumise par l'exportateur, le pays tiers de transit est réputé ne pas avoir émis
+d'objection à ce transit. 
+
+III. – La licence d'exportation est refusée si le demandeur a un casier judiciaire mentionnant un comportement constituant
+une des infractions énumérées à l'article 695-23 du code de procédure pénale ou tout autre comportement, si celui-ci
+constitue une infraction punissable par une privation de liberté maximale d'au moins quatre ans ou d'une sanction plus
+sévère. 
+
+L'administration des douanes s'assure du respect de cette condition en demandant communication du bulletin n° 2 du casier
+judiciaire au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou son équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 695-23 (V)
+	  - Code de la sécurité intérieure - art. R313-1 (V)
+	  - Code de la sécurité intérieure - art. R313-12 (V)
+	  - Code de la sécurité intérieure - art. R313-27 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
+	  - Code de la sécurité intérieure - art. R313-8 (V)
+
+
+###### Article R316-44
+
+I. – La demande de licence d'exportation est traitée dans un délai de soixante jours ouvrables à compter du jour où toutes
+les informations requises ont été fournies au ministre chargé des douanes.
+
+Dans des circonstances exceptionnelles et pour des raisons dûment justifiées, ce délai peut être étendu à quatre-vingt-dix
+jours ouvrables.
+
+II. – Au terme des délais prévus au I, le silence gardé par l'autorité administrative vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-45
+
+La durée de validité de la licence d'exportation ne peut dépasser la période de validité d'une autorisation d'importation
+dans le pays tiers de destination.
+
+Lorsque l'autorisation d'importation dans le pays tiers ne prévoit pas de période de validité, ou lorsque ce pays ne prévoit
+pas d'autorisation d'importation, la durée de validité de la licence d'exportation est de neuf mois au minimum et de trois
+ans au maximum à compter de sa date de délivrance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-46
+
+I. – Pour la mise en œuvre du 1 de l'article 9 du règlement du 14 mars 2012 mentionné à l'article R. 316-38, la licence
+d'exportation n'est pas exigée pour les armes à feu et leurs éléments s'ils sont marqués, ainsi que leurs munitions, dans la
+limite de 800 cartouches pour les chasseurs et 1 200 cartouches pour les tireurs sportifs lorsqu'ils sont exportés
+temporairement en tant qu'effets personnels, par des chasseurs et des tireurs sportifs, sous réserve que ces personnes
+justifient des raisons de leur voyage à toute réquisition des autorités habilitées, notamment en présentant une invitation ou
+une autre preuve de leur activité de chasse ou de tir sportif dans le pays tiers de destination. 
+
+Parmi ces personnes : 
+
+1° Celles qui résident en France et qui quittent le territoire douanier de l'Union européenne par la France, présentent,
+selon le cas, aux autorités habilitées la carte européenne d'arme à feu prévue par l'article R. 316-7, l'autorisation
+mentionnée à l'article R. 312-21 pour les armes de catégorie B ou l'un des documents prévus à l'article R. 312-53 pour les
+armes des catégories C et D ; 
+
+2° Celles qui résident en France et qui quittent le territoire douanier de l'Union européenne par un autre Etat membre,
+présentent aux autorités habilitées la carte européenne d'arme à feu prévue par l'article R. 316-7 ; 
+
+3° Celles qui résident dans un autre Etat membre et qui quittent le territoire douanier de l'Union européenne par la France
+présentent aux autorités habilitées la carte européenne d'arme à feu délivrée par les autorités de l'Etat membre dans lequel
+elles résident. 
+
+II. – La licence d'exportation n'est pas exigée pour les armes à feu réexportées, en tant qu'effets personnels, par les
+chasseurs et les tireurs sportifs en suite d'admission temporaire dans le cadre d'activités de chasse ou de tir sportif, sous
+réserve que ces armes restent la propriété d'une personne établie hors du territoire douanier de l'Union et qu'elles soient
+réexportées à cette personne. 
+
+Ce régime est prévu par le règlement (CE) n° 2913/92 du 12 octobre 1992 établissant le code des douanes communautaire
+modifié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-21 (V)
+	  - Code de la sécurité intérieure - art. R312-53 (V)
+	  - Code de la sécurité intérieure - art. R316-38 (V)
+	  - Code de la sécurité intérieure - art. R316-7 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-49 (V)
+
+
+###### Article R316-47
+
+I. – Pour la mise en œuvre du 2 de l'article 9 du règlement du 14 mars 2012 mentionné à l'article R. 316-38, sont dispensées
+de licence d'exportation les exportations concernant : 
+
+1° Les armes à feu réexportées en suite d'admission temporaire pour expertise ou exposition sans vente ou réexportées dans le
+cadre du régime douanier du perfectionnement actif pour réparation, sous réserve qu'elles demeurent la propriété d'une
+personne établie dans un pays tiers à l'Union européenne et qu'elles soient réexportées à destination de cette personne ; 
+
+2° Les armes à feu, munitions et leurs éléments placés en dépôt temporaire depuis leur entrée sur le territoire douanier de
+l'Union européenne jusqu'à leur sortie ; 
+
+3° Les armes à feu exportées temporairement pour expertise ou exposition sans vente ou exportées sous le régime douanier du
+perfectionnement passif pour réparation, sous réserve que l'exportateur justifie de la détention légale de ces armes à feu. 
+
+II. – Les régimes mentionnés au I sont prévus par le règlement (CE) n° 2913/92 du 12 octobre 1992 établissant le code des
+douanes communautaire modifié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-38 (V)
+
+
+###### Article R316-48
+
+I. – La licence d'exportation est suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après avis
+favorable, selon leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur, lorsque les
+conditions d'octroi ne sont pas ou plus satisfaites. 
+
+En cas d'urgence, le ministre chargé des douanes suspend l'autorisation d'exportation sans délai. 
+
+La modification, l'abrogation ou le retrait de la licence d'exportation ne peut intervenir qu'après que le titulaire de
+l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
+aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+
+II. – La licence d'exportation peut être suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après
+avis favorable, selon leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur, pour des
+raisons de respect des engagements internationaux de la France ou de protection des intérêts essentiels d'ordre public ou de
+sécurité nationale. 
+
+En cas d'urgence, le ministre chargé des douanes peut suspendre la licence d'exportation sans délai. 
+
+La modification, l'abrogation ou le retrait de la licence d'exportation ne peut intervenir qu'après que le titulaire de
+l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
+aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+
+III. – Le ministre des affaires étrangères notifie aux autorités compétentes des autres Etats membres les décisions de
+suspension, modification, retrait et abrogation et l'appréciation finale des autorités françaises au terme de la période de
+suspension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+
+
+##### Sous-section 3 : Obligations des exportateurs
+
+###### Article R316-49
+
+I. – L'administration des douanes peut demander à l'exportateur un justificatif de la réception, par le destinataire ou le
+destinataire final, des armes à feu, munitions et leurs éléments expédiés. 
+
+La preuve de l'arrivée à destination est constituée par un document délivré par le service des douanes du pays importateur
+établissant que les armes à feu, munitions et leurs éléments exportés sont arrivés dans le pays désigné par l'autorisation. 
+
+A titre de preuve alternative, l'administration des douanes peut accepter un document contractuel, commercial ou de transport
+établissant que les armes à feu, munitions et leurs éléments sont arrivés dans le pays désigné par l'autorisation. 
+
+II. – Sont dispensées des formalités prévues au I les exportations des armes à feu, munitions et leurs éléments bénéficiant
+des dérogations prévues aux articles R. 316-46 et R. 316-47.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-46 (V)
+
+
+###### Article R316-50
+
+Lorsqu'une exportation doit être réalisée sous le couvert d'une autorisation délivrée par un autre Etat membre de l'Union
+européenne, l'exportateur fournit, à la demande du service des douanes, une traduction de cette autorisation et des documents
+l'accompagnant. 
+
+Lorsqu'une exportation doit être réalisée sous le couvert de l'une des procédures simplifiées prévues au 2 de l'article 9 du
+règlement du 14 mars 2012 mentionné à l'article R. 316-38 mise en place par un autre Etat membre de l'Union européenne,
+l'exportateur fournit, à la demande du service des douanes, la preuve qu'il bénéficie de cette procédure simplifiée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-38 (V)
+
+
+##### Section 7 : Autorisations de transit par route
+
+###### Article D316-54
+
+L'autorisation de transit, dont la durée de validité est fixée à six mois à compter de la date de délivrance, n'est valable
+que pour une seule opération
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-51
+
+Le transit direct de frontière à frontière entre deux pays, dont au moins l'un d'entre eux n'appartient pas à l'Union
+européenne, des armes, munitions ou leurs éléments des catégories A1, B, C et du 1° et des a, b, et c du 2° de la catégorie D
+transportés par route, est subordonné à la délivrance d'une autorisation. L'autorisation de transit accompagne les armes,
+munitions ou leurs éléments pendant leur transport en France. Elle est présentée à toute réquisition des autorités
+habilitées.
+
+Lorsque cette autorisation revêt une forme globale, elle couvre, pour sa durée de validité, le transit des armes, munitions
+ou leurs éléments identifiés, sans limite de quantité ni de montant, en provenance d'expéditeurs et vers des destinataires
+désignés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R316-29 (V)
+
+
+###### Article R316-52
+
+La demande d'autorisation de transit est présentée par une personne exerçant une activité de représentant en douane et
+titulaire du statut d'opérateur économique agréé telle que définie dans le règlement (UE) n° 952/2013 du Parlement européen
+et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union ou par une personne exerçant une activité
+d'auxiliaire de transport de marchandises telle que définie au 3 de la liste II de l'annexe IV de la directive 2005/36/CE du
+7 septembre 2005.
+
+La demande est établie dans les conditions définies par arrêté du ministre chargé des douanes. Elle est déposée auprès du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-53
+
+Le ministre chargé des douanes délivre l'autorisation de transit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+
+###### Article R316-55
+
+L'autorisation de transit peut être modifiée, suspendue, abrogée ou retirée par le ministre chargé des douanes, après avis
+favorable, en fonction de leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur pour l'un
+des motifs mentionnés au IV de l'article L. 2335-1 du code de la défense. 
+
+En cas d'urgence, le ministre chargé des douanes suspend l'autorisation de transit sans délai. 
+
+La modification, l'abrogation ou le retrait de l'autorisation de transit ne peut intervenir qu'après que son titulaire a été
+mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues aux articles L.
+121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+
+La décision portant suspension, modification, abrogation ou retrait de l'autorisation de transit est notifiée à son titulaire
+par le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+
+
+###### Article R316-56
+
+Le délai au terme duquel le silence gardé par l'autorité administrative sur les demandes mentionnées à la présente section
+vaut décision de rejet est fixé à neuf mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
 
 
 #### Chapitre VII : Dispositions pénales
@@ -44840,27 +46892,22 @@ fixé à l'article R. 312-41.
 ###### Article R317-5
 
 Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait pour toute personne d'acquérir ou de
-détenir plus de dix systèmes d'alimentation par arme, en violation du quota fixé à l'article R. 312-45 à l'issue de la
-période transitoire prévue à l'article 57 du décret n° 2013-700 du 30 juillet 2013.
+détenir plus de dix systèmes d'alimentation par arme, en violation du quota fixé à l'article R. 312-45.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 167 (VT)
-
 	**Cite**:
 
-	  - Décret n°2013-700  du 30 juillet 2013 - art. 57 (VT)
-	  - Code de la sécurité intérieure - art. R312-45 (VD)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 57 (Ab)
+	  - Code de la sécurité intérieure - art. R312-45
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 9
 
 
 ###### Article R317-6
@@ -44945,6 +46992,74 @@ correspondante.
 	  - Code de la sécurité intérieure - art. R345-4 (V)
 
 
+##### Section 1 bis : Transfert entre Etats membres de l'Union européenne, acquisition et détention par un résident d'un Etat membre 
+
+###### Article R317-8-1
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe le fait pour toute personne : 
+
+1° De ne pas inscrire sur les exemplaires des accords préalables de transfert mentionnés à l'article R. 316-16 et sur les
+autorisations d'importation mentionnées à l'article R. 316-29 les quantités d'armes, d'éléments d'arme, munitions ou éléments
+de munition qu'elle a reçus conformément aux dispositions de ces articles ; 
+
+2° De refuser de présenter le permis, l'autorisation d'importation ou la déclaration de transfert et l'attestation de
+transfert ainsi que l'arme, les munitions et leurs éléments concernés sur réquisition des autorités habilitées conformément
+aux dispositions des articles R. 316-14, R. 316-15, R. 316-16, R. 316-24 et R. 316-27 ; 
+
+3° De céder à un résident d'un autre Etat membre une arme, des munitions ou leurs éléments chargés de la catégorie C ou du 1°
+de la catégorie D sans avoir obtenu la copie de la déclaration d'intention dans les conditions prévues au I de l'article R.
+316-5 ou la copie de l'accord préalable de transfert dans les conditions prévues à l'article R. 316-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 9
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-13 (V)
+	  - Code de la sécurité intérieure - art. R316-14 (V)
+	  - Code de la sécurité intérieure - art. R316-16 (V)
+	  - Code de la sécurité intérieure - art. R316-24 (V)
+	  - Code de la sécurité intérieure - art. R316-27 (V)
+	  - Code de la sécurité intérieure - art. R316-29 (V)
+	  - Code de la sécurité intérieure - art. R316-5 (V)
+
+
+###### Article R317-8-2
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4ème classe le fait pour : 
+
+1° Toute personne, dans les cas prévus au quatrième alinéa de l'article R. 316-7, de ne pas restituer ou de ne pas faire
+mettre à jour sa carte européenne d'arme à feu ; 
+
+2° Tout résident d'un autre Etat membre de détenir, au cours d'un voyage en France, une arme, un élément d'arme ou des
+munitions de la catégorie C ou du 1° de la catégorie D sans y être autorisé conformément aux dispositions de l'article R.
+316-10 ; 
+
+3° Tout tireur sportif, dans les cas prévus à l'article R. 316-11, soit de détenir une arme ou un élément d'arme de la
+catégorie C ou du 1° de la catégorie D mentionné à cet article sans que cette arme ou cet élément d'arme soit inscrit sur sa
+carte européenne d'arme à feu, soit de ne pas être en possession de l'invitation écrite ou de la preuve de son inscription
+prévue au même alinéa du même article. Il en est de même de la détention des munitions sans l'autorisation prévue à cet
+article ; 
+
+4° Tout chasseur résident d'un autre Etat membre de détenir une arme de la catégorie C ou du 1° de la catégorie D mentionnée
+à l'article R. 316-11 sans que cette arme soit inscrite sur sa carte européenne d'arme à feu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 9
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R316-10 (V)
+	  - Code de la sécurité intérieure - art. R316-11 (V)
+	  - Code de la sécurité intérieure - art. R316-7 (V)
+
+
 ##### Section 2 : Commerce de détail
 
 ###### Article R317-9
@@ -44968,6 +47083,22 @@ délivré par l'autorité administrative.
 	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
+
+###### Article R317-9-1
+
+Est puni de l'amende prévue pour les contraventions de 4ème classe, le fait pour tout commerçant autorisé d'organiser une
+séance de tir en violation de l'une des interdictions énoncées à l'article R. 313-15-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 9
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-15-1 (V)
 
 
 ##### Section 3 : Conservation
@@ -45130,26 +47261,23 @@ complémentaires suivantes :
 
 3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
-4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par les articles R. 131-35 à R. 131-44 du
-code pénal.
+4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par les articles 131-5-1 et R. 131-35 à R.
+131-44 du code pénal.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 177 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 9
 
 	**Cite**:
 
-	  - Code pénal - art. R131-35 (V)
+	  - Code pénal - art. 131-5-1 (V)
+	  - Code pénal - art. R131-35
 
 
 ###### Article R317-14
@@ -45807,39 +47935,35 @@ autorité  par l'exploitant dans un délai de quinze jours avant la mise en œuv
 ###### Article R321-18
 
 Tout projet d'évolution de la répartition du capital social et du contrôle, direct ou indirect, de la société titulaire de
-l'autorisation prévue à l'article L. 321-1 est déclaré par cette société au ministre de l'intérieur, dès lors qu'en
-résulterait le fait pour une personne : 
+l'autorisation prévue à l'article L. 321-3 est déclaré par cette société au ministre de l'intérieur, dès lors qu'en
+résulterait le fait pour une personne :
 
-1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ; 
+1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ;
 
-2° Soit d'acquérir, directement ou indirectement, tout ou partie d'une branche d'activité de cette société ; 
+2° Soit d'acquérir, directement ou indirectement, tout ou partie d'une branche d'activité de cette société ;
 
 3° Soit de franchir le seuil du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, des trois dixièmes, du
-tiers ou de la moitié de détention, directe ou indirecte, du capital ou des droits de vote ; 
+tiers ou de la moitié de détention, directe ou indirecte, du capital ou des droits de vote ;
 
 4° Soit de réaliser une opération entraînant la prise de contrôle de fait de la société, notamment par l'octroi de prêts ou
-de garanties substantielles ou l'acquisition de contrats commerciaux. 
+de garanties substantielles ou l'acquisition de contrats commerciaux.
 
 La déclaration d'un projet d'opération prévue au présent article doit intervenir dès que la société en a connaissance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 4-1 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-913 du 9 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-3 (M)
-	  - Code de la sécurité intérieure - art. L321-1 (V)
+	  - Code de commerce - art. L233-3
+	  - Code de la sécurité intérieure - art. L321-3
 
 	**Cité par**:
 
@@ -45850,27 +47974,23 @@ La déclaration d'un projet d'opération prévue au présent article doit interv
 ###### Article R321-19
 
 S'il constate une évolution des données du dossier de nature à remettre en cause le bien-fondé de l'autorisation prévue à
-l'article L. 321-1, notamment au vu de l'origine des fonds investis dans la société titulaire, le ministre de l'intérieur
+l'article L. 321-3, notamment au vu de l'origine des fonds investis dans la société titulaire, le ministre de l'intérieur
 examine à nouveau la situation et fait usage, le cas échéant, des pouvoirs qu'il tient de l'article R. 321-30.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 4-2 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-913 du 9 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L321-1 (V)
-	  - Code de la sécurité intérieure - art. R321-30 (VD)
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. R321-30
 
 
 ###### Article R321-20
@@ -46449,6 +48569,8 @@ agréé par le ministre de l'intérieur et le ministre chargé du budget.
 
 ##### Section 5 : Contrôle
 
+##### Sous-section 1 : Dispositions communes
+
 ###### Article R321-38
 
 La surveillance générale des casinos est exercée par les représentants du ministre de l'intérieur qui peuvent se faire
@@ -46456,21 +48578,17 @@ communiquer, à tout moment, tout document utile à l'exercice de leurs missions
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 21 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-914 du 9 mai 2017 - art. 9
 
 
 ##### Section 6 : Conditions d'application
@@ -46513,6 +48631,264 @@ Toutefois, la police des jeux est réglementée par arrêté ou décision du min
 	  - Code de la sécurité intérieure - art. R321-5-2 (VD)
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 	  - Code de la sécurité intérieure - art. R346-2-1 (VD)
+
+
+#### Chapitre Ier bis : Compétitions de jeux vidéo
+
+###### Article R321-40
+
+I. – Toute personne physique ou morale assurant l'organisation matérielle et le financement de la compétition de jeux vidéo
+dans les conditions prévues par l'article L. 321-9 déclare la tenue d'une compétition de jeux vidéo auprès du service du
+ministère de l'intérieur chargé des courses et jeux. 
+
+La qualité d'organisateur peut être reconnue à plusieurs entreprises ou associations agissant conjointement. 
+
+II. – La déclaration est faite par l'intermédiaire d'un téléservice mis en place par le ministère de l'intérieur. 
+
+Elle peut être effectuée pour une seule ou pour plusieurs compétitions dont la programmation est établie à l'avance. 
+
+Le dossier de déclaration est déposé un an au plus et, sauf urgence motivée, trente jours au moins avant la date de début de
+la compétition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-9 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R324-2 (V)
+
+
+###### Article R321-41
+
+Le dossier de déclaration comprend :
+
+1° Les nom, prénom, date et lieu de naissance de l'organisateur ou de son représentant légal ainsi qu'une copie numérique de
+son titre d'identité ;
+
+2° L'adresse, les coordonnées téléphoniques et de la messagerie électronique, ainsi que le site internet de l'organisateur
+et, le cas échéant, sa raison sociale ;
+
+3° Le ou les jeux utilisés pour la compétition ;
+
+4° Le lieu, les dates et la durée de la compétition ;
+
+5° Le nombre de participants attendus ;
+
+6° Le cas échéant, la mention de la retransmission télévisuelle ou en flux de la compétition ;
+
+7° La désignation du matériel servant de support à la compétition ;
+
+8° Le montant prévisionnel total des droits d'inscription et autres sacrifices financiers consentis par les participants à la
+compétition ;
+
+9° Le montant prévisionnel total des coûts d'organisation de la compétition, dont le montant total des gains et lots mis en
+jeu ;
+
+10° Le montant prévisionnel total des recettes collectées en lien avec la manifestation ;
+
+11° Lorsqu'il est requis, le mécanisme garantissant le reversement de la totalité des gains ou lots mis en jeu ;
+
+12° Le cas échéant, le nom et les coordonnées de la société chargée d'assurer la sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+
+###### Article R321-42
+
+Dans un délai maximum d'un mois après la date de fin d'une compétition de jeux vidéo, l'organisateur déclare par voie
+électronique au service du ministère de l'intérieur chargé des courses et jeux tout dépassement du taux prévu à l'article R.
+321-48 constaté à l'issue de la tenue de cette compétition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+
+###### Article R321-43
+
+I. – L'autorisation du représentant légal du mineur prévue à l'article L. 321-10 est écrite. L'organisateur conserve une
+copie pendant un an, éventuellement sous forme dématérialisée, de cette autorisation, ainsi que le numéro, la nature et
+l'autorité de délivrance du document d'identité du ou des représentants légaux et du mineur concerné. 
+
+Le mineur et le ou les représentants légaux justifient de leur identité par la présentation de leur carte nationale
+d'identité ou passeport délivrés par l'administration compétente de l'État dont le titulaire possède la nationalité. 
+
+Ces documents doivent être en cours de validité, à l'exception de la carte nationale d'identité française et du passeport
+français, qui peuvent être présentés en cours de validité ou périmés depuis moins de 5 ans. 
+
+II. – Les dispositions du I s'appliquent y compris lorsqu'une autorisation individuelle préalable est requise en application
+de l'article L. 7124-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L7124-1
+	  - Code de la sécurité intérieure - art. L321-10 (V)
+
+
+###### Article R321-44
+
+La participation d'enfants de moins de douze ans à des compétitions de jeux vidéo offrant des récompenses monétaires est
+interdite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R324-4 (V)
+
+
+###### Article R321-45
+
+Pour l'application du deuxième alinéa de l'article L. 321-10 du code la sécurité intérieure, la part des récompenses
+monétaires, perçues par un enfant âgé de moins de seize ans soumis à l'obligation scolaire dans le cadre de sa participation
+à des compétitions de jeux vidéo mentionnées à l'article L. 321-8 du code de la sécurité intérieure, dont le montant peut
+être laissé à la disposition de ses représentants légaux est fixée par arrêté conjoint des ministres chargés du numérique et
+du travail, en fonction du montant des récompenses. 
+
+L'organisateur de la compétition de jeux vidéo verse le surplus, qui constitue le pécule, à la Caisse des dépôts et
+consignations en rappelant l'état civil de l'enfant, son domicile et le nom de ses représentants légaux. 
+
+La Caisse des dépôts et consignations ouvre dans ses écritures, au nom de chacun des mineurs intéressés, un compte de dépôt
+auquel sont portés les versements effectués par les organisateurs de jeux vidéo. 
+
+Elle gère le pécule dans les mêmes conditions que celles prévues par les articles L. 7124-9 et R. 7124-34 à R. 7124-37 du
+code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L7124-9
+	  - Code du travail - art. R7124-34 (V)
+	  - Code de la sécurité intérieure - art. L321-10 (V)
+	  - Code de la sécurité intérieure - art. L321-8 (V)
+
+
+###### Article R321-46
+
+Les droits d'inscription et autres sacrifices financiers consentis par les joueurs mentionnés à l'article L. 321-9 désignent
+l'ensemble des frais payés par les joueurs aux organisateurs pour prendre part à la compétition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-9 (V)
+
+
+###### Article R321-47
+
+Les coûts d'organisation mentionnés à l'article L. 321-9 incluent :
+
+1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à
+l'organisation de la compétition ;
+
+2° Les dépenses de personnel relatives aux salariés des organisateurs affectés directement à l'organisation de la
+compétition ;
+
+3° Les autres dépenses de fonctionnement, pour leur quote-part affectée à l'organisation de la compétition. Ces dépenses
+comprennent les achats de matières, fournitures et matériels, les loyers des locaux utilisés, les frais d'entretien et de
+réparation afférents à ces locaux, les frais de voyage et de déplacement exposés par les organisateurs ;
+
+4° Les dépenses exposées pour l'organisation de la compétition et résultant de prestations confiées à d'autres entreprises ou
+organismes, dans des conditions normales de marché ;
+
+5° Les contributions volontaires en nature ;
+
+6° Les dépenses de communication et de promotion directement liées à l'organisation de la compétition et les frais liés à la
+retransmission de la compétition, quels que soient les médias utilisés, à la charge de l'organisateur ;
+
+7° Les lots et les gains mis en jeu par les organisateurs pour la compétition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-9 (V)
+
+
+###### Article R321-48
+
+Pour l'application de l'article L. 321-9, la fraction constituée par le montant des droits d'inscription et autres sacrifices
+financiers consentis par les joueurs pour participer à la compétition, rapporté au coût total d'organisation de la
+manifestation, incluant le montant total des gains et lots proposés, n'excède pas le taux de 100 % ;
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-9 (V)
+
+
+###### Article R321-49
+
+Le montant total des gains et des lots mis en jeu, au-delà duquel les organisateurs doivent justifier de l'existence d'un
+instrument ou mécanisme garantissant leur reversement en totalité, est fixé à 10 000 euros.
+
+Dans ce cas, les organisateurs de compétitions de jeux vidéo fournissent, en complément de la déclaration mentionnée à
+l'article R. 321-40, le justificatif de la détention d'une sûreté, d'une fiducie, d'une assurance ou d'un compte sous
+séquestre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+
+###### Article R321-50
+
+Pour l'application de l'article L. 321-11, le coût d'achat éventuel du jeu vidéo servant de support à la compétition comprend
+le coût d'achat initial du jeu, le coût d'achat de ses contenus additionnels et le coût d'abonnement au jeu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-11 (V)
 
 
 #### Chapitre II : Loteries
@@ -46689,6 +49065,85 @@ A l'issue du jeu ou du concours, la publication de presse doit publier le nombre
 	  - Décret n°2016-1466 du 28 octobre 2016 - art. 1
 
 
+#### Chapitre III : Dispositions communes
+
+###### Article D323-4
+
+Les seuils mentionnés au 2° du I de l'article L. 323-3 sont fixés au tiers, à la moitié et aux deux tiers du capital social
+ou des droits de vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L323-3
+
+
+###### Article R323-1
+
+Le ministre de l'intérieur se prononce dans un délai de quatre mois à compter de la date de réception de la demande
+d'autorisation adressée par l'investisseur en application des dispositions de l'article L. 323-3. A défaut, l'autorisation
+est réputée acquise. 
+
+Un arrêté du ministre de l'intérieur fixe la composition du dossier de demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L323-3
+
+
+###### Article R323-2
+
+Avant la réalisation d'un investissement, l'investisseur peut saisir le ministre de l'intérieur d'une demande écrite aux fins
+de savoir si l'opération envisagée est soumise à la procédure d'autorisation prévue à l'article L. 323-3. Le ministre répond
+dans un délai de deux mois. L'absence de réponse ne vaut pas dispense de demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L323-3
+
+
+###### Article R323-3
+
+Le ministre de l'intérieur, par décision motivée, refuse de délivrer l'autorisation demandée lorsque le comportement de
+l'investisseur ou l'origine des fonds qu'il est envisagé d'investir offrent des raisons sérieuses de penser que ce refus est
+nécessaire à la prévention des activités frauduleuses ou criminelles, du blanchiment de capitaux ou du financement du
+terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 2
+
+
+###### Article R323-5
+
+Les modalités d'application du présent chapitre sont déterminées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 2
+
+
 #### Chapitre IV : Dispositions pénales
 
 ###### Article R324-1
@@ -46734,6 +49189,53 @@ pour leur application.
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R343-1 (V)
+
+
+###### Article R324-2
+
+Est puni des peines prévues pour les contraventions de la quatrième classe le fait d'organiser une compétition de jeux vidéo
+mentionnée à l'article L. 321-9 sans l'avoir préalablement déclarée dans les conditions prévues à l'article R. 321-40.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-9 (V)
+	  - Code de la sécurité intérieure - art. R321-40 (V)
+
+
+###### Article R324-3
+
+Est puni des peines prévues pour les contraventions de la cinquième classe le fait pour l'organisateur d'une compétition de
+jeux vidéo d'avoir, y compris par négligence, laissé participer un mineur de moins de douze ans à des compétitions de jeux
+vidéo offrant des récompenses en sommes d'argent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+
+###### Article R324-4
+
+Est puni des peines prévues pour les contraventions de la cinquième classe le fait, pour l'organisateur d'une compétition de
+jeux vidéo, de ne pouvoir justifier du recueil, dans les conditions de l'article R. 321-44, de l'autorisation écrite des
+représentants légaux du mineur ayant participé à une telle compétition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-871 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-44 (V)
 
 
 ### TITRE III : FERMETURE ADMINISTRATIVE DE CERTAINS ÉTABLISSEMENTS
@@ -47198,184 +49700,547 @@ salles de jeux, en méconnaissance des prescriptions de l'article R. 321-27 ;
 
 Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polynésie française, sous réserve des adaptations
 prévues aux articles R. 344-2 et R. 344-3, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Au titre Ier 
-
-</td>
+Au titre Ier</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="justify">
 
-R. 311-1 à R. 311-6 
+R. 311-1 à R. 311-6</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="justify">
 
-R. 312-1 à R. 312-76
+R. 312-1</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ET VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="justify">
 
-R. 312-77, R. 312-78
+R. 312-2</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
-d'armes 
-
-</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="justify">
 
-R. 312-79
+R. 312-3, R. 312-4</td>
+      <td align="justify">
 
-</td>
-      <td align="left" valign="top">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="justify">
 
-R. 312-80, R. 312-81
+R. 312-5</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
-d'armes
-
-</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="justify">
 
-R. 312-82, R. 312-83
+R. 312-6 à R. 312-9</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td>
+      <td align="justify">
 
-R. 313-1 et R. 313-2 
+R. 312-10</td>
+      <td align="justify">
 
-</td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td>R. 313-3 </td>
-      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
+      <td align="justify">
+
+R. 312-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td>R. 313-4 à R. 313-26 </td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      <td align="justify">
+
+R. 312-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td>
+      <td align="justify">
 
-R. 314-1 à R. 314-20 
+R. 312-13 à R. 312-21</td>
+      <td align="justify">
 
-</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td>
+      <td align="left">
 
-R. 315-1 à R. 315-18 
+R. 312-22</td>
+      <td align="justify">
 
-</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+Résultant du décret N° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td>
+      <td align="justify">
 
-R. 317-1 à R. 317-14 
+R. 312-23 à R. 312-26</td>
+      <td align="justify">
 
-</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td align="center" valign="middle" colspan="2">
+      <td align="justify">
 
-Au titre III 
+R. 312-27</td>
+      <td align="justify">
 
-</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="justify">
 
-R. 332-1 et R. 333-1 
+R. 312-28 à R. 312-39</td>
+      <td align="justify">
 
-</td>
-      <td valign="top" align="left">
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
+R. 312-40</td>
+      <td align="justify">
 
-</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-41, R. 312-42</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-43</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-44 à R. 312-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-47 à R. 312-49</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-50 à R. 312-53</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-54</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-55 à R. 312-73</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-74</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-75, R. 312-76</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-77</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-78</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-156 du 15 février 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-79</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 312-80, R. 312-81</td>
+      <td align="left">
+
+Résultant du décret n° 2016-156 du 15 février 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 312-82, R. 312-83</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 313-1 et R. 313-2</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-4 à R. 313-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-7-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-8 à R. 313-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-15-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-17, R. 313-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-19</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-20 à R. 313-22</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-23, R. 313-24</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-25 à R. 313-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-1, R. 314-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-4 à R. 314-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-12 à R. 314-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-17 à R. 314-20</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-1 à R. 315-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-5 à R. 315-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-15, R. 315-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 316-29 à R. 316-50</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-1 à R. 317-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-6 à R. 317-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-8-1 et R. 317-8-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-9-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-10 à R. 317-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Au titre III</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 332-1 et R. 333-1</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
   </tbody>
 </table>
@@ -47401,7 +50266,11 @@ réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 59
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R344-3 (V)
 
 
 ###### Article R344-2
@@ -47420,7 +50289,15 @@ gendarmerie nationale pour la Polynésie française ;
 4° La référence à la cour d'appel est remplacée par la référence à la cour d'appel de Papeete ;
 
 5° La référence à l'agence régionale de santé est remplacée par la référence aux autorités locales compétentes en matière de
-santé.
+santé ;
+
+6° Les références au règlement (UE) n° 258/2012 du Parlement européen et du Conseil du 14 mars 2012 portant application de
+l'article 10 du protocole des Nations Unies contre la fabrication et le trafic illicite d'armes à feu, de leurs pièces,
+éléments et munitions, additionnel à la convention des Nations Unies contre la criminalité transnationale organisée
+(protocole relatif aux armes à feu) et instaurant des autorisations d'exportation, ainsi que des mesures concernant
+l'importation et le transit d'armes à feu, de leurs pièces, éléments et munitions, ainsi que les références au règlement (CE)
+n° 2913/92 du 12 octobre 1992 établissant le code des douanes communautaire modifié, sont remplacées par les références au
+droit applicable localement en vertu de ces règlements.
 
 **Liens relatifs à cet article**
 
@@ -47430,7 +50307,7 @@ santé.
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
 
 	**Cité par**:
 
@@ -47439,287 +50316,283 @@ santé.
 
 ###### Article R344-3
 
-Pour l'application des dispositions du titre Ier énumérées à l'article R. 344-1 en Polynésie française : 
+Pour l'application des dispositions du titre Ier énumérées à l'article R. 344-1 en Polynésie française :
 
-1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé : 
+1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé :
 
 "Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si elles
-sont conformes aux caractéristiques techniques définies par arrêté conjoint des ministres de la défense et de l'intérieur et
-des ministres chargés de l'industrie et des douanes et constatées dans un procès-verbal d'expertise effectuée soit par un
-établissement technique désigné par le ministre de la défense, soit par un établissement désigné ou un armurier agréé, établi
-sur le territoire français, par arrêté du haut-commissaire de la République en Polynésie française, dans les cas et les
-conditions déterminés par l'arrêté interministériel prévu ci-dessus." ; 
+sont conformes aux caractéristiques techniques définies par arrêté conjoint du ministre de l'intérieur et des ministres
+chargés de l'industrie et des douanes et constatées dans un procès-verbal d'expertise effectuée soit par un établissement
+technique désigné par le ministre de l'intérieur, soit par un établissement désigné ou un armurier agréé, établi sur le
+territoire français, par arrêté du haut-commissaire de la République en Polynésie française, dans les cas et les conditions
+déterminés par l'arrêté interministériel prévu ci-dessus." ;
 
-2° A l'article R. 312-1 : 
+2° A l'article R. 312-1 :
 
 a) Au 1°, les mots : "permis de chasser délivré en France" sont remplacés par les mots : "permis de chasser délivré sur le
-territoire de la République" ; 
+territoire de la République" ;
 
 b) Au 2°, après les mots : "ou du ball-trap" sont ajoutés les mots : "ou d'une fédération sportive territoriale compétente en
-ce domaine en application des dispositions applicables localement." ; 
+ce domaine en application des dispositions applicables localement." ;
 
-c) Il est ajouté un 3° ainsi rédigé : 
+c) Il est ajouté un 3° ainsi rédigé :
 
-"3° Ou de l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres." ; 
+"3° Ou de l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres." ;
 
-3° L'article R. 312-2 est ainsi rédigé : 
+3° L'article R. 312-2 est ainsi rédigé :
 
 "Art. R. 312-2.-Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-38 à R. 312-40, R. 312-44,
 R. 312-65 et au 19° de l'article R. 344-3 sont délivrées, dans chaque cas, par le haut-commissaire de la République en
-Polynésie française. En outre : 
+Polynésie française. En outre :
 
-"1° Pour les autorisations portant sur les matériels de la catégorie A2 susceptibles d'être déclassés, l'autorisation du
-haut-commissaire est délivrée dans les conditions prévues par un arrêté conjoint des ministres de la défense et de
-l'intérieur ; 
+"1° (supprimé)
 
 "2° Pour les autorisations mentionnées à l'article R. 312-27, lorsque le matériel de guerre est classé au titre de la
 législation nationale des monuments historiques, la décision ne peut être prise qu'après avis du ministre chargé de la
-culture." ; 
+culture." ;
 
 4° A l'article R. 312-3, après les mots : "ou de leurs éléments", sont ajoutés les mots : "sur le territoire de la Polynésie
 française" et les mots : "au préfet du lieu de domicile ou, pour les personnes ne possédant pas la nationalité française, du
-lieu de leur résidence" sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française" ; 
+lieu de leur résidence" sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française" ;
 
-5° A l'article R. 312-5 : 
+5° A l'article R. 312-5 :
 
 a) Aux b et c du 4°, après les mots : "pour la pratique du tir" sont ajoutés les mots : "ou d'une fédération sportive
-territoriale compétente en ce domaine en application des dispositions applicables localement." ; 
+territoriale compétente en ce domaine en application des dispositions applicables localement." ;
 
 b) Au a du 7°, les mots : "certificat de résidence" et "sur le territoire français" sont remplacés respectivement par les
-mots : "titre de séjour" et "sur le territoire de la Polynésie française" ; 
+mots : "titre de séjour" et "sur le territoire de la Polynésie française" ;
 
 c) Au a du 8°, les mots : "avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
-l'autorisation" sont supprimés ; 
+l'autorisation" sont supprimés ;
 
 d) Au 10°, après les mots : "Fédération française de tir", sont ajoutés les mots : "ou d'une fédération sportive territoriale
-de tir." ; 
+de tir." ;
 
-6° A l'article R. 312-6, le 3° est supprimé ; 
+6° A l'article R. 312-6, le 3° est supprimé ;
 
 7° A l'article R. 312-8, les mots : "de santé mentionné à l'article L. 3222-1 du code de la santé publique" et à l'article R.
 312-57, les mots : "de santé habilité en vertu des dispositions de l'article L. 3222-1 du code de la santé publique" sont
 remplacés par les mots : "habilité à soigner les personnes atteintes de troubles mentaux conformément à la réglementation
-applicable localement" ; 
+applicable localement" ;
 
-8° A l'article R. 312-12, les mots : "trois mois" sont remplacés par les mots : "six mois" ; 
+8° (supprimé)
 
-9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 344-3 ; 
+9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 344-3 ;
 
 10° A l'article R. 312-16, les mots : "R. 312-37 à R. 312-41 et R. 312-44" sont remplacés par les mots : "R. 312-38 à R.
-312-41, R. 312-44 et au 19° de l'article R. 344-3" ; 
+312-41, R. 312-44 et au 19° de l'article R. 344-3" ;
 
 11° A l'article R. 312-18, les mots : "la décision préfectorale" sont remplacés par les mots : "la décision du haut-
-commissaire de la République en Polynésie française" ; 
+commissaire de la République en Polynésie française" ;
 
-12° A l'article R. 312-19 : 
+12° A l'article R. 312-19 :
 
-a) Le 3° est supprimé ; 
+a) Le 3° est supprimé ;
 
 b) Au 4° les mots : "dans le respect des dispositions de l'article L. 622-16 du code du patrimoine si les matériels sont
-classés au titre des monuments historiques" sont supprimés ; 
+classés au titre des monuments historiques" sont supprimés ;
 
 13° A l'article R. 312-22, après les mots : "les administrations ou services publics", sont ajoutés les mots : "en Polynésie
-française" ; 
+française" ;
 
-14° A l'article R. 312-24 : 
+14° A l'article R. 312-24 :
 
 a) Au premier alinéa, après les mots : "agents des administrations publiques", sont ajoutés les mots : "en Polynésie
-française" ; 
+française" ;
 
-b) Au deuxième alinéa, après les mots : "ou services publics", sont ajoutés les mots : "en Polynésie française" ; 
+b) Au deuxième alinéa, après les mots : "ou services publics", sont ajoutés les mots : "en Polynésie française" ;
 
 c) Au troisième alinéa, après les mots : "les sous-officiers d'active", sont ajoutés les mots : "affectés en Polynésie
-française" ; 
+française" ;
 
-d) Au quatrième alinéa, après les mots : "ou le service public", sont ajoutés les mots : "en Polynésie française" ; 
+d) Au quatrième alinéa, après les mots : "ou le service public", sont ajoutés les mots : "en Polynésie française" ;
 
-15° A l'article R. 312-25 : 
+15° A l'article R. 312-25 :
 
-a) Après les mots : "et agents", sont ajoutés les mots : "de l'Etat en Polynésie française" ; 
+a) Après les mots : "et agents", sont ajoutés les mots : "de l'Etat en Polynésie française" ;
 
-b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé : 
+b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé :
 
 "Les catégories de fonctionnaires et agents des administrations ou services publics autres que ceux de l'Etat en Polynésie
 française appelés à bénéficier des autorisations mentionnées à l'article R. 312-22 et aux premier et deuxième alinéas de
-l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Polynésie française." ; 
+l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Polynésie française." ;
 
 c) Au dernier alinéa, les mots : "le préfet du département où les intéressés exercent leurs fonctions" sont remplacés par les
-mots : "le haut-commissaire de la République en Polynésie française" ; 
+mots : "le haut-commissaire de la République en Polynésie française" ;
 
 16° Aux articles R. 312-26 et R. 312-64, les mots : "les théâtres nationaux" sont remplacés par les mots : "les
-établissements publics de spectacle" ; 
+établissements publics de spectacle" ;
 
 17° A l'article R. 312-34, les mots : "le préfet du département du lieu où l'expert exerce son activité" et les mots : "le
 préfet du département du lieu où il exerce son activité" sont remplacés par les mots : "le haut-commissaire de la République
-en Polynésie française" ; 
+en Polynésie française" ;
 
-18° L'article R. 312-36 est ainsi rédigé : 
+18° L'article R. 312-36 est ainsi rédigé :
 
 "Art. R. 312-36.-L'expert informe le haut-commissaire de la République en Polynésie française en cas de changement du lieu de
 son activité et, le cas échéant, le représentant de l'Etat dans le département de métropole ou d'outre-mer ou dans la
-collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu." ; 
+collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu." ;
 
-19° L'article R. 312-37 est ainsi rédigé : 
+19° L'article R. 312-37 est ainsi rédigé :
 
 "Art. R. 312-37.-Les personnes exerçant l'activité mentionnée au 2° de l'article L. 611-1 sont autorisées, en application de
 l'article L. 613-9, à acquérir et à détenir des armes et éléments d'arme dans les conditions et selon les modalités prévues
-par les articles R. 613-41, R. 613-43 à R. 613-46 et le 18° de l'article R. 645-3." ; 
+par les articles R. 613-41, R. 613-43 à R. 613-46 et le 18° de l'article R. 645-3." ;
 
-20° A l'article R. 312-40 : 
+20° A l'article R. 312-40 :
 
 a) Au 1°, après les mots : "ou du ball-trap", sont ajoutés les mots : ", ou d'une fédération sportive territoriale compétente
-en ce domaine en application des dispositions applicables localement" ; 
+en ce domaine en application des dispositions applicables localement" ;
 
 b) Au 2° après les mots : "pour la pratique du tir ", sont ajoutés les mots : ", ou d'une fédération sportive territoriale
-compétente en ce domaine en application des dispositions applicables localement," ; 
+compétente en ce domaine en application des dispositions applicables localement," ;
 
 c) Au 2°, les mots : "en application de l'article R. 322-1 du code du sport." sont remplacés par les mots : "selon la
-réglementation localement applicable." ; 
+réglementation localement applicable." ;
 
-d) Au sixième alinéa du 2°, les mots : "par arrêté conjoint des ministres de la défense et de l'intérieur et du ministre
-chargé des sports" sont remplacés par les mots : "par arrêté du haut-commissaire de la République en Polynésie française." ; 
+d) Au sixième alinéa du 2°, les mots : "par arrêté conjoint du ministre et de l'intérieur et du ministre chargé des sports"
+sont remplacés par les mots : "par arrêté du haut-commissaire de la République en Polynésie française." ;
 
-e) Le dernier alinéa du 2° est supprimé ; 
+e) Le dernier alinéa du 2° est supprimé ;
 
 21° Au deuxième alinéa de l'article R. 312-43, les mots : "ou de gendarmerie." sont remplacés par les mots : ", de
-gendarmerie ou des douanes. " ; 
+gendarmerie ou des douanes. " ;
 
-22° A l'article R. 312-48, les mots : "au préfet du lieu de domicile" sont remplacés par les mots : "au haut-commissaire de
-la République en Polynésie française" et les mots : "le préfet qui a reçu la demande" sont remplacés par les mots : "le haut-
-commissaire de la République en Polynésie française" ; 
+22° (supprimé)
 
-23° L'article R. 312-50 est ainsi rédigé : 
+23° L'article R. 312-50 est ainsi rédigé :
 
 "Art. R. 312-50.-Lorsqu'ils transfèrent leur domicile en Polynésie française, les titulaires d'autorisation d'acquisition et
 de détention doivent déclarer au haut-commissaire de la République en Polynésie française le nombre et la nature des armes et
-éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
 "Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité d'outre-
 mer, les titulaires d'autorisation d'acquisition et de détention en Polynésie française doivent déclarer au préfet du
 département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes des
-catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
-"Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+"Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement :
 
 "1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
 applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
 de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
-Calédonie ; 
+Calédonie ;
 
-"2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011." ; 
+"2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011." ;
 
-24° A l'article R. 312-52 : 
+24° A l'article R. 312-52 :
 
 a) Au deuxième alinéa, les mots : "aux articles R. 312-53 à R. 312-58" sont remplacés par les mots : "aux articles R. 312-54
-à R. 312-58 et au 25° de l'article R. 344-3" ; 
+à R. 312-58 et au 25° de l'article R. 344-3" ;
 
-b) Le troisième alinéa est ainsi rédigé : 
+b) Le troisième alinéa est ainsi rédigé :
 
 "Les armes et leurs éléments des catégories C et D peuvent être détenues par des mineurs s'ils ont plus de seize ans, y sont
 autorisés par la personne exerçant l'autorité parentale, sauf si celle-ci est inscrite au fichier national des interdits
-d'acquisition et de détention d'armes, et, hormis pour les armes des d au g du 2° de la catégorie D, sont titulaires : 
+d'acquisition et de détention d'armes, et, hormis pour les armes des d au g du 2° de la catégorie D, sont titulaires :
 
 "1° D'un permis de chasser, délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu de
-permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou
 
-"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres." ; 
+"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres." ;
 
 c) Aux quatrième et cinquième alinéas, après les mots : "ou du ball-trap", sont ajoutés les mots : "ou d'une fédération
-sportive territoriale compétente en ce domaine en application des dispositions applicables localement." ; 
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement." ;
 
 d) Au dernier alinéa, les mots : "en application du code du sport." sont remplacés par les mots : "selon la réglementation
-localement applicable." ; 
+localement applicable." ;
 
-25° L'article R. 312-53 est ainsi rédigé : 
+25° L'article R. 312-53 est ainsi rédigé :
 
 "Art. R. 312-53.-L'acquisition par des personnes majeures des armes et de leurs éléments de la catégorie C et du 1° de la
-catégorie D est subordonnée à la présentation : 
+catégorie D est subordonnée à la présentation :
 
 "1° D'un permis de chasser délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu de
-permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou
 
-"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou
 
 "3° D'une licence en cours de validité d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du
 sport, délégation du ministre chargé des sports pour la pratique du tir ou du ball-trap ou d'une fédération sportive
-territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+territoriale compétente en ce domaine en application des dispositions applicables localement. " ;
 
 26° Au 1° de l'article R. 312-54, les mots : "lorsqu'elle est faite en vue du transfert vers un autre Etat membre de l'Union
 européenne ou de l'exportation vers un pays tiers." sont remplacés par les mots : "lorsqu'elle est faite en vue de
-l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers." ; 
+l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers." ;
 
 27° Aux articles R. 312-54, R. 312-55, R. 312-56, R. 312-72, R. 313-22 et R. 313-24, la référence à l'article R. 312-53 est
-remplacée par la référence au 25° de l'article R. 344-3 ; 
+remplacée par la référence au 25° de l'article R. 344-3 ;
 
 28° Au premier alinéa de l'article R. 312-55, les mots : "au préfet du lieu de domicile" et les mots : "au préfet du
 département du domicile du déclarant ou du demandeur" sont remplacés par les mots : "au haut-commissaire de la République en
-Polynésie française" ; 
+Polynésie française" ;
 
-29° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes : 
+29° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes :
 
 "Toute personne physique qui acquiert en Polynésie française, auprès d'un armurier ou d'un particulier en présence d'un
 armurier, une arme ou un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle fixé par
-l'arrêté prévu à l'article R. 311-6. 
+l'arrêté prévu à l'article R. 311-6.
 
 "Toute personne physique qui acquiert en Polynésie française, à compter de la date d'entrée en vigueur du décret n° 5 février
 2015 du 5 février 2015, auprès d'un armurier ou d'un particulier en présence d'un armurier, une arme ou un élément d'arme du
-1° de la catégorie D procède à une demande d'enregistrement." ; 
+1° de la catégorie D procède à une demande d'enregistrement." ;
 
-30° A l'article R. 312-58 : 
+30° A l'article R. 312-58 :
 
-a) Les mots : ", de spectacles ou à des théâtres nationaux" sont remplacés par les mots : "ou de spectacles" ; 
+a) Les mots : ", de spectacles ou à des théâtres nationaux" sont remplacés par les mots : "ou de spectacles" ;
 
 b) Les mots : "du préfet de département du lieu d'implantation sur site" sont remplacés par les mots : "du haut-commissaire
-de la République en Polynésie française" ; 
+de la République en Polynésie française" ;
 
-31° L'article R. 312-59 est ainsi rédigé : 
+31° L'article R. 312-59 est ainsi rédigé :
 
 "Art. R. 312-59.-Lorsqu'ils transfèrent leur domicile en Polynésie française, les titulaires d'un récépissé de déclaration ou
 d'enregistrement doivent déclarer au haut-commissaire de la République en Polynésie française le nombre et la nature des
-armes et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent. 
+armes et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent.
 
 "Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité d'outre-
 mer, les titulaires d'un récépissé de déclaration ou d'enregistrement en Polynésie française doivent déclarer au préfet du
 département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes des
-catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
-"Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+"Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement :
 
 "1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
 applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
 de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
-Calédonie ; 
+Calédonie ;
 
-"2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011." ; 
+"2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011." ;
 
-32° L'article R. 312-60 est ainsi rédigé : 
+32° L'article R. 312-60 est ainsi rédigé :
 
 "Art. R. 312-60.-L'acquisition de munitions et éléments de munition classés dans le 8° de la catégorie C et dans le c du 1°
-de la catégorie D se fait sur présentation : 
+de la catégorie D se fait sur présentation :
 
 "1° D'un permis de chasser délivré sur le territoire de la République ou à l'étranger, ou de toute autre pièce tenant lieu de
-permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou
 
-"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou
 
-"3° D'une licence de tir en cours de validité." ; 
+"3° D'une licence de tir en cours de validité." ;
 
-33° Le premier alinéa de l'article R. 312-61 est ainsi rédigé : 
+33° Le premier alinéa de l'article R. 312-61 est ainsi rédigé :
 
 "L'acquisition de munitions et éléments de munition classés dans les 6° et 7° de la catégorie C se fait sur présentation du
-récépissé de déclaration de l'arme légalement détenue, accompagné : 
+récépissé de déclaration de l'arme légalement détenue, accompagné :
 
-"1° Du permis de chasser accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou 
+"1° Du permis de chasser accompagné d'un titre de validation de l'année en cours ou de l'année précédente ; ou
 
-"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou 
+"2° De l'adhésion à une association de chasse, ou de l'autorisation par les propriétaires à chasser sur leurs terres ; ou
 
-"3° De la licence de tir en cours de validité." ; 
+"3° De la licence de tir en cours de validité." ;
 
-34° A l'article R. 312-74, le 2° est ainsi rédigé : 
+34° A l'article R. 312-74, le 2° est ainsi rédigé :
 
-"2° Neutralisation soit par un établissement désigné par arrêté conjoint du ministre de l'intérieur, du ministre de la
-défense et des ministres chargés de l'industrie et des douanes, soit par un établissement désigné ou un armurier agréé,
-établi sur le territoire français, par arrêté du haut-commissaire de la République en Polynésie française ;" ; 
+"2° Neutralisation soit par un établissement désigné par arrêté conjoint du ministre de l'intérieur et des ministres chargés
+de l'industrie et des douanes, soit par un établissement désigné ou un armurier agréé, établi sur le territoire français, par
+arrêté du haut-commissaire de la République en Polynésie française ;" ;
 
 35° A l'article R. 312-81, les mots : "l'Office national de la chasse et de la faune sauvage, les armuriers, les
 représentants de la Fédération nationale des chasseurs et les représentants de la fédération sportive ayant reçu, du ministre
@@ -47727,97 +50600,115 @@ chargé des sports au titre de l'article L. 131-14 du code du sport, délégatio
 remplacés par les mots : "les armuriers, les autorités locales compétentes pour délivrer et valider les permis de chasser et
 les représentants de la fédération sportive ayant reçu, du ministre chargé des sports au titre de l'article L. 131-14 du code
 du sport, délégation pour la pratique du tir ou du ball-trap ou d'une fédération sportive territoriale compétente en ce
-domaine en application des dispositions applicables localement."; 
+domaine en application des dispositions applicables localement.";
 
-36° A l'article R. 313-3 : 
+36° A l'article R. 313-3 :
 
 a) Au a du 2°, après les mots : "l'Espace économique européen," sont ajoutés les mots : "ou un titre professionnel de la
 Polynésie française reconnu par l'Etat dans les conditions prévues aux articles R. 373-3 à R. 373-9 du code de
-l'éducation," ; 
+l'éducation," ;
 
-b) Le b du 2° est ainsi rédigé : 
+b) Le b du 2° est ainsi rédigé :
 
 "b) Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'armurerie,
-agréé par le haut-commissaire de la République en Polynésie française ;" ; 
+agréé par le haut-commissaire de la République en Polynésie française ;" ;
 
-37° A l'article R. 313-4, le II est ainsi rédigé : 
+37° A l'article R. 313-4, le II est ainsi rédigé :
 
 "II.-Le certificat de qualification professionnelle est élaboré, délivré et agréé dans les conditions suivantes : il est
 élaboré et délivré par la branche professionnelle et agréé, pour une durée maximale de cinq ans, par le haut-commissaire de
-la République en Polynésie française au regard d'un cahier des charges qu'il définit. 
+la République en Polynésie française au regard d'un cahier des charges qu'il définit.
 
-"L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges." ; 
+"L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges." ;
 
-38° A l'article R. 313-9, il est ajouté un 5° ainsi rédigé : 
+38° A l'article R. 313-9, il est ajouté un 5° ainsi rédigé :
 
-"5° Une attestation d'enregistrement au répertoire des entreprises de Polynésie française." ; 
+"5° Une attestation d'enregistrement au répertoire des entreprises de Polynésie française." ;
 
-39° Aux articles R. 313-11 et R. 313-14, il est ajouté un 7° ainsi rédigé : 
+39° Aux articles R. 313-11 et R. 313-14, il est ajouté un 7° ainsi rédigé :
 
-"7° Le numéro d'enregistrement au répertoire des entreprises de Polynésie française ;" ; 
+"7° Le numéro d'enregistrement au répertoire des entreprises de Polynésie française ;" ;
 
-40° A l'article R. 313-20 : 
+40° A l'article R. 313-20 :
 
 a) Au 1°, les mots : "prévues par l'article L. 762-2 du code du commerce ;" sont remplacés par les mots : "prévues par les
-dispositions applicables localement ;" ; 
+dispositions applicables localement ;" ;
 
 b) Au 2°, après les mots : "l'article L. 310-2 du code de commerce", sont ajoutés les mots : "dans sa version applicable en
-Polynésie française" ; 
+Polynésie française" ;
 
 c) Au 2°, les mots : "autres que celles définies par l'article L. 762-2 du code du commerce par le préfet de département du
 lieu où elles se tiennent." sont remplacés par les mots : "autres que des foires et salons par le haut-commissaire de la
-République en Polynésie française." ; 
+République en Polynésie française." ;
 
 41° A l'article R. 313-26, les mots : "en France" et "hors du territoire national" sont remplacés respectivement par les
-mots : "sur le territoire de la République" et "hors du territoire de la République" ; 
+mots : "sur le territoire de la République" et "hors du territoire de la République" ;
 
-42° A l'article 314-10, les mots : "à compter du 6 septembre 2013" sont remplacés par les mots : "à compter de la date
+42° A l'article R. 313-32, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+43° Au c de l'article R. 313-38, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L.
+4741-1 et L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1
+et L. 8114-2, L. 8224-1 à L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail
+localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du
+travail” ;
+
+44° A l'article R. 313-38, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par
+le ministre de l'intérieur.” ;
+
+45° A l'article R. 313-42, il est ajouté un alinéa ainsi rédigé :
+
+“Une copie de ce compte rendu est adressée au haut-commissaire de la République en Polynésie française.”
+
+46° A l'article 314-10, les mots : "à compter du 6 septembre 2013" sont remplacés par les mots : "à compter de la date
 d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité
-intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie" ; 
+intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie" ;
 
-43° Le premier alinéa de l'article R. 314-19 est remplacé par les alinéas suivants : 
+47° Le premier alinéa de l'article R. 314-19 est remplacé par les alinéas suivants :
 
 "Toute personne physique qui transfère en Polynésie française à un armurier, ou à un particulier en présence d'un armurier,
 la propriété d'une arme ou d'un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle
-fixé par l'arrêté prévu à l'article R. 311-6. 
+fixé par l'arrêté prévu à l'article R. 311-6.
 
 "Toute personne physique qui transfère en Polynésie française, à compter de la date d'entrée en vigueur du décret n° 2015-130
 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux
 armes et munitions en Polynésie française et en Nouvelle-Calédonie à un armurier, ou à un particulier en présence d'un
-armurier, la propriété d'une arme ou d'un élément d'arme du 1° de la catégorie D procède à une demande d'enregistrement." ; 
+armurier, la propriété d'une arme ou d'un élément d'arme du 1° de la catégorie D procède à une demande d'enregistrement." ;
 
-44° A l'article R. 315-2 : 
+48° A l'article R. 315-2 :
 
 a) Aux 1° et 2°, les mots : "le permis de chasser délivré en France" sont remplacés par les mots : "un permis de chasser
-délivré sur le territoire de la République" ; 
+délivré sur le territoire de la République" ;
 
 b) Au 3°, après les mots : "pour la pratique du tir", sont ajoutés les mots : "ou par une fédération sportive territoriale
-compétente en ce domaine en application des dispositions applicables localement," ; 
+compétente en ce domaine en application des dispositions applicables localement," ;
 
-c) Il est ajouté un 4° ainsi rédigé : 
+c) Il est ajouté un 4° ainsi rédigé :
 
 "4° L'adhésion à une association de chasse ou l'autorisation de propriétaires à chasser sur leurs terres vaut titre de port
 et de transport légitimes des armes, éléments d'armes et munitions de catégorie C et du 1° de la catégorie D ainsi que des
-armes du a du 2° de la catégorie D, destinés à être utilisés en action de chasse ou pour toute activité qui y est liée." ; 
+armes du a du 2° de la catégorie D, destinés à être utilisés en action de chasse ou pour toute activité qui y est liée." ;
 
-45° A l'article R. 315-6, les mots : "en France" sont remplacés par les mots : "en Polynésie française" ; 
+49° A l'article R. 315-6, les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
 
-46° A l'article R. 315-14, les mots : "transférées au sens du chapitre VI" sont supprimés ; 
+50° A l'article R. 315-14, les mots : "transférées au sens du chapitre VI" sont supprimés ;
 
-47° A l'article R. 315-16, le mot : "ferrée," est supprimé ; 
+51° A l'article R. 315-16, le mot : "ferrée," est supprimé ;
 
-48° A l'article R. 317-3, le 1° est ainsi rédigé : 
+52° A l'article R. 317-3, le 1° est ainsi rédigé :
 
 "1° Toute personne qui transfère son domicile en Polynésie française de ne pas faire la déclaration prévue aux 23° et 31° de
-l'article R. 344-3 ;" ; 
+l'article R. 344-3 ;" ;
 
-49° A l'article R. 317-4, après les mots : "ou du ball-trap,", sont ajoutés les mots : "ou d'une fédération sportive
-territoriale compétente en ce domaine en application des dispositions applicables localement," ; 
+53° A l'article R. 317-4, après les mots : "ou du ball-trap,", sont ajoutés les mots : "ou d'une fédération sportive
+territoriale compétente en ce domaine en application des dispositions applicables localement," ;
 
-50° A l'article R. 317-6 et au 1° de l'article R. 317-7, après les mots : "en cours de validité" sont ajoutés les mots : "ou
-de l'adhésion à une association de chasse ou de l'autorisation par des propriétaires de chasser sur leurs terres." ; 
+54° A l'article R. 317-6 et au 1° de l'article R. 317-7, après les mots : "en cours de validité" sont ajoutés les mots : "ou
+de l'adhésion à une association de chasse ou de l'autorisation par des propriétaires de chasser sur leurs terres." ;
 
-51° A l'article R. 317-12, le 3° est supprimé. 
+55° A l'article R. 317-12, le 3° est supprimé.
 
 [...]
 
@@ -47829,7 +50720,7 @@ de l'adhésion à une association de chasse ou de l'autorisation par des propri�
 
 	**Modifié par**:
 
-	  - Décret n°2016-156 du 15 février 2016 - art. 7
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
 
 	**Cite**:
 
@@ -47884,7 +50775,7 @@ de l'adhésion à une association de chasse ou de l'autorisation par des propri�
 	  - Code de la sécurité intérieure - art. R317-4
 	  - Code de la sécurité intérieure - art. R317-6
 	  - Code de la sécurité intérieure - art. R317-7
-	  - Code de la sécurité intérieure - art. R344-1 (M)
+	  - Code de la sécurité intérieure - art. R344-1 (V)
 
 
 ##### Section 1 : Casinos
@@ -49247,200 +52138,550 @@ remplacée par la référence aux dispositions ayant le même objet applicables 
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 345-3, R. 345-4 et D. 345-5, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
 
-DANS LEUR RÉDACTION 
+Au titre Ier</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</th>
-      </tr>
-      <tr>
-        <td align="center" colspan="2">
+R. 311-1 à R. 311-6</td>
+      <td align="justify">
 
-Au titre Ier 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td>
+R. 312-1</td>
+      <td align="justify">
 
-R. 311-1 à R. 311-6 
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td>
+R. 312-2</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left">
+R. 312-3, R. 312-4</td>
+      <td align="justify">
 
-R. 312-1 à R. 312-48
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td valign="top" align="left">
+R. 312-5</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top">
+R. 312-6 à R. 312-9</td>
+      <td align="justify">
 
-R. 312-50 à R. 312-76
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td valign="top" align="left">
+R. 312-10</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top">
+R. 312-11</td>
+      <td align="justify">
 
-R. 312-77, R. 312-78
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td valign="top" align="left">
+R. 312-12</td>
+      <td align="justify">
 
-Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
-d'armes 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top">
+R. 312-13 à R. 312-21</td>
+      <td align="justify">
 
-R. 312-79
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td valign="top" align="left">
+R. 312-22</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left">
+R. 312-23 à R. 312-26</td>
+      <td align="justify">
 
-R. 312-80, R. 312-81
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td valign="top" align="left">
+R. 312-27</td>
+      <td align="justify">
 
-Résultant du décret n° 2016-156 du 15 février 2016 relatif au fichier national des interdits d'acquisition et de détention
-d'armes 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top">
+R. 312-28 à R. 312-39</td>
+      <td align="justify">
 
-R. 312-82, R. 312-83
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="left" valign="top">
+R. 312-40</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td>R. 313-1 et R. 313-2
+R. 312-41, R. 312-42</td>
+      <td align="justify">
 
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td>R. 313-3 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 313-4 à R. 313-26 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>
+R. 312-43</td>
+      <td align="justify">
 
-R. 314-1 à R. 314-20 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td>
+R. 312-44 à R. 312-46</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td>
+R. 312-47 à R. 312-49</td>
+      <td align="justify">
 
-R. 315-1 à R. 315-18 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td>
+R. 312-50 à R. 312-53</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td>
+R. 312-54</td>
+      <td align="justify">
 
-R. 317-1 à R. 317-14 
+Résultant du décret 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td>
+R. 312-55 à R. 312-73</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center" colspan="2">
+R. 312-74</td>
+      <td align="justify">
 
-Au titre II 
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+R. 312-75, R. 312-76</td>
+      <td align="justify">
 
-R. 321-21, R. 321-26 
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td>
+R. 312-77</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-    </tbody>
-  </table>
+R. 312-78</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-156 du 15 février 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 312-79</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 312-80, R. 312-81</td>
+      <td align="left">
+
+Résultant du décret n° 2016-156 du 15 février 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 312-82, R. 312-83</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 313-1 et R. 313-2</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-4 à R. 313-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-7-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-8 à R. 313-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-15-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-17, R. 313-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-19</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-20 à R. 313-22</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-23, R. 313-24</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 313-25 à R. 313-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-1, R. 314-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-4 à R. 314-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-12 à R. 314-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 314-17 à R. 314-20</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-1 à R. 315-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-5 à R. 315-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-15, R. 315-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 315-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 316-29 à R. 316-50</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-1 à R. 317-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-6 à R. 317-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-8-1 et R. 317-8-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-9-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-10 à R. 317-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 317-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Au titre II</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-21, R. 321-26</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -49450,7 +52691,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2016-515 du 26 avril 2016 - art. 59
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
 
 	**Cite**:
 
@@ -49466,7 +52707,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R345-3 (V)
-	  - Code de la sécurité intérieure - art. R345-4 (VD)
+	  - Code de la sécurité intérieure - art. R345-4 (V)
 
 
 ###### Article R345-2
@@ -49541,21 +52782,29 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 ###### Article R345-3
 
-Pour l'application des dispositions énumérées à l'article R. 345-1 en Nouvelle-Calédonie : 
+Pour l'application des dispositions énumérées à l'article R. 345-1 en Nouvelle-Calédonie :
 
 1° Les références au préfet de département et au préfet sont remplacées par la référence au haut-commissaire de la République
-en Nouvelle-Calédonie ; 
+en Nouvelle-Calédonie ;
 
 2° Les références à la préfecture et aux services préfectoraux sont remplacées par la référence au haut-commissariat de la
-République en Nouvelle-Calédonie ; 
+République en Nouvelle-Calédonie ;
 
 3° La référence au commandant du groupement de gendarmerie départementale est remplacée par la référence au commandant de la
-gendarmerie nationale pour la Nouvelle-Calédonie ; 
+gendarmerie nationale pour la Nouvelle-Calédonie ;
 
-4° La référence à la cour d'appel est remplacée par la référence à la cour d'appel de Nouméa ; 
+4° La référence à la cour d'appel est remplacée par la référence à la cour d'appel de Nouméa ;
 
 5° La référence à l'agence régionale de santé est remplacée par la référence aux autorités locales compétentes en matière de
-santé.
+santé ;
+
+6° Les références au règlement (UE) n° 258/2012 du Parlement européen et du Conseil du 14 mars 2012 portant application de
+l'article 10 du protocole des Nations Unies contre la fabrication et le trafic illicite d'armes à feu, de leurs pièces,
+éléments et munitions, additionnel à la convention des Nations Unies contre la criminalité transnationale organisée
+(protocole relatif aux armes à feu) et instaurant des autorisations d'exportation, ainsi que des mesures concernant
+l'importation et le transit d'armes à feu, de leurs pièces, éléments et munitions, ainsi que les références au règlement (CE)
+n° 2913/92 du 12 octobre 1992 établissant le code des douanes communautaire modifié, sont remplacées par les références au
+droit applicable localement en vertu de ces règlements.
 
 **Liens relatifs à cet article**
 
@@ -49565,176 +52814,174 @@ santé.
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
 
 	**Cité par**:
 
-	  - Code de la sécurité intérieure - art. R345-1 (M)
+	  - Code de la sécurité intérieure - art. R345-1 (V)
 
 
 ###### Article R345-4
 
-Pour l'application des dispositions du titre Ier énumérées à l'article R. 345-1 en Nouvelle-Calédonie : 
+Pour l'application des dispositions du titre Ier énumérées à l'article R. 345-1 en Nouvelle-Calédonie :
 
-1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé : 
+1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé :
 
 " Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si
-elles sont conformes aux caractéristiques techniques définies par arrêté conjoint des ministres de la défense et de
-l'intérieur et des ministres chargés de l'industrie et des douanes constatées dans un procès-verbal d'expertise effectuée
-soit par un établissement technique désigné par le ministre de la défense, soit par un établissement désigné ou un armurier
-agréé, établi sur le territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie, dans les cas
-et les conditions déterminés par l'arrêté interministériel prévu ci-dessus. " ; 
+elles sont conformes aux caractéristiques techniques définies par arrêté conjoint du ministre de l'intérieur et des ministres
+chargés de l'industrie et des douanes constatées dans un procès-verbal d'expertise effectuée soit par un établissement
+technique désigné par le ministre de l'intérieur, soit par un établissement désigné ou un armurier agréé, établi sur le
+territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie, dans les cas et les conditions
+déterminés par l'arrêté interministériel prévu ci-dessus. " ;
 
-2° A l'article R. 312-1 : 
+2° A l'article R. 312-1 :
 
-a) Le 1° est remplacé par les dispositions suivantes : 
+a) Le 1° est remplacé par les dispositions suivantes :
 
 " 1° Sur présentation du permis de chasser délivré sur le territoire de la République ou à l'étranger au nom du mineur, ou de
 toute autre pièce tenant lieu de permis de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de
-l'année précédente ; " ; 
+l'année précédente ; " ;
 
 b) Au 2°, après les mots : " ou du ball trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale
-compétente en ce domaine en application des dispositions applicables localement. " ; 
+compétente en ce domaine en application des dispositions applicables localement. " ;
 
-3° L'article R. 312-2 est ainsi rédigé : 
+3° L'article R. 312-2 est ainsi rédigé :
 
 " Art. R. 312-2.-Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-38 à R. 312-40, R.
 312-44, R. 312-65 et au 20° de l'article R. 345-4 sont délivrées, dans chaque cas, par le haut-commissaire de la République
-en Nouvelle-Calédonie. En outre : 
+en Nouvelle-Calédonie. En outre :
 
-" 1° Pour les autorisations portant sur les matériels de la catégorie A2 susceptibles d'être déclassés, l'autorisation du
-haut-commissaire est délivrée dans les conditions prévues par un arrêté conjoint des ministres de la défense et de
-l'intérieur ; 
+" 1° (supprimé)
 
 " 2° Pour les autorisations mentionnées à l'article R. 312-27, lorsque le matériel de guerre est classé au titre de la
 législation nationale des monuments historiques, la décision ne peut être prise qu'après avis du ministre chargé de la
-culture. " ; 
+culture. " ;
 
 4° A l'article R. 312-3, après les mots : " ou de leurs éléments ", sont ajoutés les mots : " sur le territoire de la
 Nouvelle-Calédonie " et les mots : " au préfet du lieu de domicile ou, pour les personnes ne possédant pas la nationalité
 française, du lieu de leur résidence " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-
-Calédonie " ; 
+Calédonie " ;
 
-5° A l'article R. 312-5 : 
+5° A l'article R. 312-5 :
 
 a) Aux b et c du 4°, après les mots : " pour la pratique du tir ", sont ajoutés les mots : " ou d'une fédération sportive
-territoriale compétente en ce domaine en application des dispositions applicables localement. " ; 
+territoriale compétente en ce domaine en application des dispositions applicables localement. " ;
 
 b) Au a du 7°, les mots : " certificat de résidence " et " sur le territoire français " sont remplacés respectivement par les
-mots : " titre de séjour " et " sur le territoire de la Nouvelle-Calédonie " ; 
+mots : " titre de séjour " et " sur le territoire de la Nouvelle-Calédonie " ;
 
 c) Au a du 8°, les mots : " avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
-l'autorisation " sont supprimés ; 
+l'autorisation " sont supprimés ;
 
 d) Au 10°, après les mots : " Fédération française de tir ", sont ajoutés les mots : " ou d'une fédération sportive
-territoriale de tir. " ; 
+territoriale de tir. " ;
 
-6° A l'article R. 312-6, le 3° est supprimé ; 
+6° A l'article R. 312-6, le 3° est supprimé ;
 
 7° A l'article R. 312-8, les mots : " de santé mentionné à l'article L. 3222-1 du code de la santé publique " et à l'article
 R. 312-57, les mots : " de santé habilité en vertu des dispositions de l'article L. 3222-1 du code de la santé publique ",
 sont remplacés par les mots : " habilité à soigner les personnes atteintes de troubles mentaux conformément à la
-réglementation applicable localement " ; 
+réglementation applicable localement " ;
 
-8° A l'article R. 312-12, les mots : " trois mois " sont remplacés par les mots : " six mois " ; 
+8° (supprimé)
 
-9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 345-4 ; 
+9° A l'article R. 312-13, la référence à l'article R. 312-2 est remplacée par la référence au 3° de l'article R. 345-4 ;
 
 10° A l'article R. 312-16, les mots : " R. 312-37 à R. 312-41 et R. 312-44 " sont remplacés par les mots : " R. 312-38 à R.
-312-41, R. 312-44 et au 20° de l'article R. 345-4 " ; 
+312-41, R. 312-44 et au 20° de l'article R. 345-4 " ;
 
 11° A l'article R. 312-18, les mots : " la décision préfectorale " sont remplacés par les mots : " la décision du haut-
-commissaire de la République en Nouvelle-Calédonie " ; 
+commissaire de la République en Nouvelle-Calédonie " ;
 
-12° A l'article R. 312-19 : 
+12° A l'article R. 312-19 :
 
-a) Le 3° est supprimé ; 
+a) Le 3° est supprimé ;
 
 b) Au 4° les mots : " dans le respect des dispositions de l'article L. 622-16 du code du patrimoine si les matériels sont
-classés au titre des monuments historiques " sont supprimés ; 
+classés au titre des monuments historiques " sont supprimés ;
 
 13° Au 4° de l'article R. 312-21, à l'article R. 312-70 et au 1° de l'article R. 313-6, après les mots : " en application de
-l'article 425 du code civil ", sont ajoutés les mots : " ou des dispositions applicables localement ayant le même objet " ; 
+l'article 425 du code civil ", sont ajoutés les mots : " ou des dispositions applicables localement ayant le même objet " ;
 
 14° A l'article R. 312-22, après les mots : " les administrations ou services publics ", sont ajoutés les mots : " en
-Nouvelle-Calédonie " ; 
+Nouvelle-Calédonie " ;
 
-15° A l'article R. 312-24 : 
+15° A l'article R. 312-24 :
 
 a) Au premier alinéa, après les mots : " agents des administrations publiques ", sont ajoutés les mots : " en Nouvelle-
-Calédonie " ; 
+Calédonie " ;
 
 b) Aux deuxième et quatrième alinéas, après les mots : " ou services publics ", sont ajoutés les mots : " en Nouvelle-
-Calédonie " ; 
+Calédonie " ;
 
 c) Au troisième alinéa, après les mots : " les sous-officiers d'active ", sont ajoutés les mots : " affectés en Nouvelle-
-Calédonie " ; 
+Calédonie " ;
 
-d) Au quatrième alinéa, après : " ou le service public ", sont ajoutés les mots : " en Nouvelle-Calédonie " ; 
+d) Au quatrième alinéa, après : " ou le service public ", sont ajoutés les mots : " en Nouvelle-Calédonie " ;
 
-16° A l'article R. 312-25 : 
+16° A l'article R. 312-25 :
 
-a) Après les mots : " et agents ", sont ajoutés les mots : " de l'Etat en Nouvelle-Calédonie " ; 
+a) Après les mots : " et agents ", sont ajoutés les mots : " de l'Etat en Nouvelle-Calédonie " ;
 
-b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé : 
+b) Après le premier alinéa, il est inséré un nouvel alinéa ainsi rédigé :
 
 " Les catégories de fonctionnaires et agents des administrations ou services publics autres que ceux de l'Etat en Nouvelle-
 Calédonie appelés à bénéficier des autorisations mentionnées à l'article R. 312-22 et aux premier et deuxième alinéas de
-l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. " ; 
+l'article R. 312-24 sont déterminées par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. " ;
 
 c) Au dernier alinéa, les mots : " le préfet du département où les intéressés exercent leurs fonctions " sont remplacés par
-les mots : " le haut-commissaire de la République en Nouvelle-Calédonie " ; 
+les mots : " le haut-commissaire de la République en Nouvelle-Calédonie " ;
 
 17° Aux articles R. 312-26 et R. 312-64, les mots : " les théâtres nationaux " sont remplacés par les mots : " les
-établissements publics de spectacle " ; 
+établissements publics de spectacle " ;
 
 18° A l'article R. 312-34, les mots : " le préfet du département du lieu où l'expert exerce son activité " et les mots : " le
 préfet du département du lieu où il exerce son activité " sont remplacés par les mots : " le haut-commissaire de la
-République en Nouvelle-Calédonie " ; 
+République en Nouvelle-Calédonie " ;
 
-19° L'article R. 312-36 est ainsi rédigé : 
+19° L'article R. 312-36 est ainsi rédigé :
 
 " Art. R. 312-36.-L'expert informe le haut-commissaire de la République en Nouvelle-Calédonie en cas de changement du lieu de
 son activité et, le cas échéant, le représentant de l'Etat dans le département de métropole ou d'outre-mer ou dans la
-collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu. " ; 
+collectivité d'outre-mer de son nouveau domicile dans le délai d'un mois après changement de ce lieu. " ;
 
-20° L'article R. 312-37 est ainsi rédigé : 
+20° L'article R. 312-37 est ainsi rédigé :
 
 " Art. R. 312-37.-Les personnes exerçant l'activité mentionnée au 2° de l'article L. 611-1 sont autorisées, en application de
 l'article L. 613-9, à porter une arme du 1° de la catégorie B ainsi que les munitions correspondantes classées au 10° de la
-catégorie B, lorsque le transport de fonds est effectué au moyen d'un véhicule blindé. 
+catégorie B, lorsque le transport de fonds est effectué au moyen d'un véhicule blindé.
 
-" La demande d'autorisation de port d'arme des convoyeurs est présentée par l'entreprise qui les emploie. 
+" La demande d'autorisation de port d'arme des convoyeurs est présentée par l'entreprise qui les emploie.
 
 " Tout véhicule blindé est en outre équipé d'une arme complémentaire du f du 2° de la catégorie B de l'article 2 ainsi que
-des munitions correspondantes classées au 8° de la catégorie C. 
+des munitions correspondantes classées au 8° de la catégorie C.
 
-" L'équipage d'un véhicule banalisé servant au transport de billets, de bijoux ou de métaux précieux n'est pas armé. 
+" L'équipage d'un véhicule banalisé servant au transport de billets, de bijoux ou de métaux précieux n'est pas armé.
 
-" Le dossier de demande d'autorisation comporte : 
+" Le dossier de demande d'autorisation comporte :
 
-" 1° La copie d'une pièce d'identité en cours de validité ; 
+" 1° La copie d'une pièce d'identité en cours de validité ;
 
-" 2° Le justificatif de l'aptitude professionnelle ; 
+" 2° Le justificatif de l'aptitude professionnelle ;
 
 " 3° Le numéro de la carte professionnelle attribuée par la commission locale d'agrément et de contrôle de Nouvelle-
-Calédonie ; 
+Calédonie ;
 
 " 4° Un certificat médical datant de moins de quinze jours, placé sous pli fermé et attestant que l'état de santé physique et
-psychique du convoyeur n'est pas incompatible avec le port d'une arme ; 
+psychique du convoyeur n'est pas incompatible avec le port d'une arme ;
 
 " L'autorisation de port d'arme est délivrée par le haut-commissaire de la République en Nouvelle-Calédonie pour une durée de
-cinq ans ; 
+cinq ans ;
 
 " L'autorisation de port d'arme devient caduque en cas de retrait de la carte professionnelle ou si son titulaire cesse
-d'être employé comme convoyeur par l'entreprise qui a présenté la demande d'autorisation. " ; 
+d'être employé comme convoyeur par l'entreprise qui a présenté la demande d'autorisation. " ;
 
-21° A l'article R. 312-40 : 
+21° A l'article R. 312-40 :
 
 a) Au 1° après les mots : " ou du ball-trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale compétente
-en ce domaine en application des dispositions applicables localement, " ; 
+en ce domaine en application des dispositions applicables localement, " ;
 
-b) Le premier alinéa du 2° est ainsi rédigé : 
+b) Le premier alinéa du 2° est ainsi rédigé :
 
 " 2° Les personnes majeures et les tireurs sélectionnés de moins de dix-huit ans participant à des concours internationaux,
 membres des associations mentionnées au 1°, titulaires du carnet de tir conforme aux dispositions de l'article R. 312-43 du
@@ -49742,82 +52989,102 @@ présent code, licenciés d'une fédération ayant reçu du ministre chargé des
 sport délégation pour la pratique du tir ou d'une fédération sportive territoriale compétente en ce domaine en application
 des dispositions applicables localement, et titulaires d'un avis favorable de cette fédération, dans la limite de huit armes
 mentionnées au 1°, 2°, 4° et 9° de la catégorie B. Ces armes ne peuvent être utilisées que dans un stand de tir déclaré selon
-la réglementation localement applicable. " ; 
+la réglementation localement applicable. " ;
 
 c) Au deuxième alinéa du 2°, après les mots : " la pratique du tir ", sont ajoutés les mots : ", ou par une fédération
-sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ; 
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ;
 
-d) Au sixième alinéa du 2°, les mots : " par arrêté conjoint des ministres de la défense et de l'intérieur et du ministre
-chargé des sports " sont remplacés par les mots : " par arrêté du haut-commissaire de la République en Nouvelle-Calédonie.
-" ; 
+d) Au sixième alinéa du 2°, les mots : " par arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports "
+sont remplacés par les mots : " par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. " ;
 
-e) Le dernier alinéa du 2° est supprimé ; 
+e) Le dernier alinéa du 2° est supprimé ;
 
 22° Au deuxième alinéa de l'article R. 312-43, les mots : " ou de gendarmerie. " sont remplacés par les mots : ", de
-gendarmerie ou des douanes. " ; 
+gendarmerie ou des douanes. " ;
 
-23° A l'article R. 312-47 : 
+23° A l'article R. 312-47 :
 
-a) Le 2° est ainsi rédigé : 
+a) Le 1° est complété par la phrase suivante :
 
-" 2° Des articles R. 312-26 et R. 312-30 : 1 000 cartouches par arme ; " ; 
+“Le recomplètement de ces stocks est soumis à autorisation dans les conditions énoncées à l'article R. 312-48 ;” ;
 
-b) Il est ajouté un 3° ainsi rédigé : 
+b) Les 3° à 6° sont remplacés par un 3° ainsi rédigé :
 
-" 3° Des articles R. 312-40 et R. 312-41 : sous réserve de la détention d'un nombre maximal de 1 000 munitions par personne,
-quels que soient le nombre et la catégorie des armes détenues, les détenteurs d'armes mentionnés à l'article R. 312-40
-peuvent être autorisés à acquérir et détenir des munitions pour recompléter les quantités indiquées ci-dessus dans les
-conditions fixées à l'article R. 312-48. " ; 
+“3° 1 000 cartouches par personne au titre des articles R. 312-40 et R. 312-41, quels que soient le nombre et la catégorie
+des armes détenues. Les détenteurs d'armes mentionnés à l'article R. 312-40 peuvent être autorisés à acquérir et détenir des
+munitions pour recompléter les quantités indiquées ci-dessus dans les conditions fixées à l'article R. 312-48.”
 
-24° A l'article R. 312-48, les mots : " au préfet du lieu de domicile " sont remplacés par les mots : " au haut-commissaire
-de la République en Nouvelle-Calédonie " et les mots : " le préfet qui a reçu la demande " sont remplacés par les mots : " le
-haut-commissaire de la République en Nouvelle-Calédonie " ; 
+24° L'article R. 312-48 est ainsi rédigé :
 
-25° L'article R. 312-50 est ainsi rédigé : 
+Art. R. 312-48. - “Le fabricant ou commerçant à qui est remise cette autorisation doit, après avoir constaté l'identité de
+l'acquéreur :
+
+“- se faire présenter par celui-ci l'autorisation ou le récépissé d'acquisition et de détention d'armes et de munitions
+(volet n° 1) dont il doit être titulaire, porter au verso de ladite autorisation la nature et le nombre des munitions cédées
+ainsi que la date de la cession, apposer son timbre commercial et sa signature ;
+
+“- inscrire sur l'autorisation de recomplètement de stocks ou le récépissé d'acquisition de munitions les mentions qu'il lui
+incombe d'y porter ;
+
+“- inscrire la cession sur le registre spécial prévu par l'article R. 313-40 ;
+
+“- rendre au titulaire l'autorisation ou le récépissé d'acquisition et de détention d'armes et de munitions (volet n° 1) et
+adresser à l'autorité préfectorale l'autorisation de recomplètement de stocks ou le récépissé d'acquisition de munitions
+dûment complété ;
+
+“Les autorisations d'acquisition et de détention d'armes accordées aux entreprises mentionnées à l'article R. 312-26 valent
+autorisation d'acquisition et de détention, dans les limites mentionnées au 2° de l'article R. 312-47, pour des munitions
+inertes ou à blanc.”
+
+25° L'article R. 312-49 est ainsi rédigé :
+
+Art. R. 312-49. - i) Au second alinéa du 38°, les mots : , du ministre de la défense sont supprimés ;
+
+26° L'article R. 312-50 est ainsi rédigé :
 
 " Art. R. 312-50.-Lorsqu'ils transfèrent leur domicile en Nouvelle-Calédonie, les titulaires d'autorisation d'acquisition et
 de détention doivent déclarer au haut-commissaire de la République en Nouvelle-Calédonie le nombre et la nature des armes et
-éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+éléments d'armes des catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
 " Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
 d'outre-mer, les titulaires d'autorisation d'acquisition et de détention en Nouvelle-Calédonie doivent déclarer au préfet du
 département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes des
-catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
-" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement :
 
 " 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
 applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
 de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
-Calédonie ; 
+Calédonie ;
 
-" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ;
 
-26° A l'article R. 312-52 : 
+27° A l'article R. 312-52 :
 
 a) Au deuxième alinéa, les mots : " prévues aux articles R. 312-53 à R. 312-58 " sont remplacés par les mots : " prévues aux
-articles R. 312-54 à R. 312-58 et au 27° de l'article R. 345-4 " ; 
+articles R. 312-54 à R. 312-58 et au 27° de l'article R. 345-4 " ;
 
-b) Le troisième alinéa est ainsi rédigé : 
+b) Le troisième alinéa est ainsi rédigé :
 
 " Les armes et leurs éléments des catégories C et D peuvent être détenus par des mineurs s'ils ont plus de seize ans, y sont
 autorisés par la personne exerçant l'autorité parentale, sauf si celle-ci est inscrite au fichier national des interdits
 d'acquisition et de détention d'armes, et, hormis pour les armes des d et g du 2° de la catégorie D, sont titulaires d'un
 permis de chasser, délivré sur le territoire de la République ou à l'étranger ou de toute autre pièce tenant lieu de permis
-de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente. " ; 
+de chasser étranger, accompagné d'un titre de validation de l'année en cours ou de l'année précédente. " ;
 
 c) Aux quatrième et cinquième alinéas, après les mots : " ou du ball-trap ", sont ajoutés les mots : ", ou d'une fédération
-sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ; 
+sportive territoriale compétente en ce domaine en application des dispositions applicables localement " ;
 
-d) Avant le cinquième alinéa, il est inséré un alinéa ainsi rédigé : 
+d) Avant le cinquième alinéa, il est inséré un alinéa ainsi rédigé :
 
 " Le nombre total d'armes de catégorie C et du 1° de la catégorie D détenues par les mineurs visés à l'alinéa précédent est
-limité à quatre. " ; 
+limité à quatre. " ;
 
 e) Au dernier alinéa, les mots : " en application du code du sport. " sont remplacés par les mots : " selon la réglementation
-localement applicable. " ; 
+localement applicable. " ;
 
-27° Le premier alinéa de l'article R. 312-53 est ainsi rédigé : 
+28° Le premier alinéa de l'article R. 312-53 est ainsi rédigé :
 
 " L'acquisition par des personnes majeures des armes et de leurs éléments de la catégorie C et du 1° de la catégorie D est
 subordonnée à la présentation d'un permis de chasser délivré sur le territoire de la République ou à l'étranger ou de tout
@@ -49825,200 +53092,218 @@ autre pièce tenant lieu de permis de chasser étranger, accompagné d'un titre 
 précédente ou, dans les conditions prévues au 4° de l'article R. 312-5 du présent code, d'une licence en cours de validité
 d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du ministre chargé des
 sports pour la pratique du tir ou du ball-trap, ou d'une fédération sportive territoriale compétente en ce domaine en
-application des dispositions applicables localement. " ; 
+application des dispositions applicables localement. " ;
 
-28° Au 1° de l'article R. 312-54, les mots : " lorsqu'elle est faite en vue du transfert vers un autre Etat membre de l'Union
+29° Au 1° de l'article R. 312-54, les mots : " lorsqu'elle est faite en vue du transfert vers un autre Etat membre de l'Union
 européenne ou de l'exportation vers un pays tiers. " sont remplacés par les mots : " lorsqu'elle est faite en vue de
-l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers. " ; 
+l'exportation vers la métropole, vers un Etat membre de l'Union européenne ou vers un pays tiers. " ;
 
-29° Au premier alinéa de l'article R. 312-55, les mots : " au préfet du lieu de domicile " et les mots : " au préfet du
+30° Au premier alinéa de l'article R. 312-55, les mots : " au préfet du lieu de domicile " et les mots : " au préfet du
 département du domicile du déclarant ou du demandeur " sont remplacés par les mots : " au haut-commissaire de la République
-en Nouvelle-Calédonie " ; 
+en Nouvelle-Calédonie " ;
 
-30° Aux articles R. 312-54, R. 312-55, R. 312-56, R. 312-72, R. 313-22 et R. 313-24, la référence au premier alinéa de
-l'article R. 312-53 est remplacée par la référence au 27° de l'article R. 345-4 ; 
+31° Aux articles R. 312-54, R. 312-55, R. 312-56, R. 312-72, R. 313-22 et R. 313-24, la référence au premier alinéa de
+l'article R. 312-53 est remplacée par la référence au 27° de l'article R. 345-4 ;
 
-31° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes : 
+32° Le premier alinéa de l'article R. 312-56 est remplacé par les dispositions suivantes :
 
 " Toute personne physique qui acquiert en Nouvelle-Calédonie auprès d'un armurier ou d'un particulier en présence d'un
 armurier une arme ou un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle fixé par
-l'arrêté prévu à l'article R. 311-6. 
+l'arrêté prévu à l'article R. 311-6.
 
 " Toute personne physique qui acquiert en Nouvelle-Calédonie, à compter de la date d'entrée en vigueur du décret n° 2015-130
 du 5 février 2015, auprès d'un armurier ou d'un particulier en présence d'un armurier une arme ou un élément d'arme du 1° de
-la catégorie D procède à une demande d'enregistrement. " ; 
+la catégorie D procède à une demande d'enregistrement. " ;
 
-32° A l'article R. 312-58 : 
+33° A l'article R. 312-58 :
 
-a) Les mots : ", de spectacles ou à des théâtres nationaux " sont remplacés par les mots : " ou de spectacles " ; 
+a) Les mots : ", de spectacles ou à des théâtres nationaux " sont remplacés par les mots : " ou de spectacles " ;
 
 b) Les mots : " du préfet de département du lieu d'implantation sur site " sont remplacés par les mots : " du haut-
-commissaire de la République en Nouvelle-Calédonie " ; 
+commissaire de la République en Nouvelle-Calédonie " ;
 
-33° L'article R. 312-59 est ainsi rédigé : 
+34° L'article R. 312-59 est ainsi rédigé :
 
 " Art. R. 312-59.-Lorsqu'ils transfèrent leur domicile en Nouvelle-Calédonie, les titulaires d'un récépissé de déclaration ou
 d'enregistrement doivent déclarer au haut-commissaire de la République en Nouvelle-Calédonie le nombre et la nature des armes
-et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent. 
+et éléments d'armes des catégories B, C et du 1° de la catégorie D qu'ils détiennent.
 
 " Lorsqu'ils transfèrent leur domicile dans un département de métropole ou d'outre-mer ou dans une autre collectivité
 d'outre-mer, les titulaires d'un récépissé de déclaration ou d'enregistrement en Nouvelle-Calédonie doivent déclarer au
 préfet du département ou au représentant de l'Etat dans la collectivité le nombre et la nature des armes et éléments d'armes
-des catégories B, C et 1° de la catégorie D qu'ils détiennent. 
+des catégories B, C et 1° de la catégorie D qu'ils détiennent.
 
-" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement : 
+" Ces dispositions ne s'appliquent pas aux armes soumises à enregistrement :
 
 " 1° Acquises et détenues en Polynésie française ou en Nouvelle-Calédonie conformément à la réglementation localement
 applicable avant la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code
 de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-
-Calédonie ; 
+Calédonie ;
 
-" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ; 
+" 2° Acquises et détenues sur le reste du territoire national, avant le 1er décembre 2011. " ;
 
-34° L'article R. 312-60 est ainsi rédigé : 
+35° L'article R. 312-60 est ainsi rédigé :
 
 " Art. R. 312-60.-L'acquisition de munitions et éléments de munition classés dans le 8° de la catégorie C et dans le c du 1°
 de la catégorie D se fait sur présentation du récépissé de déclaration ou d'enregistrement de l'arme légalement détenue et
 d'un permis de chasser délivré sur le territoire de la République ou à l'étranger, ou de toute autre pièce tenant lieu de
 permis de chasser étranger accompagné d'un titre de validation de l'année en cours ou de l'année précédente ou de la licence
-de tir en cours de validité. " ; 
+de tir en cours de validité. " ;
 
-35° L'article R. 312-61 est ainsi rédigé : 
+36° L'article R. 312-61 est ainsi rédigé :
 
 " Art. R. 312-61.-L'acquisition des munitions et éléments de munition classés dans les 6° et 7° de la catégorie C se fait sur
 présentation du récépissé de déclaration de l'arme légalement détenue et d'un permis de chasser accompagné d'un titre de
-validation de l'année en cours ou de l'année précédente ou de la licence de tir en cours de validité. " ; 
+validation de l'année en cours ou de l'année précédente ou de la licence de tir en cours de validité. " ;
 
-36° L'article R. 312-63 est ainsi rédigé : 
+37° L'article R. 312-63 est ainsi rédigé :
 
 " Art. R. 312-63.-Nul ne peut détenir plus de 1 000 munitions quel que soit le nombre d'armes détenues de catégorie C et du
-1° de la catégorie D. 
+1° de la catégorie D.
 
 " Nul ne peut détenir de munitions classées dans les 6°, 7° et 8° de la catégorie C ou dans le c du 1° de la catégorie D sans
-détenir l'arme correspondante. 
+détenir l'arme correspondante.
 
 " Nul ne peut détenir plus de 150 munitions du c du 1° de la catégorie D à projectiles multiples, dont le diamètre est
-supérieur à 5 mm, ou à projectile unique. " ; 
+supérieur à 5 mm, ou à projectile unique. " ;
 
-37° A l'article R. 312-74, le 2° est ainsi rédigé : 
+38° A l'article R. 312-74, le 2° est ainsi rédigé :
 
 " 2° Neutralisation soit par un établissement désigné par arrêté conjoint du ministre de l'intérieur, du ministre de la
 défense et des ministres chargés de l'industrie et des douanes, soit par un établissement désigné ou un armurier agréé,
-établi sur le territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie ; " ; 
+établi sur le territoire français, par arrêté du haut-commissaire de la République en Nouvelle-Calédonie ; " ;
 
-38° A l'article R. 312-81, les mots : "l'Office national de la chasse et de la faune sauvage, les armuriers, les
+39° A l'article R. 312-81, les mots : "l'Office national de la chasse et de la faune sauvage, les armuriers, les
 représentants de la Fédération nationale des chasseurs et les représentants de la fédération sportive ayant reçu, du ministre
 chargé des sports au titre de l'article L. 131-14 du code du sport, délégation pour la pratique du tir ou du ball-trap" sont
 remplacés par les mots : "les armuriers, les autorités locales compétentes pour délivrer et valider les permis de chasser et
 les représentants de la fédération sportive ayant reçu, du ministre chargé des sports au titre de l'article L. 131-14 du code
 du sport, délégation pour la pratique du tir ou du ball-trap ou d'une fédération sportive compétente en ce domaine en
-application des dispositions applicables localement." ; 
+application des dispositions applicables localement." ;
 
-39° A l'article R. 313-3 : 
+40° A l'article R. 313-3 :
 
 a) Au a du 2°, après les mots : " l'Espace économique européen, ", sont ajoutés les mots : " ou un titre professionnel de la
 Nouvelle-Calédonie reconnu par l'Etat dans les conditions prévues aux articles R. 374-6 à R. 374-12 du code de l'éducation,
-" ; 
+" ;
 
-b) Le b du 2° est ainsi rédigé : 
+b) Le b du 2° est ainsi rédigé :
 
 " b) Soit d'un certificat de qualification professionnelle élaboré et délivré par la branche professionnelle de l'armurerie,
 agréé par le haut-commissaire de la République en Nouvelle-Calédonie et inscrit au répertoire de la certification
-professionnelle de la Nouvelle-Calédonie ; " ; 
+professionnelle de la Nouvelle-Calédonie ; " ;
 
-40° A l'article R. 313-4, le II est ainsi rédigé : 
+41° A l'article R. 313-4, le II est ainsi rédigé :
 
 " II.-Le certificat de qualification professionnelle est élaboré, délivré et agréé dans les conditions suivantes : il est
 élaboré et délivré par la branche professionnelle et agréé, pour une durée maximale de cinq ans, par le haut-commissaire de
-la République en Nouvelle-Calédonie au regard d'un cahier des charges qu'il définit. 
+la République en Nouvelle-Calédonie au regard d'un cahier des charges qu'il définit.
 
-" L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges. " ; 
+" L'agrément peut être retiré dans les mêmes formes si la formation dispensée ne respecte pas le cahier des charges. " ;
 
-41° A l'article R. 313-20 : 
+42° A l'article R. 313-20 :
 
 a) Au 1°, les mots : " prévues par l'article L. 762-2 du code du commerce ; " sont remplacés par les mots : " prévues par les
-dispositions applicables localement ; " ; 
+dispositions applicables localement ; " ;
 
 b) Au 2°, après les mots : " l'article L. 310-2 du code du commerce " sont ajoutés les mots : " dans sa version applicable en
-Nouvelle-Calédonie " ; 
+Nouvelle-Calédonie " ;
 
 c) Au 2°, les mots : " autres que celles définies par l'article L. 762-2 du code de commerce par le préfet de département du
 lieu où elles se tiennent. " sont remplacés par les mots : " autres que des foires et des salons par le haut-commissaire de
-la République en Nouvelle-Calédonie. " ; 
+la République en Nouvelle-Calédonie. " ;
 
-42° A l'article R. 313-26, les mots : " en France " et " hors du territoire national " sont remplacés respectivement par les
-mots : " sur le territoire de la République " et " hors du territoire de la République " ; 
+43° A l'article R. 313-26, les mots : " en France " et " hors du territoire national " sont remplacés respectivement par les
+mots : " sur le territoire de la République " et " hors du territoire de la République " ;
 
-43° A l'article 314-10, les mots : " à compter du 6 septembre 2013 " sont remplacés par les mots : " à compter de la date
+44° A l'article R. 313-32, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+45° Au c de l'article R. 313-38, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L.
+4741-1 et L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1
+et L. 8114-2, L. 8224-1 à L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail
+localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du
+travail” ;
+
+46° A l'article R. 313-38, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Nouvelle-Calédonie est informé des décisions de retrait d'autorisation prises par le
+ministre de l'intérieur.” ;
+
+47° A l'article R. 313-42, il est ajouté un alinéa ainsi rédigé :
+
+“Une copie de ce compte rendu est adressée au haut-commissaire de la République en Nouvelle-Calédonie.”
+
+48° A l'article 314-10, les mots : " à compter du 6 septembre 2013 " sont remplacés par les mots : " à compter de la date
 d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité
-intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie " ; 
+intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie " ;
 
-44° Le premier alinéa de l'article R. 314-19 est remplacé par les dispositions suivantes : 
+49° Le premier alinéa de l'article R. 314-19 est remplacé par les dispositions suivantes :
 
 " Toute personne physique qui transfère en Nouvelle-Calédonie à un armurier, ou à un particulier en présence d'un armurier,
 la propriété d'une arme ou d'un élément d'arme de la catégorie C procède à une déclaration sur l'imprimé conforme au modèle
-fixé par l'arrêté prévu à l'article R. 311-6. 
+fixé par l'arrêté prévu à l'article R. 311-6.
 
 " Toute personne physique qui transfère en Nouvelle-Calédonie à compter de la date d'entrée en vigueur du décret n° 2015-130
 du 5 février 2015, à un armurier, ou à un particulier en présence d'un armurier, la propriété d'une arme ou un élément d'arme
-du 1° de la catégorie D procède à une demande d'enregistrement. " ; 
+du 1° de la catégorie D procède à une demande d'enregistrement. " ;
 
-45° A l'article R. 315-2 : 
+50° A l'article R. 315-2 :
 
 a) Aux 1° et 2°, les mots : " le permis de chasser délivré en France " sont remplacés par les mots : " un permis de chasser
-délivré sur le territoire de la République " ; 
+délivré sur le territoire de la République " ;
 
 b) Au 3°, après les mots : " pour la pratique du tir ", sont ajoutés les mots : " ou par une fédération sportive territoriale
-compétente en ce domaine en application des dispositions applicables localement, " ; 
+compétente en ce domaine en application des dispositions applicables localement, " ;
 
-46° A l'article R. 315-6, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
+51° A l'article R. 315-6, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
-47° A l'article R. 315-14, les mots : " transférées au sens du chapitre VI " sont supprimés ; 
+52° A l'article R. 315-14, les mots : " transférées au sens du chapitre VI " sont supprimés ;
 
-48° A l'article R. 315-16, le mot : " ferrée, " est supprimé ; 
+53° A l'article R. 315-16, le mot : " ferrée, " est supprimé ;
 
-49° A l'article R. 317-1, les mots : " à sixième alinéas de l'article R. 312-52. " sont remplacés par les mots : " à septième
-alinéas de l'article R. 312-52. " ; 
+54° A l'article R. 317-1, les mots : " à sixième alinéas de l'article R. 312-52. " sont remplacés par les mots : " à septième
+alinéas de l'article R. 312-52. " ;
 
-50° A l'article R. 317-3, le 1° est ainsi rédigé : 
+55° A l'article R. 317-3, le 1° est ainsi rédigé :
 
 " 1° Toute personne qui transfère son domicile en Nouvelle-Calédonie de ne pas faire la déclaration prévue aux 25° et 33° de
-l'article R. 345-4 ; " ; 
+l'article R. 345-4 ; " ;
 
-51° A l'article R. 317-4 : 
+56° A l'article R. 317-4 :
 
 a) Au 1°, après les mots : " ou du ball-trap ", sont ajoutés les mots : " ou d'une fédération sportive territoriale
-compétente en ce domaine en application des dispositions applicables localement " ; 
+compétente en ce domaine en application des dispositions applicables localement " ;
 
-b) Au 2°, les mots : " plus de douze armes " sont remplacés par les mots : " plus de huit armes " ; 
+b) Au 2°, les mots : " plus de douze armes " sont remplacés par les mots : " plus de huit armes " ;
 
-c) Il est ajouté un 5° ainsi rédigé : 
+c) Il est ajouté un 5° ainsi rédigé :
 
 " 5° Toute personne d'acquérir ou de détenir plus de quatre armes de catégorie C et du 1° de la catégorie D en violation du
-quota fixé au d du 26° de l'article R. 345-4 pour les mineurs. " ; 
+quota fixé au d du 26° de l'article R. 345-4 pour les mineurs. " ;
 
-52° A l'article R. 317-6, après les mots : " sans présentation " sont ajoutés les mots : " du récépissé de déclaration ou
-d'enregistrement des armes légalement détenues et " ; 
+57° A l'article R. 317-6, après les mots : " sans présentation " sont ajoutés les mots : " du récépissé de déclaration ou
+d'enregistrement des armes légalement détenues et " ;
 
-53° A l'article R. 317-7, le 2° est supprimé ; 
+58° A l'article R. 317-7, le 2° est supprimé ;
 
-54° L'article R. 317-8 est remplacé par les dispositions suivantes : 
+59° L'article R. 317-8 est remplacé par les dispositions suivantes :
 
 " Art. R. 317-8.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, en violation des
-dispositions du 3° de l'article R. 312-47 et du 36° de l'article R. 345-4, pour : 
+dispositions du 3° de l'article R. 312-47 et du 36° de l'article R. 345-4, pour :
 
 " 1° Toute personne de détenir plus de 1 000 munitions quel que soit le nombre d'armes détenues de catégories B, C et du 1°
-de la catégorie D ; 
+de la catégorie D ;
 
 " 2° Toute personne de détenir plus de 150 munitions du c du 1° de la catégorie D à projectiles multiples, dont le diamètre
-est supérieur à 5 mm, ou à projectile unique en violation des conditions fixées au 36° de l'article R. 345-4. " ; 
+est supérieur à 5 mm, ou à projectile unique en violation des conditions fixées au 36° de l'article R. 345-4. " ;
 
-55° A l'article R. 317-11, il est inséré un alinéa ainsi rédigé : 
+60° A l'article R. 317-11, il est inséré un alinéa ainsi rédigé :
 
 " Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de contrevenir aux dispositions prévues au 20°
-de l'article R. 345-4. " ; 
+de l'article R. 345-4. " ;
 
-56° A l'article R. 317-12, le 3° est supprimé.
+61° A l'article R. 317-12, le 3° est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -50026,9 +53311,13 @@ de l'article R. 345-4. " ;
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+	**Cité par**:
+
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 187-1 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°2016-156 du 15 février 2016 - art. 7
+	  - Décret n°2017-909 du 9 mai 2017 - art. 30
 
 	**Cite**:
 
@@ -50092,7 +53381,7 @@ de l'article R. 345-4. " ;
 	  - Code de la sécurité intérieure - art. R317-6
 	  - Code de la sécurité intérieure - art. R317-7
 	  - Code de la sécurité intérieure - art. R317-8
-	  - Code de la sécurité intérieure - art. R345-1 (M)
+	  - Code de la sécurité intérieure - art. R345-1 (V)
 
 
 #### Chapitre VI : Dispositions applicables à Wallis-et-Futuna
@@ -52920,23 +56209,24 @@ routières, les voies autoroutières ou de dégagement en fonction de la spécif
 modalités de la répartition des missions de sécurité et de paix publiques entre la police nationale et la gendarmerie
 nationale.
 
+Par exception au même article, le ministre de l'intérieur peut, dans les communes placées sous le régime de la police d'Etat
+en application de l'article L. 2214-2 du code général des collectivités territoriales, confier, par arrêté, après avis du
+conseil municipal, l'exécution des missions de sécurité et de paix publiques à la gendarmerie nationale, sur une partie du
+territoire de ces communes.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-828 du 19 septembre 1996 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2017-907 du 6 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R431-2 (VD)
+	  - Code de la sécurité intérieure - art. R431-2
 
 
 ###### Article R431-4
@@ -53873,32 +57163,30 @@ gendarmerie pour Saint-Pierre-et-Miquelon.
 ###### Article R445-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td align="center">
 
@@ -53908,7 +57196,7 @@ R. 411-1 à R. 411-7
       <td align="center">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
@@ -53921,7 +57209,7 @@ R. 411-8 et R. 411-8-1
       <td>
 
 Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des
-adjoints de sécurité 
+adjoints de sécurité
 
 </td>
     </tr>
@@ -53952,50 +57240,50 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     <tr>
       <td align="center">R. 411-13 à
 
-R. 411-30 
-
-</td>
-      <td align="center">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-D. 411-31 à R. 413-54
-
-</td>
-      <td align="center">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Le titre II 
-
-</td>
-      <td align="center">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Le titre III 
-
-</td>
+R. 411-30</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+D. 411-31 à
+			R. 413-54</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre II</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">R. 431-1 et R. 431-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 431-3</td>
+      <td>Résultant du décret n° 2017-907 du 6 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 431-4 à R. 434-33</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 </td>
     </tr>
   </tbody>
 </table>
@@ -54013,7 +57301,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 	**Modifié par**:
 
-	  - Décret n°2016-684 du 26 mai 2016 - art. 3
+	  - Décret n°2017-907 du 6 mai 2017 - art. 1
 
 
 ###### Article R445-2
