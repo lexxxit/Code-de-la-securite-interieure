@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-12
 
 # Partie législative
 
@@ -29901,67 +29901,62 @@ l'intérieur.
 ###### Article D211-17
 
 Les armes à feu susceptibles d'être utilisées par les représentants de la force publique pour le maintien de l'ordre public
-en application de l'article R. 211-16 sont les suivantes : 
+en application de l'article R. 211-16 sont les suivantes :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-APPELLATION </th>
+APPELLATION</th>
       <th>
 
-CLASSIFICATION </th>
+CLASSIFICATION</th>
     </tr>
     <tr>
       <td>
 
-Grenades GLI F4 
+Grenades GLI F4
 
-Grenades lacrymogène instantanée </td>
-      <td rowspan="3">
+Grenades lacrymogène instantanée</td>
+      <td rowspan="2">
 
 Article R. 311-2
 
-5° et 6° de la catégorie A2 </td>
+5° et 6° de la catégorie A2</td>
     </tr>
     <tr>
       <td>
 
-Grenades OF F1 </td>
+Grenades instantanée</td>
     </tr>
     <tr>
       <td>
 
-Grenades instantanée </td>
+Lanceurs de grenades de 56 mm et leurs munitions</td>
+      <td>
+
+Article R. 311-2
+
+4°, 5° et 6° de la catégorie A2</td>
     </tr>
     <tr>
       <td>
 
-Lanceurs de grenades de 56 mm et leurs munitions </td>
+Lanceurs de grenades de 40 mm et leurs munitions</td>
       <td>
 
-Article R. 311-2 
+Article R. 311-2
 
-4°, 5° et 6° de la catégorie A2 </td>
+4°, 5° et 6° de la catégorie A2</td>
     </tr>
     <tr>
       <td>
 
-Lanceurs de grenades de 40 mm et leurs munitions </td>
+Grenades à main de désencerclement</td>
       <td>
 
-Article R. 311-2 
-
-4°, 5° et 6° de la catégorie A2 </td>
-    </tr>
-    <tr>
-      <td>
-
-Grenades à main de désencerclement </td>
-      <td>
-
-Article R. 311-2 
+Article R. 311-2
 
 6° de la catégorie A2</td>
     </tr>
@@ -29976,7 +29971,7 @@ Article R. 311-2
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2017-1029 du 10 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -36703,36 +36698,36 @@ consulaire local territorialement compétents " ;
 ###### Article D285-2
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">D. 211-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 211-10, D. 211-17, D. 211-19 et D. 211-20 
-
-</td>
-        <td align="center">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody>
-  </table>
+D. 211-17</td>
+      <td>Résultant du décret n° 2017-1029 du 10 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">D. 211-19 et D. 211-20</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -36742,7 +36737,7 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2017-1029 du 10 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -37172,36 +37167,38 @@ Journal officiel de la Polynésie française ".
 ###### Article D286-2
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>DANS LEUR RÉDACTION 
+D. 211-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 211-10, D. 211-17, D. 211-19 et D. 211-20
-
-</td>
-        <td align="center">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody>
-  </table>
+D. 211-17</td>
+      <td>Résultant du décret n° 2017-1029 du 10 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="center">D. 211-19 et D. 211-20</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -37211,7 +37208,7 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2017-1029 du 10 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -37661,36 +37658,38 @@ Journal officiel de la Nouvelle-Calédonie ".
 ###### Article D287-2
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du
-tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>DANS LEUR RÉDACTION 
+D. 211-10</td>
+      <td align="center">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
+VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="center">D. 211-17</td>
+      <td>Résultant du décret n° 2017-1029 du 10 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 211-10, D. 211-17, D. 211-19 et D. 211-20
-
-</td>
-        <td align="center">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody>
-  </table>
+D. 211-19 et D. 211-20</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -37700,7 +37699,7 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2017-1029 du 10 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -38151,37 +38150,36 @@ Journal officiel du territoire des îles Wallis et Futuna ".
 ###### Article D288-2
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">D. 211-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 211-10, 
-D. 211-17, D. 211-19 et D. 211-20 
-
-</td>
-        <td align="center">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody>
-  </table>
+D. 211-17</td>
+      <td>Résultant du décret n° 2017-1029 du 10 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="center">D. 211-19 et D. 211-20</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -38191,13 +38189,13 @@ VII de la partie réglementaire du code de la sécurité intérieure (Décrets e
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+	  - Décret n°2017-1029 du 10 mai 2017 - art. 2
 
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. D211-10
-	  - Code de la sécurité intérieure - art. D211-17 (VD)
-	  - Code de la sécurité intérieure - art. D211-19 (VD)
+	  - Code de la sécurité intérieure - art. D211-17
+	  - Code de la sécurité intérieure - art. D211-19
 
 
 ###### Article R288-1
@@ -42413,7 +42411,7 @@ interdits d'acquisition et de détention d'armes.
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre III : Commerce de détail
+#### Chapitre III : Fabrication et commerce
 
 ##### Section 1 : Agrément d'armurier
 
@@ -43484,16 +43482,6 @@ nationale. Cette photocopie doit être conservée pendant un délai de dix ans p
 
 	  - Décret n°2017-909 du 9 mai 2017 - art. 4
 
-
-#### Chapitre III : Fabrication et commerce
-
-##### Section 1 : Agrément d'armurier
-
-##### Section 2 : Autorisation d'ouverture du commerce de détail
-
-##### Section 3 : Vente au détail hors d'un local fixe et permanent
-
-##### Section 4 : Obligations de l'armurier dans la procédure de cession des armes et munitions
 
 ##### Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D 
 
