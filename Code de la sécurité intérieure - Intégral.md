@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-05-24
+Version Consolidée au 2017-07-01
 
 # Partie législative
 
@@ -11208,15 +11208,16 @@ fouille.
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police
+#### Chapitre II : Contrôleurs de la préfecture de police et agents de surveillance de Paris
 
 ###### Article L532-1
 
-Les agents de surveillance de Paris placés sous l'autorité du préfet de police peuvent constater par procès-verbal les
-contraventions aux arrêtés de police du préfet de police et du maire de Paris relatifs au bon ordre, à la tranquillité, à la
-sécurité et à la salubrité sur la voie publique ainsi que les contraventions mentionnées au livre VI du code pénal dont la
-liste est fixée par décret en Conseil d'Etat, dès lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à
-l'exclusion de celles réprimant des atteintes à l'intégrité des personnes. 
+Les contrôleurs de la préfecture de police exerçant leurs fonctions dans la spécialité voie publique et les agents de
+surveillance de Paris  peuvent constater par procès-verbal les contraventions aux arrêtés de police du préfet de police et du
+maire de Paris relatifs au bon ordre, à la tranquillité, à la sécurité et à la salubrité sur la voie publique ainsi que les
+contraventions mentionnées au livre VI du code pénal dont la liste est fixée par décret en Conseil d'Etat, dès lors qu'elles
+ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des atteintes à l'intégrité des
+personnes. 
 
 Ils sont habilités à établir l'avis de paiement prévu à l'article L. 2333-87 du code général des collectivités
 territoriales. 
@@ -11231,11 +11232,11 @@ Les dispositions du premier alinéa ne sont pas applicables aux interdictions de
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 78
+	  - Loi n°2017-257 du 28 février 2017 - art. 28
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2333-87 (VT)
+	  - Code général des collectivités territoriales - art. L2333-87
 
 	**Cité par**:
 
@@ -22863,7 +22864,7 @@ qu'aux activités privées réglementées relevant des domaines des jeux, paris 
 
 1° Autorisation :
 
-a) De pratiquer les jeux de hasard dans les casinos des stations balnéaires, thermales ou climatiques ;
+a) De pratiquer les jeux de hasard dans les casinos autorisés au titre des articles L. 321-1 et L. 321-3 ;
 
 b) De pratiquer les jeux de hasard dans les cercles de jeux ;
 
@@ -22886,17 +22887,12 @@ commandes et le financement groupé d'appareils dont les marques sont agréées 
 
 d) Des commissaires et des juges des courses de chevaux ;
 
-e) Des arbitres et assesseurs des parties de pelote basque.
+e) Des arbitres et assesseurs des parties de pelote basque ;
+
+f) Du représentant légal de la société exploitant un casino installé à bord d'un navire mentionné au II de l'article L. 321-3
+et ne comprenant que les appareils de jeux mentionnés à l'article L. 321-5.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -47298,13 +47294,13 @@ code pénal, la confiscation prévue par le 5° de l'article 131-16 du même cod
 
 #### Chapitre Ier : Casinos
 
-##### Section 1 : Autorisation d'ouverture et d'exploitation de jeux
-
-##### Sous-section 1 : Délivrance de l'autorisation
+##### Section liminaire : Dispositions générales
 
 ###### Article R321-1
 
-L'autorisation prévue à l'article L. 321-1 est accordée dans les conditions prévues par la présente section.
+Les casinos mentionnés aux articles L. 321-1 et L. 321-3 sont des établissements autorisés à exploiter tout ou partie des
+jeux de hasard mentionnés à la sous-section 3 de la section 1 du présent chapitre. Les casinos mentionnés à l'article L.
+321-1 sont tenus d'assurer des activités de restauration et d'animation, distinctes des activités de jeu.
 
 **Liens relatifs à cet article**
 
@@ -47312,18 +47308,47 @@ L'autorisation prévue à l'article L. 321-1 est accordée dans les conditions p
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L321-1 (V)
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. L321-3
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 
+
+###### Article R321-1-1
+
+Pour les casinos mentionnés à l'article L. 321-3, une convention écrite, conclue entre l'exploitant du casino, personne
+morale qualifiée en matière d'exploitation de jeux de hasard, et l'armateur, indique les obligations auxquelles se sont
+engagées les parties. Elle doit être conforme à la convention type prévue par le deuxième alinéa du I de l'article L. 321-3
+et qui constitue l'annexe 4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R321-30-1 (VD)
+
+
+##### Section 1 : Autorisation d'ouverture et d'exploitation de jeux
+
+##### Sous-section 1 : Délivrance de l'autorisation
+
+##### Paragraphe 1 : Dispositions applicables aux casinos régis par l'article L. 321-1
 
 ###### Article R321-2
 
@@ -47343,22 +47368,17 @@ de l'établissement demandeur ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3, ecqc la composition du dossier (VT)
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3-1, al. 2 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ###### Article R321-3
@@ -47386,12 +47406,12 @@ initiale n'a porté que sur un lieu provisoire d'implantation ;
 
 	**Modifié par**:
 
-	  - Décret n°2014-1724 du 30 décembre 2014  - art. 2
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-15
-	  - Code de la sécurité intérieure - art. R321-5 (V)
+	  - Code de la sécurité intérieure - art. R321-15 (VD)
+	  - Code de la sécurité intérieure - art. R321-5
 
 
 ###### Article R321-4
@@ -47412,7 +47432,7 @@ le nombre total au-delà d'un seuil fixé par l'arrêté mentionné au premier a
 
 	**Modifié par**:
 
-	  - Décret n°2014-1724 du 30 décembre 2014  - art. 3
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -47437,12 +47457,10 @@ Cet arrêté fixe :
 
 Il prévoit en outre :
 
-4° L'interdiction d'affermer les activités de jeu et d'animation  ;
+4° L'interdiction d'affermer les activités de jeu et d'animation ;
 
 5° L'interdiction aux directeur et membres du comité de direction du casino de participer aux jeux directement ou par
-personne interposée ;
-
-6° L'interdiction de céder à titre onéreux ou gratuit l'autorisation de jeux.
+personne interposée.
 
 **Liens relatifs à cet article**
 
@@ -47452,7 +47470,7 @@ personne interposée ;
 
 	**Modifié par**:
 
-	  - Décret n°2014-1724 du 30 décembre 2014  - art. 4
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -47460,23 +47478,132 @@ personne interposée ;
 	  - Code de la sécurité intérieure - art. R321-3 (VD)
 
 
+##### Paragraphe 2 : Dispositions applicables aux casinos régis par l'article L. 321-3
+
+###### Article R321-5-1
+
+La demande d'autorisation est adressée au ministre de l'intérieur, dans les conditions prévues par l'arrêté mentionné au
+deuxième alinéa de l'article R. 321-39, par la personne morale qualifiée mentionnée au I de l'article L. 321-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+
+
+###### Article R321-5-2
+
+La composition du dossier joint à cette demande est fixée par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39. 
+
+Ce dossier permet au ministre de l'intérieur de s'assurer des qualifications du demandeur au regard de son expérience et de
+ses connaissances dans l'exploitation des jeux de hasard.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-39
+
+
+###### Article R321-5-3
+
+La demande d'autorisation est soumise à l'avis de la commission consultative des jeux de cercles et de casinos pris dans les
+conditions et selon les modalités prévues par la sous-section 2. 
+
+Toutefois, cet avis n'est pas requis lorsque la demande a pour objet d'augmenter le nombre de machines à sous sans en porter
+le nombre total au-delà de quinze pour les casinos installés à bord des navires mentionnés au II de l'article L. 321-3 et
+n'exploitant que des appareils de jeux mentionnés à l'article L. 321-5 ou, pour les autres casinos installés à bord de
+navires, au-delà d'un seuil fixé par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
+	  - Code de la sécurité intérieure - art. R321-39 (VD)
+
+
+###### Article R321-5-4
+
+L'autorisation est accordée par arrêté du ministre de l'intérieur. 
+
+Cet arrêté fixe : 
+
+1° La durée de l'autorisation qui ne peut excéder cinq ans ; 
+
+2° Pour les casinos installés à bord des navires mentionnés au II de l'article L. 321-3 et n'exploitant que des appareils de
+jeux mentionnés à l'article L. 321-5, le nombre de machines à sous autorisées et les devises choisies pour l'exploitation de
+ces machines ; 
+
+3° Pour les autres casinos installés à bord de navires, le nombre de tables de jeux, de formes électroniques de ces jeux et
+de machines à sous autorisées ainsi que les devises choisies pour l'exploitation de ces jeux ; 
+
+4° Les modalités de surveillance et de contrôle du fonctionnement des jeux autorisés ; 
+
+5° Les conditions d'admission dans les salles de jeux et leurs horaires d'ouverture et de fermeture. 
+
+L'arrêté d'autorisation de jeux est notifié par le ministre de l'intérieur : 
+
+a) Au représentant légal de la société exploitant le casino pour les casinos installés à bord des navires mentionnés au II de
+l'article L. 321-3 et n'exploitant que des appareils de jeux mentionnés à l'article L. 321-5 ; 
+
+b) Au directeur responsable pour les autres casinos installés à bord de navires. 
+
+Une copie est adressée au ministre chargé du budget et au ministre chargé de la marine marchande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
+
+
+##### Paragraphe 3 : Dispositions communes
+
 ###### Article R321-6
 
 Le silence gardé pendant plus de quatre mois sur la demande d'autorisation vaut décision de rejet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3, ecqc la décision implicite (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
+
+
+###### Article R321-6-1
+
+L'autorisation de jeux, accordée à l'exploitant du casino par arrêté du ministre, est personnelle. Elle ne peut faire l'objet
+ni d'une cession, ni d'un transfert ou d'une délégation.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 4
 
 
 ##### Sous-section 2 : Commission consultative des jeux de cercles et de casinos
@@ -47602,9 +47729,9 @@ Un rapport annuel d'activité est adressé par le président de la commission au
 ###### Article R321-10
 
 La commission est chargée d'examiner les demandes d'autorisation de jeux dans les cercles de jeux et les casinos présentées
-en application de l'article R. 321-4 et de l'article 1er du décret n° 47-798 du 5 mai 1947 portant réglementation de la
-police des jeux dans les cercles, ainsi que les propositions de suspension ou de révocation d'autorisation prévues à
-l'article R. 321-30.
+en application des articles R. 321-4 et R. 321-5-3 et de l'article 1er du décret n° 47-798 du 5 mai 1947 portant
+réglementation de la police des jeux dans les cercles, ainsi que les propositions de suspension ou de révocation
+d'autorisation prévues à l'article R. 321-30.
 
 **Liens relatifs à cet article**
 
@@ -47614,21 +47741,13 @@ l'article R. 321-30.
 	  - Code de la sécurité intérieure - art. R321-30 (VD)
 	  - Code de la sécurité intérieure - art. R321-4 (VD)
 
-	**Anciens textes**:
-
-	  - Décret n°2011-252 du 9 mars 2011 - art. 11, alinéa 1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 	**Cité par**:
 
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 5
 
 
 ###### Article R321-11
@@ -47780,35 +47899,69 @@ f) Le bingo.
 	  - Code de la sécurité intérieure - art. L321-5
 
 
-###### Article R321-14
+###### Article R321-13-1
 
-Le nombre de machines à sous autorisées est fonction du nombre de tables de jeux mentionnés aux 1° et 2° de l'article D.
-321-13, installées dans le casino, dans des conditions fixées par l'arrêté mentionné au premier alinéa de l'article R.
-321-39.
+Dans les casinos installés à bord des navires mentionnés au II de l'article L. 321-3, les jeux exploités ne comprennent que
+les appareils de jeux mentionnés à l'article L. 321-5 si la durée habituelle du trajet assuré par le navire n'excède pas six
+heures ou si la personne morale mentionnée au I de l'article L. 321-3 en fait la demande.
+
+Ces jeux sont exploités dans les conditions suivantes :
+
+1° Le montant maximum de la mise qui peut être introduite ne peut être supérieur à un montant déterminé par l'arrêté
+mentionné au deuxième alinéa de l'article R. 321-39 ;
+
+2° Le montant maximum du gain qui peut être délivré ne peut être supérieur à un montant déterminé par le même arrêté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 3-1, al. 1er (VT)
+	  - Décret n°2017-914 du 9 mai 2017 - art. 6
+
+
+###### Article R321-13-2
+
+En dehors des deux hypothèses mentionnées à l'article R. 321-13-1, il est fait application, dans les casinos installés à bord
+de navires, des dispositions du premier alinéa de l'article R. 321-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 6
+
+
+###### Article R321-14
+
+Le nombre de machines à sous autorisées est fonction du nombre de tables de jeux mentionnés aux 1° et 2° de l'article D.
+321-13, installées dans le casino, dans des conditions fixées par l'arrêté mentionné aux premier ou deuxième alinéas de
+l'article R. 321-39. 
+
+Par exception au premier alinéa, le nombre de machines à sous susceptibles d'être autorisées dans les navires n'exploitant
+que des appareils de jeux mentionnés à l'article L. 321-5 est défini dans la limite fixée par le deuxième alinéa du II de
+l'article L. 321-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 14 mai 2007 - art. 8 (V)
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. D321-13 (VD)
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
+	  - Code de la sécurité intérieure - art. D321-13
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ###### Article R321-15
@@ -47849,27 +48002,32 @@ Les modalités communes à ces expérimentations peuvent être définies par l'a
 
 ###### Article R321-16
 
-Les jeux ne peuvent être pratiqués qu'argent comptant. Tout enjeu sur parole est interdit.
+Les jeux ne peuvent être pratiqués qu'argent comptant. Tout enjeu sur parole est interdit. 
 
-Les sommes sont représentées :
+Les sommes sont représentées : 
 
-1° Par des billets de banque et des pièces de monnaie ayant cours en France ;
+1° Par des billets de banque et des pièces de monnaie ayant cours en France ; 
 
-2° Par des jetons ou plaques fournis par l'établissement à ses risques et périls ;
+2° Par des jetons ou plaques fournis par l'établissement à ses risques et périls ; 
 
 3° Par le moyen de tickets, de cartes de paiement précréditées ou de tout autre système monétique, d'un modèle préalablement
-agréé par le ministre de l'intérieur.
+agréé par le ministre de l'intérieur. 
 
-Le silence gardé pendant plus de quatre mois sur la demande d'agrément d'un procédé mentionné au 3° vaut décision de rejet.
+Par dérogation au 1°, dans les casinos régis par l'article L. 321-3, les sommes peuvent être représentées par des billets de
+banque et des pièces de monnaie, libellés en une devise étrangère. Toutefois, dans les casinos installés à bord des navires
+mentionnés au II de l'article L. 321-3 et n'exploitant que des appareils de jeux mentionnés à l'article L. 321-5, les sommes
+sont uniquement représentées par des pièces de monnaie. 
+
+Le silence gardé pendant plus de quatre mois sur la demande d'agrément d'un procédé mentionné au 3° vaut décision de rejet. 
 
 Ces différents moyens de jeu sont soumis aux règles fixées par le code monétaire et financier en matière de lutte contre le
 blanchiment d'argent et le financement du terrorisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 7 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -47880,17 +48038,15 @@ blanchiment d'argent et le financement du terrorisme.
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
 	  - Code de la sécurité intérieure - art. R324-1 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code monétaire et financier (V)
+	  - Code monétaire et financier
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
 
 
 ###### Article R321-17
@@ -48163,29 +48319,36 @@ décision de rejet.
 
 ##### Section 3 : Accès aux salles de jeux
 
+##### Sous-section 1 : Dispositions communes
+
 ###### Article R321-27
 
 Toute personne désirant accéder aux salles de jeux est tenue de justifier de son identité. A cette fin, chaque établissement
 met en place un dispositif de contrôle systématique à l'entrée des salles de jeux. Ce contrôle est exercé dans tous les cas,
-que l'accès aux salles soit payant ou non. 
+que l'accès aux salles soit payant ou non.
 
-L'accès aux salles de jeux est interdit : 
+L'accès aux salles de jeux est interdit :
 
-1° Aux mineurs, même émancipés ; 
+1° Aux mineurs, même émancipés ;
 
-2° Aux personnes dont le ministre de l'intérieur a prononcé l'exclusion en application de l'article R. 321-28 ; 
+2° Aux personnes dont le ministre de l'intérieur a prononcé l'exclusion en application de l'article R. 321-28 ;
 
-3° Aux personnes en état d'ivresse ; 
+3° Aux personnes en état d'ivresse ;
 
-4° Aux personnes susceptibles de provoquer des incidents ; 
+4° Aux personnes susceptibles de provoquer des incidents ;
 
-5° Aux fonctionnaires en uniforme et militaires en uniforme, en dehors de l'exercice de leurs missions.
+5° Aux fonctionnaires en uniforme et militaires en uniforme, en dehors de l'exercice de leurs missions ;
+
+6° Aux personnes faisant l'objet, à bord d'un navire, d'une mesure d'interdiction d'accéder aux salles de jeux prise par le
+capitaine du navire dans le cadre de ses prérogatives définies à l'
+article L. 5531-1 du code des transports
+.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 14 (VT)
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -48196,17 +48359,13 @@ L'accès aux salles de jeux est interdit :
 	  - Code de la sécurité intérieure - art. R343-13 (VD)
 	  - Code de la sécurité intérieure - art. R343-5 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-28 (VD)
+	  - Code des transports - art. L5531-1
 
 
 ###### Article R321-28
@@ -48232,15 +48391,7 @@ Ces mesures sont susceptibles d'être révisées périodiquement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté du 14 mai 2007 - art. 22, sauf dernier alinéa (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -48249,10 +48400,32 @@ Ces mesures sont susceptibles d'être révisées périodiquement.
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
 	  - Code de la sécurité intérieure - art. R321-27 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 7
+
 	**Cite**:
 
-	  - Code civil - art. 459 (M)
-	  - Code de procédure pénale - art. R59 (Ab)
+	  - Code civil - art. 459
+	  - Code de procédure pénale - art. R59
+
+
+##### Sous-section 2 : Dispositions applicables aux casinos régis par l'article L. 321-3
+
+###### Article R321-28-1
+
+L'établissement de jeux doit respecter une fermeture quotidienne fixée par l'arrêté mentionné au deuxième alinéa de l'article
+R. 321-39.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ##### Section 4 : Fonctionnement des casinos
@@ -48261,28 +48434,28 @@ Ces mesures sont susceptibles d'être révisées périodiquement.
 
 ###### Article R321-29
 
-Le directeur responsable et les membres du comité de direction des casinos sont tenus de se conformer aux clauses du cahier
-des charges, aux prescriptions de l'autorisation et à la réglementation applicable. Ils veillent, en permanence, à la
-sincérité des jeux et à la régularité de leur fonctionnement. 
+Le directeur responsable du casino, les membres du comité de direction et, pour les casinos installés à bord des navires
+mentionnés au II de l'article L. 321-3 et n'exploitant que des appareils de jeux mentionnés à l'article L. 321-5, le
+représentant légal de la société exploitant le casino veillent, en permanence, à la sincérité des jeux et à la régularité de
+leur fonctionnement. 
 
-Ils procèdent à la déclaration préalable, auprès du ministre de l'intérieur, des opérations d'installation et d'exploitation
-des jeux qui sont énumérées par l'arrêté mentionné au premier alinéa de l'article R. 321-39. 
+Ils doivent, dans les délais et conditions prévus par l'arrêté mentionné aux premier ou deuxième alinéas de l'article L.
+321-39 : 
 
-Ils doivent, dans les délais et conditions prévus par l'arrêté mentionné au premier alinéa de l'article R. 321-39, faire
-toutes les communications réglementaires aux fonctionnaires du ministère de l'intérieur chargés du contrôle. 
+1° Procéder à la déclaration préalable, auprès du ministre de l'intérieur, des opérations d'installation et d'exploitation
+des jeux ; 
 
-Ils sont tenus de conserver au siège du casino les pièces de la comptabilité spéciale des jeux et de la comptabilité
-commerciale de l'établissement.
+2° Faire toutes les communications réglementaires aux fonctionnaires du ministère de l'intérieur chargés du contrôle ; 
+
+3° Conserver dans l'établissement les pièces de comptabilité spéciale des jeux et les pièces de la comptabilité commerciale.
+Pour les casinos régis par l'article L. 321-3, lorsque cela n'est pas possible, ces documents sont conservés par le capitaine
+du navire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1724 du 30 décembre 2014  - art. 6
 
 	**Cité par**:
 
@@ -48291,31 +48464,29 @@ commerciale de l'établissement.
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 	  - Code de la sécurité intérieure - art. R343-13 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-39
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
 
 
 ###### Article R321-30
 
-En cas de manquement au cahier des charges, aux prescriptions de l'autorisation ou à la réglementation applicable, le
-ministre de l'intérieur peut, après avis de la commission consultative des jeux de cercles et de casinos pris dans les
-conditions et selon les modalités prévues par la sous-section 2 de la section 1, suspendre pour une durée maximum de quatre
-mois ou révoquer, partiellement ou totalement, les autorisations en vigueur.
+L'autorisation peut être révoquée, partiellement ou totalement, ou suspendue pour une durée n'excédant pas quatre mois par le
+ministre de l'intérieur, après avis de la commission mentionnée à l'article R. 321-7, en cas de manquement à la
+réglementation applicable aux jeux de hasard ou aux stipulations du cahier des charges pour les casinos régis par l'article
+L. 321-1 ou de la convention mentionnée à l'article R. 321-1-1 pour les casinos régis par l'article L. 321-3 ou de ses
+prescriptions. 
 
 En cas d'urgence, la suspension peut intervenir sans avis de la commission pour une durée maximum de deux mois.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 5-1 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -48327,8 +48498,36 @@ En cas d'urgence, la suspension peut intervenir sans avis de la commission pour 
 	  - Code de la sécurité intérieure - art. R321-19 (V)
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. R321-7
+
+
+###### Article R321-30-1
+
+Tout avenant à la convention mentionnée à l'article R. 321-1-1 est transmis par l'exploitant du casino au ministre de
+l'intérieur dans un délai de quinze jours suivant sa signature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-1-1
+
 
 ##### Sous-section 2 : Employés
+
+##### Sous-section 2 : Personnel des jeux des casinos régis par l'article L. 321-1
 
 ###### Article R321-31
 
@@ -48425,8 +48624,8 @@ Il leur est interdit de participer au jeu, soit directement, soit par personne i
 ###### Article R321-34
 
 Il est interdit aux employés des salles de jeux de transporter des jetons, des plaques et des espèces, ou tout titre de
-valeur, pendant leur service, à l'intérieur du casino dans des conditions autres que celles prévues par l'arrêté mentionné au
-premier alinéa de l'article R. 321-39. 
+valeur, pendant leur service, à l'intérieur du casino dans des conditions autres que celles prévues par l'arrêté conjoint
+mentionné à l'article R. 321-39.
 
 Il est interdit aux membres du personnel des salles de jeux, responsables d'une caisse, telle que caisse d'une table de jeux,
 caisse de changeur ou caisse principale, de détenir soit dans leur caisse, soit par-devers eux, des jetons, plaques, espèces,
@@ -48435,15 +48634,7 @@ fonctionnement normal des jeux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 11 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -48452,9 +48643,13 @@ fonctionnement normal des jeux.
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
 	  - Code de la sécurité intérieure - art. R343-3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-39 (VD)
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ###### Article R321-35
@@ -48511,6 +48706,161 @@ des salles de jeux ou d'exercer une autorité quelconque sur les employés des s
 	**Cité par**:
 
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
+
+
+##### Sous-section 2 bis : Personnel des jeux des casinos régis par l'article L. 321-3
+
+###### Article R.321-36-1
+
+Les dispositions des articles R. 321-32 à 321-36 sont applicables au personnel relevant de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-32
+
+
+###### Article R.321-36-2
+
+Dans les casinos régis par l'article L. 321-3, à l'exception de ceux installés à bord des navires mentionnés au II de ce même
+article et n'exploitant que des appareils de jeux mentionnés à l'article L. 321-5, la direction du service des jeux est
+confiée à un directeur responsable. 
+
+Le directeur responsable engage, rémunère et licencie directement, en dehors de toute ingérence étrangère, toutes les
+personnes employées à un titre quelconque dans les salles de jeux. 
+
+Préalablement à leur entrée en fonctions, ces personnes sont agréées par le ministre de l'intérieur. 
+
+Le retrait de cet agrément fait obstacle à la poursuite des fonctions de l'intéressé à l'intérieur de la salle de jeux. 
+
+Lorsque le licenciement est prononcé à l'initiative du directeur responsable, il en informe immédiatement le ministre de
+l'intérieur si le motif est de nature à justifier le retrait de l'agrément de l'intéressé. 
+
+Toute démission d'employé des salles de jeux est également portée à la connaissance du ministre de l'intérieur. 
+
+Le directeur responsable a seul qualité pour s'occuper de l'exploitation des jeux et pour donner des ordres aux employés des
+salles de jeux. 
+
+Il peut se faire assister de membres d'un comité de direction qui ont alors compétence dans le cadre de leurs attributions
+respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
+
+
+###### Article R.321-36-3
+
+I.-Dans les casinos installés à bord des navires mentionnés au II de l'article L. 321-3 et n'exploitant que des appareils de
+jeux mentionnés à l'article L. 321-5, la direction du service des jeux est confiée au représentant légal de la société
+exploitant le casino. 
+
+Le représentant légal de la société exploitant le casino engage, rémunère et licencie directement, en dehors de toute
+ingérence étrangère, toutes les personnes employées à un titre quelconque dans les salles de jeux. Il désigne au moins deux
+caissiers. 
+
+Préalablement à leur entrée en fonctions, ces personnes sont agréées par le ministre de l'intérieur. 
+
+Le retrait de cet agrément fait obstacle à la poursuite des fonctions de l'intéressé à l'intérieur de la salle de jeux ou à
+la poursuite de ses fonctions de caissier. 
+
+Lorsque le licenciement ou la cessation des fonctions de caissier est prononcé à l'initiative du représentant légal de la
+société exploitant le casino, il en informe immédiatement le ministre de l'intérieur si le motif est de nature à justifier le
+retrait de l'agrément de l'employé intéressé. 
+
+Toute démission d'employé des salles de jeux est également portée à la connaissance du ministre de l'intérieur. 
+
+II.-Les personnels chargés d'assurer l'installation, l'entretien et la maintenance du matériel en application du troisième
+alinéa du II de l'article L. 321-3 sont désignés par le représentant légal de la société exploitant le casino parmi les
+salariés, répondant aux conditions mentionnées au quatrième alinéa du II du même article, que lui propose, pour l'exécution
+de cette prestation, l'une des personnes physiques ou morales mentionnées au second alinéa de l'article L. 321-5 et qu'il a
+sollicitée à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. L321-5
+
+
+###### Article R.321-36-4
+
+Au cours d'une séance de jeux, un employé de jeux peut être en charge du contrôle aux entrées et assurer les fonctions de
+caissier.
+
+Un employé de jeux ne peut, en aucun cas, remplir les missions incombant au directeur responsable, aux éventuels autres
+membres du comité de direction ou au représentant légal de la société exploitant le casino.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+
+###### Article R.321-36-5
+
+L'agrément des membres du personnel des jeux exerçant dans un casino régi par l'article L. 321-3, prévu aux articles R.
+321-36-2 et R. 321-36-3 est délivré pour une durée maximale de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+
+
+###### Article R.321-36-6
+
+La demande de renouvellement de l'agrément est présentée, quatre mois au moins avant sa date d'expiration dans les conditions
+prévues par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39. Lorsque la demande est complète, le ministre de
+l'intérieur en délivre un récépissé. 
+
+Ce récépissé permet une poursuite régulière de l'activité professionnelle. Le silence gardé pendant plus de quatre mois sur
+la demande de renouvellement de l'agrément vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R321-39
+
+
+###### Article R.321-36-7
+
+En cas de cessation des fonctions d'un membre du personnel des jeux pendant plus d'un an, l'agrément, mentionné à l'article
+R. 321-36-5 et qui lui avait été délivré est caduc.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 8
 
 
 ##### Sous-section 3 : Prélèvements
@@ -48578,26 +48928,82 @@ communiquer, à tout moment, tout document utile à l'exercice de leurs missions
 	  - DEPLACE: Décret n°2017-914 du 9 mai 2017 - art. 9
 
 
+##### Sous-section 2 : Dispositions relatives aux casinos régis par l'article L. 321-3
+
+###### Article R321-38-1
+
+Les missions de contrôle et de surveillance prévues à l'article R. 321-38 peuvent avoir lieu à tout moment et quelle que soit
+la position du navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 9
+
+
+###### Article R321-38-2
+
+L'exploitation du casino est strictement subordonnée aux nécessités et aux règles de sécurité du navire et de la navigation
+que le capitaine du navire est chargé d'appliquer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 9
+
+
+###### Article R321-38-3
+
+Sans préjudice de la compétence exclusive du ministre de l'intérieur en matière de surveillance des jeux, le capitaine ou
+l'officier chargé de sa suppléance procède immédiatement à une enquête dès qu'il a connaissance de faits commis dans
+l'établissement de nature à troubler gravement l'ordre, la tranquillité et le déroulement normal des jeux.
+
+Dans ce cas, le capitaine ou l'officier chargé de sa suppléance rend compte sans délai au ministre de l'intérieur de la
+nature des faits, des mesures prises et du déroulement de l'enquête et se conforme aux prescriptions du ministre l'intérieur.
+Il mentionne cette enquête sur le livre de bord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 9
+
+
+###### Article R321-38-4
+
+Le capitaine prend toute mesure pour rapatrier un membre du personnel des jeux dans les conditions prévues aux articles L.
+5542-29 à L. 5542-33-3 du code des transports, à son initiative ou sur demande du directeur responsable ou, pour les casinos
+installés à bord des navires mentionnés au II de l'article L. 321-3 et n'exploitant que des appareils de jeux mentionnés à
+l'article L. 321-5, du représentant légal de la société exploitant le casino.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 9
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-29
+
+
 ##### Section 6 : Conditions d'application
 
 ###### Article R321-39
 
-Les modalités d'application du présent chapitre sont déterminées par arrêté conjoint du ministre de l'intérieur et du
-ministre chargé du budget.
+Les modalités d'application du présent chapitre s'agissant des casinos régis par l'article L. 321-1 sont déterminées par
+arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget. 
+
+Les modalités d'application du présent chapitre s'agissant des casinos régis par l'article L. 321-3 sont déterminées par
+arrêté conjoint du ministre de l'intérieur, du ministre chargé de la marine marchande et du ministre chargé du budget. 
 
 Toutefois, la police des jeux est réglementée par arrêté ou décision du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 22 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -48616,8 +49022,18 @@ Toutefois, la police des jeux est réglementée par arrêté ou décision du min
 	  - Code de la sécurité intérieure - art. R321-37 (VD)
 	  - Code de la sécurité intérieure - art. R321-4 (VD)
 	  - Code de la sécurité intérieure - art. R321-5-2 (VD)
+	  - Code de la sécurité intérieure - art. R321-5-3 (VD)
 	  - Code de la sécurité intérieure - art. R343-1 (V)
 	  - Code de la sécurité intérieure - art. R346-2-1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 10
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. L321-3
 
 
 #### Chapitre Ier bis : Compétitions de jeux vidéo
@@ -49135,43 +49551,41 @@ Les modalités d'application du présent chapitre sont déterminées par arrêt�
 
 ###### Article R324-1
 
-Est puni de l'amende prévue pour les contraventions de la troisième classe : 
+Est puni de l'amende prévue pour les contraventions de la troisième classe :
 
-1° Le fait, pour le directeur responsable ou les membres des comités de direction d'un casino, de contrevenir aux articles R.
-321-16, R. 321-21 et R. 321-27, au deuxième alinéa de l'article R. 321-29, à l'article R. 321-31, au deuxième alinéa de
-l'article R. 321-33, au troisième alinéa de l'article R. 321-37 et aux arrêtés pris pour leur application ; 
+1° Le fait, pour le directeur responsable ou les membres des comités de direction d'un casino, ainsi que pour le représentant
+légal de la société exploitant le casino installé à bord d'un navire mentionné au II de l'article L. 321-3 et n'exploitant
+que des appareils de jeux mentionnés à l'article L. 321-5, de contrevenir aux articles R. 321-16, R. 321-21 et R. 321-27, aux
+deuxième et troisième alinéas de l'article R. 321-29, à l'article R. 321-31, au deuxième alinéa de l'article R. 321-33, aux
+articles R. 321-36-2 et R. 321-36-3, au troisième alinéa de l'article R. 321-37 et aux arrêtés pris pour leur application ;
 
 2° Le fait, pour les membres du personnel des salles de jeux, de contrevenir aux articles R. 321-16, R. 321-27 et R. 321-32,
 aux premier et troisième alinéas de l'article R. 321-33, aux articles R. 321-34 et R. 321-35, au premier alinéa de l'article
-R. 321-37 et aux arrêtés pris pour leur application ; 
+R. 321-37 et aux arrêtés pris pour leur application ;
 
 3° Le fait de contrevenir au troisième alinéa de l'article R. 321-33, aux articles R. 321-35 et R. 321-36 et aux arrêtés pris
 pour leur application.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-1489 du 22 décembre 1959 - art. 19 (VT)
-
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R321-16 (VD)
-	  - Code de la sécurité intérieure - art. R321-21 (VD)
-	  - Code de la sécurité intérieure - art. R321-27 (VD)
-	  - Code de la sécurité intérieure - art. R321-29 (VD)
-	  - Code de la sécurité intérieure - art. R321-31 (VD)
-	  - Code de la sécurité intérieure - art. R321-33 (VD)
-	  - Code de la sécurité intérieure - art. R321-35 (VD)
-	  - Code de la sécurité intérieure - art. R321-37 (VD)
+	  - Code de la sécurité intérieure - art. R321-16
+	  - Code de la sécurité intérieure - art. R321-21
+	  - Code de la sécurité intérieure - art. R321-27
+	  - Code de la sécurité intérieure - art. R321-29
+	  - Code de la sécurité intérieure - art. R321-31
+	  - Code de la sécurité intérieure - art. R321-33
+	  - Code de la sécurité intérieure - art. R321-35
+	  - Code de la sécurité intérieure - art. R321-37
 
 	**Cité par**:
 
@@ -53377,50 +53791,51 @@ de l'article R. 345-4. " ;
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 346-2, les dispositions
 du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
-droite du même tableau : 
+droite du même tableau :
 
 <table>
-      <tbody><tr>
-        <td align="center" valign="bottom">
-
-DISPOSITIONS APPLICABLES </td>
-        <td align="center" valign="bottom">
-
-DANS LEUR RÉDACTION </td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+  <tbody>
+    <tr>
+      <td align="center">DISPOSITIONS APPLICABLES</td>
+      <td align="center">DANS LEUR RÉDACTION</td>
+    </tr>
+    <tr>
+      <td align="left">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">D. 321-13</td>
+      <td align="justify">Résultant du décret n° 2015-540 du 15 mai 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">D. 321-22 à D. 321-25</td>
+      <td align="justify">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
 D. 322-1 
 </td>
-        <td align="justify">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody></table>
+      <td align="justify">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
+VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-	  - Code de la sécurité intérieure - art. D322-1 (VD)
-	  - Code de la sécurité intérieure - art. D346-2 (VD)
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Code de la sécurité intérieure - art. D322-1
+	  - Code de la sécurité intérieure - art. D346-2
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-914 du 9 mai 2017 - art. 13
 
 
 ###### Article D346-2
@@ -53448,6 +53863,292 @@ collectivité. "
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. D346-1 (VD)
+
+
+###### Article R346-1-1
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article R. 346-2-1, les
+dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 321-1 et R. 321-1-1</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-5-2 à R. 321-5-4</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-6</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-6-1</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-7 et R. 321-8</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2016-1488 du 3 novembre 2016
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-9</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-10</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-11 et R. 321-12</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-13-2, R. 321-14
+
+et R. 321-16</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-17</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1724 du 30 décembre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-18 et R. 321-19</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-20, R. 321-21
+
+et R. 321-26</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-27</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-28</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-28-1 à R. 321-30-1</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-32 à R. 321-36</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-36-1, R. 321-36-2 et
+
+R. 321-36-4 à R. 321-36-7</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-37 et R. 321-38</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 321-38-1 à R. 321-39</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 324-1</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-914 du 9 mai 2017
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014
+	  - Décret n°2014-1724 du 30 décembre 2014
+	  - Décret n°2016-1488 du 3 novembre 2016
+	  - Décret n°2017-914 du 9 mai 2017
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 14
+
+
+###### Article R346-2-1
+
+Pour son application dans les îles Wallis et Futuna, l'article R. 321-5-1 est ainsi rédigé : 
+
+“ Art. 321-5-1.-La demande d'autorisation est adressée à l'administrateur supérieur des îles Wallis-et-Futuna ainsi qu'au
+ministre de l'intérieur, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39, par la
+personne morale qualifiée mentionnée à l'article L. 321-3. L'administrateur supérieur transmet ensuite son avis motivé au
+ministre de l'intérieur dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-914 du 9 mai 2017 - art. 15
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L321-3
+	  - Code de la sécurité intérieure - art. R321-39
 
 
 ## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE
@@ -58494,8 +59195,8 @@ prévue à l'article L. 511-1.
 
 ###### Article R511-19
 
-L'autorisation de port d'une arme mentionnée aux 1° et 3° de l'article R. 511-12 ne peut être délivrée qu'aux agents ayant
-suivi avec succès une formation préalable attestée par le Centre national de la fonction publique territoriale. 
+L'autorisation de port d'une arme mentionnée aux 1°, a du 2° et 3° de l'article R. 511-12 ne peut être délivrée qu'aux agents
+ayant suivi avec succès une formation préalable attestée par le Centre national de la fonction publique territoriale. 
 
 Les agents dont l'identité a été communiquée à cette fin au Centre national de la fonction publique territoriale par le
 préfet du département sont autorisés à transporter l'arme remise par la commune pour se rendre aux séances de formation, à
@@ -58513,10 +59214,9 @@ détenteurs de l'autorisation de port d'arme mentionnée au même alinéa avant 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-276 du 24 mars 2000 - art. 4, alinéas 2 à 5 (VT)
-	  - Décret n°2007-1178 du 3 août 2007 - art. 8 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -58526,19 +59226,15 @@ détenteurs de l'autorisation de port d'arme mentionnée au même alinéa avant 
 	  - Code de la sécurité intérieure - art. R511-28 (VD)
 	  - Code de la sécurité intérieure - art. R545-3 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L512-4 (V)
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
-	  - Code de la sécurité intérieure - art. R511-30 (VD)
+	  - Code de la sécurité intérieure - art. L512-4
+	  - Code de la sécurité intérieure - art. R511-12
+	  - Code de la sécurité intérieure - art. R511-30
 
 
 ###### Article R511-20
@@ -58575,8 +59271,9 @@ d'arme.
 
 ###### Article R511-21
 
-Les agents de police municipale autorisés à porter une arme mentionnée aux 1° et 3° de l'article R. 511-12 sont astreints à
-suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à l'article R. 511-22. 
+Les agents de police municipale autorisés à porter une arme mentionnée aux 1°, a du 2° et 3°  de l'article R. 511-12 sont
+astreints à suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à l'article
+R. 511-22. 
 
 Le préfet de département peut suspendre l'autorisation de port d'arme d'un agent qui n'a pas suivi les séances d'entraînement
 réglementaires, jusqu'à l'accomplissement de cette obligation. A cette fin, il est informé par le Centre national de la
@@ -58589,9 +59286,9 @@ directeur de la séance d'entraînement. Ce retrait peut être précédé d'une 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2000-276 du 24 mars 2000 - art. 5 (VT)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 	**Cité par**:
 
@@ -58601,17 +59298,13 @@ directeur de la séance d'entraînement. Ce retrait peut être précédé d'une 
 	  - Code de la sécurité intérieure - art. R511-22 (V)
 	  - Code de la sécurité intérieure - art. R545-3 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-	**Créé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R511-12 (VD)
+	  - Code de la sécurité intérieure - art. R511-12
 
 
 ###### Article R511-22
@@ -61160,20 +61853,24 @@ Résultant du décret n° 2016-1616 du 28 novembre 2016
 </td>
     </tr>
     <tr>
-      <td>R. 511-19 à R. 511-21 </td>
+      <td>R. 511-19 à R. 511-21</td>
       <td>
 
-Résultant du décret n° 2013-1113 du 4 décembre 2013 
+Résultant du décret n° 2016-1616 du 28 novembre 2016    
 
 </td>
     </tr>
     <tr>
-      <td>R. 511-22 </td>
+      <td>R. 511-20</td>
       <td>
 
-Résultant du décret n° 2016-1616 du 28 novembre 2016
+Résultant du décret n° 2015-617 du 3 juin 2015
 
 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 511-21</td>
+      <td align="left">Résultant du décret n° 2016-1616 du 28 novembre 2016</td>
     </tr>
     <tr>
       <td>R. 511-23</td>
@@ -61256,7 +61953,7 @@ Résultant du décret n° 2016-1616 du 28 novembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 514-1 à R. 514-11 
 
@@ -61282,7 +61979,7 @@ aux directeurs de police municipale et modifiant ce code
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 515-2 à R. 515-6 
 
@@ -61295,12 +61992,12 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 515-7 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
 aux directeurs de police municipale et modifiant ce code 
@@ -61308,12 +62005,12 @@ aux directeurs de police municipale et modifiant ce code
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 515-8 à R. 515-21
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -61336,7 +62033,7 @@ Au titre II
 R. 521-1 à R. 522-2 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -61374,13 +62071,9 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 	  - Code de la sécurité intérieure - art. R515-8
 	  - Code de la sécurité intérieure - art. R521-1
 
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 13 (V)
 
 	**Cité par**:
 
@@ -61411,11 +62104,15 @@ le haut-commissaire de la République en Polynésie française. " ;
 4° Aux articles R. 511-14, R. 511-15 et R. 511-16, les mots : " des armes mentionnées au 1°, aux a et b du 2° et au 3° de
 l'article R. 511-12 " sont remplacés par les mots : " des armes mentionnées aux a et b du 2° l'article R. 511-12 " ; 
 
-5° Le premier alinéa de l'article R. 511-19 est ainsi rédigé : 
+5° A l'article R. 511-19 : 
+
+a) Le premier alinéa est ainsi rédigé : 
 
 " L'autorisation de port d'une arme mentionnée aux a et b du 2° de l'article R. 511-12 ne peut être délivrée qu'aux agents
 ayant validé une formation préalable attestée par l'organisme chargé de la formation des agents de la fonction publique
-communale en Polynésie française. " ; 
+communale en Polynésie française." ; 
+
+b) Le dernier alinéa est supprimé ;
 
 6° Le premier alinéa de l'article R. 511-21 est ainsi rédigé : 
 
@@ -61425,13 +62122,17 @@ R. 511-22. " ;
 
 7° L'article R. 511-22 est ainsi rédigé : 
 
-" Art. R. 511-22.-La formation préalable à l'autorisation de port d'arme mentionnée à l'article R. 511-18 et la formation
+" Art. R. 511-22.-La formation préalable à l'autorisation de port d'arme mentionnée à l'article R. 511-19 et la formation
 d'entraînement mentionnée à l'article R. 511-21 sont organisées par l'organisme chargé de la formation des agents de la
 fonction publique communale en Polynésie française. 
 
-" Les entraînements peuvent être assurés par des agents de police municipale, moniteurs en maniement des armes, qui sont
-formés à cette fonction avec le concours des administrations et établissements publics de l'Etat chargés de la formation des
-fonctionnaires de la police nationale et des militaires de la gendarmerie. " ; 
+Pour les armes mentionnées au a du 2° de l'article R. 511-12, ces formations peuvent être assurées par des agents de police
+municipale, moniteurs aux bâtons et techniques professionnelles d'intervention, qui sont formés à cette fonction avec le
+concours des administrations et établissements publics de l'Etat. 
+
+Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations ainsi que les règles relatives à la
+délivrance du certificat de moniteur de police municipale aux bâtons et techniques professionnelles d'intervention et à
+l'exercice de cette fonction. ;"
 
 8° Le deuxième alinéa de l'article R. 511-24 est supprimé ; 
 
@@ -61476,7 +62177,7 @@ général des fonctionnaires des communes et des groupements de communes de la P
 	  - Code de la sécurité intérieure - art. R515-17
 	  - Code de la sécurité intérieure - art. R521-1
 	  - Code de la sécurité intérieure - art. R522-1
-	  - Code de la sécurité intérieure - art. R545-1 (VD)
+	  - Code de la sécurité intérieure - art. R545-1 (VT)
 
 	**Codifié par**:
 
@@ -61484,7 +62185,7 @@ général des fonctionnaires des communes et des groupements de communes de la P
 
 	**Modifié par**:
 
-	  - Décret n°2015-130 du 5 février 2015 - art. 3
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
 
 
 ###### Article R545-5
@@ -61638,12 +62339,12 @@ Au titre Ier
       <td valign="middle" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 511-1, R. 511-2, R. 511-11 à R. 511-17 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-617 du 3 juin 2015
 
@@ -61669,21 +62370,25 @@ R. 511-19 à R. 511-21
 </td>
       <td>
 
-Résultant du décret n° 2015-617 du 3 juin 2015
+Résultant du décret n° 2016-1616 du 28 novembre 2016
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 511-22 
+R. 511-20
 
 </td>
       <td>
 
-Résultant du décret n° 2016-1616 du 28 novembre 2016
+Résultant du décret n° 2015-617 du 3 juin 2015
 
 </td>
+    </tr>
+    <tr>
+      <td>R. 511-21</td>
+      <td align="left">Résultant du décret n° 2016-1616 du 28 novembre 2016</td>
     </tr>
     <tr>
       <td>
@@ -61751,7 +62456,7 @@ Résultant du décret n° 2015-617 du 3 juin 2015
 R. 512-1, R. 512-2, R. 512-5, R. 512-6
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie
 réglementaire) relatives aux polices municipales en Nouvelle-Calédonie.
@@ -61764,7 +62469,7 @@ réglementaire) relatives aux polices municipales en Nouvelle-Calédonie.
 R. 515-21
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Résultant du 
 décret n° 2015-617 du 3 juin 2015
@@ -61791,17 +62496,13 @@ réglementaire) relatives aux polices municipales en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 	**Cite**:
 
 	  - Décret n°2015-617 du 3 juin 2015
 
 	**Modifié par**:
 
-	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 13 (V)
 
 
 ###### Article R546-2
@@ -61810,8 +62511,8 @@ Pour l'application des dispositions énumérées à l'article R. 546-1 :
 
 1° Le second alinéa de l'article R. 511-1 est ainsi rédigé : 
 
-"   Ils peuvent également constater par procès-verbal, dans les conditions prévues par le deuxième alinéa de l'article L.
-511-1 du présent code, les contraventions mentionnées à l'
+" Ils peuvent également constater par procès-verbal, dans les conditions prévues par le deuxième alinéa de l'article L. 511-1
+du présent code, les contraventions mentionnées à l'
 article R. 610-5 du code pénal
 , relatives aux arrêtés de police municipale pris par le maire ou par le haut-commissaire de la République en Nouvelle-
 Calédonie en application de l'
@@ -61833,29 +62534,35 @@ les a et b sont supprimés ;
 
 4° A l'article R. 511-19, le dernier alinéa est supprimé ; 
 
-5° A l'article R. 511-21, après les mots : " dans les conditions prévues à l'article R. 511-22 " sont insérés les mots : "
-dans sa rédaction applicable en Nouvelle-Calédonie en vertu du 6° de l'article R. 546-2 " ; 
+5° A l'article R. 511-21, le premier alinéa est ainsi rédigé : 
+
+" Les agents de police municipale autorisés à porter une arme mentionnée aux c et d du 1° et au 3° de l'article R. 511-12
+sont astreints à suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à
+l'article R. 511-22, dans sa rédaction applicable en Nouvelle-Calédonie en vertu du 6° de l'article R. 546-2 " ; 
 
 6° L'article R. 511-22 est ainsi rédigé : 
 
 " Art. R. 511-22.-La formation préalable à l'autorisation de port d'armes mentionnée à l'article R. 511-19 et la formation
 d'entraînement mentionnée à l'article R. 511-21 sont organisées par un centre de formation de la police nationale. 
 
-Ces formations peuvent être assurées par des agents de police municipale, moniteurs en maniement des armes, qui sont formés à
-cette fonction avec le concours des administrations et établissements publics de l'Etat chargés de la formation des
-fonctionnaires de la police nationale et des militaires de la gendarmerie nationale. 
+Ces formations peuvent être assurées par des agents de police municipale, moniteurs en maniement des armes, pour les armes
+mentionnées aux c du 1° et 3° de l'article R. 511-12 et par des agents de police municipale, moniteurs aux bâtons et
+techniques professionnelles d'intervention pour les armes mentionnées au a du 2° de l'article R. 511-12, qui sont formés à
+cette fonction avec le concours des administrations et établissements publics de l'Etat. 
 
 Eu égard à la spécificité des risques liés à l'emploi d'une arme mentionnée au d du 1° de l'article R. 511-12, une formation
 spécifique préalable à l'autorisation de port de celle-ci et une formation spécifique d'entraînement, qui tiennent compte de
 ses particularités d'emploi, sont organisées par un centre de formation de la police nationale. La formation spécifique
 préalable est sanctionnée par un certificat individuel délivré aux agents de police municipale. 
 
-Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations ainsi que les règles relatives à la
-délivrance du certificat de moniteur de police municipale en maniement des armes et à l'exercice de cette fonction et celles
-relatives à la délivrance du certificat individuel mentionné à l'alinéa précédent. 
+Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations, les règles relatives à la délivrance des
+certificats de moniteur de police municipale en maniement des armes mentionnées aux c du 1° et 3° de l'article R. 511-12 et
+de moniteur de police municipale aux bâtons et techniques professionnelles d'intervention pour les armes mentionnées au a du
+2° du même article et à l'exercice de ces fonctions ainsi que celles relatives à la délivrance du certificat individuel
+mentionné à l'alinéa précédent. 
 
-Les autres modalités d'organisation des formations sont déterminées par convention entre le haut-commissaire de la République
-en Nouvelle-Calédonie et chacune des communes concernées. " ; 
+Les autres modalités d'organisation des formations sont déterminées par une convention entre le haut-commissaire de la
+République en Nouvelle-Calédonie et chacune des communes concernées." ; 
 
 7° Au deuxième alinéa de l'article R. 511-25, les mots : " mentionnées aux a, b et d du 1° " sont remplacés par les mots : "
 mentionnées au d du 1° " ; 
@@ -61946,7 +62653,7 @@ de la Nouvelle-Calédonie relatives au permis de conduire et au comportement du 
 
 	**Modifié par**:
 
-	  - Décret n°2015-617 du 3 juin 2015 - art. 1
+	  - Décret n°2016-1616 du 28 novembre 2016 - art. 11
 
 
 ###### Article R546-3
@@ -76983,22 +77690,36 @@ dispositions entrent en vigueur le 1er juillet 2017.
 
 ###### Article R725-2
 
-L'agrément de sécurité civile définit les actions pour lesquelles l'association peut être engagée par l'autorité compétente
-et précise le champ géographique dans lequel ces actions peuvent être menées.
+L'agrément de sécurité civile définit les missions pour lesquelles l'association peut être engagée par le directeur des
+opérations de secours  et précise le champ géographique (départemental, interdépartemental ou national)  dans lequel ces
+missions peuvent être menées, le cas échéant, pour chaque établissement autre que principal et, pour une union d'associations
+ou une fédération d'associations mentionnées au second alinéa, chaque association membre. 
+
+L'agrément accordé à une union d'associations visée à l'article 7 du décret du 16 août 1901 pris pour l'exécution de la loi
+du 1er juillet 1901 relative au contrat d'association, ou à une fédération d'associations constituée sous forme
+d'association, vaut agrément de leurs associations membres.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entrent en vigueur le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2006-237 du 27 février 2006 - art. 2 (VT)
+	  - Décret du 16 août 1901 - art. 7
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 3
 
 	**Cité par**:
 
@@ -77007,28 +77728,33 @@ et précise le champ géographique dans lequel ces actions peuvent être menées
 
 ###### Article R725-3
 
-L'agrément précise que l'association agréée de sécurité civile apporte son concours aux missions conduites par les services
-d'incendie et de secours dans les conditions fixées par le règlement opérationnel prévu à l'article L. 1424-4 du code général
-des collectivités territoriales, à la demande du directeur des opérations de secours et sous l'autorité du commandant des
-opérations de secours.
+S'agissant des opérations de secours mentionnées au 1° du I de l'article R. 725-1, l'agrément précise que l'association
+agréée de sécurité civile apporte son concours aux missions conduites par les services d'incendie et de secours dans les
+conditions fixées par le règlement opérationnel prévu à l'article L. 1424-4 du code général des collectivités territoriales,
+à la demande du directeur des opérations de secours et sous l'autorité du commandant des opérations de secours.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entrent en vigueur le 1er juillet 2017.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 4 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 4
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1424-4 (V)
+	  - Code général des collectivités territoriales - art. L1424-4
+	  - Code de la sécurité intérieure - art. R725-1
 
 	**Cité par**:
 
@@ -77078,23 +77804,33 @@ La demande d'agrément présentée par l'association comporte les éléments per
 l'article R. 725-1 sont satisfaites. Elle précise les actions et le champ géographique pour lesquels l'agrément est
 sollicité.
 
+Pour un renouvellement d'agrément, la demande doit être reçue par l'autorité qui a délivré l'agrément dans un délai d'au
+moins six mois avant la date d'expiration de celui-ci. 
+
+Les modalités d'application de cet article sont fixées par les arrêtés mentionnés à l'article R. 725-1. Ces arrêtés fixent
+notamment, en fonction de l'agrément demandé, les éléments statutaires, juridiques et financiers relatifs à l'association.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entrent en vigueur le 1er juillet 2017.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 5 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R725-1 (VD)
+	  - Code de la sécurité intérieure - art. R725-1
 
 
 ###### Article R725-6
@@ -77102,21 +77838,27 @@ sollicité.
 L'agrément de sécurité civile est délivré par le ministre chargé de la sécurité civile, le cas échéant après avis des
 ministres intéressés.
 
-Il est délivré par le préfet de département lorsque son champ n'excède pas les limites d'un département.
+Il est délivré par le préfet de département lorsque son champ n'excède pas les limites d'un département. Il demeure toutefois
+délivré par le ministre chargé de la sécurité civile lorsqu'il s'agit d'un agrément au titre des réseaux annexes et
+supplétifs de communication.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entren en vigueur le 1er juillet 2017.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 6 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 6
 
 	**Cité par**:
 
@@ -77125,30 +77867,61 @@ Il est délivré par le préfet de département lorsque son champ n'excède pas 
 
 ###### Article R725-7
 
-Les associations disposant de délégations ou d'associations locales fédérées, ayant une activité régulière dans au moins
-vingt départements, ainsi qu'une équipe nationale permanente de responsables opérationnels, peuvent obtenir un agrément
-national.
+I.-Peuvent obtenir un agrément national les associations comportant des établissements autres que le principal, les unions
+d'associations et fédérations d'associations précitées justifiant : 
 
-Cet agrément établit la liste des délégations ou associations locales fédérées aptes à participer aux dispositifs de sécurité
-locaux.
+1° D'une activité régulière dans au moins vingt départements ; pour l'agrément relatif aux dispositifs prévisionnels de
+secours mentionné à l'article R. 725-1, cette activité est celle relative aux dispositifs prévisionnels de secours au moins
+de petite envergure. 
+
+Cette condition ne s'applique pas aux agréments relatifs aux opérations de secours autres que celles portant sur la
+protection des personnes, définis par arrêté du ministre chargé de la sécurité civile, pour les associations en capacité
+d'intervenir sur l'ensemble du territoire national ; 
+
+2° D'une équipe nationale permanente de responsables opérationnels ; 
+
+3° S'agissant de l'agrément relatif aux dispositifs prévisionnels de secours mentionné à l'article R. 725-1, au moins des
+moyens en personnel et en matériel nécessaires pour tenir un dispositif prévisionnel de secours de petite envergure. 
+
+II.-Peuvent obtenir un agrément interdépartemental les associations comportant des établissements autres que le principal,
+les unions d'associations et fédérations d'associations précitées justifiant : 
+
+1° D'une activité régulière dans moins de vingt départements formant un territoire d'un seul tenant ; 
+
+2° D'une équipe interdépartementale permanente de responsables opérationnels. 
+
+III.-Les agréments mentionnés au I et au II établissent la liste des établissements principal et autres que le principal et,
+pour les unions d'associations et fédérations d'associations précitées, des associations membres aptes à participer aux
+missions ayant fait l'objet des agréments. 
+
+Les établissements et les associations membres précités peuvent mettre à disposition l'un de l'autre, dans le cadre du champ
+géographique mentionné dans l'agrément, les personnes et le matériel.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entren en vigueur le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 7 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 27 février 2017 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-250 du 27 février 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R725-1
 
 
 ###### Article R725-8
@@ -77198,47 +77971,62 @@ L'agrément est délivré pour une durée maximale de trois ans.
 
 ###### Article R725-10
 
-L'association agréée adresse chaque année son rapport d'activité à l'autorité qui a accordé l'agrément. En cas de
-modification substantielle des éléments au vu desquels l'agrément a été accordé, l'association en informe sans délai cette
-autorité.
+I. - L'association qui ne satisfait plus aux conditions de délivrance de l'agrément en informe sans délai l'autorité qui a
+délivré celui-ci.
+
+II. - L'association agréée adresse son rapport d'activité à l'autorité qui a délivré l'agrément, chaque année avant le 30
+juillet suivant l'exercice clos. Ce rapport comprend au moins le nombre de missions réalisées au titre de chaque agrément
+dont elle bénéficie, par département. (1)
+
+**Nota:**
+
+(1) Aux termes de l'article 11 III du décret n° 2017-250 du 27 février 2017, le II de l'article R. 725-10, dans sa rédaction
+issue du présent décret, entre en vigueur le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 10 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 8
 
 
 ###### Article R725-11
 
-L'agrément est retiré lorsque l'association ne se conforme pas à ses obligations ou ne remplit plus les conditions qui ont
-permis son agrément. La décision de retrait, prise après que l'association a été invitée à présenter ses observations, est
-publiée dans les mêmes conditions que la décision d'agrément.
+L'agrément peut être abrogé ou retiré, sans préjudice des articles L. 242-1 à L. 242-4 du code des relations entre le public
+et l'administration lorsque l'association ne se conforme pas à ses obligations ou ne remplit plus les conditions qui ont
+permis son agrément. Dans cette hypothèse, l'autorité qui a accordé l'agrément invite l'association à présenter ses
+observations dans un délai d'au moins quinze jours et selon les modalités prévues par le code des relations entre le public
+et l'administration. La décision d'abrogation ou de retrait est publiée dans les mêmes conditions que la décision
+d'agrément. 
 
 En cas d'urgence, l'autorité de délivrance peut, par décision motivée, prononcer la suspension immédiate de l'agrément durant
 la procédure de retrait. La durée de la suspension ne peut excéder trois mois.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en
+application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction
+antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entrent en vigueur le 1er juillet 2017.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 11 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 9
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L242-1
 
 
 ##### Sous-section 4 : Dispositions particulières à Paris et aux départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
@@ -77268,28 +78056,25 @@ cette compétence aux préfets de ces départements.
 
 ###### Article R725-13
 
-La participation de l'association agréée de sécurité civile aux opérations de secours ou aux dispositifs prévisionnels de
-secours est soumise aux dispositions des conventions prévues aux articles L. 725-4 et L. 725-5 et aux demandes de concours ou
-réquisitions effectuées par les autorités compétentes.
+La participation de l'association agréée de sécurité civile aux opérations de secours, de soutien aux populations victimes
+d'accidents, de sinistres ou de catastrophes et d'encadrement des bénévoles mentionnées à l'article R. 725-1 est fondée sur
+les conventions prévues aux articles L. 725-4 et L. 725-5 ainsi que, le cas échéant, sur les demandes de concours qui en sont
+issues ou sur les réquisitions décidées par les autorités compétentes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 3 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 10
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L725-4 (V)
-	  - Code de la sécurité intérieure - art. L725-5 (V)
+	  - Code de la sécurité intérieure - art. L725-4
+	  - Code de la sécurité intérieure - art. R725-1
 
 	**Cité par**:
 
@@ -82410,7 +83195,6 @@ l'article R. * 742-1. "
 ###### Article R765-2
 
 Sont applicables en Polynésie française, sous réserve des 
-
 adaptations prévues aux articles R. 765-4, R. 765-5, et R. 765-7, les dispositions du présent livre mentionnées dans la
 colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
@@ -82437,7 +83221,19 @@ Au titre II
     <tr>
       <td>
 
-R. 725-1 à R. 725-11 
+R. 725-1 à R. 725-7 
+
+</td>
+      <td>
+
+Résultant du décret n° 2017-250 du 27 février 2017. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 725-8 et R. 725-9 
 
 </td>
       <td>
@@ -82448,15 +83244,18 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 </td>
     </tr>
     <tr>
+      <td>R. 725-10 et R. 725-11 </td>
       <td>
 
-R. 725-13 
+Résultant du décret n° 2017-250 du 27 février 2017. 
 
 </td>
+    </tr>
+    <tr>
+      <td>R. 725-13 </td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-250 du 27 février 2017. 
 
 </td>
     </tr>
@@ -82476,12 +83275,10 @@ Au titre III
 R. 733-3 et R. 733-4 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
-Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -82491,18 +83288,14 @@ Conseil d'Etat et décrets simples)
 R. 733-5 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
-Conseil d'Etat et décrets simples) et du 
-
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du 
 décret n° 2015-1027 du 19 août 2015
-
-pris pour l'application de l'
+ pris pour l'application de l'
 article 39 de la loi n° 2014-1654 du 29 décembre 2014
-de finances pour 2015 relatif au dispositif de cession à l'euro symbolique 
+ de finances pour 2015 relatif au dispositif de cession à l'euro symbolique 
 
 </td>
     </tr>
@@ -82512,33 +83305,25 @@ de finances pour 2015 relatif au dispositif de cession à l'euro symbolique
 R. 733-6 à R. 733-8 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
-Conseil d'Etat et décrets simples)
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 733-9 à R. 733-11
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
-Conseil d'Etat et décrets simples) et du 
-
-décret n° 2015-1027 du 19 août 2015
-
-pris pour l'application de l'
-article 39 de la loi n° 2014-1654 du 29 décembre 2014
-de finances pour 2015 relatif au dispositif de cession à l'euro symbolique 
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du décret n° 2015-1027 du
+19 août 2015 pris pour l'application de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif
+au dispositif de cession à l'euro symbolique 
 
 </td>
     </tr>
@@ -82548,12 +83333,10 @@ de finances pour 2015 relatif au dispositif de cession à l'euro symbolique
 R. 733-12 à R. 733-16
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Résultant du 
-décret n° 2014-1253 du 27 octobre 2014
-relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
-Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2014-1253 du 27 octobre 2014  relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
@@ -82596,12 +83379,18 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 11 du décret n° 2017-250 du 27 février 2017, ces dispositions entrent en
+vigueur le 1er juillet 2017.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014
 	  - Loi n°2014-1654 du 29 décembre 2014 - art. 39
+	  - Décret n°2017-250 du 27 février 2017
 
 	**Codifié par**:
 
@@ -82609,7 +83398,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1027 du 19 août 2015 - art. 4
+	  - Décret n°2017-250 du 27 février 2017 - art. 12 (V)
 
 
 ###### Article R765-4
@@ -82647,38 +83436,59 @@ la référence au haut-fonctionnaire de zone de défense et de sécurité ;
 
 Pour l'application des dispositions du chapitre V du titre II du présent livre en Polynésie française : 
 
-1° A l'article R. 725-3, la référence à l'article L. 1424-4 du code général des collectivités territoriales est remplacée par
+1° A l'article R. 725-1 : 
+
+a) La référence à l'article L. 1424-2 du code général des collectivités territoriales est remplacée par la référence à
+l'article L. 1852-2 du même code ; 
+
+b) Au 3°, les mots : ", des associations et des membres des réserves communales de sécurité civile mentionnées à l'article L.
+724-2 ; " sont remplacés par les mots : " et des associations " ; 
+
+2° A l'article R. 725-2 : 
+
+a) Au premier alinéa, les mots : " pour une union d'associations ou " sont supprimés et le mot : " mentionnées " est remplacé
+par le mot : " mentionnée " ; 
+
+b) Au second alinéa, les mots : " à une union d'associations visée à l'article 7 du décret du 16 août 1901 pris pour
+l'exécution de la loi du 1er juillet 1901 relative au contrat d'association, ou " sont supprimés et le mot : " leurs ",
+remplacé par le mot : " ses " ; 
+
+3° A l'article R. 725-3, la référence à l'article L. 1424-4 du code général des collectivités territoriales est remplacée par
 la référence à l'article L. 1852-4 du même code ; 
 
-2° Le second alinéa de l'article R. 725-6 est ainsi rédigé : 
+4° Le second alinéa de l'article R. 725-6 est ainsi rédigé : 
 
-" Il est délivré par le haut-commissaire de la République lorsque son champ n'excède pas les limites de la Polynésie
-française. " ; 
+Il est délivré par le haut-commissaire de la République lorsque son champ n'excède pas les limites de la Polynésie française.
+Il demeure toutefois délivré par le ministre chargé de la sécurité civile lorsqu'il s'agit d'un agrément au titre des réseaux
+annexes et supplétifs de communication. 
 
-3° A l'article R. 725-8, les mots : " recueil des actes administratifs de la préfecture " et " préfet " sont respectivement
+5° A l'article R. 725-8, les mots : " recueil des actes administratifs de la préfecture " et " préfet " sont respectivement
 remplacés par les mots : " Journal officiel de la Polynésie française " et " haut-commissaire ".
 
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 11 du décret n° 2017-250 du 27 février 2017, ces dispositions entrent en
+vigueur le 1er juillet 2017.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-237 du 27 février 2006 - art. 15-2 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
+	  - Décret n°2017-250 du 27 février 2017 - art. 12 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1424-4 (MMN)
-	  - Code général des collectivités territoriales - art. L1852-4 (V)
-	  - Code de la sécurité intérieure - art. R725-3 (VD)
-	  - Code de la sécurité intérieure - art. R725-6 (VD)
-	  - Code de la sécurité intérieure - art. R725-8 (VD)
+	  - Code général des collectivités territoriales - art. L1424-4
+	  - Code général des collectivités territoriales - art. L1852-4
+	  - Code de la sécurité intérieure - art. R725-1
+	  - Code de la sécurité intérieure - art. R725-2
+	  - Code de la sécurité intérieure - art. R725-3
+	  - Code de la sécurité intérieure - art. R725-6 (VT)
+	  - Code de la sécurité intérieure - art. R725-8
 
 	**Cité par**:
 
