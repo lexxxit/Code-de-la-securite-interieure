@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-11-10
+Version Consolidée au 2017-12-31
 
 # Partie législative
 
@@ -20311,38 +20311,6 @@ service, les finalités mentionnées à l'article L. 811-3 et les techniques qui
 	**Cite**:
 
 	  - Code de la sécurité intérieure - art. L811-3
-
-
-###### Article L811-5
-
-Les mesures prises par les pouvoirs publics pour assurer, aux seules fins de défense des intérêts nationaux, la surveillance
-et le contrôle des transmissions empruntant la voie hertzienne ne sont pas soumises aux dispositions du présent livre, ni à
-celles de la sous-section 2 de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale.
-
-**Nota:**
-
-Dans sa décision n° 2016-590 QPC du 21 octobre 2016 (NOR: CSCX1630577S), le Conseil constitutionnel a déclaré contraires à la
-Constitution l'article L. 811-5 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2015-912 du 24
-juillet 2015 relative au renseignement. La déclaration d'inconstitutionnalité prend effet à compter du 31 décembre 2017 dans
-les conditions prévues aux paragraphes 11 et 12.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 11
-
-	**Abrogé par**:
-
-	  - Décision n°2016-590 QPC du 21 octobre 2016 - art. 1, v. init.
-
-	**Anciens textes**:
-
-	  - Code de la sécurité intérieure - art. L241-3 (T)
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. L871-2 (V)
 
 
 ### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION
