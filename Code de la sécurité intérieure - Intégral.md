@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-12-31
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -12923,35 +12923,31 @@ notamment de la police nationale, de la gendarmerie nationale, des douanes et de
 
 ###### Article L613-5
 
-Les agents exerçant les activités mentionnées au 1° de l'article L. 611-1 peuvent être armés dans des conditions fixées par
-décret en Conseil d'Etat. 
+Les agents exerçant les activités mentionnées au 1° de l'article L. 611-1 peuvent être équipés d'armes relevant de la
+catégorie D mentionnée à l'article L. 311-2, dans des conditions fixées par décret en Conseil d'Etat. 
 
-Ce décret précise les catégories et types d'armes susceptibles d'être autorisés, les conditions de leur acquisition et de
-leur conservation par la personne titulaire de l'autorisation, les modalités selon lesquelles cette personne les remet à ses
-agents, la formation que reçoivent ces derniers et les conditions dans lesquelles les armes sont portées pendant le service
-et remisées en dehors du service.
+Ce décret précise les types d'armes susceptibles d'être autorisés, les conditions de leur acquisition et de leur
+conservation, la formation que reçoivent les agents mentionnés au premier alinéa du présent article et les conditions dans
+lesquelles les armes sont portées pendant le service et remisées en dehors du service.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 10 II, al. 1 et 4 (VT)
-
-	**Cité par**:
-
-	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L611-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 10
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L311-2 (V)
+	  - Code de la sécurité intérieure - art. L611-1
 
 
 ##### Sous-section 4 : Activités de surveillance à distance  des biens meubles ou immeubles
@@ -22834,7 +22830,10 @@ qu'aux activités privées réglementées relevant des domaines des jeux, paris 
 
 a) De pratiquer les jeux de hasard dans les casinos autorisés au titre des articles L. 321-1 et L. 321-3 ;
 
-b) De pratiquer les jeux de hasard dans les cercles de jeux ;
+a bis) D'investir, dans une société titulaire d'une autorisation prévue à l'article L. 321-1, dans les conditions prévues à
+l'article L. 323-3 ;
+
+b) (Abrogé) ;
 
 c) De faire courir, d'entraîner, de monter et driver des chevaux de course ;
 
@@ -22845,7 +22844,7 @@ e) De faire courir des lévriers de course ;
 2° Agrément :
 
 a) Des directeurs et des membres des comités de direction des casinos autorisés ainsi que des personnes employées dans les
-salles de jeux des casinos et des cercles de jeux ;
+salles de jeux des casinos ;
 
 b) Des personnes physiques ou morales qui fabriquent, importent, vendent ou assurent la maintenance des appareils de jeux
 mentionnés au premier alinéa de l'article L. 321-5 ;
@@ -22862,15 +22861,26 @@ et ne comprenant que les appareils de jeux mentionnés à l'article L. 321-5.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art.
+
 	**Cité par**:
 
 	  - Décret n°2017-913 du 9 mai 2017 - art. 23 (V)
 	  - Décret n°2017-913 du 9 mai 2017 - art. 3
 
+	**Modifié par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 3
+	  - Décret n°2017-913 du 9 mai 2017 - art. 5
+
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L321-5 (V)
-	  - Code de la sécurité intérieure - art. R114-1 (VD)
+	  - Code de la sécurité intérieure - art. L321-1
+	  - Code de la sécurité intérieure - art. L321-5
+	  - Code de la sécurité intérieure - art. L323-3
+	  - Code de la sécurité intérieure - art. R114-1
 
 
 ###### Article R114-4
@@ -47721,18 +47731,21 @@ Un rapport annuel d'activité est adressé par le président de la commission au
 
 ###### Article R321-10
 
-La commission est chargée d'examiner les demandes d'autorisation de jeux dans les cercles de jeux et les casinos présentées
-en application des articles R. 321-4 et R. 321-5-3 et de l'article 1er du décret n° 47-798 du 5 mai 1947 portant
-réglementation de la police des jeux dans les cercles, ainsi que les propositions de suspension ou de révocation
-d'autorisation prévues à l'article R. 321-30.
+La commission est chargée d'examiner les demandes d'autorisation de jeux dans les casinos présentées en application des
+articles R. 321-4 et R. 321-5-3 ainsi que les propositions de suspension ou de révocation d'autorisation prévues à l'article
+R. 321-30.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°47-798 du 5 mai 1947 - art. 1 (M)
-	  - Code de la sécurité intérieure - art. R321-30 (VD)
-	  - Code de la sécurité intérieure - art. R321-4 (VD)
+	  - Décret n°47-798 du 5 mai 1947 - art. 1
+	  - Code de la sécurité intérieure - art. R321-30
+	  - Code de la sécurité intérieure - art. R321-4
+
+	**Codifié par**:
+
+	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
@@ -47740,7 +47753,7 @@ d'autorisation prévues à l'article R. 321-30.
 
 	**Modifié par**:
 
-	  - Décret n°2017-914 du 9 mai 2017 - art. 5
+	  - Décret n°2017-913 du 9 mai 2017 - art. 5
 
 
 ###### Article R321-11
@@ -47781,27 +47794,23 @@ La commission peut entendre :
 
 2° Les maires des communes d'implantation des casinos ;
 
-3° Les représentants qualifiés de l'exploitant du casino ou du cercle intéressés.
+3° Les représentants qualifiés de l'exploitant du casino intéressé.
 
 Elle peut également solliciter tout avis ou étude de la part de l'observatoire des jeux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2011-252 du 9 mars 2011 - art. 13 (VT)
-
 	**Codifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 	**Cité par**:
 
 	  - Décret n°2017-913 du 9 mai 2017 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 5
 
 
 ##### Sous-section 3 : Jeux susceptibles d'être autorisés dans les casinos
