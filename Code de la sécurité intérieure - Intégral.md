@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-12-31
 
 # Partie législative
 
@@ -3594,42 +3594,75 @@ personnes, par décision de l'autorité administrative.
 	  - Code de la sécurité intérieure - art. L233-2 (V)
 
 
+###### Article L233-1-1
+
+fin de faciliter la constatation des infractions au code de la route, permettre le rassemblement des preuves de ces
+infractions et la recherche de leurs auteurs ainsi que mettre en œuvre les dispositions de l'article L. 121-4-1 du code de la
+route, les services de police et de gendarmerie nationales peuvent mettre en œuvre des dispositifs fixes ou mobiles de
+contrôle automatisé des données signalétiques des véhicules prenant la photographie de leurs occupants, en tous points
+appropriés du territoire
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+	**Cite**:
+
+	  - Code de la route.
+	  - Code de la route. - art. L121-4-1
+
+
 ###### Article L233-2
 
-Pour les finalités mentionnées à l'article L. 233-1, les données à caractère personnel collectées à l'occasion des contrôles
-susmentionnés peuvent faire l'objet de traitements automatisés mis en œuvre par les services de police et de gendarmerie
-nationales et les services des douanes et soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+Pour les finalités mentionnées aux articles L. 233-1 et L. 233-1-1, les données à caractère personnel collectées à l'occasion
+des contrôles susmentionnés peuvent faire l'objet de traitements automatisés mis en œuvre par les services de police et de
+gendarmerie nationales et les services des douanes et soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés. 
 
 Ces traitements comportent une consultation du traitement automatisé des données relatives aux véhicules volés ou signalés
 ainsi que du système d'information Schengen. 
 
-Afin de permettre cette consultation, les données collectées sont conservées durant un délai maximum de quinze  jours au-delà
+Afin de permettre cette consultation, les données collectées sont conservées durant un délai maximum de quinze jours au-delà
 duquel elles sont effacées dès lors qu'elles n'ont donné lieu à aucun rapprochement positif avec les traitements mentionnés
-au précédent alinéa. Durant cette période de quinze  jours, la consultation des données n'ayant pas fait l'objet d'un
+au précédent alinéa. Durant cette période de quinze jours, la consultation des données n'ayant pas fait l'objet d'un
 rapprochement positif avec ces traitements est interdite, sans préjudice des nécessités de leur consultation pour les besoins
 d'une procédure pénale ou douanière. Les données qui font l'objet d'un rapprochement positif avec ces mêmes traitements sont
 conservées pour une durée d'un mois sans préjudice des nécessités de leur conservation pour les besoins d'une procédure
 pénale ou douanière. 
 
+Ces traitements comportent également une consultation du traitement automatisé de données du système d'immatriculation des
+véhicules, du traitement automatisé du système de contrôle automatisé ainsi que des traitements de données relatives à
+l'assurance des véhicules. 
+
 Aux fins de prévenir et de réprimer les actes de terrorisme et de faciliter la constatation des infractions s'y rattachant,
 les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales spécialement
 chargés de ces missions peuvent avoir accès à ces traitements.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
-	  - Code de la sécurité intérieure - art. L233-1
-
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 104
 
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 104
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Codifié par**:
 
@@ -3940,7 +3973,10 @@ l'article 415 du même code portant sur des fonds provenant de ces mêmes infrac
 
 8° Le secours aux personnes et la défense contre l'incendie ; 
 
-9° La sécurité des installations accueillant du public dans les parcs d'attraction. 
+9° La sécurité des installations accueillant du public dans les parcs d'attraction ;
+
+10° Le respect de l'obligation d'être couvert, pour faire circuler un véhicule terrestre à moteur, par une assurance
+garantissant la responsabilité civile.
 
 Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la
 sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques
@@ -3950,6 +3986,11 @@ Après information du maire de la commune concernée et autorisation des autorit
 peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords
 immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol.
 Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -3971,7 +4012,7 @@ Les conditions de mise en œuvre et le type de bâtiments et installations conce
 
 	**Modifié par**:
 
-	  - Loi n°2014-626 du 18 juin 2014 - art. 73
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Cite**:
 
